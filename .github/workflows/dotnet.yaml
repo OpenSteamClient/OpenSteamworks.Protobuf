@@ -61,5 +61,3 @@ jobs:
         git add flatcontainer/opensteamworks.protobuf/${{ env.BuiltVersion }}/opensteamworks.protobuf.${{ env.BuiltVersion }}.nupkg
         git commit -m "$(date)"
         git push
-
-    
