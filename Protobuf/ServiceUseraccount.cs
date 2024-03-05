@@ -61,7 +61,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "b3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZSI2CiNDVXNl",
             "ckFjY291bnRfR2V0VXNlckNvdW50cnlfUmVxdWVzdBIPCgdzdGVhbWlkGAEg",
             "ASgGIjcKJENVc2VyQWNjb3VudF9HZXRVc2VyQ291bnRyeV9SZXNwb25zZRIP",
-            "Cgdjb3VudHJ5GAEgASgJIpMDCiZDVXNlckFjY291bnRfR2V0V2FsbGV0RGV0",
+            "Cgdjb3VudHJ5GAEgASgJIrUECiZDVXNlckFjY291bnRfR2V0V2FsbGV0RGV0",
             "YWlsc19SZXNwb25zZRISCgpoYXNfd2FsbGV0GAEgASgIEhkKEXVzZXJfY291",
             "bnRyeV9jb2RlGAIgASgJEhsKE3dhbGxldF9jb3VudHJ5X2NvZGUYAyABKAkS",
             "FAoMd2FsbGV0X3N0YXRlGAQgASgJEg8KB2JhbGFuY2UYBSABKAMSFwoPZGVs",
@@ -70,49 +70,53 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "aWQYCSABKAQSFgoOYmFsYW5jZV9pbl91c2QYCiABKAMSHgoWZGVsYXllZF9i",
             "YWxhbmNlX2luX3VzZBgLIAEoAxIjChtoYXNfd2FsbGV0X2luX290aGVyX3Jl",
             "Z2lvbnMYDCABKAgSFQoNb3RoZXJfcmVnaW9ucxgNIAMoBRIZChFmb3JtYXR0",
-            "ZWRfYmFsYW5jZRgOIAEoCSJVCixDVXNlckFjY291bnRfUmVkZWVtRnJpZW5k",
-            "SW52aXRlVG9rZW5fUmVxdWVzdBIPCgdzdGVhbWlkGAEgASgGEhQKDGludml0",
-            "ZV90b2tlbhgCIAEoCSIvCi1DVXNlckFjY291bnRfUmVkZWVtRnJpZW5kSW52",
-            "aXRlVG9rZW5fUmVzcG9uc2UiPgonQ1VzZXJBY2NvdW50X1JlZ2lzdGVyQ29t",
-            "cGF0VG9vbF9SZXF1ZXN0EhMKC2NvbXBhdF90b29sGAEgASgNIioKKENVc2Vy",
-            "QWNjb3VudF9SZWdpc3RlckNvbXBhdFRvb2xfUmVzcG9uc2UiRAosQ1VzZXJB",
-            "Y2NvdW50X1Jldm9rZUZyaWVuZEludml0ZVRva2VuX1JlcXVlc3QSFAoMaW52",
-            "aXRlX3Rva2VuGAEgASgJIi8KLUNVc2VyQWNjb3VudF9SZXZva2VGcmllbmRJ",
-            "bnZpdGVUb2tlbl9SZXNwb25zZSJTCipDVXNlckFjY291bnRfVmlld0ZyaWVu",
-            "ZEludml0ZVRva2VuX1JlcXVlc3QSDwoHc3RlYW1pZBgBIAEoBhIUCgxpbnZp",
-            "dGVfdG9rZW4YAiABKAkiZgorQ1VzZXJBY2NvdW50X1ZpZXdGcmllbmRJbnZp",
-            "dGVUb2tlbl9SZXNwb25zZRINCgV2YWxpZBgBIAEoCBIPCgdzdGVhbWlkGAIg",
-            "ASgEEhcKD2ludml0ZV9kdXJhdGlvbhgDIAEoBDKcCgoLVXNlckFjY291bnQS",
-            "bAoTQ2FuY2VsTGljZW5zZUZvckFwcBIpLkNVc2VyQWNjb3VudF9DYW5jZWxM",
-            "aWNlbnNlRm9yQXBwX1JlcXVlc3QaKi5DVXNlckFjY291bnRfQ2FuY2VsTGlj",
-            "ZW5zZUZvckFwcF9SZXNwb25zZRJ4ChdDcmVhdGVGcmllbmRJbnZpdGVUb2tl",
-            "bhItLkNVc2VyQWNjb3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tlbl9SZXF1",
-            "ZXN0Gi4uQ1VzZXJBY2NvdW50X0NyZWF0ZUZyaWVuZEludml0ZVRva2VuX1Jl",
-            "c3BvbnNlEm8KFEdldEFjY291bnRMaW5rU3RhdHVzEiouQ1VzZXJBY2NvdW50",
-            "X0dldEFjY291bnRMaW5rU3RhdHVzX1JlcXVlc3QaKy5DVXNlckFjY291bnRf",
-            "R2V0QWNjb3VudExpbmtTdGF0dXNfUmVzcG9uc2USnAEKI0dldEF2YWlsYWJs",
-            "ZVZhbHZlRGlzY291bnRQcm9tb3Rpb25zEjkuQ1VzZXJBY2NvdW50X0dldEF2",
-            "YWlsYWJsZVZhbHZlRGlzY291bnRQcm9tb3Rpb25zX1JlcXVlc3QaOi5DVXNl",
-            "ckFjY291bnRfR2V0QXZhaWxhYmxlVmFsdmVEaXNjb3VudFByb21vdGlvbnNf",
-            "UmVzcG9uc2USbwoWR2V0Q2xpZW50V2FsbGV0RGV0YWlscxIsLkNVc2VyQWNj",
-            "b3VudF9HZXRDbGllbnRXYWxsZXREZXRhaWxzX1JlcXVlc3QaJy5DVXNlckFj",
-            "Y291bnRfR2V0V2FsbGV0RGV0YWlsc19SZXNwb25zZRJyChVHZXRGcmllbmRJ",
-            "bnZpdGVUb2tlbnMSKy5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9r",
-            "ZW5zX1JlcXVlc3QaLC5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9r",
-            "ZW5zX1Jlc3BvbnNlEl0KDkdldFVzZXJDb3VudHJ5EiQuQ1VzZXJBY2NvdW50",
-            "X0dldFVzZXJDb3VudHJ5X1JlcXVlc3QaJS5DVXNlckFjY291bnRfR2V0VXNl",
-            "ckNvdW50cnlfUmVzcG9uc2USeAoXUmVkZWVtRnJpZW5kSW52aXRlVG9rZW4S",
-            "LS5DVXNlckFjY291bnRfUmVkZWVtRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVz",
-            "dBouLkNVc2VyQWNjb3VudF9SZWRlZW1GcmllbmRJbnZpdGVUb2tlbl9SZXNw",
-            "b25zZRJpChJSZWdpc3RlckNvbXBhdFRvb2wSKC5DVXNlckFjY291bnRfUmVn",
-            "aXN0ZXJDb21wYXRUb29sX1JlcXVlc3QaKS5DVXNlckFjY291bnRfUmVnaXN0",
-            "ZXJDb21wYXRUb29sX1Jlc3BvbnNlEngKF1Jldm9rZUZyaWVuZEludml0ZVRv",
-            "a2VuEi0uQ1VzZXJBY2NvdW50X1Jldm9rZUZyaWVuZEludml0ZVRva2VuX1Jl",
-            "cXVlc3QaLi5DVXNlckFjY291bnRfUmV2b2tlRnJpZW5kSW52aXRlVG9rZW5f",
-            "UmVzcG9uc2UScgoVVmlld0ZyaWVuZEludml0ZVRva2VuEisuQ1VzZXJBY2Nv",
-            "dW50X1ZpZXdGcmllbmRJbnZpdGVUb2tlbl9SZXF1ZXN0GiwuQ1VzZXJBY2Nv",
-            "dW50X1ZpZXdGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZUIgqgIdT3BlblN0",
-            "ZWFtd29ya3MuUHJvdG9idWYuV2ViVUk="));
+            "ZWRfYmFsYW5jZRgOIAEoCRIhChlmb3JtYXR0ZWRfZGVsYXllZF9iYWxhbmNl",
+            "GA8gASgJEioKImRlbGF5ZWRfYmFsYW5jZV9hdmFpbGFibGVfbWluX3RpbWUY",
+            "ECABKAUSKgoiZGVsYXllZF9iYWxhbmNlX2F2YWlsYWJsZV9tYXhfdGltZRgR",
+            "IAEoBRIlCh1kZWxheWVkX2JhbGFuY2VfbmV3ZXN0X3NvdXJjZRgSIAEoBSJV",
+            "CixDVXNlckFjY291bnRfUmVkZWVtRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVz",
+            "dBIPCgdzdGVhbWlkGAEgASgGEhQKDGludml0ZV90b2tlbhgCIAEoCSIvCi1D",
+            "VXNlckFjY291bnRfUmVkZWVtRnJpZW5kSW52aXRlVG9rZW5fUmVzcG9uc2Ui",
+            "PgonQ1VzZXJBY2NvdW50X1JlZ2lzdGVyQ29tcGF0VG9vbF9SZXF1ZXN0EhMK",
+            "C2NvbXBhdF90b29sGAEgASgNIioKKENVc2VyQWNjb3VudF9SZWdpc3RlckNv",
+            "bXBhdFRvb2xfUmVzcG9uc2UiRAosQ1VzZXJBY2NvdW50X1Jldm9rZUZyaWVu",
+            "ZEludml0ZVRva2VuX1JlcXVlc3QSFAoMaW52aXRlX3Rva2VuGAEgASgJIi8K",
+            "LUNVc2VyQWNjb3VudF9SZXZva2VGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25z",
+            "ZSJTCipDVXNlckFjY291bnRfVmlld0ZyaWVuZEludml0ZVRva2VuX1JlcXVl",
+            "c3QSDwoHc3RlYW1pZBgBIAEoBhIUCgxpbnZpdGVfdG9rZW4YAiABKAkiZgor",
+            "Q1VzZXJBY2NvdW50X1ZpZXdGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZRIN",
+            "CgV2YWxpZBgBIAEoCBIPCgdzdGVhbWlkGAIgASgEEhcKD2ludml0ZV9kdXJh",
+            "dGlvbhgDIAEoBDKcCgoLVXNlckFjY291bnQSbAoTQ2FuY2VsTGljZW5zZUZv",
+            "ckFwcBIpLkNVc2VyQWNjb3VudF9DYW5jZWxMaWNlbnNlRm9yQXBwX1JlcXVl",
+            "c3QaKi5DVXNlckFjY291bnRfQ2FuY2VsTGljZW5zZUZvckFwcF9SZXNwb25z",
+            "ZRJ4ChdDcmVhdGVGcmllbmRJbnZpdGVUb2tlbhItLkNVc2VyQWNjb3VudF9D",
+            "cmVhdGVGcmllbmRJbnZpdGVUb2tlbl9SZXF1ZXN0Gi4uQ1VzZXJBY2NvdW50",
+            "X0NyZWF0ZUZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNlEm8KFEdldEFjY291",
+            "bnRMaW5rU3RhdHVzEiouQ1VzZXJBY2NvdW50X0dldEFjY291bnRMaW5rU3Rh",
+            "dHVzX1JlcXVlc3QaKy5DVXNlckFjY291bnRfR2V0QWNjb3VudExpbmtTdGF0",
+            "dXNfUmVzcG9uc2USnAEKI0dldEF2YWlsYWJsZVZhbHZlRGlzY291bnRQcm9t",
+            "b3Rpb25zEjkuQ1VzZXJBY2NvdW50X0dldEF2YWlsYWJsZVZhbHZlRGlzY291",
+            "bnRQcm9tb3Rpb25zX1JlcXVlc3QaOi5DVXNlckFjY291bnRfR2V0QXZhaWxh",
+            "YmxlVmFsdmVEaXNjb3VudFByb21vdGlvbnNfUmVzcG9uc2USbwoWR2V0Q2xp",
+            "ZW50V2FsbGV0RGV0YWlscxIsLkNVc2VyQWNjb3VudF9HZXRDbGllbnRXYWxs",
+            "ZXREZXRhaWxzX1JlcXVlc3QaJy5DVXNlckFjY291bnRfR2V0V2FsbGV0RGV0",
+            "YWlsc19SZXNwb25zZRJyChVHZXRGcmllbmRJbnZpdGVUb2tlbnMSKy5DVXNl",
+            "ckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9rZW5zX1JlcXVlc3QaLC5DVXNl",
+            "ckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9rZW5zX1Jlc3BvbnNlEl0KDkdl",
+            "dFVzZXJDb3VudHJ5EiQuQ1VzZXJBY2NvdW50X0dldFVzZXJDb3VudHJ5X1Jl",
+            "cXVlc3QaJS5DVXNlckFjY291bnRfR2V0VXNlckNvdW50cnlfUmVzcG9uc2US",
+            "eAoXUmVkZWVtRnJpZW5kSW52aXRlVG9rZW4SLS5DVXNlckFjY291bnRfUmVk",
+            "ZWVtRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBouLkNVc2VyQWNjb3VudF9S",
+            "ZWRlZW1GcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZRJpChJSZWdpc3RlckNv",
+            "bXBhdFRvb2wSKC5DVXNlckFjY291bnRfUmVnaXN0ZXJDb21wYXRUb29sX1Jl",
+            "cXVlc3QaKS5DVXNlckFjY291bnRfUmVnaXN0ZXJDb21wYXRUb29sX1Jlc3Bv",
+            "bnNlEngKF1Jldm9rZUZyaWVuZEludml0ZVRva2VuEi0uQ1VzZXJBY2NvdW50",
+            "X1Jldm9rZUZyaWVuZEludml0ZVRva2VuX1JlcXVlc3QaLi5DVXNlckFjY291",
+            "bnRfUmV2b2tlRnJpZW5kSW52aXRlVG9rZW5fUmVzcG9uc2UScgoVVmlld0Zy",
+            "aWVuZEludml0ZVRva2VuEisuQ1VzZXJBY2NvdW50X1ZpZXdGcmllbmRJbnZp",
+            "dGVUb2tlbl9SZXF1ZXN0GiwuQ1VzZXJBY2NvdW50X1ZpZXdGcmllbmRJbnZp",
+            "dGVUb2tlbl9SZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3MuUHJvdG9idWYu",
+            "V2ViVUk="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -130,7 +134,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetFriendInviteTokens_Response), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetFriendInviteTokens_Response.Parser, new[]{ "Tokens" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetUserCountry_Request), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetUserCountry_Request.Parser, new[]{ "Steamid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetUserCountry_Response), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetUserCountry_Response.Parser, new[]{ "Country" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetWalletDetails_Response), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetWalletDetails_Response.Parser, new[]{ "HasWallet", "UserCountryCode", "WalletCountryCode", "WalletState", "Balance", "DelayedBalance", "CurrencyCode", "TimeMostRecentTxn", "MostRecentTxnid", "BalanceInUsd", "DelayedBalanceInUsd", "HasWalletInOtherRegions", "OtherRegions", "FormattedBalance" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetWalletDetails_Response), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_GetWalletDetails_Response.Parser, new[]{ "HasWallet", "UserCountryCode", "WalletCountryCode", "WalletState", "Balance", "DelayedBalance", "CurrencyCode", "TimeMostRecentTxn", "MostRecentTxnid", "BalanceInUsd", "DelayedBalanceInUsd", "HasWalletInOtherRegions", "OtherRegions", "FormattedBalance", "FormattedDelayedBalance", "DelayedBalanceAvailableMinTime", "DelayedBalanceAvailableMaxTime", "DelayedBalanceNewestSource" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RedeemFriendInviteToken_Request), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RedeemFriendInviteToken_Request.Parser, new[]{ "Steamid", "InviteToken" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RedeemFriendInviteToken_Response), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RedeemFriendInviteToken_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RegisterCompatTool_Request), global::OpenSteamworks.Protobuf.WebUI.CUserAccount_RegisterCompatTool_Request.Parser, new[]{ "CompatTool" }, null, null, null, null),
@@ -3906,6 +3910,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       hasWalletInOtherRegions_ = other.hasWalletInOtherRegions_;
       otherRegions_ = other.otherRegions_.Clone();
       formattedBalance_ = other.formattedBalance_;
+      formattedDelayedBalance_ = other.formattedDelayedBalance_;
+      delayedBalanceAvailableMinTime_ = other.delayedBalanceAvailableMinTime_;
+      delayedBalanceAvailableMaxTime_ = other.delayedBalanceAvailableMaxTime_;
+      delayedBalanceNewestSource_ = other.delayedBalanceNewestSource_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -4273,6 +4281,113 @@ namespace OpenSteamworks.Protobuf.WebUI {
       formattedBalance_ = null;
     }
 
+    /// <summary>Field number for the "formatted_delayed_balance" field.</summary>
+    public const int FormattedDelayedBalanceFieldNumber = 15;
+    private readonly static string FormattedDelayedBalanceDefaultValue = "";
+
+    private string formattedDelayedBalance_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string FormattedDelayedBalance {
+      get { return formattedDelayedBalance_ ?? FormattedDelayedBalanceDefaultValue; }
+      set {
+        formattedDelayedBalance_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "formatted_delayed_balance" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasFormattedDelayedBalance {
+      get { return formattedDelayedBalance_ != null; }
+    }
+    /// <summary>Clears the value of the "formatted_delayed_balance" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearFormattedDelayedBalance() {
+      formattedDelayedBalance_ = null;
+    }
+
+    /// <summary>Field number for the "delayed_balance_available_min_time" field.</summary>
+    public const int DelayedBalanceAvailableMinTimeFieldNumber = 16;
+    private readonly static int DelayedBalanceAvailableMinTimeDefaultValue = 0;
+
+    private int delayedBalanceAvailableMinTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceAvailableMinTime {
+      get { if ((_hasBits0 & 512) != 0) { return delayedBalanceAvailableMinTime_; } else { return DelayedBalanceAvailableMinTimeDefaultValue; } }
+      set {
+        _hasBits0 |= 512;
+        delayedBalanceAvailableMinTime_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_available_min_time" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceAvailableMinTime {
+      get { return (_hasBits0 & 512) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_available_min_time" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceAvailableMinTime() {
+      _hasBits0 &= ~512;
+    }
+
+    /// <summary>Field number for the "delayed_balance_available_max_time" field.</summary>
+    public const int DelayedBalanceAvailableMaxTimeFieldNumber = 17;
+    private readonly static int DelayedBalanceAvailableMaxTimeDefaultValue = 0;
+
+    private int delayedBalanceAvailableMaxTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceAvailableMaxTime {
+      get { if ((_hasBits0 & 1024) != 0) { return delayedBalanceAvailableMaxTime_; } else { return DelayedBalanceAvailableMaxTimeDefaultValue; } }
+      set {
+        _hasBits0 |= 1024;
+        delayedBalanceAvailableMaxTime_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_available_max_time" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceAvailableMaxTime {
+      get { return (_hasBits0 & 1024) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_available_max_time" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceAvailableMaxTime() {
+      _hasBits0 &= ~1024;
+    }
+
+    /// <summary>Field number for the "delayed_balance_newest_source" field.</summary>
+    public const int DelayedBalanceNewestSourceFieldNumber = 18;
+    private readonly static int DelayedBalanceNewestSourceDefaultValue = 0;
+
+    private int delayedBalanceNewestSource_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceNewestSource {
+      get { if ((_hasBits0 & 2048) != 0) { return delayedBalanceNewestSource_; } else { return DelayedBalanceNewestSourceDefaultValue; } }
+      set {
+        _hasBits0 |= 2048;
+        delayedBalanceNewestSource_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_newest_source" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceNewestSource {
+      get { return (_hasBits0 & 2048) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_newest_source" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceNewestSource() {
+      _hasBits0 &= ~2048;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -4302,6 +4417,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasWalletInOtherRegions != other.HasWalletInOtherRegions) return false;
       if(!otherRegions_.Equals(other.otherRegions_)) return false;
       if (FormattedBalance != other.FormattedBalance) return false;
+      if (FormattedDelayedBalance != other.FormattedDelayedBalance) return false;
+      if (DelayedBalanceAvailableMinTime != other.DelayedBalanceAvailableMinTime) return false;
+      if (DelayedBalanceAvailableMaxTime != other.DelayedBalanceAvailableMaxTime) return false;
+      if (DelayedBalanceNewestSource != other.DelayedBalanceNewestSource) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -4323,6 +4442,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasHasWalletInOtherRegions) hash ^= HasWalletInOtherRegions.GetHashCode();
       hash ^= otherRegions_.GetHashCode();
       if (HasFormattedBalance) hash ^= FormattedBalance.GetHashCode();
+      if (HasFormattedDelayedBalance) hash ^= FormattedDelayedBalance.GetHashCode();
+      if (HasDelayedBalanceAvailableMinTime) hash ^= DelayedBalanceAvailableMinTime.GetHashCode();
+      if (HasDelayedBalanceAvailableMaxTime) hash ^= DelayedBalanceAvailableMaxTime.GetHashCode();
+      if (HasDelayedBalanceNewestSource) hash ^= DelayedBalanceNewestSource.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -4394,6 +4517,22 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(114);
         output.WriteString(FormattedBalance);
       }
+      if (HasFormattedDelayedBalance) {
+        output.WriteRawTag(122);
+        output.WriteString(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        output.WriteRawTag(128, 1);
+        output.WriteInt32(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        output.WriteRawTag(136, 1);
+        output.WriteInt32(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        output.WriteRawTag(144, 1);
+        output.WriteInt32(DelayedBalanceNewestSource);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -4457,6 +4596,22 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(114);
         output.WriteString(FormattedBalance);
       }
+      if (HasFormattedDelayedBalance) {
+        output.WriteRawTag(122);
+        output.WriteString(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        output.WriteRawTag(128, 1);
+        output.WriteInt32(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        output.WriteRawTag(136, 1);
+        output.WriteInt32(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        output.WriteRawTag(144, 1);
+        output.WriteInt32(DelayedBalanceNewestSource);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -4506,6 +4661,18 @@ namespace OpenSteamworks.Protobuf.WebUI {
       size += otherRegions_.CalculateSize(_repeated_otherRegions_codec);
       if (HasFormattedBalance) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(FormattedBalance);
+      }
+      if (HasFormattedDelayedBalance) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceNewestSource);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -4558,6 +4725,18 @@ namespace OpenSteamworks.Protobuf.WebUI {
       otherRegions_.Add(other.otherRegions_);
       if (other.HasFormattedBalance) {
         FormattedBalance = other.FormattedBalance;
+      }
+      if (other.HasFormattedDelayedBalance) {
+        FormattedDelayedBalance = other.FormattedDelayedBalance;
+      }
+      if (other.HasDelayedBalanceAvailableMinTime) {
+        DelayedBalanceAvailableMinTime = other.DelayedBalanceAvailableMinTime;
+      }
+      if (other.HasDelayedBalanceAvailableMaxTime) {
+        DelayedBalanceAvailableMaxTime = other.DelayedBalanceAvailableMaxTime;
+      }
+      if (other.HasDelayedBalanceNewestSource) {
+        DelayedBalanceNewestSource = other.DelayedBalanceNewestSource;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -4631,6 +4810,22 @@ namespace OpenSteamworks.Protobuf.WebUI {
             FormattedBalance = input.ReadString();
             break;
           }
+          case 122: {
+            FormattedDelayedBalance = input.ReadString();
+            break;
+          }
+          case 128: {
+            DelayedBalanceAvailableMinTime = input.ReadInt32();
+            break;
+          }
+          case 136: {
+            DelayedBalanceAvailableMaxTime = input.ReadInt32();
+            break;
+          }
+          case 144: {
+            DelayedBalanceNewestSource = input.ReadInt32();
+            break;
+          }
         }
       }
     #endif
@@ -4701,6 +4896,22 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 114: {
             FormattedBalance = input.ReadString();
+            break;
+          }
+          case 122: {
+            FormattedDelayedBalance = input.ReadString();
+            break;
+          }
+          case 128: {
+            DelayedBalanceAvailableMinTime = input.ReadInt32();
+            break;
+          }
+          case 136: {
+            DelayedBalanceAvailableMaxTime = input.ReadInt32();
+            break;
+          }
+          case 144: {
+            DelayedBalanceNewestSource = input.ReadInt32();
             break;
           }
         }

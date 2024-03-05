@@ -25,53 +25,54 @@ namespace OpenSteamworks.Protobuf.WebUI {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "Ch9zZXJ2aWNlX2dhbWVyZWNvcmRpbmdjbGlwLnByb3RvGiBnb29nbGUvcHJv",
-            "dG9idWYvZGVzY3JpcHRvci5wcm90byJ6CiZDR2FtZVJlY29yZGluZ19DcmVh",
-            "dGVTaGFyZUNsaXBfUmVxdWVzdBIhCgRjbGlwGAIgASgLMhMuQ0dhbWVSZWNv",
-            "cmRpbmdDbGlwEi0KCXZpZGVvX2RlZhgDIAMoCzIaLkNNc2dWaWRlb0dhbWVS",
-            "ZWNvcmRpbmdEZWYiTAonQ0dhbWVSZWNvcmRpbmdfQ3JlYXRlU2hhcmVDbGlw",
-            "X1Jlc3BvbnNlEiEKBGNsaXAYASABKAsyEy5DR2FtZVJlY29yZGluZ0NsaXAi",
-            "OgonQ0dhbWVSZWNvcmRpbmdfRGVsZXRlU2hhcmVkQ2xpcF9SZXF1ZXN0Eg8K",
-            "B2NsaXBfaWQYAiABKAYiKgooQ0dhbWVSZWNvcmRpbmdfRGVsZXRlU2hhcmVk",
-            "Q2xpcF9SZXNwb25zZSI9CipDR2FtZVJlY29yZGluZ19HZXRTaW5nbGVTaGFy",
-            "ZWRDbGlwX1JlcXVlc3QSDwoHY2xpcF9pZBgCIAEoBiJQCitDR2FtZVJlY29y",
-            "ZGluZ19HZXRTaW5nbGVTaGFyZWRDbGlwX1Jlc3BvbnNlEiEKBGNsaXAYASAB",
-            "KAsyEy5DR2FtZVJlY29yZGluZ0NsaXAi2QEKEkNHYW1lUmVjb3JkaW5nQ2xp",
-            "cBIPCgdjbGlwX2lkGAEgASgGEg4KBmdhbWVpZBgCIAEoBBIVCg1kYXRlX3Jl",
-            "Y29yZGVkGAQgASgNEh0KFXRvdGFsX2ZpbGVfc2l6ZV9ieXRlcxgHIAEoBBIn",
-            "Cgl2aWRlb19pZHMYCSADKAsyFC5DVmlkZW9NYW5hZ2VyQ2xpcElEEhUKDW93",
-            "bmVyX3N0ZWFtaWQYCiABKAYSFwoPdXBsb2FkX2NvbXBsZXRlGAsgASgIEhMK",
-            "C2R1cmF0aW9uX21zGAwgASgNIrQBCh9DTXNnVmlkZW9HYW1lUmVjb3JkaW5n",
-            "Q29tcG9uZW50EhYKDmNvbXBvbmVudF9uYW1lGAEgASgJEhAKCGNvbnRlbnRz",
-            "GAIgASgNEhQKDHNlZ21lbnRfc2l6ZRgDIAEoDRIRCglmaWxlX3R5cGUYBCAB",
-            "KAkSPgoPcmVwcmVzZW50YXRpb25zGAUgAygLMiUuQ01zZ1ZpZGVvR2FtZVJl",
-            "Y29yZGluZ1JlcHJlc2VudGF0aW9uIp8CChlDTXNnVmlkZW9HYW1lUmVjb3Jk",
-            "aW5nRGVmEg8KB3N0ZWFtaWQYASABKAQSDgoGYXBwX2lkGAIgASgNEhQKDG51",
-            "bV9zZWdtZW50cxgDIAEoDRIbChNsZW5ndGhfbWlsbGlzZWNvbmRzGAQgASgN",
-            "EiIKGnNlZ21lbnRfZHVyYXRpb25fdGltZXNjYWxlGAUgASgNEhgKEHNlZ21l",
-            "bnRfZHVyYXRpb24YBiABKA0SNAoKY29tcG9uZW50cxgHIAMoCzIgLkNNc2dW",
-            "aWRlb0dhbWVSZWNvcmRpbmdDb21wb25lbnQSFQoNc3RhcnRfdGltZV9tcxgI",
-            "IAEoDRIjChtzdGFydF9vZmZzZXRfaW5fdGltZWxpbmVfbXMYCSABKA0iiQIK",
-            "JENNc2dWaWRlb0dhbWVSZWNvcmRpbmdSZXByZXNlbnRhdGlvbhIbChNyZXBy",
-            "ZXNlbnRhdGlvbl9uYW1lGAIgASgJEh0KFWhvcml6b250YWxfcmVzb2x1dGlv",
-            "bhgDIAEoDRIbChN2ZXJ0aWNhbF9yZXNvbHV0aW9uGAQgASgNEhIKCmZyYW1l",
-            "X3JhdGUYBSABKAESEQoJYmFuZHdpZHRoGAYgASgNEhkKEWF1ZGlvX3NhbXBs",
-            "ZV9yYXRlGAcgASgNEhkKEWZyYW1lX3JhdGVfc3RyaW5nGAggASgJEg0KBWNv",
-            "ZGVjGAkgASgJEhwKFGF1ZGlvX2NoYW5uZWxfY29uZmlnGAogASgNIrQBChND",
-            "VmlkZW9NYW5hZ2VyQ2xpcElEEh0KFXZpZGVvX21hbmFnZXJfY2xpcF9pZBgB",
-            "IAEoBhIeChZ2aWRlb19tYW5hZ2VyX3ZpZGVvX2lkGAIgASgGEhoKEnNlcnZl",
-            "cl90aW1lbGluZV9pZBgDIAEoBhIUCgxtYW5pZmVzdF91cmwYBCABKAkSEwoL",
-            "ZHVyYXRpb25fbXMYBSABKA0SFwoPc3RhcnRfb2Zmc2V0X21zGAYgASgNMtQC",
-            "ChFHYW1lUmVjb3JkaW5nQ2xpcBJkCg9DcmVhdGVTaGFyZUNsaXASJy5DR2Ft",
-            "ZVJlY29yZGluZ19DcmVhdGVTaGFyZUNsaXBfUmVxdWVzdBooLkNHYW1lUmVj",
-            "b3JkaW5nX0NyZWF0ZVNoYXJlQ2xpcF9SZXNwb25zZRJnChBEZWxldGVTaGFy",
-            "ZWRDbGlwEiguQ0dhbWVSZWNvcmRpbmdfRGVsZXRlU2hhcmVkQ2xpcF9SZXF1",
-            "ZXN0GikuQ0dhbWVSZWNvcmRpbmdfRGVsZXRlU2hhcmVkQ2xpcF9SZXNwb25z",
-            "ZRJwChNHZXRTaW5nbGVTaGFyZWRDbGlwEisuQ0dhbWVSZWNvcmRpbmdfR2V0",
-            "U2luZ2xlU2hhcmVkQ2xpcF9SZXF1ZXN0GiwuQ0dhbWVSZWNvcmRpbmdfR2V0",
-            "U2luZ2xlU2hhcmVkQ2xpcF9SZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3Mu",
-            "UHJvdG9idWYuV2ViVUk="));
+            "dG9idWYvZGVzY3JpcHRvci5wcm90bxoMY29tbW9uLnByb3RvInoKJkNHYW1l",
+            "UmVjb3JkaW5nX0NyZWF0ZVNoYXJlQ2xpcF9SZXF1ZXN0EiEKBGNsaXAYAiAB",
+            "KAsyEy5DR2FtZVJlY29yZGluZ0NsaXASLQoJdmlkZW9fZGVmGAMgAygLMhou",
+            "Q01zZ1ZpZGVvR2FtZVJlY29yZGluZ0RlZiJMCidDR2FtZVJlY29yZGluZ19D",
+            "cmVhdGVTaGFyZUNsaXBfUmVzcG9uc2USIQoEY2xpcBgBIAEoCzITLkNHYW1l",
+            "UmVjb3JkaW5nQ2xpcCI6CidDR2FtZVJlY29yZGluZ19EZWxldGVTaGFyZWRD",
+            "bGlwX1JlcXVlc3QSDwoHY2xpcF9pZBgCIAEoBiIqCihDR2FtZVJlY29yZGlu",
+            "Z19EZWxldGVTaGFyZWRDbGlwX1Jlc3BvbnNlIj0KKkNHYW1lUmVjb3JkaW5n",
+            "X0dldFNpbmdsZVNoYXJlZENsaXBfUmVxdWVzdBIPCgdjbGlwX2lkGAIgASgG",
+            "IlAKK0NHYW1lUmVjb3JkaW5nX0dldFNpbmdsZVNoYXJlZENsaXBfUmVzcG9u",
+            "c2USIQoEY2xpcBgBIAEoCzITLkNHYW1lUmVjb3JkaW5nQ2xpcCLZAQoSQ0dh",
+            "bWVSZWNvcmRpbmdDbGlwEg8KB2NsaXBfaWQYASABKAYSDgoGZ2FtZWlkGAIg",
+            "ASgEEhUKDWRhdGVfcmVjb3JkZWQYBCABKA0SHQoVdG90YWxfZmlsZV9zaXpl",
+            "X2J5dGVzGAcgASgEEicKCXZpZGVvX2lkcxgJIAMoCzIULkNWaWRlb01hbmFn",
+            "ZXJDbGlwSUQSFQoNb3duZXJfc3RlYW1pZBgKIAEoBhIXCg91cGxvYWRfY29t",
+            "cGxldGUYCyABKAgSEwoLZHVyYXRpb25fbXMYDCABKA0itAEKH0NNc2dWaWRl",
+            "b0dhbWVSZWNvcmRpbmdDb21wb25lbnQSFgoOY29tcG9uZW50X25hbWUYASAB",
+            "KAkSEAoIY29udGVudHMYAiABKA0SFAoMc2VnbWVudF9zaXplGAMgASgNEhEK",
+            "CWZpbGVfdHlwZRgEIAEoCRI+Cg9yZXByZXNlbnRhdGlvbnMYBSADKAsyJS5D",
+            "TXNnVmlkZW9HYW1lUmVjb3JkaW5nUmVwcmVzZW50YXRpb24inwIKGUNNc2dW",
+            "aWRlb0dhbWVSZWNvcmRpbmdEZWYSDwoHc3RlYW1pZBgBIAEoBBIOCgZhcHBf",
+            "aWQYAiABKA0SFAoMbnVtX3NlZ21lbnRzGAMgASgNEhsKE2xlbmd0aF9taWxs",
+            "aXNlY29uZHMYBCABKA0SIgoac2VnbWVudF9kdXJhdGlvbl90aW1lc2NhbGUY",
+            "BSABKA0SGAoQc2VnbWVudF9kdXJhdGlvbhgGIAEoDRI0Cgpjb21wb25lbnRz",
+            "GAcgAygLMiAuQ01zZ1ZpZGVvR2FtZVJlY29yZGluZ0NvbXBvbmVudBIVCg1z",
+            "dGFydF90aW1lX21zGAggASgNEiMKG3N0YXJ0X29mZnNldF9pbl90aW1lbGlu",
+            "ZV9tcxgJIAEoDSLBAgokQ01zZ1ZpZGVvR2FtZVJlY29yZGluZ1JlcHJlc2Vu",
+            "dGF0aW9uEhsKE3JlcHJlc2VudGF0aW9uX25hbWUYAiABKAkSHQoVaG9yaXpv",
+            "bnRhbF9yZXNvbHV0aW9uGAMgASgNEhsKE3ZlcnRpY2FsX3Jlc29sdXRpb24Y",
+            "BCABKA0SEgoKZnJhbWVfcmF0ZRgFIAEoARIRCgliYW5kd2lkdGgYBiABKA0S",
+            "GQoRYXVkaW9fc2FtcGxlX3JhdGUYByABKA0SGQoRZnJhbWVfcmF0ZV9zdHJp",
+            "bmcYCCABKAkSDQoFY29kZWMYCSABKAkSHAoUYXVkaW9fY2hhbm5lbF9jb25m",
+            "aWcYCiABKA0SNgoMc2VnbWVudF9pbmZvGAsgAygLMiAuQ1ZpZGVvX0dhbWVS",
+            "ZWNvcmRpbmdTZWdtZW50SW5mbyK0AQoTQ1ZpZGVvTWFuYWdlckNsaXBJRBId",
+            "ChV2aWRlb19tYW5hZ2VyX2NsaXBfaWQYASABKAYSHgoWdmlkZW9fbWFuYWdl",
+            "cl92aWRlb19pZBgCIAEoBhIaChJzZXJ2ZXJfdGltZWxpbmVfaWQYAyABKAYS",
+            "FAoMbWFuaWZlc3RfdXJsGAQgASgJEhMKC2R1cmF0aW9uX21zGAUgASgNEhcK",
+            "D3N0YXJ0X29mZnNldF9tcxgGIAEoDTLUAgoRR2FtZVJlY29yZGluZ0NsaXAS",
+            "ZAoPQ3JlYXRlU2hhcmVDbGlwEicuQ0dhbWVSZWNvcmRpbmdfQ3JlYXRlU2hh",
+            "cmVDbGlwX1JlcXVlc3QaKC5DR2FtZVJlY29yZGluZ19DcmVhdGVTaGFyZUNs",
+            "aXBfUmVzcG9uc2USZwoQRGVsZXRlU2hhcmVkQ2xpcBIoLkNHYW1lUmVjb3Jk",
+            "aW5nX0RlbGV0ZVNoYXJlZENsaXBfUmVxdWVzdBopLkNHYW1lUmVjb3JkaW5n",
+            "X0RlbGV0ZVNoYXJlZENsaXBfUmVzcG9uc2UScAoTR2V0U2luZ2xlU2hhcmVk",
+            "Q2xpcBIrLkNHYW1lUmVjb3JkaW5nX0dldFNpbmdsZVNoYXJlZENsaXBfUmVx",
+            "dWVzdBosLkNHYW1lUmVjb3JkaW5nX0dldFNpbmdsZVNoYXJlZENsaXBfUmVz",
+            "cG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
+          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CGameRecording_CreateShareClip_Request), global::OpenSteamworks.Protobuf.WebUI.CGameRecording_CreateShareClip_Request.Parser, new[]{ "Clip", "VideoDef" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CGameRecording_CreateShareClip_Response), global::OpenSteamworks.Protobuf.WebUI.CGameRecording_CreateShareClip_Response.Parser, new[]{ "Clip" }, null, null, null, null),
@@ -82,7 +83,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CGameRecordingClip), global::OpenSteamworks.Protobuf.WebUI.CGameRecordingClip.Parser, new[]{ "ClipId", "Gameid", "DateRecorded", "TotalFileSizeBytes", "VideoIds", "OwnerSteamid", "UploadComplete", "DurationMs" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingComponent), global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingComponent.Parser, new[]{ "ComponentName", "Contents", "SegmentSize", "FileType", "Representations" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingDef), global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingDef.Parser, new[]{ "Steamid", "AppId", "NumSegments", "LengthMilliseconds", "SegmentDurationTimescale", "SegmentDuration", "Components", "StartTimeMs", "StartOffsetInTimelineMs" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingRepresentation), global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingRepresentation.Parser, new[]{ "RepresentationName", "HorizontalResolution", "VerticalResolution", "FrameRate", "Bandwidth", "AudioSampleRate", "FrameRateString", "Codec", "AudioChannelConfig" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingRepresentation), global::OpenSteamworks.Protobuf.WebUI.CMsgVideoGameRecordingRepresentation.Parser, new[]{ "RepresentationName", "HorizontalResolution", "VerticalResolution", "FrameRate", "Bandwidth", "AudioSampleRate", "FrameRateString", "Codec", "AudioChannelConfig", "SegmentInfo" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVideoManagerClipID), global::OpenSteamworks.Protobuf.WebUI.CVideoManagerClipID.Parser, new[]{ "VideoManagerClipId", "VideoManagerVideoId", "ServerTimelineId", "ManifestUrl", "DurationMs", "StartOffsetMs" }, null, null, null, null)
           }));
     }
@@ -2855,6 +2856,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       frameRateString_ = other.frameRateString_;
       codec_ = other.codec_;
       audioChannelConfig_ = other.audioChannelConfig_;
+      segmentInfo_ = other.segmentInfo_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3104,6 +3106,17 @@ namespace OpenSteamworks.Protobuf.WebUI {
       _hasBits0 &= ~32;
     }
 
+    /// <summary>Field number for the "segment_info" field.</summary>
+    public const int SegmentInfoFieldNumber = 11;
+    private static readonly pb::FieldCodec<global::OpenSteamworks.Protobuf.WebUI.CVideo_GameRecordingSegmentInfo> _repeated_segmentInfo_codec
+        = pb::FieldCodec.ForMessage(90, global::OpenSteamworks.Protobuf.WebUI.CVideo_GameRecordingSegmentInfo.Parser);
+    private readonly pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CVideo_GameRecordingSegmentInfo> segmentInfo_ = new pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CVideo_GameRecordingSegmentInfo>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CVideo_GameRecordingSegmentInfo> SegmentInfo {
+      get { return segmentInfo_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3128,6 +3141,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (FrameRateString != other.FrameRateString) return false;
       if (Codec != other.Codec) return false;
       if (AudioChannelConfig != other.AudioChannelConfig) return false;
+      if(!segmentInfo_.Equals(other.segmentInfo_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3144,6 +3158,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasFrameRateString) hash ^= FrameRateString.GetHashCode();
       if (HasCodec) hash ^= Codec.GetHashCode();
       if (HasAudioChannelConfig) hash ^= AudioChannelConfig.GetHashCode();
+      hash ^= segmentInfo_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3198,6 +3213,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(80);
         output.WriteUInt32(AudioChannelConfig);
       }
+      segmentInfo_.WriteTo(output, _repeated_segmentInfo_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3244,6 +3260,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(80);
         output.WriteUInt32(AudioChannelConfig);
       }
+      segmentInfo_.WriteTo(ref output, _repeated_segmentInfo_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3281,6 +3298,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasAudioChannelConfig) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(AudioChannelConfig);
       }
+      size += segmentInfo_.CalculateSize(_repeated_segmentInfo_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -3320,6 +3338,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (other.HasAudioChannelConfig) {
         AudioChannelConfig = other.AudioChannelConfig;
       }
+      segmentInfo_.Add(other.segmentInfo_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -3371,6 +3390,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             AudioChannelConfig = input.ReadUInt32();
             break;
           }
+          case 90: {
+            segmentInfo_.AddEntriesFrom(input, _repeated_segmentInfo_codec);
+            break;
+          }
         }
       }
     #endif
@@ -3420,6 +3443,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 80: {
             AudioChannelConfig = input.ReadUInt32();
+            break;
+          }
+          case 90: {
+            segmentInfo_.AddEntriesFrom(ref input, _repeated_segmentInfo_codec);
             break;
           }
         }

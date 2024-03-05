@@ -26,37 +26,38 @@ namespace OpenSteamworks.Protobuf {
           string.Concat(
             "Ch13ZWJ1aW1lc3NhZ2VzX2dhbWVzY29wZS5wcm90bxogZ29vZ2xlL3Byb3Rv",
             "YnVmL2Rlc2NyaXB0b3IucHJvdG8aC2VudW1zLnByb3RvGhhzdGVhbW1lc3Nh",
-            "Z2VzX2Jhc2UucHJvdG8aGHdlYnVpbWVzc2FnZXNfYmFzZS5wcm90byKbAQoP",
+            "Z2VzX2Jhc2UucHJvdG8aGHdlYnVpbWVzc2FnZXNfYmFzZS5wcm90byLLAQoP",
             "Q01zZ0Rpc3BsYXlJbmZvEgwKBG1ha2UYASABKAkSDQoFbW9kZWwYAiABKAkS",
             "FgoOY29ubmVjdG9yX25hbWUYAyABKAkSHwoXc3VwcG9ydGVkX3JlZnJlc2hf",
             "cmF0ZXMYBCADKAUSHQoVc3VwcG9ydGVkX2ZyYW1lX3JhdGVzGAUgAygFEhMK",
-            "C2lzX2V4dGVybmFsGAYgASgIIuoCChJDTXNnR2FtZXNjb3BlU3RhdGUSHAoU",
-            "aXNfc2VydmljZV9hdmFpbGFibGUYASABKAgSHAoUaXNfcmVzaGFkZV9zdXBw",
-            "b3J0ZWQYAiABKAgSGgoSaXNfYXBwX2hkcl9lbmFibGVkGAMgASgIEiUKHWlz",
-            "X2FwcF9yZWZyZXNoX3JhdGVfc3VwcG9ydGVkGAQgASgIEi0KE2FjdGl2ZV9k",
-            "aXNwbGF5X2luZm8YBSABKAsyEC5DTXNnRGlzcGxheUluZm8SIwobaXNfYXBw",
-            "X3JlZnJlc2hfcmF0ZV9jYXBhYmxlGAYgASgIEisKI2lzX3JlZnJlc2hfcmF0",
-            "ZV9zd2l0Y2hpbmdfc3VwcG9ydGVkGAcgASgIEiwKJGlzX3JlZnJlc2hfcmF0",
-            "ZV9zd2l0Y2hpbmdfcmVzdHJpY3RlZBgIIAEoCBImCh5pc19oZHJfdmlzdWFs",
-            "aXphdGlvbl9zdXBwb3J0ZWQYCSABKAgiHQobQ0dhbWVzY29wZV9HZXRTdGF0",
-            "ZV9SZXF1ZXN0IkIKHENHYW1lc2NvcGVfR2V0U3RhdGVfUmVzcG9uc2USIgoF",
-            "c3RhdGUYASABKAsyEy5DTXNnR2FtZXNjb3BlU3RhdGUiJgokQ0dhbWVzY29w",
-            "ZV9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uIowBCiBDR2FtZXNjb3BlX1Nl",
-            "dEJsdXJQYXJhbXNfUmVxdWVzdBI+CgRtb2RlGAEgASgOMhMuRUdhbWVzY29w",
-            "ZUJsdXJNb2RlOhtFR2FtZXNjb3BlQmx1ck1vZGVfRGlzYWJsZWQSDgoGcmFk",
-            "aXVzGAIgASgFEhgKEGZhZGVfZHVyYXRpb25fbXMYAyABKAUiIwohQ0dhbWVz",
-            "Y29wZV9TZXRCbHVyUGFyYW1zX1Jlc3BvbnNlMoECCglHYW1lc2NvcGUSRwoI",
-            "R2V0U3RhdGUSHC5DR2FtZXNjb3BlX0dldFN0YXRlX1JlcXVlc3QaHS5DR2Ft",
-            "ZXNjb3BlX0dldFN0YXRlX1Jlc3BvbnNlEk0KEk5vdGlmeVN0YXRlQ2hhbmdl",
-            "ZBIlLkNHYW1lc2NvcGVfU3RhdGVDaGFuZ2VkX05vdGlmaWNhdGlvbhoQLldl",
-            "YlVJTm9SZXNwb25zZRJWCg1TZXRCbHVyUGFyYW1zEiEuQ0dhbWVzY29wZV9T",
-            "ZXRCbHVyUGFyYW1zX1JlcXVlc3QaIi5DR2FtZXNjb3BlX1NldEJsdXJQYXJh",
-            "bXNfUmVzcG9uc2UaBICXIgFCH0gBgAEBqgIXT3BlblN0ZWFtd29ya3MuUHJv",
-            "dG9idWY="));
+            "C2lzX2V4dGVybmFsGAYgASgIEhYKDmlzX2hkcl9jYXBhYmxlGAcgASgIEhYK",
+            "DmlzX3Zycl9jYXBhYmxlGAggASgIIuoCChJDTXNnR2FtZXNjb3BlU3RhdGUS",
+            "HAoUaXNfc2VydmljZV9hdmFpbGFibGUYASABKAgSHAoUaXNfcmVzaGFkZV9z",
+            "dXBwb3J0ZWQYAiABKAgSGgoSaXNfYXBwX2hkcl9lbmFibGVkGAMgASgIEiUK",
+            "HWlzX2FwcF9yZWZyZXNoX3JhdGVfc3VwcG9ydGVkGAQgASgIEi0KE2FjdGl2",
+            "ZV9kaXNwbGF5X2luZm8YBSABKAsyEC5DTXNnRGlzcGxheUluZm8SIwobaXNf",
+            "YXBwX3JlZnJlc2hfcmF0ZV9jYXBhYmxlGAYgASgIEisKI2lzX3JlZnJlc2hf",
+            "cmF0ZV9zd2l0Y2hpbmdfc3VwcG9ydGVkGAcgASgIEiwKJGlzX3JlZnJlc2hf",
+            "cmF0ZV9zd2l0Y2hpbmdfcmVzdHJpY3RlZBgIIAEoCBImCh5pc19oZHJfdmlz",
+            "dWFsaXphdGlvbl9zdXBwb3J0ZWQYCSABKAgiHQobQ0dhbWVzY29wZV9HZXRT",
+            "dGF0ZV9SZXF1ZXN0IkIKHENHYW1lc2NvcGVfR2V0U3RhdGVfUmVzcG9uc2US",
+            "IgoFc3RhdGUYASABKAsyEy5DTXNnR2FtZXNjb3BlU3RhdGUiJgokQ0dhbWVz",
+            "Y29wZV9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uIowBCiBDR2FtZXNjb3Bl",
+            "X1NldEJsdXJQYXJhbXNfUmVxdWVzdBI+CgRtb2RlGAEgASgOMhMuRUdhbWVz",
+            "Y29wZUJsdXJNb2RlOhtFR2FtZXNjb3BlQmx1ck1vZGVfRGlzYWJsZWQSDgoG",
+            "cmFkaXVzGAIgASgFEhgKEGZhZGVfZHVyYXRpb25fbXMYAyABKAUiIwohQ0dh",
+            "bWVzY29wZV9TZXRCbHVyUGFyYW1zX1Jlc3BvbnNlMoECCglHYW1lc2NvcGUS",
+            "RwoIR2V0U3RhdGUSHC5DR2FtZXNjb3BlX0dldFN0YXRlX1JlcXVlc3QaHS5D",
+            "R2FtZXNjb3BlX0dldFN0YXRlX1Jlc3BvbnNlEk0KEk5vdGlmeVN0YXRlQ2hh",
+            "bmdlZBIlLkNHYW1lc2NvcGVfU3RhdGVDaGFuZ2VkX05vdGlmaWNhdGlvbhoQ",
+            "LldlYlVJTm9SZXNwb25zZRJWCg1TZXRCbHVyUGFyYW1zEiEuQ0dhbWVzY29w",
+            "ZV9TZXRCbHVyUGFyYW1zX1JlcXVlc3QaIi5DR2FtZXNjb3BlX1NldEJsdXJQ",
+            "YXJhbXNfUmVzcG9uc2UaBICXIgFCH0gBgAEBqgIXT3BlblN0ZWFtd29ya3Mu",
+            "UHJvdG9idWY="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.WebuimessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgDisplayInfo), global::OpenSteamworks.Protobuf.CMsgDisplayInfo.Parser, new[]{ "Make", "Model", "ConnectorName", "SupportedRefreshRates", "SupportedFrameRates", "IsExternal" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgDisplayInfo), global::OpenSteamworks.Protobuf.CMsgDisplayInfo.Parser, new[]{ "Make", "Model", "ConnectorName", "SupportedRefreshRates", "SupportedFrameRates", "IsExternal", "IsHdrCapable", "IsVrrCapable" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgGamescopeState), global::OpenSteamworks.Protobuf.CMsgGamescopeState.Parser, new[]{ "IsServiceAvailable", "IsReshadeSupported", "IsAppHdrEnabled", "IsAppRefreshRateSupported", "ActiveDisplayInfo", "IsAppRefreshRateCapable", "IsRefreshRateSwitchingSupported", "IsRefreshRateSwitchingRestricted", "IsHdrVisualizationSupported" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CGamescope_GetState_Request), global::OpenSteamworks.Protobuf.CGamescope_GetState_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CGamescope_GetState_Response), global::OpenSteamworks.Protobuf.CGamescope_GetState_Response.Parser, new[]{ "State" }, null, null, null, null),
@@ -112,6 +113,8 @@ namespace OpenSteamworks.Protobuf {
       supportedRefreshRates_ = other.supportedRefreshRates_.Clone();
       supportedFrameRates_ = other.supportedFrameRates_.Clone();
       isExternal_ = other.isExternal_;
+      isHdrCapable_ = other.isHdrCapable_;
+      isVrrCapable_ = other.isVrrCapable_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -248,6 +251,60 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~1;
     }
 
+    /// <summary>Field number for the "is_hdr_capable" field.</summary>
+    public const int IsHdrCapableFieldNumber = 7;
+    private readonly static bool IsHdrCapableDefaultValue = false;
+
+    private bool isHdrCapable_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IsHdrCapable {
+      get { if ((_hasBits0 & 2) != 0) { return isHdrCapable_; } else { return IsHdrCapableDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        isHdrCapable_ = value;
+      }
+    }
+    /// <summary>Gets whether the "is_hdr_capable" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIsHdrCapable {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "is_hdr_capable" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIsHdrCapable() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "is_vrr_capable" field.</summary>
+    public const int IsVrrCapableFieldNumber = 8;
+    private readonly static bool IsVrrCapableDefaultValue = false;
+
+    private bool isVrrCapable_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IsVrrCapable {
+      get { if ((_hasBits0 & 4) != 0) { return isVrrCapable_; } else { return IsVrrCapableDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        isVrrCapable_ = value;
+      }
+    }
+    /// <summary>Gets whether the "is_vrr_capable" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIsVrrCapable {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "is_vrr_capable" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIsVrrCapable() {
+      _hasBits0 &= ~4;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -269,6 +326,8 @@ namespace OpenSteamworks.Protobuf {
       if(!supportedRefreshRates_.Equals(other.supportedRefreshRates_)) return false;
       if(!supportedFrameRates_.Equals(other.supportedFrameRates_)) return false;
       if (IsExternal != other.IsExternal) return false;
+      if (IsHdrCapable != other.IsHdrCapable) return false;
+      if (IsVrrCapable != other.IsVrrCapable) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -282,6 +341,8 @@ namespace OpenSteamworks.Protobuf {
       hash ^= supportedRefreshRates_.GetHashCode();
       hash ^= supportedFrameRates_.GetHashCode();
       if (HasIsExternal) hash ^= IsExternal.GetHashCode();
+      if (HasIsHdrCapable) hash ^= IsHdrCapable.GetHashCode();
+      if (HasIsVrrCapable) hash ^= IsVrrCapable.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -318,6 +379,14 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(48);
         output.WriteBool(IsExternal);
       }
+      if (HasIsHdrCapable) {
+        output.WriteRawTag(56);
+        output.WriteBool(IsHdrCapable);
+      }
+      if (HasIsVrrCapable) {
+        output.WriteRawTag(64);
+        output.WriteBool(IsVrrCapable);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -346,6 +415,14 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(48);
         output.WriteBool(IsExternal);
       }
+      if (HasIsHdrCapable) {
+        output.WriteRawTag(56);
+        output.WriteBool(IsHdrCapable);
+      }
+      if (HasIsVrrCapable) {
+        output.WriteRawTag(64);
+        output.WriteBool(IsVrrCapable);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -368,6 +445,12 @@ namespace OpenSteamworks.Protobuf {
       size += supportedRefreshRates_.CalculateSize(_repeated_supportedRefreshRates_codec);
       size += supportedFrameRates_.CalculateSize(_repeated_supportedFrameRates_codec);
       if (HasIsExternal) {
+        size += 1 + 1;
+      }
+      if (HasIsHdrCapable) {
+        size += 1 + 1;
+      }
+      if (HasIsVrrCapable) {
         size += 1 + 1;
       }
       if (_unknownFields != null) {
@@ -395,6 +478,12 @@ namespace OpenSteamworks.Protobuf {
       supportedFrameRates_.Add(other.supportedFrameRates_);
       if (other.HasIsExternal) {
         IsExternal = other.IsExternal;
+      }
+      if (other.HasIsHdrCapable) {
+        IsHdrCapable = other.IsHdrCapable;
+      }
+      if (other.HasIsVrrCapable) {
+        IsVrrCapable = other.IsVrrCapable;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -437,6 +526,14 @@ namespace OpenSteamworks.Protobuf {
             IsExternal = input.ReadBool();
             break;
           }
+          case 56: {
+            IsHdrCapable = input.ReadBool();
+            break;
+          }
+          case 64: {
+            IsVrrCapable = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -476,6 +573,14 @@ namespace OpenSteamworks.Protobuf {
           }
           case 48: {
             IsExternal = input.ReadBool();
+            break;
+          }
+          case 56: {
+            IsHdrCapable = input.ReadBool();
+            break;
+          }
+          case 64: {
+            IsVrrCapable = input.ReadBool();
             break;
           }
         }

@@ -35,7 +35,7 @@ namespace OpenSteamworks.Protobuf {
             "MBITCgtpcF9vdmVycmlkZRgDIAEoCRIYCg1sYXVuY2hlcl90eXBlGAQgASgF",
             "OgEwEhMKC2lwdjZfcHVibGljGAUgASgJElIKE2N1cnJlbnRfY29ubmVjdGlv",
             "bnMYBiADKAsyNS5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9Db25uZWN0ZWRT",
-            "dGVhbVBpcGVTZXJ2ZXJJbmZvIvMCCiJDQ29udGVudFNlcnZlckRpcmVjdG9y",
+            "dGVhbVBpcGVTZXJ2ZXJJbmZvIpMDCiJDQ29udGVudFNlcnZlckRpcmVjdG9y",
             "eV9TZXJ2ZXJJbmZvEgwKBHR5cGUYASABKAkSEQoJc291cmNlX2lkGAIgASgF",
             "Eg8KB2NlbGxfaWQYAyABKAUSDAoEbG9hZBgEIAEoBRIVCg13ZWlnaHRlZF9s",
             "b2FkGAUgASgCEiIKGm51bV9lbnRyaWVzX2luX2NsaWVudF9saXN0GAYgASgF",
@@ -43,71 +43,71 @@ namespace OpenSteamworks.Protobuf {
             "aG9zdBgJIAEoCRIUCgx1c2VfYXNfcHJveHkYCiABKAgSIwobcHJveHlfcmVx",
             "dWVzdF9wYXRoX3RlbXBsYXRlGAsgASgJEhUKDWh0dHBzX3N1cHBvcnQYDCAB",
             "KAkSFwoPYWxsb3dlZF9hcHBfaWRzGA0gAygNEhgKEHByZWZlcnJlZF9zZXJ2",
-            "ZXIYDiABKAgSFgoOcHJpb3JpdHlfY2xhc3MYDyABKA0iggEKN0NDb250ZW50",
-            "U2VydmVyRGlyZWN0b3J5X0dldFNlcnZlcnNGb3JTdGVhbVBpcGVfUmVzcG9u",
-            "c2USNAoHc2VydmVycxgBIAMoCzIjLkNDb250ZW50U2VydmVyRGlyZWN0b3J5",
-            "X1NlcnZlckluZm8SEQoJbm9fY2hhbmdlGAIgASgIIokBCjFDQ29udGVudFNl",
-            "cnZlckRpcmVjdG9yeV9HZXREZXBvdFBhdGNoSW5mb19SZXF1ZXN0Eg0KBWFw",
-            "cGlkGAEgASgNEg8KB2RlcG90aWQYAiABKA0SGQoRc291cmNlX21hbmlmZXN0",
-            "aWQYAyABKAQSGQoRdGFyZ2V0X21hbmlmZXN0aWQYBCABKAQiewoyQ0NvbnRl",
-            "bnRTZXJ2ZXJEaXJlY3RvcnlfR2V0RGVwb3RQYXRjaEluZm9fUmVzcG9uc2US",
-            "FAoMaXNfYXZhaWxhYmxlGAEgASgIEhIKCnBhdGNoX3NpemUYAiABKAQSGwoT",
-            "cGF0Y2hlZF9jaHVua3Nfc2l6ZRgDIAEoBCJQCjRDQ29udGVudFNlcnZlckRp",
-            "cmVjdG9yeV9HZXRDbGllbnRVcGRhdGVIb3N0c19SZXF1ZXN0EhgKEGNhY2hl",
-            "ZF9zaWduYXR1cmUYASABKAkidwo1Q0NvbnRlbnRTZXJ2ZXJEaXJlY3Rvcnlf",
-            "R2V0Q2xpZW50VXBkYXRlSG9zdHNfUmVzcG9uc2USEAoIaG9zdHNfa3YYASAB",
-            "KAkSGAoQdmFsaWRfdW50aWxfdGltZRgCIAEoBBISCgppcF9jb3VudHJ5GAMg",
-            "ASgJIqEBCjZDQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRNYW5pZmVzdFJl",
-            "cXVlc3RDb2RlX1JlcXVlc3QSDgoGYXBwX2lkGAEgASgNEhAKCGRlcG90X2lk",
-            "GAIgASgNEhMKC21hbmlmZXN0X2lkGAMgASgEEhIKCmFwcF9icmFuY2gYBCAB",
-            "KAkSHAoUYnJhbmNoX3Bhc3N3b3JkX2hhc2gYBSABKAkiWAo3Q0NvbnRlbnRT",
-            "ZXJ2ZXJEaXJlY3RvcnlfR2V0TWFuaWZlc3RSZXF1ZXN0Q29kZV9SZXNwb25z",
-            "ZRIdChVtYW5pZmVzdF9yZXF1ZXN0X2NvZGUYASABKAQiZgovQ0NvbnRlbnRT",
-            "ZXJ2ZXJEaXJlY3RvcnlfR2V0Q0ROQXV0aFRva2VuX1JlcXVlc3QSEAoIZGVw",
-            "b3RfaWQYASABKA0SEQoJaG9zdF9uYW1lGAIgASgJEg4KBmFwcF9pZBgDIAEo",
-            "DSJaCjBDQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRDRE5BdXRoVG9rZW5f",
-            "UmVzcG9uc2USDQoFdG9rZW4YASABKAkSFwoPZXhwaXJhdGlvbl90aW1lGAIg",
-            "ASgNIrABCjhDQ29udGVudFNlcnZlckRpcmVjdG9yeV9SZXF1ZXN0UGVlckNv",
-            "bnRlbnRTZXJ2ZXJfUmVxdWVzdBIYChByZW1vdGVfY2xpZW50X2lkGAEgASgE",
-            "Eg8KB3N0ZWFtaWQYAiABKAQSHwoXc2VydmVyX3JlbW90ZV9jbGllbnRfaWQY",
-            "AyABKAQSDgoGYXBwX2lkGAQgASgNEhgKEGN1cnJlbnRfYnVpbGRfaWQYBSAB",
-            "KA0igAEKOUNDb250ZW50U2VydmVyRGlyZWN0b3J5X1JlcXVlc3RQZWVyQ29u",
-            "dGVudFNlcnZlcl9SZXNwb25zZRITCgtzZXJ2ZXJfcG9ydBgBIAEoDRIYChBp",
-            "bnN0YWxsZWRfZGVwb3RzGAIgAygNEhQKDGFjY2Vzc190b2tlbhgDIAEoBCKA",
-            "AQoyQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0UGVlckNvbnRlbnRJbmZv",
-            "X1JlcXVlc3QSGAoQcmVtb3RlX2NsaWVudF9pZBgBIAEoBBIPCgdzdGVhbWlk",
-            "GAIgASgEEh8KF3NlcnZlcl9yZW1vdGVfY2xpZW50X2lkGAMgASgEIlgKM0ND",
-            "b250ZW50U2VydmVyRGlyZWN0b3J5X0dldFBlZXJDb250ZW50SW5mb19SZXNw",
-            "b25zZRIOCgZhcHBpZHMYASADKA0SEQoJaXBfcHVibGljGAIgASgJMscHChZD",
-            "b250ZW50U2VydmVyRGlyZWN0b3J5EosBChZHZXRTZXJ2ZXJzRm9yU3RlYW1Q",
-            "aXBlEjcuQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0U2VydmVyc0ZvclN0",
-            "ZWFtUGlwZV9SZXF1ZXN0GjguQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0",
-            "U2VydmVyc0ZvclN0ZWFtUGlwZV9SZXNwb25zZRJ8ChFHZXREZXBvdFBhdGNo",
-            "SW5mbxIyLkNDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldERlcG90UGF0Y2hJ",
-            "bmZvX1JlcXVlc3QaMy5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXREZXBv",
-            "dFBhdGNoSW5mb19SZXNwb25zZRKFAQoUR2V0Q2xpZW50VXBkYXRlSG9zdHMS",
-            "NS5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRDbGllbnRVcGRhdGVIb3N0",
-            "c19SZXF1ZXN0GjYuQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0Q2xpZW50",
-            "VXBkYXRlSG9zdHNfUmVzcG9uc2USiwEKFkdldE1hbmlmZXN0UmVxdWVzdENv",
-            "ZGUSNy5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRNYW5pZmVzdFJlcXVl",
-            "c3RDb2RlX1JlcXVlc3QaOC5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRN",
-            "YW5pZmVzdFJlcXVlc3RDb2RlX1Jlc3BvbnNlEnYKD0dldENETkF1dGhUb2tl",
-            "bhIwLkNDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldENETkF1dGhUb2tlbl9S",
-            "ZXF1ZXN0GjEuQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0Q0ROQXV0aFRv",
-            "a2VuX1Jlc3BvbnNlEpEBChhSZXF1ZXN0UGVlckNvbnRlbnRTZXJ2ZXISOS5D",
-            "Q29udGVudFNlcnZlckRpcmVjdG9yeV9SZXF1ZXN0UGVlckNvbnRlbnRTZXJ2",
-            "ZXJfUmVxdWVzdBo6LkNDb250ZW50U2VydmVyRGlyZWN0b3J5X1JlcXVlc3RQ",
-            "ZWVyQ29udGVudFNlcnZlcl9SZXNwb25zZRJ/ChJHZXRQZWVyQ29udGVudElu",
-            "Zm8SMy5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRQZWVyQ29udGVudElu",
-            "Zm9fUmVxdWVzdBo0LkNDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldFBlZXJD",
-            "b250ZW50SW5mb19SZXNwb25zZUIdgAEBqgIXT3BlblN0ZWFtd29ya3MuUHJv",
-            "dG9idWY="));
+            "ZXIYDiABKAgSFgoOcHJpb3JpdHlfY2xhc3MYDyABKA0SHgoWYnlwYXNzX3By",
+            "b3hpZXNfb2ZfdHlwZRgQIAMoCSKCAQo3Q0NvbnRlbnRTZXJ2ZXJEaXJlY3Rv",
+            "cnlfR2V0U2VydmVyc0ZvclN0ZWFtUGlwZV9SZXNwb25zZRI0CgdzZXJ2ZXJz",
+            "GAEgAygLMiMuQ0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfU2VydmVySW5mbxIR",
+            "Cglub19jaGFuZ2UYAiABKAgiiQEKMUNDb250ZW50U2VydmVyRGlyZWN0b3J5",
+            "X0dldERlcG90UGF0Y2hJbmZvX1JlcXVlc3QSDQoFYXBwaWQYASABKA0SDwoH",
+            "ZGVwb3RpZBgCIAEoDRIZChFzb3VyY2VfbWFuaWZlc3RpZBgDIAEoBBIZChF0",
+            "YXJnZXRfbWFuaWZlc3RpZBgEIAEoBCJ7CjJDQ29udGVudFNlcnZlckRpcmVj",
+            "dG9yeV9HZXREZXBvdFBhdGNoSW5mb19SZXNwb25zZRIUCgxpc19hdmFpbGFi",
+            "bGUYASABKAgSEgoKcGF0Y2hfc2l6ZRgCIAEoBBIbChNwYXRjaGVkX2NodW5r",
+            "c19zaXplGAMgASgEIlAKNENDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldENs",
+            "aWVudFVwZGF0ZUhvc3RzX1JlcXVlc3QSGAoQY2FjaGVkX3NpZ25hdHVyZRgB",
+            "IAEoCSJ3CjVDQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRDbGllbnRVcGRh",
+            "dGVIb3N0c19SZXNwb25zZRIQCghob3N0c19rdhgBIAEoCRIYChB2YWxpZF91",
+            "bnRpbF90aW1lGAIgASgEEhIKCmlwX2NvdW50cnkYAyABKAkioQEKNkNDb250",
+            "ZW50U2VydmVyRGlyZWN0b3J5X0dldE1hbmlmZXN0UmVxdWVzdENvZGVfUmVx",
+            "dWVzdBIOCgZhcHBfaWQYASABKA0SEAoIZGVwb3RfaWQYAiABKA0SEwoLbWFu",
+            "aWZlc3RfaWQYAyABKAQSEgoKYXBwX2JyYW5jaBgEIAEoCRIcChRicmFuY2hf",
+            "cGFzc3dvcmRfaGFzaBgFIAEoCSJYCjdDQ29udGVudFNlcnZlckRpcmVjdG9y",
+            "eV9HZXRNYW5pZmVzdFJlcXVlc3RDb2RlX1Jlc3BvbnNlEh0KFW1hbmlmZXN0",
+            "X3JlcXVlc3RfY29kZRgBIAEoBCJmCi9DQ29udGVudFNlcnZlckRpcmVjdG9y",
+            "eV9HZXRDRE5BdXRoVG9rZW5fUmVxdWVzdBIQCghkZXBvdF9pZBgBIAEoDRIR",
+            "Cglob3N0X25hbWUYAiABKAkSDgoGYXBwX2lkGAMgASgNIloKMENDb250ZW50",
+            "U2VydmVyRGlyZWN0b3J5X0dldENETkF1dGhUb2tlbl9SZXNwb25zZRINCgV0",
+            "b2tlbhgBIAEoCRIXCg9leHBpcmF0aW9uX3RpbWUYAiABKA0isAEKOENDb250",
+            "ZW50U2VydmVyRGlyZWN0b3J5X1JlcXVlc3RQZWVyQ29udGVudFNlcnZlcl9S",
+            "ZXF1ZXN0EhgKEHJlbW90ZV9jbGllbnRfaWQYASABKAQSDwoHc3RlYW1pZBgC",
+            "IAEoBBIfChdzZXJ2ZXJfcmVtb3RlX2NsaWVudF9pZBgDIAEoBBIOCgZhcHBf",
+            "aWQYBCABKA0SGAoQY3VycmVudF9idWlsZF9pZBgFIAEoDSKAAQo5Q0NvbnRl",
+            "bnRTZXJ2ZXJEaXJlY3RvcnlfUmVxdWVzdFBlZXJDb250ZW50U2VydmVyX1Jl",
+            "c3BvbnNlEhMKC3NlcnZlcl9wb3J0GAEgASgNEhgKEGluc3RhbGxlZF9kZXBv",
+            "dHMYAiADKA0SFAoMYWNjZXNzX3Rva2VuGAMgASgEIoABCjJDQ29udGVudFNl",
+            "cnZlckRpcmVjdG9yeV9HZXRQZWVyQ29udGVudEluZm9fUmVxdWVzdBIYChBy",
+            "ZW1vdGVfY2xpZW50X2lkGAEgASgEEg8KB3N0ZWFtaWQYAiABKAQSHwoXc2Vy",
+            "dmVyX3JlbW90ZV9jbGllbnRfaWQYAyABKAQiWAozQ0NvbnRlbnRTZXJ2ZXJE",
+            "aXJlY3RvcnlfR2V0UGVlckNvbnRlbnRJbmZvX1Jlc3BvbnNlEg4KBmFwcGlk",
+            "cxgBIAMoDRIRCglpcF9wdWJsaWMYAiABKAkyxwcKFkNvbnRlbnRTZXJ2ZXJE",
+            "aXJlY3RvcnkSiwEKFkdldFNlcnZlcnNGb3JTdGVhbVBpcGUSNy5DQ29udGVu",
+            "dFNlcnZlckRpcmVjdG9yeV9HZXRTZXJ2ZXJzRm9yU3RlYW1QaXBlX1JlcXVl",
+            "c3QaOC5DQ29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRTZXJ2ZXJzRm9yU3Rl",
+            "YW1QaXBlX1Jlc3BvbnNlEnwKEUdldERlcG90UGF0Y2hJbmZvEjIuQ0NvbnRl",
+            "bnRTZXJ2ZXJEaXJlY3RvcnlfR2V0RGVwb3RQYXRjaEluZm9fUmVxdWVzdBoz",
+            "LkNDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldERlcG90UGF0Y2hJbmZvX1Jl",
+            "c3BvbnNlEoUBChRHZXRDbGllbnRVcGRhdGVIb3N0cxI1LkNDb250ZW50U2Vy",
+            "dmVyRGlyZWN0b3J5X0dldENsaWVudFVwZGF0ZUhvc3RzX1JlcXVlc3QaNi5D",
+            "Q29udGVudFNlcnZlckRpcmVjdG9yeV9HZXRDbGllbnRVcGRhdGVIb3N0c19S",
+            "ZXNwb25zZRKLAQoWR2V0TWFuaWZlc3RSZXF1ZXN0Q29kZRI3LkNDb250ZW50",
+            "U2VydmVyRGlyZWN0b3J5X0dldE1hbmlmZXN0UmVxdWVzdENvZGVfUmVxdWVz",
+            "dBo4LkNDb250ZW50U2VydmVyRGlyZWN0b3J5X0dldE1hbmlmZXN0UmVxdWVz",
+            "dENvZGVfUmVzcG9uc2USdgoPR2V0Q0ROQXV0aFRva2VuEjAuQ0NvbnRlbnRT",
+            "ZXJ2ZXJEaXJlY3RvcnlfR2V0Q0ROQXV0aFRva2VuX1JlcXVlc3QaMS5DQ29u",
+            "dGVudFNlcnZlckRpcmVjdG9yeV9HZXRDRE5BdXRoVG9rZW5fUmVzcG9uc2US",
+            "kQEKGFJlcXVlc3RQZWVyQ29udGVudFNlcnZlchI5LkNDb250ZW50U2VydmVy",
+            "RGlyZWN0b3J5X1JlcXVlc3RQZWVyQ29udGVudFNlcnZlcl9SZXF1ZXN0Gjou",
+            "Q0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfUmVxdWVzdFBlZXJDb250ZW50U2Vy",
+            "dmVyX1Jlc3BvbnNlEn8KEkdldFBlZXJDb250ZW50SW5mbxIzLkNDb250ZW50",
+            "U2VydmVyRGlyZWN0b3J5X0dldFBlZXJDb250ZW50SW5mb19SZXF1ZXN0GjQu",
+            "Q0NvbnRlbnRTZXJ2ZXJEaXJlY3RvcnlfR2V0UGVlckNvbnRlbnRJbmZvX1Jl",
+            "c3BvbnNlQh2AAQGqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesUnifiedBaseSteamclientReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_ConnectedSteamPipeServerInfo), global::OpenSteamworks.Protobuf.CContentServerDirectory_ConnectedSteamPipeServerInfo.Parser, new[]{ "Type", "SourceId", "Hostname" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_GetServersForSteamPipe_Request), global::OpenSteamworks.Protobuf.CContentServerDirectory_GetServersForSteamPipe_Request.Parser, new[]{ "CellId", "MaxServers", "IpOverride", "LauncherType", "Ipv6Public", "CurrentConnections" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_ServerInfo), global::OpenSteamworks.Protobuf.CContentServerDirectory_ServerInfo.Parser, new[]{ "Type", "SourceId", "CellId", "Load", "WeightedLoad", "NumEntriesInClientList", "SteamChinaOnly", "Host", "Vhost", "UseAsProxy", "ProxyRequestPathTemplate", "HttpsSupport", "AllowedAppIds", "PreferredServer", "PriorityClass" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_ServerInfo), global::OpenSteamworks.Protobuf.CContentServerDirectory_ServerInfo.Parser, new[]{ "Type", "SourceId", "CellId", "Load", "WeightedLoad", "NumEntriesInClientList", "SteamChinaOnly", "Host", "Vhost", "UseAsProxy", "ProxyRequestPathTemplate", "HttpsSupport", "AllowedAppIds", "PreferredServer", "PriorityClass", "BypassProxiesOfType" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_GetServersForSteamPipe_Response), global::OpenSteamworks.Protobuf.CContentServerDirectory_GetServersForSteamPipe_Response.Parser, new[]{ "Servers", "NoChange" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_GetDepotPatchInfo_Request), global::OpenSteamworks.Protobuf.CContentServerDirectory_GetDepotPatchInfo_Request.Parser, new[]{ "Appid", "Depotid", "SourceManifestid", "TargetManifestid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CContentServerDirectory_GetDepotPatchInfo_Response), global::OpenSteamworks.Protobuf.CContentServerDirectory_GetDepotPatchInfo_Response.Parser, new[]{ "IsAvailable", "PatchSize", "PatchedChunksSize" }, null, null, null, null),
@@ -927,6 +927,7 @@ namespace OpenSteamworks.Protobuf {
       allowedAppIds_ = other.allowedAppIds_.Clone();
       preferredServer_ = other.preferredServer_;
       priorityClass_ = other.priorityClass_;
+      bypassProxiesOfType_ = other.bypassProxiesOfType_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1320,6 +1321,17 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~256;
     }
 
+    /// <summary>Field number for the "bypass_proxies_of_type" field.</summary>
+    public const int BypassProxiesOfTypeFieldNumber = 16;
+    private static readonly pb::FieldCodec<string> _repeated_bypassProxiesOfType_codec
+        = pb::FieldCodec.ForString(130);
+    private readonly pbc::RepeatedField<string> bypassProxiesOfType_ = new pbc::RepeatedField<string>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<string> BypassProxiesOfType {
+      get { return bypassProxiesOfType_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -1350,6 +1362,7 @@ namespace OpenSteamworks.Protobuf {
       if(!allowedAppIds_.Equals(other.allowedAppIds_)) return false;
       if (PreferredServer != other.PreferredServer) return false;
       if (PriorityClass != other.PriorityClass) return false;
+      if(!bypassProxiesOfType_.Equals(other.bypassProxiesOfType_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -1372,6 +1385,7 @@ namespace OpenSteamworks.Protobuf {
       hash ^= allowedAppIds_.GetHashCode();
       if (HasPreferredServer) hash ^= PreferredServer.GetHashCode();
       if (HasPriorityClass) hash ^= PriorityClass.GetHashCode();
+      hash ^= bypassProxiesOfType_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -1447,6 +1461,7 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(120);
         output.WriteUInt32(PriorityClass);
       }
+      bypassProxiesOfType_.WriteTo(output, _repeated_bypassProxiesOfType_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1514,6 +1529,7 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(120);
         output.WriteUInt32(PriorityClass);
       }
+      bypassProxiesOfType_.WriteTo(ref output, _repeated_bypassProxiesOfType_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -1567,6 +1583,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasPriorityClass) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(PriorityClass);
       }
+      size += bypassProxiesOfType_.CalculateSize(_repeated_bypassProxiesOfType_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -1622,6 +1639,7 @@ namespace OpenSteamworks.Protobuf {
       if (other.HasPriorityClass) {
         PriorityClass = other.PriorityClass;
       }
+      bypassProxiesOfType_.Add(other.bypassProxiesOfType_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -1698,6 +1716,10 @@ namespace OpenSteamworks.Protobuf {
             PriorityClass = input.ReadUInt32();
             break;
           }
+          case 130: {
+            bypassProxiesOfType_.AddEntriesFrom(input, _repeated_bypassProxiesOfType_codec);
+            break;
+          }
         }
       }
     #endif
@@ -1772,6 +1794,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 120: {
             PriorityClass = input.ReadUInt32();
+            break;
+          }
+          case 130: {
+            bypassProxiesOfType_.AddEntriesFrom(ref input, _repeated_bypassProxiesOfType_codec);
             break;
           }
         }

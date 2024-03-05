@@ -38,61 +38,62 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "KAkSFAoMcHJvbW90aW9uX2lkGBEgASgJEhEKCWNhbmNlbGxlZBgSIAEoCBIb",
             "ChNydGltZTMyX2NhbmNlbF90aW1lGBMgASgNIlsKHENQcm9tb3Rpb25FdmVu",
             "dEludml0ZVJlY2VpdmUSEQoJYWNjb3VudGlkGAEgASgNEhEKCXBhcnRuZXJp",
-            "ZBgCIAEoDRIVCg1lbWFpbF9hZGRyZXNzGAMgASgJIoMBCitDUHJvbW90aW9u",
+            "ZBgCIAEoDRIVCg1lbWFpbF9hZGRyZXNzGAMgASgJIqABCitDUHJvbW90aW9u",
             "RXZlbnRJbnZpdGVzX0FjY2VwdEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlk",
             "GAEgASgGEhQKDHJ0ZGF0ZWNob3NlbhgCIAEoDRIVCg1kaXNjb3VudF9kYXlz",
-            "GAMgASgNEhUKDWRpc2NvdW50X2luZm8YBCABKAkiLgosQ1Byb21vdGlvbkV2",
-            "ZW50SW52aXRlc19BY2NlcHRJbnZpdGVfUmVzcG9uc2UiPworQ1Byb21vdGlv",
-            "bkV2ZW50SW52aXRlc19DYW5jZWxJbnZpdGVfUmVxdWVzdBIQCghpbnZpdGVp",
-            "ZBgBIAEoBiIuCixDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0NhbmNlbEludml0",
-            "ZV9SZXNwb25zZSJiCjNDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEFsbEFj",
-            "dGl2ZUludml0ZXNfUmVzcG9uc2USKwoHaW52aXRlcxgBIAMoCzIaLkNQcm9t",
-            "b3Rpb25FdmVudEludml0YXRpb24iQgouQ1Byb21vdGlvbkV2ZW50SW52aXRl",
-            "c19HZXRFbWFpbFRhcmdldHNfUmVxdWVzdBIQCghpbnZpdGVpZBgBIAEoBiK3",
-            "AQovQ1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRFbWFpbFRhcmdldHNfUmVz",
-            "cG9uc2USLgoHdGFyZ2V0cxgBIAMoCzIdLkNQcm9tb3Rpb25FdmVudEludml0",
-            "ZVJlY2VpdmUSIAoYYWRkaXRpb25hbF9lbWFpbF9hZGRyZXNzGAIgAygJEhkK",
-            "EXZhbHZlX2FjY291bnRfaWRzGAMgAygNEhcKD29wZXJhdGlvbl9lbWFpbBgE",
-            "IAEoCSKZAQooQ1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRJbnZpdGVfUmVx",
-            "dWVzdBIQCghpbnZpdGVpZBgBIAEoBhINCgVhcHBpZBgCIAEoDRIRCglwYWNr",
-            "YWdlaWQYAyABKA0SEAoIYnVuZGxlaWQYBCABKA0SEQoJcGFydG5lcmlkGAUg",
-            "ASgNEhQKDHByb21vdGlvbl9pZBgGIAEoCSJYCilDUHJvbW90aW9uRXZlbnRJ",
-            "bnZpdGVzX0dldEludml0ZV9SZXNwb25zZRIrCgdpbnZpdGVzGAEgAygLMhou",
-            "Q1Byb21vdGlvbkV2ZW50SW52aXRhdGlvbiJqCjBDUHJvbW90aW9uRXZlbnRJ",
-            "bnZpdGVzX1Jlc2VuZEVtYWlsSW52aXRlX1JlcXVlc3QSEAoIaW52aXRlaWQY",
-            "ASABKAYSJAocb25seV9ub3RpZnlfYWRkaXRpb25hbF9lbWFpbBgCIAEoCCIz",
-            "CjFDUHJvbW90aW9uRXZlbnRJbnZpdGVzX1Jlc2VuZEVtYWlsSW52aXRlX1Jl",
-            "c3BvbnNlInMKKENQcm9tb3Rpb25FdmVudEludml0ZXNfU2V0SW52aXRlX1Jl",
-            "cXVlc3QSKgoGaW52aXRlGAEgASgLMhouQ1Byb21vdGlvbkV2ZW50SW52aXRh",
-            "dGlvbhIbChNxdWV1ZV9lbWFpbF90b19zZW5kGAIgASgIIj0KKUNQcm9tb3Rp",
-            "b25FdmVudEludml0ZXNfU2V0SW52aXRlX1Jlc3BvbnNlEhAKCGludml0ZWlk",
-            "GAEgASgGInkKFkNQcm9tb3Rpb25SZXF1aXJlbWVudHMSGgoSc3BvdGxpZ2h0",
-            "X2R1ZV9kYXRlGAEgASgNEiIKGm1hcmtldGluZ19tZXNzYWdlX2R1ZV9kYXRl",
-            "GAIgASgNEh8KF2Rpc2NvdW50X2V2ZW50X2R1ZV9kYXRlGAMgASgNMokGChVQ",
-            "cm9tb3Rpb25FdmVudEludml0ZXMSawoMQWNjZXB0SW52aXRlEiwuQ1Byb21v",
-            "dGlvbkV2ZW50SW52aXRlc19BY2NlcHRJbnZpdGVfUmVxdWVzdBotLkNQcm9t",
-            "b3Rpb25FdmVudEludml0ZXNfQWNjZXB0SW52aXRlX1Jlc3BvbnNlEmsKDENh",
-            "bmNlbEludml0ZRIsLkNQcm9tb3Rpb25FdmVudEludml0ZXNfQ2FuY2VsSW52",
-            "aXRlX1JlcXVlc3QaLS5DUHJvbW90aW9uRXZlbnRJbnZpdGVzX0NhbmNlbElu",
-            "dml0ZV9SZXNwb25zZRJcChNHZXRBbGxBY3RpdmVJbnZpdGVzEg8uTm90SW1w",
-            "bGVtZW50ZWQaNC5DUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEFsbEFjdGl2",
-            "ZUludml0ZXNfUmVzcG9uc2USdAoPR2V0RW1haWxUYXJnZXRzEi8uQ1Byb21v",
-            "dGlvbkV2ZW50SW52aXRlc19HZXRFbWFpbFRhcmdldHNfUmVxdWVzdBowLkNQ",
-            "cm9tb3Rpb25FdmVudEludml0ZXNfR2V0RW1haWxUYXJnZXRzX1Jlc3BvbnNl",
-            "EmIKCUdldEludml0ZRIpLkNQcm9tb3Rpb25FdmVudEludml0ZXNfR2V0SW52",
-            "aXRlX1JlcXVlc3QaKi5DUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEludml0",
-            "ZV9SZXNwb25zZRJ6ChFSZXNlbmRFbWFpbEludml0ZRIxLkNQcm9tb3Rpb25F",
-            "dmVudEludml0ZXNfUmVzZW5kRW1haWxJbnZpdGVfUmVxdWVzdBoyLkNQcm9t",
-            "b3Rpb25FdmVudEludml0ZXNfUmVzZW5kRW1haWxJbnZpdGVfUmVzcG9uc2US",
-            "YgoJU2V0SW52aXRlEikuQ1Byb21vdGlvbkV2ZW50SW52aXRlc19TZXRJbnZp",
-            "dGVfUmVxdWVzdBoqLkNQcm9tb3Rpb25FdmVudEludml0ZXNfU2V0SW52aXRl",
-            "X1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
+            "GAMgASgNEhUKDWRpc2NvdW50X2luZm8YBCABKAkSGwoTc2tpcF9kaXNjb3Vu",
+            "dF9ldmVudBgFIAEoCCIuCixDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0FjY2Vw",
+            "dEludml0ZV9SZXNwb25zZSI/CitDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0Nh",
+            "bmNlbEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlkGAEgASgGIi4KLENQcm9t",
+            "b3Rpb25FdmVudEludml0ZXNfQ2FuY2VsSW52aXRlX1Jlc3BvbnNlImIKM0NQ",
+            "cm9tb3Rpb25FdmVudEludml0ZXNfR2V0QWxsQWN0aXZlSW52aXRlc19SZXNw",
+            "b25zZRIrCgdpbnZpdGVzGAEgAygLMhouQ1Byb21vdGlvbkV2ZW50SW52aXRh",
+            "dGlvbiJCCi5DUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEVtYWlsVGFyZ2V0",
+            "c19SZXF1ZXN0EhAKCGludml0ZWlkGAEgASgGIrcBCi9DUHJvbW90aW9uRXZl",
+            "bnRJbnZpdGVzX0dldEVtYWlsVGFyZ2V0c19SZXNwb25zZRIuCgd0YXJnZXRz",
+            "GAEgAygLMh0uQ1Byb21vdGlvbkV2ZW50SW52aXRlUmVjZWl2ZRIgChhhZGRp",
+            "dGlvbmFsX2VtYWlsX2FkZHJlc3MYAiADKAkSGQoRdmFsdmVfYWNjb3VudF9p",
+            "ZHMYAyADKA0SFwoPb3BlcmF0aW9uX2VtYWlsGAQgASgJIpkBCihDUHJvbW90",
+            "aW9uRXZlbnRJbnZpdGVzX0dldEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlk",
+            "GAEgASgGEg0KBWFwcGlkGAIgASgNEhEKCXBhY2thZ2VpZBgDIAEoDRIQCghi",
+            "dW5kbGVpZBgEIAEoDRIRCglwYXJ0bmVyaWQYBSABKA0SFAoMcHJvbW90aW9u",
+            "X2lkGAYgASgJIlgKKUNQcm9tb3Rpb25FdmVudEludml0ZXNfR2V0SW52aXRl",
+            "X1Jlc3BvbnNlEisKB2ludml0ZXMYASADKAsyGi5DUHJvbW90aW9uRXZlbnRJ",
+            "bnZpdGF0aW9uImoKMENQcm9tb3Rpb25FdmVudEludml0ZXNfUmVzZW5kRW1h",
+            "aWxJbnZpdGVfUmVxdWVzdBIQCghpbnZpdGVpZBgBIAEoBhIkChxvbmx5X25v",
+            "dGlmeV9hZGRpdGlvbmFsX2VtYWlsGAIgASgIIjMKMUNQcm9tb3Rpb25FdmVu",
+            "dEludml0ZXNfUmVzZW5kRW1haWxJbnZpdGVfUmVzcG9uc2UicwooQ1Byb21v",
+            "dGlvbkV2ZW50SW52aXRlc19TZXRJbnZpdGVfUmVxdWVzdBIqCgZpbnZpdGUY",
+            "ASABKAsyGi5DUHJvbW90aW9uRXZlbnRJbnZpdGF0aW9uEhsKE3F1ZXVlX2Vt",
+            "YWlsX3RvX3NlbmQYAiABKAgiPQopQ1Byb21vdGlvbkV2ZW50SW52aXRlc19T",
+            "ZXRJbnZpdGVfUmVzcG9uc2USEAoIaW52aXRlaWQYASABKAYieQoWQ1Byb21v",
+            "dGlvblJlcXVpcmVtZW50cxIaChJzcG90bGlnaHRfZHVlX2RhdGUYASABKA0S",
+            "IgoabWFya2V0aW5nX21lc3NhZ2VfZHVlX2RhdGUYAiABKA0SHwoXZGlzY291",
+            "bnRfZXZlbnRfZHVlX2RhdGUYAyABKA0yiQYKFVByb21vdGlvbkV2ZW50SW52",
+            "aXRlcxJrCgxBY2NlcHRJbnZpdGUSLC5DUHJvbW90aW9uRXZlbnRJbnZpdGVz",
+            "X0FjY2VwdEludml0ZV9SZXF1ZXN0Gi0uQ1Byb21vdGlvbkV2ZW50SW52aXRl",
+            "c19BY2NlcHRJbnZpdGVfUmVzcG9uc2USawoMQ2FuY2VsSW52aXRlEiwuQ1By",
+            "b21vdGlvbkV2ZW50SW52aXRlc19DYW5jZWxJbnZpdGVfUmVxdWVzdBotLkNQ",
+            "cm9tb3Rpb25FdmVudEludml0ZXNfQ2FuY2VsSW52aXRlX1Jlc3BvbnNlElwK",
+            "E0dldEFsbEFjdGl2ZUludml0ZXMSDy5Ob3RJbXBsZW1lbnRlZBo0LkNQcm9t",
+            "b3Rpb25FdmVudEludml0ZXNfR2V0QWxsQWN0aXZlSW52aXRlc19SZXNwb25z",
+            "ZRJ0Cg9HZXRFbWFpbFRhcmdldHMSLy5DUHJvbW90aW9uRXZlbnRJbnZpdGVz",
+            "X0dldEVtYWlsVGFyZ2V0c19SZXF1ZXN0GjAuQ1Byb21vdGlvbkV2ZW50SW52",
+            "aXRlc19HZXRFbWFpbFRhcmdldHNfUmVzcG9uc2USYgoJR2V0SW52aXRlEiku",
+            "Q1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRJbnZpdGVfUmVxdWVzdBoqLkNQ",
+            "cm9tb3Rpb25FdmVudEludml0ZXNfR2V0SW52aXRlX1Jlc3BvbnNlEnoKEVJl",
+            "c2VuZEVtYWlsSW52aXRlEjEuQ1Byb21vdGlvbkV2ZW50SW52aXRlc19SZXNl",
+            "bmRFbWFpbEludml0ZV9SZXF1ZXN0GjIuQ1Byb21vdGlvbkV2ZW50SW52aXRl",
+            "c19SZXNlbmRFbWFpbEludml0ZV9SZXNwb25zZRJiCglTZXRJbnZpdGUSKS5D",
+            "UHJvbW90aW9uRXZlbnRJbnZpdGVzX1NldEludml0ZV9SZXF1ZXN0GiouQ1By",
+            "b21vdGlvbkV2ZW50SW52aXRlc19TZXRJbnZpdGVfUmVzcG9uc2VCIKoCHU9w",
+            "ZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation.Parser, new[]{ "Inviteid", "Appid", "InviteAccount", "Rtinvitetime", "Rtexpiretime", "Type", "AcceptAccount", "Rtaccepttime", "Rtdatechosen", "DiscountEventid", "Packageid", "Bundleid", "PrimaryPartnerid", "Deadlines", "NotifyPartner", "AdditionalEmail", "PromotionId", "Cancelled", "Rtime32CancelTime" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInviteReceive), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInviteReceive.Parser, new[]{ "Accountid", "Partnerid", "EmailAddress" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request.Parser, new[]{ "Inviteid", "Rtdatechosen", "DiscountDays", "DiscountInfo" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request.Parser, new[]{ "Inviteid", "Rtdatechosen", "DiscountDays", "DiscountInfo", "SkipDiscountEvent" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Request.Parser, new[]{ "Inviteid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Response.Parser, null, null, null, null, null),
@@ -1573,6 +1574,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       rtdatechosen_ = other.rtdatechosen_;
       discountDays_ = other.discountDays_;
       discountInfo_ = other.discountInfo_;
+      skipDiscountEvent_ = other.skipDiscountEvent_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1689,6 +1691,33 @@ namespace OpenSteamworks.Protobuf.WebUI {
       discountInfo_ = null;
     }
 
+    /// <summary>Field number for the "skip_discount_event" field.</summary>
+    public const int SkipDiscountEventFieldNumber = 5;
+    private readonly static bool SkipDiscountEventDefaultValue = false;
+
+    private bool skipDiscountEvent_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool SkipDiscountEvent {
+      get { if ((_hasBits0 & 8) != 0) { return skipDiscountEvent_; } else { return SkipDiscountEventDefaultValue; } }
+      set {
+        _hasBits0 |= 8;
+        skipDiscountEvent_ = value;
+      }
+    }
+    /// <summary>Gets whether the "skip_discount_event" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSkipDiscountEvent {
+      get { return (_hasBits0 & 8) != 0; }
+    }
+    /// <summary>Clears the value of the "skip_discount_event" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSkipDiscountEvent() {
+      _hasBits0 &= ~8;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -1708,6 +1737,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (Rtdatechosen != other.Rtdatechosen) return false;
       if (DiscountDays != other.DiscountDays) return false;
       if (DiscountInfo != other.DiscountInfo) return false;
+      if (SkipDiscountEvent != other.SkipDiscountEvent) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -1719,6 +1749,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasRtdatechosen) hash ^= Rtdatechosen.GetHashCode();
       if (HasDiscountDays) hash ^= DiscountDays.GetHashCode();
       if (HasDiscountInfo) hash ^= DiscountInfo.GetHashCode();
+      if (HasSkipDiscountEvent) hash ^= SkipDiscountEvent.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -1753,6 +1784,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(34);
         output.WriteString(DiscountInfo);
       }
+      if (HasSkipDiscountEvent) {
+        output.WriteRawTag(40);
+        output.WriteBool(SkipDiscountEvent);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1779,6 +1814,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(34);
         output.WriteString(DiscountInfo);
       }
+      if (HasSkipDiscountEvent) {
+        output.WriteRawTag(40);
+        output.WriteBool(SkipDiscountEvent);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -1800,6 +1839,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (HasDiscountInfo) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(DiscountInfo);
+      }
+      if (HasSkipDiscountEvent) {
+        size += 1 + 1;
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -1824,6 +1866,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (other.HasDiscountInfo) {
         DiscountInfo = other.DiscountInfo;
+      }
+      if (other.HasSkipDiscountEvent) {
+        SkipDiscountEvent = other.SkipDiscountEvent;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1856,6 +1901,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             DiscountInfo = input.ReadString();
             break;
           }
+          case 40: {
+            SkipDiscountEvent = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -1885,6 +1934,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 34: {
             DiscountInfo = input.ReadString();
+            break;
+          }
+          case 40: {
+            SkipDiscountEvent = input.ReadBool();
             break;
           }
         }

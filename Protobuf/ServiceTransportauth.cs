@@ -25,17 +25,21 @@ namespace OpenSteamworks.Protobuf.WebUI {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChtzZXJ2aWNlX3RyYW5zcG9ydGF1dGgucHJvdG8aIGdvb2dsZS9wcm90b2J1",
-            "Zi9kZXNjcmlwdG9yLnByb3RvIjcKI0NUcmFuc3BvcnRBdXRoX0F1dGhlbnRp",
-            "Y2F0ZV9SZXF1ZXN0EhAKCGF1dGhfa2V5GAEgASgJIiYKJENUcmFuc3BvcnRB",
-            "dXRoX0F1dGhlbnRpY2F0ZV9SZXNwb25zZTJsCg1UcmFuc3BvcnRBdXRoElsK",
-            "DEF1dGhlbnRpY2F0ZRIkLkNUcmFuc3BvcnRBdXRoX0F1dGhlbnRpY2F0ZV9S",
-            "ZXF1ZXN0GiUuQ1RyYW5zcG9ydEF1dGhfQXV0aGVudGljYXRlX1Jlc3BvbnNl",
-            "QiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
+            "Zi9kZXNjcmlwdG9yLnByb3RvGhFjb21tb25fYmFzZS5wcm90byI3CiNDVHJh",
+            "bnNwb3J0QXV0aF9BdXRoZW50aWNhdGVfUmVxdWVzdBIQCghhdXRoX2tleRgB",
+            "IAEoCSImCiRDVHJhbnNwb3J0QXV0aF9BdXRoZW50aWNhdGVfUmVzcG9uc2Ui",
+            "KwopQ1RyYW5zcG9ydEF1dGhfU3RhcnRTaHV0ZG93bl9Ob3RpZmljYXRpb24y",
+            "vAEKDVRyYW5zcG9ydEF1dGgSWwoMQXV0aGVudGljYXRlEiQuQ1RyYW5zcG9y",
+            "dEF1dGhfQXV0aGVudGljYXRlX1JlcXVlc3QaJS5DVHJhbnNwb3J0QXV0aF9B",
+            "dXRoZW50aWNhdGVfUmVzcG9uc2USTgoTTm90aWZ5U3RhcnRTaHV0ZG93bhIq",
+            "LkNUcmFuc3BvcnRBdXRoX1N0YXJ0U2h1dGRvd25fTm90aWZpY2F0aW9uGgsu",
+            "Tm9SZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3MuUHJvdG9idWYuV2ViVUk="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
+          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Request), global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Request.Parser, new[]{ "AuthKey" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Response), global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Response.Parser, null, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Response), global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_Authenticate_Response.Parser, null, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_StartShutdown_Notification), global::OpenSteamworks.Protobuf.WebUI.CTransportAuth_StartShutdown_Notification.Parser, null, null, null, null, null)
           }));
     }
     #endregion
@@ -359,6 +363,159 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void MergeFrom(CTransportAuth_Authenticate_Response other) {
+      if (other == null) {
+        return;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CTransportAuth_StartShutdown_Notification : pb::IMessage<CTransportAuth_StartShutdown_Notification>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CTransportAuth_StartShutdown_Notification> _parser = new pb::MessageParser<CTransportAuth_StartShutdown_Notification>(() => new CTransportAuth_StartShutdown_Notification());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CTransportAuth_StartShutdown_Notification> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceTransportauthReflection.Descriptor.MessageTypes[2]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CTransportAuth_StartShutdown_Notification() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CTransportAuth_StartShutdown_Notification(CTransportAuth_StartShutdown_Notification other) : this() {
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CTransportAuth_StartShutdown_Notification Clone() {
+      return new CTransportAuth_StartShutdown_Notification(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CTransportAuth_StartShutdown_Notification);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CTransportAuth_StartShutdown_Notification other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CTransportAuth_StartShutdown_Notification other) {
       if (other == null) {
         return;
       }

@@ -33,27 +33,32 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "RGFpbHlEZWFsX0NyZWF0ZURhaWx5RGVhbF9SZXNwb25zZRILCgNnaWQYASAB",
             "KAYiMQoiQ0RhaWx5RGVhbF9EZWxldGVEYWlseURlYWxfUmVxdWVzdBILCgNn",
             "aWQYASABKAYiJQojQ0RhaWx5RGVhbF9EZWxldGVEYWlseURlYWxfUmVzcG9u",
-            "c2UiWQoiQ0RhaWx5RGVhbF9VcGRhdGVEYWlseURlYWxfUmVxdWVzdBImCgpk",
-            "YWlseV9kZWFsGAEgASgLMhIuQ0RhaWx5RGVhbERldGFpbHMSCwoDZ2lkGAIg",
-            "ASgGIiUKI0NEYWlseURlYWxfVXBkYXRlRGFpbHlEZWFsX1Jlc3BvbnNlIuEC",
-            "ChFDRGFpbHlEZWFsRGV0YWlscxILCgNnaWQYASABKAYSIQoPc3RvcmVfaXRl",
-            "bV90eXBlGAIgASgFQgiCtRgEZW51bRIVCg1zdG9yZV9pdGVtX2lkGAMgASgN",
-            "EhcKD3N0b3JlX2l0ZW1fbmFtZRgEIAEoCRIZChFkaXNjb3VudF9ldmVudF9p",
-            "ZBgFIAEoDRISCgpjcmVhdG9yX2lkGAYgASgNEhoKEnJ0aW1lMzJfc3RhcnRf",
-            "dGltZRgHIAEoDRIYChBsYXN0X3VwZGF0ZV90aW1lGAggASgNEhUKDXRlbXBs",
-            "YXRlX2pzb24YCSABKAkSGAoQcGFydG5lcl9qc29uZGF0YRgKIAEoCRIVCg1p",
-            "bnRlcm5hbF9qc29uGAsgASgJEg8KB2RlbGV0ZWQYDCABKAgSEQoJY2FuY2Vs",
-            "bGVkGA0gASgIEhsKE3J0aW1lMzJfY2FuY2VsX3RpbWUYDiABKA0ygwMKCURh",
-            "aWx5RGVhbBJcCg9DYW5jZWxEYWlseURlYWwSIy5DRGFpbHlEZWFsX0NhbmNl",
-            "bERhaWx5RGVhbF9SZXF1ZXN0GiQuQ0RhaWx5RGVhbF9DYW5jZWxEYWlseURl",
-            "YWxfUmVzcG9uc2USXAoPQ3JlYXRlRGFpbHlEZWFsEiMuQ0RhaWx5RGVhbF9D",
-            "cmVhdGVEYWlseURlYWxfUmVxdWVzdBokLkNEYWlseURlYWxfQ3JlYXRlRGFp",
-            "bHlEZWFsX1Jlc3BvbnNlElwKD0RlbGV0ZURhaWx5RGVhbBIjLkNEYWlseURl",
-            "YWxfRGVsZXRlRGFpbHlEZWFsX1JlcXVlc3QaJC5DRGFpbHlEZWFsX0RlbGV0",
-            "ZURhaWx5RGVhbF9SZXNwb25zZRJcCg9VcGRhdGVEYWlseURlYWwSIy5DRGFp",
-            "bHlEZWFsX1VwZGF0ZURhaWx5RGVhbF9SZXF1ZXN0GiQuQ0RhaWx5RGVhbF9V",
-            "cGRhdGVEYWlseURlYWxfUmVzcG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlBy",
-            "b3RvYnVmLldlYlVJ"));
+            "c2UiOQonQ0RhaWx5RGVhbF9HZXREYWlseURlYWxzRm9yQXBwc19SZXF1ZXN0",
+            "Eg4KBmFwcGlkcxgBIAMoDSJTCihDRGFpbHlEZWFsX0dldERhaWx5RGVhbHNG",
+            "b3JBcHBzX1Jlc3BvbnNlEicKC2RhaWx5X2RlYWxzGAEgAygLMhIuQ0RhaWx5",
+            "RGVhbERldGFpbHMiWQoiQ0RhaWx5RGVhbF9VcGRhdGVEYWlseURlYWxfUmVx",
+            "dWVzdBImCgpkYWlseV9kZWFsGAEgASgLMhIuQ0RhaWx5RGVhbERldGFpbHMS",
+            "CwoDZ2lkGAIgASgGIiUKI0NEYWlseURlYWxfVXBkYXRlRGFpbHlEZWFsX1Jl",
+            "c3BvbnNlIuECChFDRGFpbHlEZWFsRGV0YWlscxILCgNnaWQYASABKAYSIQoP",
+            "c3RvcmVfaXRlbV90eXBlGAIgASgFQgiCtRgEZW51bRIVCg1zdG9yZV9pdGVt",
+            "X2lkGAMgASgNEhcKD3N0b3JlX2l0ZW1fbmFtZRgEIAEoCRIZChFkaXNjb3Vu",
+            "dF9ldmVudF9pZBgFIAEoDRISCgpjcmVhdG9yX2lkGAYgASgNEhoKEnJ0aW1l",
+            "MzJfc3RhcnRfdGltZRgHIAEoDRIYChBsYXN0X3VwZGF0ZV90aW1lGAggASgN",
+            "EhUKDXRlbXBsYXRlX2pzb24YCSABKAkSGAoQcGFydG5lcl9qc29uZGF0YRgK",
+            "IAEoCRIVCg1pbnRlcm5hbF9qc29uGAsgASgJEg8KB2RlbGV0ZWQYDCABKAgS",
+            "EQoJY2FuY2VsbGVkGA0gASgIEhsKE3J0aW1lMzJfY2FuY2VsX3RpbWUYDiAB",
+            "KA0y8AMKCURhaWx5RGVhbBJcCg9DYW5jZWxEYWlseURlYWwSIy5DRGFpbHlE",
+            "ZWFsX0NhbmNlbERhaWx5RGVhbF9SZXF1ZXN0GiQuQ0RhaWx5RGVhbF9DYW5j",
+            "ZWxEYWlseURlYWxfUmVzcG9uc2USXAoPQ3JlYXRlRGFpbHlEZWFsEiMuQ0Rh",
+            "aWx5RGVhbF9DcmVhdGVEYWlseURlYWxfUmVxdWVzdBokLkNEYWlseURlYWxf",
+            "Q3JlYXRlRGFpbHlEZWFsX1Jlc3BvbnNlElwKD0RlbGV0ZURhaWx5RGVhbBIj",
+            "LkNEYWlseURlYWxfRGVsZXRlRGFpbHlEZWFsX1JlcXVlc3QaJC5DRGFpbHlE",
+            "ZWFsX0RlbGV0ZURhaWx5RGVhbF9SZXNwb25zZRJrChRHZXREYWlseURlYWxz",
+            "Rm9yQXBwcxIoLkNEYWlseURlYWxfR2V0RGFpbHlEZWFsc0ZvckFwcHNfUmVx",
+            "dWVzdBopLkNEYWlseURlYWxfR2V0RGFpbHlEZWFsc0ZvckFwcHNfUmVzcG9u",
+            "c2USXAoPVXBkYXRlRGFpbHlEZWFsEiMuQ0RhaWx5RGVhbF9VcGRhdGVEYWls",
+            "eURlYWxfUmVxdWVzdBokLkNEYWlseURlYWxfVXBkYXRlRGFpbHlEZWFsX1Jl",
+            "c3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -63,6 +68,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_CreateDailyDeal_Response), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_CreateDailyDeal_Response.Parser, new[]{ "Gid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_DeleteDailyDeal_Request), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_DeleteDailyDeal_Request.Parser, new[]{ "Gid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_DeleteDailyDeal_Response), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_DeleteDailyDeal_Response.Parser, null, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_GetDailyDealsForApps_Request), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_GetDailyDealsForApps_Request.Parser, new[]{ "Appids" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_GetDailyDealsForApps_Response), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_GetDailyDealsForApps_Response.Parser, new[]{ "DailyDeals" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_UpdateDailyDeal_Request), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_UpdateDailyDeal_Request.Parser, new[]{ "DailyDeal", "Gid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_UpdateDailyDeal_Response), global::OpenSteamworks.Protobuf.WebUI.CDailyDeal_UpdateDailyDeal_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails), global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails.Parser, new[]{ "Gid", "StoreItemType", "StoreItemId", "StoreItemName", "DiscountEventId", "CreatorId", "Rtime32StartTime", "LastUpdateTime", "TemplateJson", "PartnerJsondata", "InternalJson", "Deleted", "Cancelled", "Rtime32CancelTime" }, null, null, null, null)
@@ -1253,6 +1260,366 @@ namespace OpenSteamworks.Protobuf.WebUI {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CDailyDeal_GetDailyDealsForApps_Request : pb::IMessage<CDailyDeal_GetDailyDealsForApps_Request>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Request> _parser = new pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Request>(() => new CDailyDeal_GetDailyDealsForApps_Request());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Request> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[6]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Request() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Request(CDailyDeal_GetDailyDealsForApps_Request other) : this() {
+      appids_ = other.appids_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Request Clone() {
+      return new CDailyDeal_GetDailyDealsForApps_Request(this);
+    }
+
+    /// <summary>Field number for the "appids" field.</summary>
+    public const int AppidsFieldNumber = 1;
+    private static readonly pb::FieldCodec<uint> _repeated_appids_codec
+        = pb::FieldCodec.ForUInt32(8);
+    private readonly pbc::RepeatedField<uint> appids_ = new pbc::RepeatedField<uint>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<uint> Appids {
+      get { return appids_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CDailyDeal_GetDailyDealsForApps_Request);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CDailyDeal_GetDailyDealsForApps_Request other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if(!appids_.Equals(other.appids_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      hash ^= appids_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      appids_.WriteTo(output, _repeated_appids_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      appids_.WriteTo(ref output, _repeated_appids_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      size += appids_.CalculateSize(_repeated_appids_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CDailyDeal_GetDailyDealsForApps_Request other) {
+      if (other == null) {
+        return;
+      }
+      appids_.Add(other.appids_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10:
+          case 8: {
+            appids_.AddEntriesFrom(input, _repeated_appids_codec);
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10:
+          case 8: {
+            appids_.AddEntriesFrom(ref input, _repeated_appids_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CDailyDeal_GetDailyDealsForApps_Response : pb::IMessage<CDailyDeal_GetDailyDealsForApps_Response>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Response> _parser = new pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Response>(() => new CDailyDeal_GetDailyDealsForApps_Response());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CDailyDeal_GetDailyDealsForApps_Response> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[7]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Response() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Response(CDailyDeal_GetDailyDealsForApps_Response other) : this() {
+      dailyDeals_ = other.dailyDeals_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CDailyDeal_GetDailyDealsForApps_Response Clone() {
+      return new CDailyDeal_GetDailyDealsForApps_Response(this);
+    }
+
+    /// <summary>Field number for the "daily_deals" field.</summary>
+    public const int DailyDealsFieldNumber = 1;
+    private static readonly pb::FieldCodec<global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails> _repeated_dailyDeals_codec
+        = pb::FieldCodec.ForMessage(10, global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails.Parser);
+    private readonly pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails> dailyDeals_ = new pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CDailyDealDetails> DailyDeals {
+      get { return dailyDeals_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CDailyDeal_GetDailyDealsForApps_Response);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CDailyDeal_GetDailyDealsForApps_Response other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if(!dailyDeals_.Equals(other.dailyDeals_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      hash ^= dailyDeals_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      dailyDeals_.WriteTo(output, _repeated_dailyDeals_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      dailyDeals_.WriteTo(ref output, _repeated_dailyDeals_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      size += dailyDeals_.CalculateSize(_repeated_dailyDeals_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CDailyDeal_GetDailyDealsForApps_Response other) {
+      if (other == null) {
+        return;
+      }
+      dailyDeals_.Add(other.dailyDeals_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            dailyDeals_.AddEntriesFrom(input, _repeated_dailyDeals_codec);
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            dailyDeals_.AddEntriesFrom(ref input, _repeated_dailyDeals_codec);
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CDailyDeal_UpdateDailyDeal_Request : pb::IMessage<CDailyDeal_UpdateDailyDeal_Request>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -1268,7 +1635,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[6]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[8]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1520,7 +1887,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[7]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[9]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -1674,7 +2041,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[8]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceDailydealReflection.Descriptor.MessageTypes[10]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

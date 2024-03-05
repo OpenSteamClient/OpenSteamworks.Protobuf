@@ -44,40 +44,44 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "kgEKJkNTdG9yZVF1ZXJ5X1NlYXJjaFN1Z2dlc3Rpb25zX1Jlc3BvbnNlEiwK",
             "CG1ldGFkYXRhGAEgASgLMhouQ1N0b3JlUXVlcnlSZXN1bHRNZXRhZGF0YRIZ",
             "CgNpZHMYAiADKAsyDC5TdG9yZUl0ZW1JRBIfCgtzdG9yZV9pdGVtcxgDIAMo",
-            "CzIKLlN0b3JlSXRlbSKFBAoSQ1N0b3JlUXVlcnlGaWx0ZXJzEhUKDXJlbGVh",
+            "CzIKLlN0b3JlSXRlbSK+BAoSQ1N0b3JlUXVlcnlGaWx0ZXJzEhUKDXJlbGVh",
             "c2VkX29ubHkYASABKAgSGAoQY29taW5nX3Nvb25fb25seRgCIAEoCBI1Cgx0",
             "eXBlX2ZpbHRlcnMYAyABKAsyHy5DU3RvcmVRdWVyeUZpbHRlcnNfVHlwZUZp",
             "bHRlcnMSOAoRdGFnaWRzX211c3RfbWF0Y2gYCiADKAsyHS5DU3RvcmVRdWVy",
-            "eUZpbHRlcnNfVGFnRmlsdGVyEhYKDnRhZ2lkc19leGNsdWRlGAsgAygFEjAK",
-            "HmNvbnRlbnRfZGVzY3JpcHRvcnNfbXVzdF9tYXRjaBgPIAMoBUIIgrUYBGVu",
-            "dW0SLgocY29udGVudF9kZXNjcmlwdG9yc19leGNsdWRlZBgQIAMoBUIIgrUY",
-            "BGVudW0SHgoWcmVnaW9uYWxfdG9wX25fc2VsbGVycxgoIAEoBRIcChRnbG9i",
-            "YWxfdG9wX25fc2VsbGVycxgpIAEoBRIoCiByZWdpb25hbF9sb25nX3Rlcm1f",
-            "dG9wX25fc2VsbGVycxgqIAEoBRImCh5nbG9iYWxfbG9uZ190ZXJtX3RvcF9u",
-            "X3NlbGxlcnMYKyABKAUSLAoRc3RvcmVfcGFnZV9maWx0ZXIYLCABKAsyES5D",
-            "U3RvcmVQYWdlRmlsdGVyEhUKDXBhcmVudF9hcHBpZHMYLSADKA0iLgocQ1N0",
-            "b3JlUXVlcnlGaWx0ZXJzX1RhZ0ZpbHRlchIOCgZ0YWdpZHMYASADKAUivAIK",
-            "HkNTdG9yZVF1ZXJ5RmlsdGVyc19UeXBlRmlsdGVycxIUCgxpbmNsdWRlX2Fw",
-            "cHMYASABKAgSGAoQaW5jbHVkZV9wYWNrYWdlcxgCIAEoCBIXCg9pbmNsdWRl",
-            "X2J1bmRsZXMYAyABKAgSFQoNaW5jbHVkZV9nYW1lcxgKIAEoCBIVCg1pbmNs",
-            "dWRlX2RlbW9zGAsgASgIEhQKDGluY2x1ZGVfbW9kcxgMIAEoCBITCgtpbmNs",
-            "dWRlX2RsYxgNIAEoCBIYChBpbmNsdWRlX3NvZnR3YXJlGA4gASgIEhUKDWlu",
-            "Y2x1ZGVfdmlkZW8YDyABKAgSGAoQaW5jbHVkZV9oYXJkd2FyZRgQIAEoCBIW",
-            "Cg5pbmNsdWRlX3NlcmllcxgRIAEoCBIVCg1pbmNsdWRlX211c2ljGBIgASgI",
-            "InkKEUNTdG9yZVF1ZXJ5UGFyYW1zEhAKBXN0YXJ0GAEgASgFOgEwEhEKBWNv",
-            "dW50GAIgASgFOgIxMBIZCgRzb3J0GAogASgFOgEwQgiCtRgEZW51bRIkCgdm",
-            "aWx0ZXJzGBQgASgLMhMuQ1N0b3JlUXVlcnlGaWx0ZXJzImoKHENTdG9yZVF1",
-            "ZXJ5UGVyUmVzdWx0TWV0YWRhdGESGAoCaWQYASABKAsyDC5TdG9yZUl0ZW1J",
-            "RBINCgVzY29yZRgCIAEoARIhChlzcGVsbGNoZWNnZW5lcmF0ZWRfcmVzdWx0",
-            "GAMgASgIIrMBChlDU3RvcmVRdWVyeVJlc3VsdE1ldGFkYXRhEh4KFnRvdGFs",
-            "X21hdGNoaW5nX3JlY29yZHMYASABKAUSDQoFc3RhcnQYAiABKAUSDQoFY291",
-            "bnQYAyABKAUSOgoTcGVyX3Jlc3VsdF9tZXRhZGF0YRgEIAMoCzIdLkNTdG9y",
-            "ZVF1ZXJ5UGVyUmVzdWx0TWV0YWRhdGESHAoUc3BlbGxjaGVjc3VnZ2VzdGlv",
-            "bnMYBSADKAkytAEKClN0b3JlUXVlcnkSQAoFUXVlcnkSGi5DU3RvcmVRdWVy",
-            "eV9RdWVyeV9SZXF1ZXN0GhsuQ1N0b3JlUXVlcnlfUXVlcnlfUmVzcG9uc2US",
-            "ZAoRU2VhcmNoU3VnZ2VzdGlvbnMSJi5DU3RvcmVRdWVyeV9TZWFyY2hTdWdn",
-            "ZXN0aW9uc19SZXF1ZXN0GicuQ1N0b3JlUXVlcnlfU2VhcmNoU3VnZ2VzdGlv",
-            "bnNfUmVzcG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
+            "eUZpbHRlcnNfVGFnRmlsdGVyEhYKDnRhZ2lkc19leGNsdWRlGAsgAygFEjcK",
+            "DXByaWNlX2ZpbHRlcnMYDCABKAsyIC5DU3RvcmVRdWVyeUZpbHRlcnNfUHJp",
+            "Y2VGaWx0ZXJzEjAKHmNvbnRlbnRfZGVzY3JpcHRvcnNfbXVzdF9tYXRjaBgP",
+            "IAMoBUIIgrUYBGVudW0SLgocY29udGVudF9kZXNjcmlwdG9yc19leGNsdWRl",
+            "ZBgQIAMoBUIIgrUYBGVudW0SHgoWcmVnaW9uYWxfdG9wX25fc2VsbGVycxgo",
+            "IAEoBRIcChRnbG9iYWxfdG9wX25fc2VsbGVycxgpIAEoBRIoCiByZWdpb25h",
+            "bF9sb25nX3Rlcm1fdG9wX25fc2VsbGVycxgqIAEoBRImCh5nbG9iYWxfbG9u",
+            "Z190ZXJtX3RvcF9uX3NlbGxlcnMYKyABKAUSLAoRc3RvcmVfcGFnZV9maWx0",
+            "ZXIYLCABKAsyES5DU3RvcmVQYWdlRmlsdGVyEhUKDXBhcmVudF9hcHBpZHMY",
+            "LSADKA0iVgofQ1N0b3JlUXVlcnlGaWx0ZXJzX1ByaWNlRmlsdGVycxIXCg9v",
+            "bmx5X2ZyZWVfaXRlbXMYASABKAgSGgoSZXhjbHVkZV9mcmVlX2l0ZW1zGAIg",
+            "ASgIIi4KHENTdG9yZVF1ZXJ5RmlsdGVyc19UYWdGaWx0ZXISDgoGdGFnaWRz",
+            "GAEgAygFIrwCCh5DU3RvcmVRdWVyeUZpbHRlcnNfVHlwZUZpbHRlcnMSFAoM",
+            "aW5jbHVkZV9hcHBzGAEgASgIEhgKEGluY2x1ZGVfcGFja2FnZXMYAiABKAgS",
+            "FwoPaW5jbHVkZV9idW5kbGVzGAMgASgIEhUKDWluY2x1ZGVfZ2FtZXMYCiAB",
+            "KAgSFQoNaW5jbHVkZV9kZW1vcxgLIAEoCBIUCgxpbmNsdWRlX21vZHMYDCAB",
+            "KAgSEwoLaW5jbHVkZV9kbGMYDSABKAgSGAoQaW5jbHVkZV9zb2Z0d2FyZRgO",
+            "IAEoCBIVCg1pbmNsdWRlX3ZpZGVvGA8gASgIEhgKEGluY2x1ZGVfaGFyZHdh",
+            "cmUYECABKAgSFgoOaW5jbHVkZV9zZXJpZXMYESABKAgSFQoNaW5jbHVkZV9t",
+            "dXNpYxgSIAEoCCJ5ChFDU3RvcmVRdWVyeVBhcmFtcxIQCgVzdGFydBgBIAEo",
+            "BToBMBIRCgVjb3VudBgCIAEoBToCMTASGQoEc29ydBgKIAEoBToBMEIIgrUY",
+            "BGVudW0SJAoHZmlsdGVycxgUIAEoCzITLkNTdG9yZVF1ZXJ5RmlsdGVycyJq",
+            "ChxDU3RvcmVRdWVyeVBlclJlc3VsdE1ldGFkYXRhEhgKAmlkGAEgASgLMgwu",
+            "U3RvcmVJdGVtSUQSDQoFc2NvcmUYAiABKAESIQoZc3BlbGxjaGVjZ2VuZXJh",
+            "dGVkX3Jlc3VsdBgDIAEoCCKzAQoZQ1N0b3JlUXVlcnlSZXN1bHRNZXRhZGF0",
+            "YRIeChZ0b3RhbF9tYXRjaGluZ19yZWNvcmRzGAEgASgFEg0KBXN0YXJ0GAIg",
+            "ASgFEg0KBWNvdW50GAMgASgFEjoKE3Blcl9yZXN1bHRfbWV0YWRhdGEYBCAD",
+            "KAsyHS5DU3RvcmVRdWVyeVBlclJlc3VsdE1ldGFkYXRhEhwKFHNwZWxsY2hl",
+            "Y3N1Z2dlc3Rpb25zGAUgAygJMrQBCgpTdG9yZVF1ZXJ5EkAKBVF1ZXJ5Ehou",
+            "Q1N0b3JlUXVlcnlfUXVlcnlfUmVxdWVzdBobLkNTdG9yZVF1ZXJ5X1F1ZXJ5",
+            "X1Jlc3BvbnNlEmQKEVNlYXJjaFN1Z2dlc3Rpb25zEiYuQ1N0b3JlUXVlcnlf",
+            "U2VhcmNoU3VnZ2VzdGlvbnNfUmVxdWVzdBonLkNTdG9yZVF1ZXJ5X1NlYXJj",
+            "aFN1Z2dlc3Rpb25zX1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90",
+            "b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -85,7 +89,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_Query_Response), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_Query_Response.Parser, new[]{ "Metadata", "Ids", "StoreItems" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_SearchSuggestions_Request), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_SearchSuggestions_Request.Parser, new[]{ "QueryName", "Context", "SearchTerm", "MaxResults", "Filters", "DataRequest", "UseSpellcheck", "SearchTags", "SearchCreators", "PrefilterCreators" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_SearchSuggestions_Response), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_SearchSuggestions_Response.Parser, new[]{ "Metadata", "Ids", "StoreItems" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters.Parser, new[]{ "ReleasedOnly", "ComingSoonOnly", "TypeFilters", "TagidsMustMatch", "TagidsExclude", "ContentDescriptorsMustMatch", "ContentDescriptorsExcluded", "RegionalTopNSellers", "GlobalTopNSellers", "RegionalLongTermTopNSellers", "GlobalLongTermTopNSellers", "StorePageFilter", "ParentAppids" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters.Parser, new[]{ "ReleasedOnly", "ComingSoonOnly", "TypeFilters", "TagidsMustMatch", "TagidsExclude", "PriceFilters", "ContentDescriptorsMustMatch", "ContentDescriptorsExcluded", "RegionalTopNSellers", "GlobalTopNSellers", "RegionalLongTermTopNSellers", "GlobalLongTermTopNSellers", "StorePageFilter", "ParentAppids" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters.Parser, new[]{ "OnlyFreeItems", "ExcludeFreeItems" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_TagFilter), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_TagFilter.Parser, new[]{ "Tagids" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_TypeFilters), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_TypeFilters.Parser, new[]{ "IncludeApps", "IncludePackages", "IncludeBundles", "IncludeGames", "IncludeDemos", "IncludeMods", "IncludeDlc", "IncludeSoftware", "IncludeVideo", "IncludeHardware", "IncludeSeries", "IncludeMusic" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQueryParams), global::OpenSteamworks.Protobuf.WebUI.CStoreQueryParams.Parser, new[]{ "Start", "Count", "Sort", "Filters" }, null, null, null, null),
@@ -1689,6 +1694,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       typeFilters_ = other.typeFilters_ != null ? other.typeFilters_.Clone() : null;
       tagidsMustMatch_ = other.tagidsMustMatch_.Clone();
       tagidsExclude_ = other.tagidsExclude_.Clone();
+      priceFilters_ = other.priceFilters_ != null ? other.priceFilters_.Clone() : null;
       contentDescriptorsMustMatch_ = other.contentDescriptorsMustMatch_.Clone();
       contentDescriptorsExcluded_ = other.contentDescriptorsExcluded_.Clone();
       regionalTopNSellers_ = other.regionalTopNSellers_;
@@ -1792,6 +1798,18 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public pbc::RepeatedField<int> TagidsExclude {
       get { return tagidsExclude_; }
+    }
+
+    /// <summary>Field number for the "price_filters" field.</summary>
+    public const int PriceFiltersFieldNumber = 12;
+    private global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters priceFilters_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters PriceFilters {
+      get { return priceFilters_; }
+      set {
+        priceFilters_ = value;
+      }
     }
 
     /// <summary>Field number for the "content_descriptors_must_match" field.</summary>
@@ -1967,6 +1985,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (!object.Equals(TypeFilters, other.TypeFilters)) return false;
       if(!tagidsMustMatch_.Equals(other.tagidsMustMatch_)) return false;
       if(!tagidsExclude_.Equals(other.tagidsExclude_)) return false;
+      if (!object.Equals(PriceFilters, other.PriceFilters)) return false;
       if(!contentDescriptorsMustMatch_.Equals(other.contentDescriptorsMustMatch_)) return false;
       if(!contentDescriptorsExcluded_.Equals(other.contentDescriptorsExcluded_)) return false;
       if (RegionalTopNSellers != other.RegionalTopNSellers) return false;
@@ -1987,6 +2006,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (typeFilters_ != null) hash ^= TypeFilters.GetHashCode();
       hash ^= tagidsMustMatch_.GetHashCode();
       hash ^= tagidsExclude_.GetHashCode();
+      if (priceFilters_ != null) hash ^= PriceFilters.GetHashCode();
       hash ^= contentDescriptorsMustMatch_.GetHashCode();
       hash ^= contentDescriptorsExcluded_.GetHashCode();
       if (HasRegionalTopNSellers) hash ^= RegionalTopNSellers.GetHashCode();
@@ -2027,6 +2047,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       tagidsMustMatch_.WriteTo(output, _repeated_tagidsMustMatch_codec);
       tagidsExclude_.WriteTo(output, _repeated_tagidsExclude_codec);
+      if (priceFilters_ != null) {
+        output.WriteRawTag(98);
+        output.WriteMessage(PriceFilters);
+      }
       contentDescriptorsMustMatch_.WriteTo(output, _repeated_contentDescriptorsMustMatch_codec);
       contentDescriptorsExcluded_.WriteTo(output, _repeated_contentDescriptorsExcluded_codec);
       if (HasRegionalTopNSellers) {
@@ -2074,6 +2098,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       tagidsMustMatch_.WriteTo(ref output, _repeated_tagidsMustMatch_codec);
       tagidsExclude_.WriteTo(ref output, _repeated_tagidsExclude_codec);
+      if (priceFilters_ != null) {
+        output.WriteRawTag(98);
+        output.WriteMessage(PriceFilters);
+      }
       contentDescriptorsMustMatch_.WriteTo(ref output, _repeated_contentDescriptorsMustMatch_codec);
       contentDescriptorsExcluded_.WriteTo(ref output, _repeated_contentDescriptorsExcluded_codec);
       if (HasRegionalTopNSellers) {
@@ -2118,6 +2146,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       size += tagidsMustMatch_.CalculateSize(_repeated_tagidsMustMatch_codec);
       size += tagidsExclude_.CalculateSize(_repeated_tagidsExclude_codec);
+      if (priceFilters_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(PriceFilters);
+      }
       size += contentDescriptorsMustMatch_.CalculateSize(_repeated_contentDescriptorsMustMatch_codec);
       size += contentDescriptorsExcluded_.CalculateSize(_repeated_contentDescriptorsExcluded_codec);
       if (HasRegionalTopNSellers) {
@@ -2162,6 +2193,12 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       tagidsMustMatch_.Add(other.tagidsMustMatch_);
       tagidsExclude_.Add(other.tagidsExclude_);
+      if (other.priceFilters_ != null) {
+        if (priceFilters_ == null) {
+          PriceFilters = new global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters();
+        }
+        PriceFilters.MergeFrom(other.PriceFilters);
+      }
       contentDescriptorsMustMatch_.Add(other.contentDescriptorsMustMatch_);
       contentDescriptorsExcluded_.Add(other.contentDescriptorsExcluded_);
       if (other.HasRegionalTopNSellers) {
@@ -2220,6 +2257,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
           case 90:
           case 88: {
             tagidsExclude_.AddEntriesFrom(input, _repeated_tagidsExclude_codec);
+            break;
+          }
+          case 98: {
+            if (priceFilters_ == null) {
+              PriceFilters = new global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters();
+            }
+            input.ReadMessage(PriceFilters);
             break;
           }
           case 122:
@@ -2299,6 +2343,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
             tagidsExclude_.AddEntriesFrom(ref input, _repeated_tagidsExclude_codec);
             break;
           }
+          case 98: {
+            if (priceFilters_ == null) {
+              PriceFilters = new global::OpenSteamworks.Protobuf.WebUI.CStoreQueryFilters_PriceFilters();
+            }
+            input.ReadMessage(PriceFilters);
+            break;
+          }
           case 122:
           case 120: {
             contentDescriptorsMustMatch_.AddEntriesFrom(ref input, _repeated_contentDescriptorsMustMatch_codec);
@@ -2345,6 +2396,265 @@ namespace OpenSteamworks.Protobuf.WebUI {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CStoreQueryFilters_PriceFilters : pb::IMessage<CStoreQueryFilters_PriceFilters>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CStoreQueryFilters_PriceFilters> _parser = new pb::MessageParser<CStoreQueryFilters_PriceFilters>(() => new CStoreQueryFilters_PriceFilters());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CStoreQueryFilters_PriceFilters> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[5]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CStoreQueryFilters_PriceFilters() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CStoreQueryFilters_PriceFilters(CStoreQueryFilters_PriceFilters other) : this() {
+      _hasBits0 = other._hasBits0;
+      onlyFreeItems_ = other.onlyFreeItems_;
+      excludeFreeItems_ = other.excludeFreeItems_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CStoreQueryFilters_PriceFilters Clone() {
+      return new CStoreQueryFilters_PriceFilters(this);
+    }
+
+    /// <summary>Field number for the "only_free_items" field.</summary>
+    public const int OnlyFreeItemsFieldNumber = 1;
+    private readonly static bool OnlyFreeItemsDefaultValue = false;
+
+    private bool onlyFreeItems_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool OnlyFreeItems {
+      get { if ((_hasBits0 & 1) != 0) { return onlyFreeItems_; } else { return OnlyFreeItemsDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        onlyFreeItems_ = value;
+      }
+    }
+    /// <summary>Gets whether the "only_free_items" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasOnlyFreeItems {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "only_free_items" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearOnlyFreeItems() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "exclude_free_items" field.</summary>
+    public const int ExcludeFreeItemsFieldNumber = 2;
+    private readonly static bool ExcludeFreeItemsDefaultValue = false;
+
+    private bool excludeFreeItems_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool ExcludeFreeItems {
+      get { if ((_hasBits0 & 2) != 0) { return excludeFreeItems_; } else { return ExcludeFreeItemsDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        excludeFreeItems_ = value;
+      }
+    }
+    /// <summary>Gets whether the "exclude_free_items" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasExcludeFreeItems {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "exclude_free_items" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearExcludeFreeItems() {
+      _hasBits0 &= ~2;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CStoreQueryFilters_PriceFilters);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CStoreQueryFilters_PriceFilters other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (OnlyFreeItems != other.OnlyFreeItems) return false;
+      if (ExcludeFreeItems != other.ExcludeFreeItems) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasOnlyFreeItems) hash ^= OnlyFreeItems.GetHashCode();
+      if (HasExcludeFreeItems) hash ^= ExcludeFreeItems.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasOnlyFreeItems) {
+        output.WriteRawTag(8);
+        output.WriteBool(OnlyFreeItems);
+      }
+      if (HasExcludeFreeItems) {
+        output.WriteRawTag(16);
+        output.WriteBool(ExcludeFreeItems);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasOnlyFreeItems) {
+        output.WriteRawTag(8);
+        output.WriteBool(OnlyFreeItems);
+      }
+      if (HasExcludeFreeItems) {
+        output.WriteRawTag(16);
+        output.WriteBool(ExcludeFreeItems);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasOnlyFreeItems) {
+        size += 1 + 1;
+      }
+      if (HasExcludeFreeItems) {
+        size += 1 + 1;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CStoreQueryFilters_PriceFilters other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasOnlyFreeItems) {
+        OnlyFreeItems = other.OnlyFreeItems;
+      }
+      if (other.HasExcludeFreeItems) {
+        ExcludeFreeItems = other.ExcludeFreeItems;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            OnlyFreeItems = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ExcludeFreeItems = input.ReadBool();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            OnlyFreeItems = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ExcludeFreeItems = input.ReadBool();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CStoreQueryFilters_TagFilter : pb::IMessage<CStoreQueryFilters_TagFilter>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -2359,7 +2669,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[5]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[6]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2541,7 +2851,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[6]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[7]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3320,7 +3630,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[7]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[8]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3677,7 +3987,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[8]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[9]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3982,7 +4292,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[9]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceStorequeryReflection.Descriptor.MessageTypes[10]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
