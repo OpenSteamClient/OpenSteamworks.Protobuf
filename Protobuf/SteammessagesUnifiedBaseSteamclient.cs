@@ -28,20 +28,29 @@ namespace OpenSteamworks.Protobuf {
             "bxogZ29vZ2xlL3Byb3RvYnVmL2Rlc2NyaXB0b3IucHJvdG8iDAoKTm9SZXNw",
             "b25zZSpZChNFUHJvdG9FeGVjdXRpb25TaXRlEh4KGkVQcm90b0V4ZWN1dGlv",
             "blNpdGVVbmtub3duEAASIgoeRVByb3RvRXhlY3V0aW9uU2l0ZVN0ZWFtQ2xp",
-            "ZW50EAI6NAoLZGVzY3JpcHRpb24SHS5nb29nbGUucHJvdG9idWYuRmllbGRP",
-            "cHRpb25zGNCGAyABKAk6PgoTc2VydmljZV9kZXNjcmlwdGlvbhIfLmdvb2ds",
-            "ZS5wcm90b2J1Zi5TZXJ2aWNlT3B0aW9ucxjQhgMgASgJOnMKFnNlcnZpY2Vf",
-            "ZXhlY3V0aW9uX3NpdGUSHy5nb29nbGUucHJvdG9idWYuU2VydmljZU9wdGlv",
-            "bnMY2IYDIAEoDjIULkVQcm90b0V4ZWN1dGlvblNpdGU6GkVQcm90b0V4ZWN1",
-            "dGlvblNpdGVVbmtub3duOjwKEm1ldGhvZF9kZXNjcmlwdGlvbhIeLmdvb2ds",
-            "ZS5wcm90b2J1Zi5NZXRob2RPcHRpb25zGNCGAyABKAk6OAoQZW51bV9kZXNj",
-            "cmlwdGlvbhIcLmdvb2dsZS5wcm90b2J1Zi5FbnVtT3B0aW9ucxjQhgMgASgJ",
-            "OkMKFmVudW1fdmFsdWVfZGVzY3JpcHRpb24SIS5nb29nbGUucHJvdG9idWYu",
-            "RW51bVZhbHVlT3B0aW9ucxjQhgMgASgJQh9IAYABAKoCF09wZW5TdGVhbXdv",
-            "cmtzLlByb3RvYnVm"));
+            "ZW50EAIqYQoRRVByb3RvU2VydmljZVR5cGUSIgoeRVByb3RvU2VydmljZVR5",
+            "cGVTdGVhbU1lc3NhZ2VzEAASKAokRVByb3RvU2VydmljZVR5cGVWUkdhbWVw",
+            "YWRVSU1lc3NhZ2VzEAE6PgoTbWVzc2FnZV9kZXNjcmlwdGlvbhIfLmdvb2ds",
+            "ZS5wcm90b2J1Zi5NZXNzYWdlT3B0aW9ucxi4jgMgASgJOkQKEmZvcmNlX2Vt",
+            "aXRfbWVzc2FnZRIfLmdvb2dsZS5wcm90b2J1Zi5NZXNzYWdlT3B0aW9ucxjq",
+            "hgMgASgIOgVmYWxzZTo0CgtkZXNjcmlwdGlvbhIdLmdvb2dsZS5wcm90b2J1",
+            "Zi5GaWVsZE9wdGlvbnMY0IYDIAEoCTo+ChNzZXJ2aWNlX2Rlc2NyaXB0aW9u",
+            "Eh8uZ29vZ2xlLnByb3RvYnVmLlNlcnZpY2VPcHRpb25zGNCGAyABKAk6cwoW",
+            "c2VydmljZV9leGVjdXRpb25fc2l0ZRIfLmdvb2dsZS5wcm90b2J1Zi5TZXJ2",
+            "aWNlT3B0aW9ucxjYhgMgASgOMhQuRVByb3RvRXhlY3V0aW9uU2l0ZToaRVBy",
+            "b3RvRXhlY3V0aW9uU2l0ZVVua25vd246awoMc2VydmljZV90eXBlEh8uZ29v",
+            "Z2xlLnByb3RvYnVmLlNlcnZpY2VPcHRpb25zGOmGAyABKA4yEi5FUHJvdG9T",
+            "ZXJ2aWNlVHlwZToeRVByb3RvU2VydmljZVR5cGVTdGVhbU1lc3NhZ2VzOkQK",
+            "EmZvcmNlX2VtaXRfc2VydmljZRIfLmdvb2dsZS5wcm90b2J1Zi5TZXJ2aWNl",
+            "T3B0aW9ucxjqhgMgASgIOgVmYWxzZTo8ChJtZXRob2RfZGVzY3JpcHRpb24S",
+            "Hi5nb29nbGUucHJvdG9idWYuTWV0aG9kT3B0aW9ucxjQhgMgASgJOjgKEGVu",
+            "dW1fZGVzY3JpcHRpb24SHC5nb29nbGUucHJvdG9idWYuRW51bU9wdGlvbnMY",
+            "0IYDIAEoCTpDChZlbnVtX3ZhbHVlX2Rlc2NyaXB0aW9uEiEuZ29vZ2xlLnBy",
+            "b3RvYnVmLkVudW1WYWx1ZU9wdGlvbnMY0IYDIAEoCUIfSAGAAQCqAhdPcGVu",
+            "U3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EProtoExecutionSite), }, new pb::Extension[] { SteammessagesUnifiedBaseSteamclientExtensions.Description, SteammessagesUnifiedBaseSteamclientExtensions.ServiceDescription, SteammessagesUnifiedBaseSteamclientExtensions.ServiceExecutionSite, SteammessagesUnifiedBaseSteamclientExtensions.MethodDescription, SteammessagesUnifiedBaseSteamclientExtensions.EnumDescription, SteammessagesUnifiedBaseSteamclientExtensions.EnumValueDescription }, new pbr::GeneratedClrTypeInfo[] {
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EProtoExecutionSite), typeof(global::OpenSteamworks.Protobuf.EProtoServiceType), }, new pb::Extension[] { SteammessagesUnifiedBaseSteamclientExtensions.MessageDescription, SteammessagesUnifiedBaseSteamclientExtensions.ForceEmitMessage, SteammessagesUnifiedBaseSteamclientExtensions.Description, SteammessagesUnifiedBaseSteamclientExtensions.ServiceDescription, SteammessagesUnifiedBaseSteamclientExtensions.ServiceExecutionSite, SteammessagesUnifiedBaseSteamclientExtensions.ServiceType, SteammessagesUnifiedBaseSteamclientExtensions.ForceEmitService, SteammessagesUnifiedBaseSteamclientExtensions.MethodDescription, SteammessagesUnifiedBaseSteamclientExtensions.EnumDescription, SteammessagesUnifiedBaseSteamclientExtensions.EnumValueDescription }, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.NoResponse), global::OpenSteamworks.Protobuf.NoResponse.Parser, null, null, null, null, null)
           }));
     }
@@ -50,12 +59,20 @@ namespace OpenSteamworks.Protobuf {
   }
   /// <summary>Holder for extension identifiers generated from the top level of steammessages_unified_base.steamclient.proto</summary>
   public static partial class SteammessagesUnifiedBaseSteamclientExtensions {
+    public static readonly pb::Extension<global::Google.Protobuf.Reflection.MessageOptions, string> MessageDescription =
+      new pb::Extension<global::Google.Protobuf.Reflection.MessageOptions, string>(51000, pb::FieldCodec.ForString(408002, ""));
+    public static readonly pb::Extension<global::Google.Protobuf.Reflection.MessageOptions, bool> ForceEmitMessage =
+      new pb::Extension<global::Google.Protobuf.Reflection.MessageOptions, bool>(50026, pb::FieldCodec.ForBool(400208, false));
     public static readonly pb::Extension<global::Google.Protobuf.Reflection.FieldOptions, string> Description =
       new pb::Extension<global::Google.Protobuf.Reflection.FieldOptions, string>(50000, pb::FieldCodec.ForString(400002, ""));
     public static readonly pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, string> ServiceDescription =
       new pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, string>(50000, pb::FieldCodec.ForString(400002, ""));
     public static readonly pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, global::OpenSteamworks.Protobuf.EProtoExecutionSite> ServiceExecutionSite =
       new pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, global::OpenSteamworks.Protobuf.EProtoExecutionSite>(50008, pb::FieldCodec.ForEnum(400064, x => (int) x, x => (global::OpenSteamworks.Protobuf.EProtoExecutionSite) x, global::OpenSteamworks.Protobuf.EProtoExecutionSite.Unknown));
+    public static readonly pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, global::OpenSteamworks.Protobuf.EProtoServiceType> ServiceType =
+      new pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, global::OpenSteamworks.Protobuf.EProtoServiceType>(50025, pb::FieldCodec.ForEnum(400200, x => (int) x, x => (global::OpenSteamworks.Protobuf.EProtoServiceType) x, global::OpenSteamworks.Protobuf.EProtoServiceType.SteamMessages));
+    public static readonly pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, bool> ForceEmitService =
+      new pb::Extension<global::Google.Protobuf.Reflection.ServiceOptions, bool>(50026, pb::FieldCodec.ForBool(400208, false));
     public static readonly pb::Extension<global::Google.Protobuf.Reflection.MethodOptions, string> MethodDescription =
       new pb::Extension<global::Google.Protobuf.Reflection.MethodOptions, string>(50000, pb::FieldCodec.ForString(400002, ""));
     public static readonly pb::Extension<global::Google.Protobuf.Reflection.EnumOptions, string> EnumDescription =
@@ -68,6 +85,11 @@ namespace OpenSteamworks.Protobuf {
   public enum EProtoExecutionSite {
     [pbr::OriginalName("EProtoExecutionSiteUnknown")] Unknown = 0,
     [pbr::OriginalName("EProtoExecutionSiteSteamClient")] SteamClient = 2,
+  }
+
+  public enum EProtoServiceType {
+    [pbr::OriginalName("EProtoServiceTypeSteamMessages")] SteamMessages = 0,
+    [pbr::OriginalName("EProtoServiceTypeVRGamepadUIMessages")] VrgamepadUimessages = 1,
   }
 
   #endregion

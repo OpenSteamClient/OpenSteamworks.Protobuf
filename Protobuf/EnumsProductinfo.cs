@@ -25,14 +25,14 @@ namespace OpenSteamworks.Protobuf {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChdlbnVtc19wcm9kdWN0aW5mby5wcm90bxogZ29vZ2xlL3Byb3RvYnVmL2Rl",
-            "c2NyaXB0b3IucHJvdG8aGHN0ZWFtbWVzc2FnZXNfYmFzZS5wcm90byr7AQoU",
+            "c2NyaXB0b3IucHJvdG8aGHN0ZWFtbWVzc2FnZXNfYmFzZS5wcm90byqWAgoU",
             "RUNvbnRlbnREZXNjcmlwdG9ySUQSLAooRUNvbnRlbnREZXNjcmlwdG9yX051",
             "ZGl0eU9yU2V4dWFsQ29udGVudBABEi0KKUVDb250ZW50RGVzY3JpcHRvcl9G",
             "cmVxdWVudFZpb2xlbmNlT3JHb3JlEAISLQopRUNvbnRlbnREZXNjcmlwdG9y",
             "X0FkdWx0T25seVNleHVhbENvbnRlbnQQAxIuCipFQ29udGVudERlc2NyaXB0",
             "b3JfR3JhdHVpdG91c1NleHVhbENvbnRlbnQQBBInCiNFQ29udGVudERlc2Ny",
-            "aXB0b3JfQW55TWF0dXJlQ29udGVudBAFQiNIAYABAaoCF09wZW5TdGVhbXdv",
-            "cmtzLlByb3RvYnVmgLUYAQ=="));
+            "aXB0b3JfQW55TWF0dXJlQ29udGVudBAFEhkKFUVDb250ZW50RGVzY3JpcHRv",
+            "ck1BWBAGQiNIAYABAaoCF09wZW5TdGVhbXdvcmtzLlByb3RvYnVmgLUYAQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EContentDescriptorID), }, null, null));
@@ -47,6 +47,7 @@ namespace OpenSteamworks.Protobuf {
     [pbr::OriginalName("EContentDescriptor_AdultOnlySexualContent")] EcontentDescriptorAdultOnlySexualContent = 3,
     [pbr::OriginalName("EContentDescriptor_GratuitousSexualContent")] EcontentDescriptorGratuitousSexualContent = 4,
     [pbr::OriginalName("EContentDescriptor_AnyMatureContent")] EcontentDescriptorAnyMatureContent = 5,
+    [pbr::OriginalName("EContentDescriptorMAX")] EcontentDescriptorMax = 6,
   }
 
   #endregion

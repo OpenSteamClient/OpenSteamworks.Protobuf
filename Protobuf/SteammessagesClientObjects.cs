@@ -316,86 +316,87 @@ namespace OpenSteamworks.Protobuf {
             "bm93bhIVCg1jdXN0b21fYnJhbmNoGAIgASgJInAKGENNc2dTeXN0ZW1VcGRh",
             "dGVQcm9ncmVzcxIWCg5zdGFnZV9wcm9ncmVzcxgBIAEoAhIYChBzdGFnZV9z",
             "aXplX2J5dGVzGAIgASgDEiIKGnJ0aW1lX2VzdGltYXRlZF9jb21wbGV0aW9u",
-            "GAMgASgHIrUBChtDTXNnU3lzdGVtVXBkYXRlQ2hlY2tSZXN1bHQSMQoEdHlw",
+            "GAMgASgHItUBChtDTXNnU3lzdGVtVXBkYXRlQ2hlY2tSZXN1bHQSMQoEdHlw",
             "ZRgBIAEoDjINLkVVcGRhdGVyVHlwZToURVVwZGF0ZXJUeXBlX0ludmFsaWQS",
             "EgoHZXJlc3VsdBgCIAEoDToBMhIVCg1ydGltZV9jaGVja2VkGAMgASgHEhEK",
             "CWF2YWlsYWJsZRgEIAEoCBIPCgd2ZXJzaW9uGAUgASgJEhQKDGF1dG9fbWVz",
-            "c2FnZRgGIAEoCSJBChtDTXNnU3lzdGVtVXBkYXRlQXBwbHlQYXJhbXMSIgoL",
-            "YXBwbHlfdHlwZXMYASADKA4yDS5FVXBkYXRlclR5cGUitAEKG0NNc2dTeXN0",
-            "ZW1VcGRhdGVBcHBseVJlc3VsdBIxCgR0eXBlGAEgASgOMg0uRVVwZGF0ZXJU",
-            "eXBlOhRFVXBkYXRlclR5cGVfSW52YWxpZBISCgdlcmVzdWx0GAIgASgNOgEy",
-            "EiYKF3JlcXVpcmVzX2NsaWVudF9yZXN0YXJ0GAMgASgIOgVmYWxzZRImChdy",
-            "ZXF1aXJlc19zeXN0ZW1fcmVzdGFydBgEIAEoCDoFZmFsc2UijQIKFUNNc2dT",
-            "eXN0ZW1VcGRhdGVTdGF0ZRI0CgVzdGF0ZRgBIAEoDjIOLkVVcGRhdGVyU3Rh",
-            "dGU6FUVVcGRhdGVyU3RhdGVfSW52YWxpZBIrCghwcm9ncmVzcxgCIAEoCzIZ",
-            "LkNNc2dTeXN0ZW1VcGRhdGVQcm9ncmVzcxI4ChJ1cGRhdGVfY2hlY3Jlc3Vs",
-            "dHMYAyADKAsyHC5DTXNnU3lzdGVtVXBkYXRlQ2hlY2tSZXN1bHQSOgoUdXBk",
-            "YXRlX2FwcGx5X3Jlc3VsdHMYBCADKAsyHC5DTXNnU3lzdGVtVXBkYXRlQXBw",
-            "bHlSZXN1bHQSGwoTc3VwcG9ydHNfb3NfdXBkYXRlcxgFIAEoCCImChVDTXNn",
-            "QWNoaWV2ZW1lbnRDaGFuZ2USDQoFYXBwaWQYASABKA0iXAoMQ01zZ0NlbGxM",
-            "aXN0EiEKBWNlbGxzGAEgAygLMhIuQ01zZ0NlbGxMaXN0LkNlbGwaKQoEQ2Vs",
-            "bBIPCgdjZWxsX2lkGAEgASgNEhAKCGxvY19uYW1lGAIgASgJIowDChBDTXNn",
-            "U2hvcnRjdXRJbmZvEg0KBWFwcGlkGAEgASgNEgsKA2V4ZRgCIAEoCRIRCglz",
-            "dGFydF9kaXIYAyABKAkSDAoEaWNvbhgEIAEoCRIMCgRwYXRoGAUgASgJEgwK",
-            "BGFyZ3MYBiABKAkSEAoIYXBwX25hbWUYByABKAkSFgoOb3ZlcnJpZGVfYXBw",
-            "aWQYCCABKA0SEwoLZmxhdHBhYXBwaWQYCSABKAkSDAoEdGFncxgKIAMoCRIR",
-            "Cglpc19yZW1vdGUYCyABKAgSEQoJaXNfaGlkZGVuGAwgASgIEhQKDGlzX3Rl",
-            "bXBvcmFyeRgNIAEoCBIRCglpc19vcGVudnIYDiABKAgSHAoUYWxsb3dfZGVz",
-            "a3RvcF9jb25maWcYDyABKAgSFQoNYWxsb3dfb3ZlcmxheRgQIAEoCBIbChNy",
-            "dF9sYXN0X3BsYXllZF90aW1lGBEgASgNEhoKEmlzX2RldmtpdF9zaG9ydGN1",
-            "dBgSIAEoCBIVCg1kZXZraXRfZ2FtZWlkGBMgASgJIiQKEkNNc2dTaG9ydGN1",
-            "dEFwcElkcxIOCgZhcHBpZHMYASADKA0iqgEKD0NNc2dNb25pdG9ySW5mbxId",
-            "ChVzZWxlY3RlZF9kaXNwbGF5X25hbWUYASACKAkSLgoIbW9uaXRvcnMYAiAD",
-            "KAsyHC5DTXNnTW9uaXRvckluZm8uTW9uaXRvckluZm8aSAoLTW9uaXRvcklu",
-            "Zm8SGwoTbW9uaXRvcl9kZXZpY2VfbmFtZRgBIAIoCRIcChRtb25pdG9yX2Rp",
-            "c3BsYXlfbmFtZRgCIAIoCSIyCh1DTXNnR2VuZXJhdGVTeXN0ZW1SZXBvcnRS",
-            "ZXBseRIRCglyZXBvcnRfaWQYASABKAkiOAoWQ01zZ1dlYlVJVHJhbnNwb3J0",
-            "SW5mbxIMCgRwb3J0GAEgASgNEhAKCGF1dGhfa2V5GAIgASgJIl4KHUNNc2dD",
-            "bGllbnRTaGFkZXJIaXRDYWNoZUVudHJ5Eg8KB2tleV9zaGEYASABKAwSEAoI",
-            "Y29kZV9zaGEYAiABKAwSGgoSdGltZV9sYXN0X3JlcG9ydGVkGAMgASgEIksK",
-            "GENNc2dDbGllbnRTaGFkZXJIaXRDYWNoZRIvCgdlbnRyaWVzGAEgAygLMh4u",
-            "Q01zZ0NsaWVudFNoYWRlckhpdENhY2hlRW50cnkqjAIKHEVDbG91ZFBlbmRp",
-            "bmdSZW1vdGVPcGVyYXRpb24SJAogRUNsb3VkUGVuZGluZ1JlbW90ZU9wZXJh",
-            "dGlvbk5vbmUQABIwCixFQ2xvdWRQZW5kaW5nUmVtb3RlT3BlcmF0aW9uQXBw",
-            "U2Vzc2lvbkFjdGl2ZRABEjAKLEVDbG91ZFBlbmRpbmdSZW1vdGVPcGVyYXRp",
-            "b25VcGxvYWRJblByb2dyZXNzEAISLQopRUNsb3VkUGVuZGluZ1JlbW90ZU9w",
-            "ZXJhdGlvblVwbG9hZFBlbmRpbmcQAxIzCi9FQ2xvdWRQZW5kaW5nUmVtb3Rl",
-            "T3BlcmF0aW9uQXBwU2Vzc2lvblN1c3BlbmRlZBAEKoIMChhFU3RlYW1EZWNr",
-            "S2V5Ym9hcmRMYXlvdXQSIwofRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X1FX",
-            "RVJUWRAAEiYKIkVTdGVhbURlY2tLZXlib2FyZExheW91dF9CdWxnYXJpYW4Q",
-            "ARIvCitFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfQ2hpbmVzZV9TaW1wbGlm",
-            "aWVkEAISMAosRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X0NoaW5lc2VfVHJh",
-            "ZGl0aW9uYWwQAxIiCh5FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfQ3plY2gQ",
-            "BBIjCh9FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfRGFuaXNoEAUSJAogRVN0",
-            "ZWFtRGVja0tleWJvYXJkTGF5b3V0X0Zpbm5pc2gQBhIjCh9FU3RlYW1EZWNr",
-            "S2V5Ym9hcmRMYXlvdXRfRnJlbmNoEAcSIwofRVN0ZWFtRGVja0tleWJvYXJk",
-            "TGF5b3V0X0dlcm1hbhAIEiIKHkVTdGVhbURlY2tLZXlib2FyZExheW91dF9H",
-            "cmVlaxAJEiYKIkVTdGVhbURlY2tLZXlib2FyZExheW91dF9IdW5nYXJpYW4Q",
-            "ChIkCiBFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfSXRhbGlhbhALEiUKIUVT",
-            "dGVhbURlY2tLZXlib2FyZExheW91dF9KYXBhbmVzZRAMEiMKH0VTdGVhbURl",
-            "Y2tLZXlib2FyZExheW91dF9Lb3JlYW4QDRImCiJFU3RlYW1EZWNrS2V5Ym9h",
-            "cmRMYXlvdXRfTm9yd2VnaWFuEA4SIwofRVN0ZWFtRGVja0tleWJvYXJkTGF5",
-            "b3V0X1BvbGlzaBAPEicKI0VTdGVhbURlY2tLZXlib2FyZExheW91dF9Qb3J0",
-            "dWd1ZXNlEBASJQohRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X1JvbWFuaWFu",
-            "EBESJAogRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X1J1c3NpYW4QEhIkCiBF",
-            "U3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfU3BhbmlzaBATEiQKIEVTdGVhbURl",
-            "Y2tLZXlib2FyZExheW91dF9Td2VkaXNoEBQSIQodRVN0ZWFtRGVja0tleWJv",
-            "YXJkTGF5b3V0X1RoYWkQFRImCiJFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRf",
-            "VHVya2lzaF9GEBYSJgoiRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X1R1cmtp",
-            "c2hfURAXEiYKIkVTdGVhbURlY2tLZXlib2FyZExheW91dF9Va3JhaW5pYW4Q",
-            "GBInCiNFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfVmlldG5hbWVzZRAZEjEK",
-            "LUVTdGVhbURlY2tLZXlib2FyZExheW91dF9RV0VSVFlfSW50ZXJuYXRpb25h",
-            "bBAaEiMKH0VTdGVhbURlY2tLZXlib2FyZExheW91dF9Edm9yYWsQGxIkCiBF",
-            "U3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfQ29sZW1haxAcEjsKN0VTdGVhbURl",
-            "Y2tLZXlib2FyZExheW91dF9CdWxnYXJpYW5fUGhvbmV0aWNfVHJhZGl0aW9u",
-            "YWwQHRIvCitFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfQnVsZ2FyaWFuX1Bo",
-            "b25ldGljEB4SOQo1RVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X0NoaW5lc2Vf",
-            "VHJhZGl0aW9uYWxfQm9wb21vZm8QHxI4CjRFU3RlYW1EZWNrS2V5Ym9hcmRM",
-            "YXlvdXRfQ2hpbmVzZV9UcmFkaXRpb25hbF9DYW5namllECASKgomRVN0ZWFt",
-            "RGVja0tleWJvYXJkTGF5b3V0X0phcGFuZXNlX0thbmEQIRI2CjJFU3RlYW1E",
-            "ZWNrS2V5Ym9hcmRMYXlvdXRfQ2hpbmVzZV9UcmFkaXRpb25hbF9RdWljaxAi",
-            "EicKI0VTdGVhbURlY2tLZXlib2FyZExheW91dF9JbmRvbmVzaWFuECNCH0gB",
-            "gAEAqgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
+            "c2FnZRgGIAEoCRIeChZzeXN0ZW1fcmVzdGFydF9wZW5kaW5nGAcgASgIIkEK",
+            "G0NNc2dTeXN0ZW1VcGRhdGVBcHBseVBhcmFtcxIiCgthcHBseV90eXBlcxgB",
+            "IAMoDjINLkVVcGRhdGVyVHlwZSK0AQobQ01zZ1N5c3RlbVVwZGF0ZUFwcGx5",
+            "UmVzdWx0EjEKBHR5cGUYASABKA4yDS5FVXBkYXRlclR5cGU6FEVVcGRhdGVy",
+            "VHlwZV9JbnZhbGlkEhIKB2VyZXN1bHQYAiABKA06ATISJgoXcmVxdWlyZXNf",
+            "Y2xpZW50X3Jlc3RhcnQYAyABKAg6BWZhbHNlEiYKF3JlcXVpcmVzX3N5c3Rl",
+            "bV9yZXN0YXJ0GAQgASgIOgVmYWxzZSKNAgoVQ01zZ1N5c3RlbVVwZGF0ZVN0",
+            "YXRlEjQKBXN0YXRlGAEgASgOMg4uRVVwZGF0ZXJTdGF0ZToVRVVwZGF0ZXJT",
+            "dGF0ZV9JbnZhbGlkEisKCHByb2dyZXNzGAIgASgLMhkuQ01zZ1N5c3RlbVVw",
+            "ZGF0ZVByb2dyZXNzEjgKEnVwZGF0ZV9jaGVjcmVzdWx0cxgDIAMoCzIcLkNN",
+            "c2dTeXN0ZW1VcGRhdGVDaGVja1Jlc3VsdBI6ChR1cGRhdGVfYXBwbHlfcmVz",
+            "dWx0cxgEIAMoCzIcLkNNc2dTeXN0ZW1VcGRhdGVBcHBseVJlc3VsdBIbChNz",
+            "dXBwb3J0c19vc191cGRhdGVzGAUgASgIIiYKFUNNc2dBY2hpZXZlbWVudENo",
+            "YW5nZRINCgVhcHBpZBgBIAEoDSJcCgxDTXNnQ2VsbExpc3QSIQoFY2VsbHMY",
+            "ASADKAsyEi5DTXNnQ2VsbExpc3QuQ2VsbBopCgRDZWxsEg8KB2NlbGxfaWQY",
+            "ASABKA0SEAoIbG9jX25hbWUYAiABKAkijAMKEENNc2dTaG9ydGN1dEluZm8S",
+            "DQoFYXBwaWQYASABKA0SCwoDZXhlGAIgASgJEhEKCXN0YXJ0X2RpchgDIAEo",
+            "CRIMCgRpY29uGAQgASgJEgwKBHBhdGgYBSABKAkSDAoEYXJncxgGIAEoCRIQ",
+            "CghhcHBfbmFtZRgHIAEoCRIWCg5vdmVycmlkZV9hcHBpZBgIIAEoDRITCgtm",
+            "bGF0cGFhcHBpZBgJIAEoCRIMCgR0YWdzGAogAygJEhEKCWlzX3JlbW90ZRgL",
+            "IAEoCBIRCglpc19oaWRkZW4YDCABKAgSFAoMaXNfdGVtcG9yYXJ5GA0gASgI",
+            "EhEKCWlzX29wZW52chgOIAEoCBIcChRhbGxvd19kZXNrdG9wX2NvbmZpZxgP",
+            "IAEoCBIVCg1hbGxvd19vdmVybGF5GBAgASgIEhsKE3J0X2xhc3RfcGxheWVk",
+            "X3RpbWUYESABKA0SGgoSaXNfZGV2a2l0X3Nob3J0Y3V0GBIgASgIEhUKDWRl",
+            "dmtpdF9nYW1laWQYEyABKAkiJAoSQ01zZ1Nob3J0Y3V0QXBwSWRzEg4KBmFw",
+            "cGlkcxgBIAMoDSKqAQoPQ01zZ01vbml0b3JJbmZvEh0KFXNlbGVjdGVkX2Rp",
+            "c3BsYXlfbmFtZRgBIAIoCRIuCghtb25pdG9ycxgCIAMoCzIcLkNNc2dNb25p",
+            "dG9ySW5mby5Nb25pdG9ySW5mbxpICgtNb25pdG9ySW5mbxIbChNtb25pdG9y",
+            "X2RldmljZV9uYW1lGAEgAigJEhwKFG1vbml0b3JfZGlzcGxheV9uYW1lGAIg",
+            "AigJIjIKHUNNc2dHZW5lcmF0ZVN5c3RlbVJlcG9ydFJlcGx5EhEKCXJlcG9y",
+            "dF9pZBgBIAEoCSI4ChZDTXNnV2ViVUlUcmFuc3BvcnRJbmZvEgwKBHBvcnQY",
+            "ASABKA0SEAoIYXV0aF9rZXkYAiABKAkiXgodQ01zZ0NsaWVudFNoYWRlckhp",
+            "dENhY2hlRW50cnkSDwoHa2V5X3NoYRgBIAEoDBIQCghjb2RlX3NoYRgCIAEo",
+            "DBIaChJ0aW1lX2xhc3RfcmVwb3J0ZWQYAyABKAQiSwoYQ01zZ0NsaWVudFNo",
+            "YWRlckhpdENhY2hlEi8KB2VudHJpZXMYASADKAsyHi5DTXNnQ2xpZW50U2hh",
+            "ZGVySGl0Q2FjaGVFbnRyeSqMAgocRUNsb3VkUGVuZGluZ1JlbW90ZU9wZXJh",
+            "dGlvbhIkCiBFQ2xvdWRQZW5kaW5nUmVtb3RlT3BlcmF0aW9uTm9uZRAAEjAK",
+            "LEVDbG91ZFBlbmRpbmdSZW1vdGVPcGVyYXRpb25BcHBTZXNzaW9uQWN0aXZl",
+            "EAESMAosRUNsb3VkUGVuZGluZ1JlbW90ZU9wZXJhdGlvblVwbG9hZEluUHJv",
+            "Z3Jlc3MQAhItCilFQ2xvdWRQZW5kaW5nUmVtb3RlT3BlcmF0aW9uVXBsb2Fk",
+            "UGVuZGluZxADEjMKL0VDbG91ZFBlbmRpbmdSZW1vdGVPcGVyYXRpb25BcHBT",
+            "ZXNzaW9uU3VzcGVuZGVkEAQqggwKGEVTdGVhbURlY2tLZXlib2FyZExheW91",
+            "dBIjCh9FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfUVdFUlRZEAASJgoiRVN0",
+            "ZWFtRGVja0tleWJvYXJkTGF5b3V0X0J1bGdhcmlhbhABEi8KK0VTdGVhbURl",
+            "Y2tLZXlib2FyZExheW91dF9DaGluZXNlX1NpbXBsaWZpZWQQAhIwCixFU3Rl",
+            "YW1EZWNrS2V5Ym9hcmRMYXlvdXRfQ2hpbmVzZV9UcmFkaXRpb25hbBADEiIK",
+            "HkVTdGVhbURlY2tLZXlib2FyZExheW91dF9DemVjaBAEEiMKH0VTdGVhbURl",
+            "Y2tLZXlib2FyZExheW91dF9EYW5pc2gQBRIkCiBFU3RlYW1EZWNrS2V5Ym9h",
+            "cmRMYXlvdXRfRmlubmlzaBAGEiMKH0VTdGVhbURlY2tLZXlib2FyZExheW91",
+            "dF9GcmVuY2gQBxIjCh9FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfR2VybWFu",
+            "EAgSIgoeRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X0dyZWVrEAkSJgoiRVN0",
+            "ZWFtRGVja0tleWJvYXJkTGF5b3V0X0h1bmdhcmlhbhAKEiQKIEVTdGVhbURl",
+            "Y2tLZXlib2FyZExheW91dF9JdGFsaWFuEAsSJQohRVN0ZWFtRGVja0tleWJv",
+            "YXJkTGF5b3V0X0phcGFuZXNlEAwSIwofRVN0ZWFtRGVja0tleWJvYXJkTGF5",
+            "b3V0X0tvcmVhbhANEiYKIkVTdGVhbURlY2tLZXlib2FyZExheW91dF9Ob3J3",
+            "ZWdpYW4QDhIjCh9FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfUG9saXNoEA8S",
+            "JwojRVN0ZWFtRGVja0tleWJvYXJkTGF5b3V0X1BvcnR1Z3Vlc2UQEBIlCiFF",
+            "U3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfUm9tYW5pYW4QERIkCiBFU3RlYW1E",
+            "ZWNrS2V5Ym9hcmRMYXlvdXRfUnVzc2lhbhASEiQKIEVTdGVhbURlY2tLZXli",
+            "b2FyZExheW91dF9TcGFuaXNoEBMSJAogRVN0ZWFtRGVja0tleWJvYXJkTGF5",
+            "b3V0X1N3ZWRpc2gQFBIhCh1FU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfVGhh",
+            "aRAVEiYKIkVTdGVhbURlY2tLZXlib2FyZExheW91dF9UdXJraXNoX0YQFhIm",
+            "CiJFU3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfVHVya2lzaF9REBcSJgoiRVN0",
+            "ZWFtRGVja0tleWJvYXJkTGF5b3V0X1VrcmFpbmlhbhAYEicKI0VTdGVhbURl",
+            "Y2tLZXlib2FyZExheW91dF9WaWV0bmFtZXNlEBkSMQotRVN0ZWFtRGVja0tl",
+            "eWJvYXJkTGF5b3V0X1FXRVJUWV9JbnRlcm5hdGlvbmFsEBoSIwofRVN0ZWFt",
+            "RGVja0tleWJvYXJkTGF5b3V0X0R2b3JhaxAbEiQKIEVTdGVhbURlY2tLZXli",
+            "b2FyZExheW91dF9Db2xlbWFrEBwSOwo3RVN0ZWFtRGVja0tleWJvYXJkTGF5",
+            "b3V0X0J1bGdhcmlhbl9QaG9uZXRpY19UcmFkaXRpb25hbBAdEi8KK0VTdGVh",
+            "bURlY2tLZXlib2FyZExheW91dF9CdWxnYXJpYW5fUGhvbmV0aWMQHhI5CjVF",
+            "U3RlYW1EZWNrS2V5Ym9hcmRMYXlvdXRfQ2hpbmVzZV9UcmFkaXRpb25hbF9C",
+            "b3BvbW9mbxAfEjgKNEVTdGVhbURlY2tLZXlib2FyZExheW91dF9DaGluZXNl",
+            "X1RyYWRpdGlvbmFsX0NhbmdqaWUQIBIqCiZFU3RlYW1EZWNrS2V5Ym9hcmRM",
+            "YXlvdXRfSmFwYW5lc2VfS2FuYRAhEjYKMkVTdGVhbURlY2tLZXlib2FyZExh",
+            "eW91dF9DaGluZXNlX1RyYWRpdGlvbmFsX1F1aWNrECISJwojRVN0ZWFtRGVj",
+            "a0tleWJvYXJkTGF5b3V0X0luZG9uZXNpYW4QI0IfSAGAAQCqAhdPcGVuU3Rl",
+            "YW13b3Jrcy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.ECloudPendingRemoteOperation), typeof(global::OpenSteamworks.Protobuf.ESteamDeckKeyboardLayout), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -445,7 +446,7 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemManagerSettings), global::OpenSteamworks.Protobuf.CMsgSystemManagerSettings.Parser, new[]{ "IdleBacklightDimBatterySeconds", "IdleBacklightDimAcSeconds", "IdleSuspendBatterySeconds", "IdleSuspendAcSeconds", "IdleSuspendSupressed", "IsAdaptiveBrightnessAvailable", "DisplayAdaptiveBrightnessEnabled", "DisplayNightmodeEnabled", "DisplayNightmodeTintstrength", "DisplayNightmodeMaxhue", "DisplayNightmodeMaxsat", "DisplayNightmodeUiexp", "DisplayNightmodeBlend", "DisplayNightmodeReset", "DisplayNightmodeScheduleEnabled", "DisplayNightmodeScheduleStarttime", "DisplayNightmodeScheduleEndtime", "DisplayDiagnosticsEnabled", "AlsLuxPrimary", "AlsLuxMedian", "DisplayBacklightRaw", "DisplayBrightnessAdaptivemin", "DisplayBrightnessAdaptivemax", "IsWifiPowersaveEnabled", "IsFanControlAvailable", "FanControlMode", "IsDisplayBrightnessAvailable", "IsDisplayColormanagementAvailable", "DisplayColorgamut", "AlsLuxAlternate", "IsDisplayColortempAvailable", "DisplayColortemp", "DisplayColortempDefault", "DisplayColortempEnabled", "DisplayColorgamutLabelset", "DisplayBrightnessOverdriveHdrSplit" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSelectOSBranchParams), global::OpenSteamworks.Protobuf.CMsgSelectOSBranchParams.Parser, new[]{ "Branch", "CustomBranch" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateProgress), global::OpenSteamworks.Protobuf.CMsgSystemUpdateProgress.Parser, new[]{ "StageProgress", "StageSizeBytes", "RtimeEstimatedCompletion" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateCheckResult), global::OpenSteamworks.Protobuf.CMsgSystemUpdateCheckResult.Parser, new[]{ "Type", "Eresult", "RtimeChecked", "Available", "Version", "AutoMessage" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateCheckResult), global::OpenSteamworks.Protobuf.CMsgSystemUpdateCheckResult.Parser, new[]{ "Type", "Eresult", "RtimeChecked", "Available", "Version", "AutoMessage", "SystemRestartPending" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateApplyParams), global::OpenSteamworks.Protobuf.CMsgSystemUpdateApplyParams.Parser, new[]{ "ApplyTypes" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateApplyResult), global::OpenSteamworks.Protobuf.CMsgSystemUpdateApplyResult.Parser, new[]{ "Type", "Eresult", "RequiresClientRestart", "RequiresSystemRestart" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSystemUpdateState), global::OpenSteamworks.Protobuf.CMsgSystemUpdateState.Parser, new[]{ "State", "Progress", "UpdateChecresults", "UpdateApplyResults", "SupportsOsUpdates" }, null, null, null, null),
@@ -25526,6 +25527,7 @@ namespace OpenSteamworks.Protobuf {
       available_ = other.available_;
       version_ = other.version_;
       autoMessage_ = other.autoMessage_;
+      systemRestartPending_ = other.systemRestartPending_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -25695,6 +25697,33 @@ namespace OpenSteamworks.Protobuf {
       autoMessage_ = null;
     }
 
+    /// <summary>Field number for the "system_restart_pending" field.</summary>
+    public const int SystemRestartPendingFieldNumber = 7;
+    private readonly static bool SystemRestartPendingDefaultValue = false;
+
+    private bool systemRestartPending_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool SystemRestartPending {
+      get { if ((_hasBits0 & 16) != 0) { return systemRestartPending_; } else { return SystemRestartPendingDefaultValue; } }
+      set {
+        _hasBits0 |= 16;
+        systemRestartPending_ = value;
+      }
+    }
+    /// <summary>Gets whether the "system_restart_pending" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSystemRestartPending {
+      get { return (_hasBits0 & 16) != 0; }
+    }
+    /// <summary>Clears the value of the "system_restart_pending" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSystemRestartPending() {
+      _hasBits0 &= ~16;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -25716,6 +25745,7 @@ namespace OpenSteamworks.Protobuf {
       if (Available != other.Available) return false;
       if (Version != other.Version) return false;
       if (AutoMessage != other.AutoMessage) return false;
+      if (SystemRestartPending != other.SystemRestartPending) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -25729,6 +25759,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasAvailable) hash ^= Available.GetHashCode();
       if (HasVersion) hash ^= Version.GetHashCode();
       if (HasAutoMessage) hash ^= AutoMessage.GetHashCode();
+      if (HasSystemRestartPending) hash ^= SystemRestartPending.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -25771,6 +25802,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteString(AutoMessage);
       }
+      if (HasSystemRestartPending) {
+        output.WriteRawTag(56);
+        output.WriteBool(SystemRestartPending);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -25805,6 +25840,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteString(AutoMessage);
       }
+      if (HasSystemRestartPending) {
+        output.WriteRawTag(56);
+        output.WriteBool(SystemRestartPending);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -25832,6 +25871,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasAutoMessage) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(AutoMessage);
+      }
+      if (HasSystemRestartPending) {
+        size += 1 + 1;
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -25862,6 +25904,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasAutoMessage) {
         AutoMessage = other.AutoMessage;
+      }
+      if (other.HasSystemRestartPending) {
+        SystemRestartPending = other.SystemRestartPending;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -25902,6 +25947,10 @@ namespace OpenSteamworks.Protobuf {
             AutoMessage = input.ReadString();
             break;
           }
+          case 56: {
+            SystemRestartPending = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -25939,6 +25988,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 50: {
             AutoMessage = input.ReadString();
+            break;
+          }
+          case 56: {
+            SystemRestartPending = input.ReadBool();
             break;
           }
         }

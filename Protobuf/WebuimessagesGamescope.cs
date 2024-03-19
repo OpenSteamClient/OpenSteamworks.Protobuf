@@ -31,7 +31,7 @@ namespace OpenSteamworks.Protobuf {
             "FgoOY29ubmVjdG9yX25hbWUYAyABKAkSHwoXc3VwcG9ydGVkX3JlZnJlc2hf",
             "cmF0ZXMYBCADKAUSHQoVc3VwcG9ydGVkX2ZyYW1lX3JhdGVzGAUgAygFEhMK",
             "C2lzX2V4dGVybmFsGAYgASgIEhYKDmlzX2hkcl9jYXBhYmxlGAcgASgIEhYK",
-            "DmlzX3Zycl9jYXBhYmxlGAggASgIIuoCChJDTXNnR2FtZXNjb3BlU3RhdGUS",
+            "DmlzX3Zycl9jYXBhYmxlGAggASgIIpADChJDTXNnR2FtZXNjb3BlU3RhdGUS",
             "HAoUaXNfc2VydmljZV9hdmFpbGFibGUYASABKAgSHAoUaXNfcmVzaGFkZV9z",
             "dXBwb3J0ZWQYAiABKAgSGgoSaXNfYXBwX2hkcl9lbmFibGVkGAMgASgIEiUK",
             "HWlzX2FwcF9yZWZyZXNoX3JhdGVfc3VwcG9ydGVkGAQgASgIEi0KE2FjdGl2",
@@ -39,26 +39,27 @@ namespace OpenSteamworks.Protobuf {
             "YXBwX3JlZnJlc2hfcmF0ZV9jYXBhYmxlGAYgASgIEisKI2lzX3JlZnJlc2hf",
             "cmF0ZV9zd2l0Y2hpbmdfc3VwcG9ydGVkGAcgASgIEiwKJGlzX3JlZnJlc2hf",
             "cmF0ZV9zd2l0Y2hpbmdfcmVzdHJpY3RlZBgIIAEoCBImCh5pc19oZHJfdmlz",
-            "dWFsaXphdGlvbl9zdXBwb3J0ZWQYCSABKAgiHQobQ0dhbWVzY29wZV9HZXRT",
-            "dGF0ZV9SZXF1ZXN0IkIKHENHYW1lc2NvcGVfR2V0U3RhdGVfUmVzcG9uc2US",
-            "IgoFc3RhdGUYASABKAsyEy5DTXNnR2FtZXNjb3BlU3RhdGUiJgokQ0dhbWVz",
-            "Y29wZV9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uIowBCiBDR2FtZXNjb3Bl",
-            "X1NldEJsdXJQYXJhbXNfUmVxdWVzdBI+CgRtb2RlGAEgASgOMhMuRUdhbWVz",
-            "Y29wZUJsdXJNb2RlOhtFR2FtZXNjb3BlQmx1ck1vZGVfRGlzYWJsZWQSDgoG",
-            "cmFkaXVzGAIgASgFEhgKEGZhZGVfZHVyYXRpb25fbXMYAyABKAUiIwohQ0dh",
-            "bWVzY29wZV9TZXRCbHVyUGFyYW1zX1Jlc3BvbnNlMoECCglHYW1lc2NvcGUS",
-            "RwoIR2V0U3RhdGUSHC5DR2FtZXNjb3BlX0dldFN0YXRlX1JlcXVlc3QaHS5D",
-            "R2FtZXNjb3BlX0dldFN0YXRlX1Jlc3BvbnNlEk0KEk5vdGlmeVN0YXRlQ2hh",
-            "bmdlZBIlLkNHYW1lc2NvcGVfU3RhdGVDaGFuZ2VkX05vdGlmaWNhdGlvbhoQ",
-            "LldlYlVJTm9SZXNwb25zZRJWCg1TZXRCbHVyUGFyYW1zEiEuQ0dhbWVzY29w",
-            "ZV9TZXRCbHVyUGFyYW1zX1JlcXVlc3QaIi5DR2FtZXNjb3BlX1NldEJsdXJQ",
-            "YXJhbXNfUmVzcG9uc2UaBICXIgFCH0gBgAEBqgIXT3BlblN0ZWFtd29ya3Mu",
-            "UHJvdG9idWY="));
+            "dWFsaXphdGlvbl9zdXBwb3J0ZWQYCSABKAgSJAocaXNfbXVyYV9jb3JyZWN0",
+            "aW9uX3N1cHBvcnRlZBgKIAEoCCIdChtDR2FtZXNjb3BlX0dldFN0YXRlX1Jl",
+            "cXVlc3QiQgocQ0dhbWVzY29wZV9HZXRTdGF0ZV9SZXNwb25zZRIiCgVzdGF0",
+            "ZRgBIAEoCzITLkNNc2dHYW1lc2NvcGVTdGF0ZSImCiRDR2FtZXNjb3BlX1N0",
+            "YXRlQ2hhbmdlZF9Ob3RpZmljYXRpb24ijAEKIENHYW1lc2NvcGVfU2V0Qmx1",
+            "clBhcmFtc19SZXF1ZXN0Ej4KBG1vZGUYASABKA4yEy5FR2FtZXNjb3BlQmx1",
+            "ck1vZGU6G0VHYW1lc2NvcGVCbHVyTW9kZV9EaXNhYmxlZBIOCgZyYWRpdXMY",
+            "AiABKAUSGAoQZmFkZV9kdXJhdGlvbl9tcxgDIAEoBSIjCiFDR2FtZXNjb3Bl",
+            "X1NldEJsdXJQYXJhbXNfUmVzcG9uc2UygQIKCUdhbWVzY29wZRJHCghHZXRT",
+            "dGF0ZRIcLkNHYW1lc2NvcGVfR2V0U3RhdGVfUmVxdWVzdBodLkNHYW1lc2Nv",
+            "cGVfR2V0U3RhdGVfUmVzcG9uc2USTQoSTm90aWZ5U3RhdGVDaGFuZ2VkEiUu",
+            "Q0dhbWVzY29wZV9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uGhAuV2ViVUlO",
+            "b1Jlc3BvbnNlElYKDVNldEJsdXJQYXJhbXMSIS5DR2FtZXNjb3BlX1NldEJs",
+            "dXJQYXJhbXNfUmVxdWVzdBoiLkNHYW1lc2NvcGVfU2V0Qmx1clBhcmFtc19S",
+            "ZXNwb25zZRoEgJciAUIfSAGAAQGqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1",
+            "Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.WebuimessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgDisplayInfo), global::OpenSteamworks.Protobuf.CMsgDisplayInfo.Parser, new[]{ "Make", "Model", "ConnectorName", "SupportedRefreshRates", "SupportedFrameRates", "IsExternal", "IsHdrCapable", "IsVrrCapable" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgGamescopeState), global::OpenSteamworks.Protobuf.CMsgGamescopeState.Parser, new[]{ "IsServiceAvailable", "IsReshadeSupported", "IsAppHdrEnabled", "IsAppRefreshRateSupported", "ActiveDisplayInfo", "IsAppRefreshRateCapable", "IsRefreshRateSwitchingSupported", "IsRefreshRateSwitchingRestricted", "IsHdrVisualizationSupported" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgGamescopeState), global::OpenSteamworks.Protobuf.CMsgGamescopeState.Parser, new[]{ "IsServiceAvailable", "IsReshadeSupported", "IsAppHdrEnabled", "IsAppRefreshRateSupported", "ActiveDisplayInfo", "IsAppRefreshRateCapable", "IsRefreshRateSwitchingSupported", "IsRefreshRateSwitchingRestricted", "IsHdrVisualizationSupported", "IsMuraCorrectionSupported" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CGamescope_GetState_Request), global::OpenSteamworks.Protobuf.CGamescope_GetState_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CGamescope_GetState_Response), global::OpenSteamworks.Protobuf.CGamescope_GetState_Response.Parser, new[]{ "State" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CGamescope_StateChanged_Notification), global::OpenSteamworks.Protobuf.CGamescope_StateChanged_Notification.Parser, null, null, null, null, null),
@@ -636,6 +637,7 @@ namespace OpenSteamworks.Protobuf {
       isRefreshRateSwitchingSupported_ = other.isRefreshRateSwitchingSupported_;
       isRefreshRateSwitchingRestricted_ = other.isRefreshRateSwitchingRestricted_;
       isHdrVisualizationSupported_ = other.isHdrVisualizationSupported_;
+      isMuraCorrectionSupported_ = other.isMuraCorrectionSupported_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -873,6 +875,33 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~128;
     }
 
+    /// <summary>Field number for the "is_mura_correction_supported" field.</summary>
+    public const int IsMuraCorrectionSupportedFieldNumber = 10;
+    private readonly static bool IsMuraCorrectionSupportedDefaultValue = false;
+
+    private bool isMuraCorrectionSupported_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IsMuraCorrectionSupported {
+      get { if ((_hasBits0 & 256) != 0) { return isMuraCorrectionSupported_; } else { return IsMuraCorrectionSupportedDefaultValue; } }
+      set {
+        _hasBits0 |= 256;
+        isMuraCorrectionSupported_ = value;
+      }
+    }
+    /// <summary>Gets whether the "is_mura_correction_supported" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIsMuraCorrectionSupported {
+      get { return (_hasBits0 & 256) != 0; }
+    }
+    /// <summary>Clears the value of the "is_mura_correction_supported" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIsMuraCorrectionSupported() {
+      _hasBits0 &= ~256;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -897,6 +926,7 @@ namespace OpenSteamworks.Protobuf {
       if (IsRefreshRateSwitchingSupported != other.IsRefreshRateSwitchingSupported) return false;
       if (IsRefreshRateSwitchingRestricted != other.IsRefreshRateSwitchingRestricted) return false;
       if (IsHdrVisualizationSupported != other.IsHdrVisualizationSupported) return false;
+      if (IsMuraCorrectionSupported != other.IsMuraCorrectionSupported) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -913,6 +943,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasIsRefreshRateSwitchingSupported) hash ^= IsRefreshRateSwitchingSupported.GetHashCode();
       if (HasIsRefreshRateSwitchingRestricted) hash ^= IsRefreshRateSwitchingRestricted.GetHashCode();
       if (HasIsHdrVisualizationSupported) hash ^= IsHdrVisualizationSupported.GetHashCode();
+      if (HasIsMuraCorrectionSupported) hash ^= IsMuraCorrectionSupported.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -967,6 +998,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(72);
         output.WriteBool(IsHdrVisualizationSupported);
       }
+      if (HasIsMuraCorrectionSupported) {
+        output.WriteRawTag(80);
+        output.WriteBool(IsMuraCorrectionSupported);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1013,6 +1048,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(72);
         output.WriteBool(IsHdrVisualizationSupported);
       }
+      if (HasIsMuraCorrectionSupported) {
+        output.WriteRawTag(80);
+        output.WriteBool(IsMuraCorrectionSupported);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -1048,6 +1087,9 @@ namespace OpenSteamworks.Protobuf {
         size += 1 + 1;
       }
       if (HasIsHdrVisualizationSupported) {
+        size += 1 + 1;
+      }
+      if (HasIsMuraCorrectionSupported) {
         size += 1 + 1;
       }
       if (_unknownFields != null) {
@@ -1091,6 +1133,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasIsHdrVisualizationSupported) {
         IsHdrVisualizationSupported = other.IsHdrVisualizationSupported;
+      }
+      if (other.HasIsMuraCorrectionSupported) {
+        IsMuraCorrectionSupported = other.IsMuraCorrectionSupported;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1146,6 +1191,10 @@ namespace OpenSteamworks.Protobuf {
             IsHdrVisualizationSupported = input.ReadBool();
             break;
           }
+          case 80: {
+            IsMuraCorrectionSupported = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -1198,6 +1247,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 72: {
             IsHdrVisualizationSupported = input.ReadBool();
+            break;
+          }
+          case 80: {
+            IsMuraCorrectionSupported = input.ReadBool();
             break;
           }
         }

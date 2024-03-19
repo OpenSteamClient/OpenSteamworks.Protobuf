@@ -43,7 +43,7 @@ namespace OpenSteamworks.Protobuf {
             "b2tlbhgKIAEoCRIVCg1tYXhfdXNlX2NvdW50GAsgASgFIooBCitDVXNlckFj",
             "Y291bnRfR2V0Q2xpZW50V2FsbGV0RGV0YWlsc19SZXF1ZXN0Eh4KFmluY2x1",
             "ZGVfYmFsYW5jZV9pbl91c2QYASABKAgSGAoNd2FsbGV0X3JlZ2lvbhgCIAEo",
-            "BToBMRIhChlpbmNsdWRlX2Zvcm1hdHRlZF9iYWxhbmNlGAMgASgIIpMDCiZD",
+            "BToBMRIhChlpbmNsdWRlX2Zvcm1hdHRlZF9iYWxhbmNlGAMgASgIIrUECiZD",
             "VXNlckFjY291bnRfR2V0V2FsbGV0RGV0YWlsc19SZXNwb25zZRISCgpoYXNf",
             "d2FsbGV0GAEgASgIEhkKEXVzZXJfY291bnRyeV9jb2RlGAIgASgJEhsKE3dh",
             "bGxldF9jb3VudHJ5X2NvZGUYAyABKAkSFAoMd2FsbGV0X3N0YXRlGAQgASgJ",
@@ -52,110 +52,114 @@ namespace OpenSteamworks.Protobuf {
             "CCABKA0SGQoRbW9zdF9yZWNlbnRfdHhuaWQYCSABKAQSFgoOYmFsYW5jZV9p",
             "bl91c2QYCiABKAMSHgoWZGVsYXllZF9iYWxhbmNlX2luX3VzZBgLIAEoAxIj",
             "ChtoYXNfd2FsbGV0X2luX290aGVyX3JlZ2lvbnMYDCABKAgSFQoNb3RoZXJf",
-            "cmVnaW9ucxgNIAMoBRIZChFmb3JtYXR0ZWRfYmFsYW5jZRgOIAEoCSIrCilD",
-            "VXNlckFjY291bnRfR2V0QWNjb3VudExpbmtTdGF0dXNfUmVxdWVzdCJ9CipD",
-            "VXNlckFjY291bnRfR2V0QWNjb3VudExpbmtTdGF0dXNfUmVzcG9uc2USDAoE",
-            "cHdpZBgBIAEoDRIdChVpZGVudGl0eV92ZXJpZmljYXRpb24YAiABKA0SIgoa",
-            "cGVyZm9ybWVkX2FnZV92ZXJpZmljYXRpb24YAyABKAgiOQooQ1VzZXJBY2Nv",
-            "dW50X0NhbmNlbExpY2Vuc2VGb3JBcHBfUmVxdWVzdBINCgVhcHBpZBgBIAEo",
-            "DSIrCilDVXNlckFjY291bnRfQ2FuY2VsTGljZW5zZUZvckFwcF9SZXNwb25z",
-            "ZSI2CiNDVXNlckFjY291bnRfR2V0VXNlckNvdW50cnlfUmVxdWVzdBIPCgdz",
-            "dGVhbWlkGAEgASgGIjcKJENVc2VyQWNjb3VudF9HZXRVc2VyQ291bnRyeV9S",
-            "ZXNwb25zZRIPCgdjb3VudHJ5GAEgASgJInIKLENVc2VyQWNjb3VudF9DcmVh",
-            "dGVGcmllbmRJbnZpdGVUb2tlbl9SZXF1ZXN0EhQKDGludml0ZV9saW1pdBgB",
-            "IAEoDRIXCg9pbnZpdGVfZHVyYXRpb24YAiABKA0SEwoLaW52aXRlX25vdGUY",
-            "AyABKAkimQEKLUNVc2VyQWNjb3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tl",
-            "bl9SZXNwb25zZRIUCgxpbnZpdGVfdG9rZW4YASABKAkSFAoMaW52aXRlX2xp",
-            "bWl0GAIgASgEEhcKD2ludml0ZV9kdXJhdGlvbhgDIAEoBBIUCgx0aW1lX2Ny",
-            "ZWF0ZWQYBCABKAcSDQoFdmFsaWQYBSABKAgiLAoqQ1VzZXJBY2NvdW50X0dl",
-            "dEZyaWVuZEludml0ZVRva2Vuc19SZXF1ZXN0Im0KK0NVc2VyQWNjb3VudF9H",
-            "ZXRGcmllbmRJbnZpdGVUb2tlbnNfUmVzcG9uc2USPgoGdG9rZW5zGAEgAygL",
-            "Mi4uQ1VzZXJBY2NvdW50X0NyZWF0ZUZyaWVuZEludml0ZVRva2VuX1Jlc3Bv",
-            "bnNlIlMKKkNVc2VyQWNjb3VudF9WaWV3RnJpZW5kSW52aXRlVG9rZW5fUmVx",
-            "dWVzdBIPCgdzdGVhbWlkGAEgASgGEhQKDGludml0ZV90b2tlbhgCIAEoCSJm",
-            "CitDVXNlckFjY291bnRfVmlld0ZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNl",
-            "Eg0KBXZhbGlkGAEgASgIEg8KB3N0ZWFtaWQYAiABKAQSFwoPaW52aXRlX2R1",
-            "cmF0aW9uGAMgASgEIlUKLENVc2VyQWNjb3VudF9SZWRlZW1GcmllbmRJbnZp",
-            "dGVUb2tlbl9SZXF1ZXN0Eg8KB3N0ZWFtaWQYASABKAYSFAoMaW52aXRlX3Rv",
-            "a2VuGAIgASgJIi8KLUNVc2VyQWNjb3VudF9SZWRlZW1GcmllbmRJbnZpdGVU",
-            "b2tlbl9SZXNwb25zZSJECixDVXNlckFjY291bnRfUmV2b2tlRnJpZW5kSW52",
-            "aXRlVG9rZW5fUmVxdWVzdBIUCgxpbnZpdGVfdG9rZW4YASABKAkiLwotQ1Vz",
-            "ZXJBY2NvdW50X1Jldm9rZUZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNlIj4K",
-            "J0NVc2VyQWNjb3VudF9SZWdpc3RlckNvbXBhdFRvb2xfUmVxdWVzdBITCgtj",
-            "b21wYXRfdG9vbBgBIAEoDSIqCihDVXNlckFjY291bnRfUmVnaXN0ZXJDb21w",
-            "YXRUb29sX1Jlc3BvbnNlIt0BCixDQWNjb3VudExpbmtpbmdfR2V0TGlua2Vk",
-            "QWNjb3VudEluZm9fUmVxdWVzdBJGCgxhY2NvdW50X3R5cGUYASABKA4yFS5F",
-            "SW50ZXJuYWxBY2NvdW50VHlwZToZRUludGVybmFsU3RlYW1BY2NvdW50VHlw",
-            "ZRISCgphY2NvdW50X2lkGAIgASgEEjQKBmZpbHRlchgDIAEoDjIVLkVFeHRl",
-            "cm5hbEFjY291bnRUeXBlOg1FRXh0ZXJuYWxOb25lEhsKE3JldHVybl9hY2Nl",
-            "c3NfdG9rZW4YBCABKAgihQMKLUNBY2NvdW50TGlua2luZ19HZXRMaW5rZWRB",
-            "Y2NvdW50SW5mb19SZXNwb25zZRJoChFleHRlcm5hbF9hY2NvdW50cxgBIAMo",
-            "CzJNLkNBY2NvdW50TGlua2luZ19HZXRMaW5rZWRBY2NvdW50SW5mb19SZXNw",
-            "b25zZS5DRXh0ZXJuYWxBY2NvdW50VHVwbGVfUmVzcG9uc2Ua6QEKHkNFeHRl",
-            "cm5hbEFjY291bnRUdXBsZV9SZXNwb25zZRI7Cg1leHRlcm5hbF90eXBlGAEg",
-            "ASgOMhUuRUV4dGVybmFsQWNjb3VudFR5cGU6DUVFeHRlcm5hbE5vbmUSEwoL",
-            "ZXh0ZXJuYWxfaWQYAiABKAkSGgoSZXh0ZXJuYWxfdXNlcl9uYW1lGAMgASgJ",
-            "EhQKDGV4dGVybmFsX3VybBgEIAEoCRIUCgxhY2Nlc3NfdG9rZW4YBSABKAkS",
-            "GwoTYWNjZXNzX3Rva2VuX3NlY3JldBgGIAEoCRIQCghpc192YWxpZBgHIAEo",
-            "CCJ3Ci5DRW1iZWRkZWRDbGllbnRfQXV0aG9yaXplQ3VycmVudERldmljZV9S",
-            "ZXF1ZXN0Eg8KB3N0ZWFtaWQYASABKAYSDQoFYXBwaWQYAiABKA0SEwoLZGV2",
-            "aWNlX2luZm8YAyABKAkSEAoIZGV2aWNlaWQYBCABKA0iYAoVQ0VtYmVkZGVk",
-            "Q2xpZW50X1Rva2VuEg8KB3N0ZWFtaWQYASABKAYSFAoMY2xpZW50X3Rva2Vu",
-            "GAIgASgMEg4KBmV4cGlyeRgDIAEoDRIQCghkZXZpY2VpZBgEIAEoDSJhCihD",
-            "RW1iZWRkZWRDbGllbnRfQXV0aG9yaXplRGV2aWNlX1Jlc3BvbnNlEg4KBnJl",
-            "c3VsdBgBIAEoDRIlCgV0b2tlbhgCIAEoCzIWLkNFbWJlZGRlZENsaWVudF9U",
-            "b2tlbiqFAQoURUludGVybmFsQWNjb3VudFR5cGUSHQoZRUludGVybmFsU3Rl",
-            "YW1BY2NvdW50VHlwZRABEhUKEUVJbnRlcm5hbENsYW5UeXBlEAISFAoQRUlu",
-            "dGVybmFsQXBwVHlwZRADEiEKHUVJbnRlcm5hbEJyb2FkY2FzdENoYW5uZWxU",
-            "eXBlEAQq9gEKFEVFeHRlcm5hbEFjY291bnRUeXBlEhEKDUVFeHRlcm5hbE5v",
-            "bmUQABIZChVFRXh0ZXJuYWxTdGVhbUFjY291bnQQARIaChZFRXh0ZXJuYWxH",
-            "b29nbGVBY2NvdW50EAISHAoYRUV4dGVybmFsRmFjZWJvb2tBY2NvdW50EAMS",
-            "GwoXRUV4dGVybmFsVHdpdHRlckFjY291bnQQBBIaChZFRXh0ZXJuYWxUd2l0",
-            "Y2hBY2NvdW50EAUSIgoeRUV4dGVybmFsWW91VHViZUNoYW5uZWxBY2NvdW50",
-            "EAYSGQoVRUV4dGVybmFsRmFjZWJvb2tQYWdlEAcynAoKC1VzZXJBY2NvdW50",
-            "EpwBCiNHZXRBdmFpbGFibGVWYWx2ZURpc2NvdW50UHJvbW90aW9ucxI5LkNV",
-            "c2VyQWNjb3VudF9HZXRBdmFpbGFibGVWYWx2ZURpc2NvdW50UHJvbW90aW9u",
-            "c19SZXF1ZXN0GjouQ1VzZXJBY2NvdW50X0dldEF2YWlsYWJsZVZhbHZlRGlz",
-            "Y291bnRQcm9tb3Rpb25zX1Jlc3BvbnNlEm8KFkdldENsaWVudFdhbGxldERl",
-            "dGFpbHMSLC5DVXNlckFjY291bnRfR2V0Q2xpZW50V2FsbGV0RGV0YWlsc19S",
-            "ZXF1ZXN0GicuQ1VzZXJBY2NvdW50X0dldFdhbGxldERldGFpbHNfUmVzcG9u",
-            "c2USbwoUR2V0QWNjb3VudExpbmtTdGF0dXMSKi5DVXNlckFjY291bnRfR2V0",
-            "QWNjb3VudExpbmtTdGF0dXNfUmVxdWVzdBorLkNVc2VyQWNjb3VudF9HZXRB",
-            "Y2NvdW50TGlua1N0YXR1c19SZXNwb25zZRJsChNDYW5jZWxMaWNlbnNlRm9y",
-            "QXBwEikuQ1VzZXJBY2NvdW50X0NhbmNlbExpY2Vuc2VGb3JBcHBfUmVxdWVz",
-            "dBoqLkNVc2VyQWNjb3VudF9DYW5jZWxMaWNlbnNlRm9yQXBwX1Jlc3BvbnNl",
-            "El0KDkdldFVzZXJDb3VudHJ5EiQuQ1VzZXJBY2NvdW50X0dldFVzZXJDb3Vu",
-            "dHJ5X1JlcXVlc3QaJS5DVXNlckFjY291bnRfR2V0VXNlckNvdW50cnlfUmVz",
-            "cG9uc2USeAoXQ3JlYXRlRnJpZW5kSW52aXRlVG9rZW4SLS5DVXNlckFjY291",
-            "bnRfQ3JlYXRlRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBouLkNVc2VyQWNj",
-            "b3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZRJyChVHZXRG",
-            "cmllbmRJbnZpdGVUb2tlbnMSKy5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52",
-            "aXRlVG9rZW5zX1JlcXVlc3QaLC5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52",
-            "aXRlVG9rZW5zX1Jlc3BvbnNlEnIKFVZpZXdGcmllbmRJbnZpdGVUb2tlbhIr",
-            "LkNVc2VyQWNjb3VudF9WaWV3RnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBos",
-            "LkNVc2VyQWNjb3VudF9WaWV3RnJpZW5kSW52aXRlVG9rZW5fUmVzcG9uc2US",
-            "eAoXUmVkZWVtRnJpZW5kSW52aXRlVG9rZW4SLS5DVXNlckFjY291bnRfUmVk",
-            "ZWVtRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBouLkNVc2VyQWNjb3VudF9S",
-            "ZWRlZW1GcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZRJ4ChdSZXZva2VGcmll",
-            "bmRJbnZpdGVUb2tlbhItLkNVc2VyQWNjb3VudF9SZXZva2VGcmllbmRJbnZp",
-            "dGVUb2tlbl9SZXF1ZXN0Gi4uQ1VzZXJBY2NvdW50X1Jldm9rZUZyaWVuZElu",
-            "dml0ZVRva2VuX1Jlc3BvbnNlEmkKElJlZ2lzdGVyQ29tcGF0VG9vbBIoLkNV",
-            "c2VyQWNjb3VudF9SZWdpc3RlckNvbXBhdFRvb2xfUmVxdWVzdBopLkNVc2Vy",
-            "QWNjb3VudF9SZWdpc3RlckNvbXBhdFRvb2xfUmVzcG9uc2UyhwEKDkFjY291",
-            "bnRMaW5raW5nEnUKFEdldExpbmtlZEFjY291bnRJbmZvEi0uQ0FjY291bnRM",
-            "aW5raW5nX0dldExpbmtlZEFjY291bnRJbmZvX1JlcXVlc3QaLi5DQWNjb3Vu",
-            "dExpbmtpbmdfR2V0TGlua2VkQWNjb3VudEluZm9fUmVzcG9uc2UyhgEKDkVt",
-            "YmVkZGVkQ2xpZW50EnQKFkF1dGhvcml6ZUN1cnJlbnREZXZpY2USLy5DRW1i",
-            "ZWRkZWRDbGllbnRfQXV0aG9yaXplQ3VycmVudERldmljZV9SZXF1ZXN0Giku",
-            "Q0VtYmVkZGVkQ2xpZW50X0F1dGhvcml6ZURldmljZV9SZXNwb25zZUIdgAEB",
-            "qgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
+            "cmVnaW9ucxgNIAMoBRIZChFmb3JtYXR0ZWRfYmFsYW5jZRgOIAEoCRIhChlm",
+            "b3JtYXR0ZWRfZGVsYXllZF9iYWxhbmNlGA8gASgJEioKImRlbGF5ZWRfYmFs",
+            "YW5jZV9hdmFpbGFibGVfbWluX3RpbWUYECABKAUSKgoiZGVsYXllZF9iYWxh",
+            "bmNlX2F2YWlsYWJsZV9tYXhfdGltZRgRIAEoBRIlCh1kZWxheWVkX2JhbGFu",
+            "Y2VfbmV3ZXN0X3NvdXJjZRgSIAEoBSIrCilDVXNlckFjY291bnRfR2V0QWNj",
+            "b3VudExpbmtTdGF0dXNfUmVxdWVzdCJ9CipDVXNlckFjY291bnRfR2V0QWNj",
+            "b3VudExpbmtTdGF0dXNfUmVzcG9uc2USDAoEcHdpZBgBIAEoDRIdChVpZGVu",
+            "dGl0eV92ZXJpZmljYXRpb24YAiABKA0SIgoacGVyZm9ybWVkX2FnZV92ZXJp",
+            "ZmljYXRpb24YAyABKAgiOQooQ1VzZXJBY2NvdW50X0NhbmNlbExpY2Vuc2VG",
+            "b3JBcHBfUmVxdWVzdBINCgVhcHBpZBgBIAEoDSIrCilDVXNlckFjY291bnRf",
+            "Q2FuY2VsTGljZW5zZUZvckFwcF9SZXNwb25zZSI2CiNDVXNlckFjY291bnRf",
+            "R2V0VXNlckNvdW50cnlfUmVxdWVzdBIPCgdzdGVhbWlkGAEgASgGIjcKJENV",
+            "c2VyQWNjb3VudF9HZXRVc2VyQ291bnRyeV9SZXNwb25zZRIPCgdjb3VudHJ5",
+            "GAEgASgJInIKLENVc2VyQWNjb3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tl",
+            "bl9SZXF1ZXN0EhQKDGludml0ZV9saW1pdBgBIAEoDRIXCg9pbnZpdGVfZHVy",
+            "YXRpb24YAiABKA0SEwoLaW52aXRlX25vdGUYAyABKAkimQEKLUNVc2VyQWNj",
+            "b3VudF9DcmVhdGVGcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZRIUCgxpbnZp",
+            "dGVfdG9rZW4YASABKAkSFAoMaW52aXRlX2xpbWl0GAIgASgEEhcKD2ludml0",
+            "ZV9kdXJhdGlvbhgDIAEoBBIUCgx0aW1lX2NyZWF0ZWQYBCABKAcSDQoFdmFs",
+            "aWQYBSABKAgiLAoqQ1VzZXJBY2NvdW50X0dldEZyaWVuZEludml0ZVRva2Vu",
+            "c19SZXF1ZXN0Im0KK0NVc2VyQWNjb3VudF9HZXRGcmllbmRJbnZpdGVUb2tl",
+            "bnNfUmVzcG9uc2USPgoGdG9rZW5zGAEgAygLMi4uQ1VzZXJBY2NvdW50X0Ny",
+            "ZWF0ZUZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNlIlMKKkNVc2VyQWNjb3Vu",
+            "dF9WaWV3RnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBIPCgdzdGVhbWlkGAEg",
+            "ASgGEhQKDGludml0ZV90b2tlbhgCIAEoCSJmCitDVXNlckFjY291bnRfVmll",
+            "d0ZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNlEg0KBXZhbGlkGAEgASgIEg8K",
+            "B3N0ZWFtaWQYAiABKAQSFwoPaW52aXRlX2R1cmF0aW9uGAMgASgEIlUKLENV",
+            "c2VyQWNjb3VudF9SZWRlZW1GcmllbmRJbnZpdGVUb2tlbl9SZXF1ZXN0Eg8K",
+            "B3N0ZWFtaWQYASABKAYSFAoMaW52aXRlX3Rva2VuGAIgASgJIi8KLUNVc2Vy",
+            "QWNjb3VudF9SZWRlZW1GcmllbmRJbnZpdGVUb2tlbl9SZXNwb25zZSJECixD",
+            "VXNlckFjY291bnRfUmV2b2tlRnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBIU",
+            "CgxpbnZpdGVfdG9rZW4YASABKAkiLwotQ1VzZXJBY2NvdW50X1Jldm9rZUZy",
+            "aWVuZEludml0ZVRva2VuX1Jlc3BvbnNlIj4KJ0NVc2VyQWNjb3VudF9SZWdp",
+            "c3RlckNvbXBhdFRvb2xfUmVxdWVzdBITCgtjb21wYXRfdG9vbBgBIAEoDSIq",
+            "CihDVXNlckFjY291bnRfUmVnaXN0ZXJDb21wYXRUb29sX1Jlc3BvbnNlIt0B",
+            "CixDQWNjb3VudExpbmtpbmdfR2V0TGlua2VkQWNjb3VudEluZm9fUmVxdWVz",
+            "dBJGCgxhY2NvdW50X3R5cGUYASABKA4yFS5FSW50ZXJuYWxBY2NvdW50VHlw",
+            "ZToZRUludGVybmFsU3RlYW1BY2NvdW50VHlwZRISCgphY2NvdW50X2lkGAIg",
+            "ASgEEjQKBmZpbHRlchgDIAEoDjIVLkVFeHRlcm5hbEFjY291bnRUeXBlOg1F",
+            "RXh0ZXJuYWxOb25lEhsKE3JldHVybl9hY2Nlc3NfdG9rZW4YBCABKAgihQMK",
+            "LUNBY2NvdW50TGlua2luZ19HZXRMaW5rZWRBY2NvdW50SW5mb19SZXNwb25z",
+            "ZRJoChFleHRlcm5hbF9hY2NvdW50cxgBIAMoCzJNLkNBY2NvdW50TGlua2lu",
+            "Z19HZXRMaW5rZWRBY2NvdW50SW5mb19SZXNwb25zZS5DRXh0ZXJuYWxBY2Nv",
+            "dW50VHVwbGVfUmVzcG9uc2Ua6QEKHkNFeHRlcm5hbEFjY291bnRUdXBsZV9S",
+            "ZXNwb25zZRI7Cg1leHRlcm5hbF90eXBlGAEgASgOMhUuRUV4dGVybmFsQWNj",
+            "b3VudFR5cGU6DUVFeHRlcm5hbE5vbmUSEwoLZXh0ZXJuYWxfaWQYAiABKAkS",
+            "GgoSZXh0ZXJuYWxfdXNlcl9uYW1lGAMgASgJEhQKDGV4dGVybmFsX3VybBgE",
+            "IAEoCRIUCgxhY2Nlc3NfdG9rZW4YBSABKAkSGwoTYWNjZXNzX3Rva2VuX3Nl",
+            "Y3JldBgGIAEoCRIQCghpc192YWxpZBgHIAEoCCJ3Ci5DRW1iZWRkZWRDbGll",
+            "bnRfQXV0aG9yaXplQ3VycmVudERldmljZV9SZXF1ZXN0Eg8KB3N0ZWFtaWQY",
+            "ASABKAYSDQoFYXBwaWQYAiABKA0SEwoLZGV2aWNlX2luZm8YAyABKAkSEAoI",
+            "ZGV2aWNlaWQYBCABKA0iYAoVQ0VtYmVkZGVkQ2xpZW50X1Rva2VuEg8KB3N0",
+            "ZWFtaWQYASABKAYSFAoMY2xpZW50X3Rva2VuGAIgASgMEg4KBmV4cGlyeRgD",
+            "IAEoDRIQCghkZXZpY2VpZBgEIAEoDSJhCihDRW1iZWRkZWRDbGllbnRfQXV0",
+            "aG9yaXplRGV2aWNlX1Jlc3BvbnNlEg4KBnJlc3VsdBgBIAEoDRIlCgV0b2tl",
+            "bhgCIAEoCzIWLkNFbWJlZGRlZENsaWVudF9Ub2tlbiqFAQoURUludGVybmFs",
+            "QWNjb3VudFR5cGUSHQoZRUludGVybmFsU3RlYW1BY2NvdW50VHlwZRABEhUK",
+            "EUVJbnRlcm5hbENsYW5UeXBlEAISFAoQRUludGVybmFsQXBwVHlwZRADEiEK",
+            "HUVJbnRlcm5hbEJyb2FkY2FzdENoYW5uZWxUeXBlEAQq9gEKFEVFeHRlcm5h",
+            "bEFjY291bnRUeXBlEhEKDUVFeHRlcm5hbE5vbmUQABIZChVFRXh0ZXJuYWxT",
+            "dGVhbUFjY291bnQQARIaChZFRXh0ZXJuYWxHb29nbGVBY2NvdW50EAISHAoY",
+            "RUV4dGVybmFsRmFjZWJvb2tBY2NvdW50EAMSGwoXRUV4dGVybmFsVHdpdHRl",
+            "ckFjY291bnQQBBIaChZFRXh0ZXJuYWxUd2l0Y2hBY2NvdW50EAUSIgoeRUV4",
+            "dGVybmFsWW91VHViZUNoYW5uZWxBY2NvdW50EAYSGQoVRUV4dGVybmFsRmFj",
+            "ZWJvb2tQYWdlEAcynAoKC1VzZXJBY2NvdW50EpwBCiNHZXRBdmFpbGFibGVW",
+            "YWx2ZURpc2NvdW50UHJvbW90aW9ucxI5LkNVc2VyQWNjb3VudF9HZXRBdmFp",
+            "bGFibGVWYWx2ZURpc2NvdW50UHJvbW90aW9uc19SZXF1ZXN0GjouQ1VzZXJB",
+            "Y2NvdW50X0dldEF2YWlsYWJsZVZhbHZlRGlzY291bnRQcm9tb3Rpb25zX1Jl",
+            "c3BvbnNlEm8KFkdldENsaWVudFdhbGxldERldGFpbHMSLC5DVXNlckFjY291",
+            "bnRfR2V0Q2xpZW50V2FsbGV0RGV0YWlsc19SZXF1ZXN0GicuQ1VzZXJBY2Nv",
+            "dW50X0dldFdhbGxldERldGFpbHNfUmVzcG9uc2USbwoUR2V0QWNjb3VudExp",
+            "bmtTdGF0dXMSKi5DVXNlckFjY291bnRfR2V0QWNjb3VudExpbmtTdGF0dXNf",
+            "UmVxdWVzdBorLkNVc2VyQWNjb3VudF9HZXRBY2NvdW50TGlua1N0YXR1c19S",
+            "ZXNwb25zZRJsChNDYW5jZWxMaWNlbnNlRm9yQXBwEikuQ1VzZXJBY2NvdW50",
+            "X0NhbmNlbExpY2Vuc2VGb3JBcHBfUmVxdWVzdBoqLkNVc2VyQWNjb3VudF9D",
+            "YW5jZWxMaWNlbnNlRm9yQXBwX1Jlc3BvbnNlEl0KDkdldFVzZXJDb3VudHJ5",
+            "EiQuQ1VzZXJBY2NvdW50X0dldFVzZXJDb3VudHJ5X1JlcXVlc3QaJS5DVXNl",
+            "ckFjY291bnRfR2V0VXNlckNvdW50cnlfUmVzcG9uc2USeAoXQ3JlYXRlRnJp",
+            "ZW5kSW52aXRlVG9rZW4SLS5DVXNlckFjY291bnRfQ3JlYXRlRnJpZW5kSW52",
+            "aXRlVG9rZW5fUmVxdWVzdBouLkNVc2VyQWNjb3VudF9DcmVhdGVGcmllbmRJ",
+            "bnZpdGVUb2tlbl9SZXNwb25zZRJyChVHZXRGcmllbmRJbnZpdGVUb2tlbnMS",
+            "Ky5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9rZW5zX1JlcXVlc3Qa",
+            "LC5DVXNlckFjY291bnRfR2V0RnJpZW5kSW52aXRlVG9rZW5zX1Jlc3BvbnNl",
+            "EnIKFVZpZXdGcmllbmRJbnZpdGVUb2tlbhIrLkNVc2VyQWNjb3VudF9WaWV3",
+            "RnJpZW5kSW52aXRlVG9rZW5fUmVxdWVzdBosLkNVc2VyQWNjb3VudF9WaWV3",
+            "RnJpZW5kSW52aXRlVG9rZW5fUmVzcG9uc2USeAoXUmVkZWVtRnJpZW5kSW52",
+            "aXRlVG9rZW4SLS5DVXNlckFjY291bnRfUmVkZWVtRnJpZW5kSW52aXRlVG9r",
+            "ZW5fUmVxdWVzdBouLkNVc2VyQWNjb3VudF9SZWRlZW1GcmllbmRJbnZpdGVU",
+            "b2tlbl9SZXNwb25zZRJ4ChdSZXZva2VGcmllbmRJbnZpdGVUb2tlbhItLkNV",
+            "c2VyQWNjb3VudF9SZXZva2VGcmllbmRJbnZpdGVUb2tlbl9SZXF1ZXN0Gi4u",
+            "Q1VzZXJBY2NvdW50X1Jldm9rZUZyaWVuZEludml0ZVRva2VuX1Jlc3BvbnNl",
+            "EmkKElJlZ2lzdGVyQ29tcGF0VG9vbBIoLkNVc2VyQWNjb3VudF9SZWdpc3Rl",
+            "ckNvbXBhdFRvb2xfUmVxdWVzdBopLkNVc2VyQWNjb3VudF9SZWdpc3RlckNv",
+            "bXBhdFRvb2xfUmVzcG9uc2UyhwEKDkFjY291bnRMaW5raW5nEnUKFEdldExp",
+            "bmtlZEFjY291bnRJbmZvEi0uQ0FjY291bnRMaW5raW5nX0dldExpbmtlZEFj",
+            "Y291bnRJbmZvX1JlcXVlc3QaLi5DQWNjb3VudExpbmtpbmdfR2V0TGlua2Vk",
+            "QWNjb3VudEluZm9fUmVzcG9uc2UyhgEKDkVtYmVkZGVkQ2xpZW50EnQKFkF1",
+            "dGhvcml6ZUN1cnJlbnREZXZpY2USLy5DRW1iZWRkZWRDbGllbnRfQXV0aG9y",
+            "aXplQ3VycmVudERldmljZV9SZXF1ZXN0GikuQ0VtYmVkZGVkQ2xpZW50X0F1",
+            "dGhvcml6ZURldmljZV9SZXNwb25zZUIdgAEBqgIXT3BlblN0ZWFtd29ya3Mu",
+            "UHJvdG9idWY="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesUnifiedBaseSteamclientReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EInternalAccountType), typeof(global::OpenSteamworks.Protobuf.EExternalAccountType), }, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Request), global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Request.Parser, new[]{ "CountryCode" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Response), global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Response.Parser, new[]{ "Promotions" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Response.Types.ValveDiscountPromotionDetails), global::OpenSteamworks.Protobuf.CUserAccount_GetAvailableValveDiscountPromotions_Response.Types.ValveDiscountPromotionDetails.Parser, new[]{ "Promotionid", "PromotionDescription", "MinimumCartAmount", "MinimumCartAmountForDisplay", "DiscountAmount", "CurrencyCode", "AvailableUseCount", "PromotionalDiscountType", "LoyaltyRewardId", "LocalizedNameToken", "MaxUseCount" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetClientWalletDetails_Request), global::OpenSteamworks.Protobuf.CUserAccount_GetClientWalletDetails_Request.Parser, new[]{ "IncludeBalanceInUsd", "WalletRegion", "IncludeFormattedBalance" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetWalletDetails_Response), global::OpenSteamworks.Protobuf.CUserAccount_GetWalletDetails_Response.Parser, new[]{ "HasWallet", "UserCountryCode", "WalletCountryCode", "WalletState", "Balance", "DelayedBalance", "CurrencyCode", "TimeMostRecentTxn", "MostRecentTxnid", "BalanceInUsd", "DelayedBalanceInUsd", "HasWalletInOtherRegions", "OtherRegions", "FormattedBalance" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetWalletDetails_Response), global::OpenSteamworks.Protobuf.CUserAccount_GetWalletDetails_Response.Parser, new[]{ "HasWallet", "UserCountryCode", "WalletCountryCode", "WalletState", "Balance", "DelayedBalance", "CurrencyCode", "TimeMostRecentTxn", "MostRecentTxnid", "BalanceInUsd", "DelayedBalanceInUsd", "HasWalletInOtherRegions", "OtherRegions", "FormattedBalance", "FormattedDelayedBalance", "DelayedBalanceAvailableMinTime", "DelayedBalanceAvailableMaxTime", "DelayedBalanceNewestSource" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetAccountLinkStatus_Request), global::OpenSteamworks.Protobuf.CUserAccount_GetAccountLinkStatus_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_GetAccountLinkStatus_Response), global::OpenSteamworks.Protobuf.CUserAccount_GetAccountLinkStatus_Response.Parser, new[]{ "Pwid", "IdentityVerification", "PerformedAgeVerification" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CUserAccount_CancelLicenseForApp_Request), global::OpenSteamworks.Protobuf.CUserAccount_CancelLicenseForApp_Request.Parser, new[]{ "Appid" }, null, null, null, null),
@@ -1684,6 +1688,10 @@ namespace OpenSteamworks.Protobuf {
       hasWalletInOtherRegions_ = other.hasWalletInOtherRegions_;
       otherRegions_ = other.otherRegions_.Clone();
       formattedBalance_ = other.formattedBalance_;
+      formattedDelayedBalance_ = other.formattedDelayedBalance_;
+      delayedBalanceAvailableMinTime_ = other.delayedBalanceAvailableMinTime_;
+      delayedBalanceAvailableMaxTime_ = other.delayedBalanceAvailableMaxTime_;
+      delayedBalanceNewestSource_ = other.delayedBalanceNewestSource_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -2051,6 +2059,113 @@ namespace OpenSteamworks.Protobuf {
       formattedBalance_ = null;
     }
 
+    /// <summary>Field number for the "formatted_delayed_balance" field.</summary>
+    public const int FormattedDelayedBalanceFieldNumber = 15;
+    private readonly static string FormattedDelayedBalanceDefaultValue = "";
+
+    private string formattedDelayedBalance_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string FormattedDelayedBalance {
+      get { return formattedDelayedBalance_ ?? FormattedDelayedBalanceDefaultValue; }
+      set {
+        formattedDelayedBalance_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "formatted_delayed_balance" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasFormattedDelayedBalance {
+      get { return formattedDelayedBalance_ != null; }
+    }
+    /// <summary>Clears the value of the "formatted_delayed_balance" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearFormattedDelayedBalance() {
+      formattedDelayedBalance_ = null;
+    }
+
+    /// <summary>Field number for the "delayed_balance_available_min_time" field.</summary>
+    public const int DelayedBalanceAvailableMinTimeFieldNumber = 16;
+    private readonly static int DelayedBalanceAvailableMinTimeDefaultValue = 0;
+
+    private int delayedBalanceAvailableMinTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceAvailableMinTime {
+      get { if ((_hasBits0 & 512) != 0) { return delayedBalanceAvailableMinTime_; } else { return DelayedBalanceAvailableMinTimeDefaultValue; } }
+      set {
+        _hasBits0 |= 512;
+        delayedBalanceAvailableMinTime_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_available_min_time" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceAvailableMinTime {
+      get { return (_hasBits0 & 512) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_available_min_time" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceAvailableMinTime() {
+      _hasBits0 &= ~512;
+    }
+
+    /// <summary>Field number for the "delayed_balance_available_max_time" field.</summary>
+    public const int DelayedBalanceAvailableMaxTimeFieldNumber = 17;
+    private readonly static int DelayedBalanceAvailableMaxTimeDefaultValue = 0;
+
+    private int delayedBalanceAvailableMaxTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceAvailableMaxTime {
+      get { if ((_hasBits0 & 1024) != 0) { return delayedBalanceAvailableMaxTime_; } else { return DelayedBalanceAvailableMaxTimeDefaultValue; } }
+      set {
+        _hasBits0 |= 1024;
+        delayedBalanceAvailableMaxTime_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_available_max_time" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceAvailableMaxTime {
+      get { return (_hasBits0 & 1024) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_available_max_time" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceAvailableMaxTime() {
+      _hasBits0 &= ~1024;
+    }
+
+    /// <summary>Field number for the "delayed_balance_newest_source" field.</summary>
+    public const int DelayedBalanceNewestSourceFieldNumber = 18;
+    private readonly static int DelayedBalanceNewestSourceDefaultValue = 0;
+
+    private int delayedBalanceNewestSource_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int DelayedBalanceNewestSource {
+      get { if ((_hasBits0 & 2048) != 0) { return delayedBalanceNewestSource_; } else { return DelayedBalanceNewestSourceDefaultValue; } }
+      set {
+        _hasBits0 |= 2048;
+        delayedBalanceNewestSource_ = value;
+      }
+    }
+    /// <summary>Gets whether the "delayed_balance_newest_source" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDelayedBalanceNewestSource {
+      get { return (_hasBits0 & 2048) != 0; }
+    }
+    /// <summary>Clears the value of the "delayed_balance_newest_source" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDelayedBalanceNewestSource() {
+      _hasBits0 &= ~2048;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -2080,6 +2195,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasWalletInOtherRegions != other.HasWalletInOtherRegions) return false;
       if(!otherRegions_.Equals(other.otherRegions_)) return false;
       if (FormattedBalance != other.FormattedBalance) return false;
+      if (FormattedDelayedBalance != other.FormattedDelayedBalance) return false;
+      if (DelayedBalanceAvailableMinTime != other.DelayedBalanceAvailableMinTime) return false;
+      if (DelayedBalanceAvailableMaxTime != other.DelayedBalanceAvailableMaxTime) return false;
+      if (DelayedBalanceNewestSource != other.DelayedBalanceNewestSource) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -2101,6 +2220,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasHasWalletInOtherRegions) hash ^= HasWalletInOtherRegions.GetHashCode();
       hash ^= otherRegions_.GetHashCode();
       if (HasFormattedBalance) hash ^= FormattedBalance.GetHashCode();
+      if (HasFormattedDelayedBalance) hash ^= FormattedDelayedBalance.GetHashCode();
+      if (HasDelayedBalanceAvailableMinTime) hash ^= DelayedBalanceAvailableMinTime.GetHashCode();
+      if (HasDelayedBalanceAvailableMaxTime) hash ^= DelayedBalanceAvailableMaxTime.GetHashCode();
+      if (HasDelayedBalanceNewestSource) hash ^= DelayedBalanceNewestSource.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -2172,6 +2295,22 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(114);
         output.WriteString(FormattedBalance);
       }
+      if (HasFormattedDelayedBalance) {
+        output.WriteRawTag(122);
+        output.WriteString(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        output.WriteRawTag(128, 1);
+        output.WriteInt32(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        output.WriteRawTag(136, 1);
+        output.WriteInt32(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        output.WriteRawTag(144, 1);
+        output.WriteInt32(DelayedBalanceNewestSource);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -2235,6 +2374,22 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(114);
         output.WriteString(FormattedBalance);
       }
+      if (HasFormattedDelayedBalance) {
+        output.WriteRawTag(122);
+        output.WriteString(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        output.WriteRawTag(128, 1);
+        output.WriteInt32(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        output.WriteRawTag(136, 1);
+        output.WriteInt32(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        output.WriteRawTag(144, 1);
+        output.WriteInt32(DelayedBalanceNewestSource);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -2284,6 +2439,18 @@ namespace OpenSteamworks.Protobuf {
       size += otherRegions_.CalculateSize(_repeated_otherRegions_codec);
       if (HasFormattedBalance) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(FormattedBalance);
+      }
+      if (HasFormattedDelayedBalance) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(FormattedDelayedBalance);
+      }
+      if (HasDelayedBalanceAvailableMinTime) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceAvailableMinTime);
+      }
+      if (HasDelayedBalanceAvailableMaxTime) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceAvailableMaxTime);
+      }
+      if (HasDelayedBalanceNewestSource) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(DelayedBalanceNewestSource);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -2336,6 +2503,18 @@ namespace OpenSteamworks.Protobuf {
       otherRegions_.Add(other.otherRegions_);
       if (other.HasFormattedBalance) {
         FormattedBalance = other.FormattedBalance;
+      }
+      if (other.HasFormattedDelayedBalance) {
+        FormattedDelayedBalance = other.FormattedDelayedBalance;
+      }
+      if (other.HasDelayedBalanceAvailableMinTime) {
+        DelayedBalanceAvailableMinTime = other.DelayedBalanceAvailableMinTime;
+      }
+      if (other.HasDelayedBalanceAvailableMaxTime) {
+        DelayedBalanceAvailableMaxTime = other.DelayedBalanceAvailableMaxTime;
+      }
+      if (other.HasDelayedBalanceNewestSource) {
+        DelayedBalanceNewestSource = other.DelayedBalanceNewestSource;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -2409,6 +2588,22 @@ namespace OpenSteamworks.Protobuf {
             FormattedBalance = input.ReadString();
             break;
           }
+          case 122: {
+            FormattedDelayedBalance = input.ReadString();
+            break;
+          }
+          case 128: {
+            DelayedBalanceAvailableMinTime = input.ReadInt32();
+            break;
+          }
+          case 136: {
+            DelayedBalanceAvailableMaxTime = input.ReadInt32();
+            break;
+          }
+          case 144: {
+            DelayedBalanceNewestSource = input.ReadInt32();
+            break;
+          }
         }
       }
     #endif
@@ -2479,6 +2674,22 @@ namespace OpenSteamworks.Protobuf {
           }
           case 114: {
             FormattedBalance = input.ReadString();
+            break;
+          }
+          case 122: {
+            FormattedDelayedBalance = input.ReadString();
+            break;
+          }
+          case 128: {
+            DelayedBalanceAvailableMinTime = input.ReadInt32();
+            break;
+          }
+          case 136: {
+            DelayedBalanceAvailableMaxTime = input.ReadInt32();
+            break;
+          }
+          case 144: {
+            DelayedBalanceNewestSource = input.ReadInt32();
             break;
           }
         }

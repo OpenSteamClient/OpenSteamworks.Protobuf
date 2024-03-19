@@ -28,240 +28,264 @@ namespace OpenSteamworks.Protobuf {
             "cHJvdG9idWYvZGVzY3JpcHRvci5wcm90bxoLZW51bXMucHJvdG8ifAoKQ01z",
             "Z0hvdGtleRIQCghrZXlfY29kZRgBIAEoDRIPCgdhbHRfa2V5GAIgASgIEhEK",
             "CXNoaWZ0X2tleRgDIAEoCBIQCghjdHJsX2tleRgEIAEoCBIQCghtZXRhX2tl",
-            "eRgFIAEoCBIUCgxkaXNwbGF5X25hbWUYBiABKAkirUUKEkNNc2dDbGllbnRT",
-            "ZXR0aW5ncxJOChVub19zYXZlX3BlcnNvbmFsX2luZm8YASABKAhCL4CmHQGK",
-            "ph0nU29mdHdhcmVcVmFsdmVcU3RlYW1cTm9TYXZlUGVyc29uYWxJbmZvElAK",
-            "Fm9vYmVfdGVzdF9tb2RlX2VuYWJsZWQYAiABKAhCMICmHQGKph0oU29mdHdh",
-            "cmVcVmFsdmVcU3RlYW1cT09CRVRlc3RNb2RlRW5hYmxlZBIgCg5pbl9jbGll",
-            "bnRfYmV0YRgDIAEoCEIIgKYdBZCmHQESJQoTaXNfc3RlYW1fc2lkZWxvYWRl",
-            "ZBgEIAEoCEIIgKYdBZCmHQESNQoRcHJlZmVycmVkX21vbml0b3IYBSABKAlC",
-            "GoCmHQGKph0SQmlnUGljdHVyZS9Nb25pdG9yEnAKIHN0ZWFtX2NlZl9ncHVf",
-            "YmxvY2tsaXN0X2Rpc2FibGVkGAYgASgIQkaAph0EiqYdPkhLRVlfQ1VSUkVO",
-            "VF9VU0VSXFNvZnR3YXJlXFZhbHZlXFN0ZWFtXENFRkdQVUJsb2NrbGlzdERp",
-            "c2FibGVkEjwKE2JpZ3BpY3R1cmVfd2luZG93ZWQYByABKAhCH4CmHQGKph0T",
-            "QmlnUGljdHVyZS9XaW5kb3dlZJCmHQESNQoMZGlzcGxheV9uYW1lGAggASgJ",
-            "Qh+Aph0BiqYdF1VJL0Rpc3BsYXkvQ3VycmVudC9OYW1lEkkKE2lzX2V4dGVy",
-            "bmFsX2Rpc3BsYXkYCSABKAhCLICmHQGKph0kVUkvRGlzcGxheS9DdXJyZW50",
-            "L0lzRXh0ZXJuYWxEaXNwbGF5EkUKGHN0ZWFtX29zX3VuZGVyc2Nhbl9sZXZl",
-            "bBgKIAEoAkIjgKYdAYqmHRtTdGVhbU9TU2NyZWVuVW5kZXJzY2FuTGV2ZWwS",
-            "SQoac3RlYW1fb3NfdW5kZXJzY2FuX2VuYWJsZWQYCyABKAhCJYCmHQGKph0d",
-            "U3RlYW1PU1NjcmVlblVuZGVyc2NhbkVuYWJsZWQSQwoQbWluX3NjYWxlX2Zh",
-            "Y3RvchgMIAEoAkIpgKYdAYqmHSFVSS9EaXNwbGF5L0N1cnJlbnQvTWluU2Nh",
-            "bGVGYWN0b3ISQwoQbWF4X3NjYWxlX2ZhY3RvchgNIAEoAkIpgKYdAYqmHSFV",
-            "SS9EaXNwbGF5L0N1cnJlbnQvTWF4U2NhbGVGYWN0b3ISRQoRYXV0b19zY2Fs",
-            "ZV9mYWN0b3IYDiABKAJCKoCmHQGKph0iVUkvRGlzcGxheS9DdXJyZW50L0F1",
-            "dG9TY2FsZUZhY3RvchI6CgpzbWFsbF9tb2RlGBAgASgIQiaAph0DiqYdHlNv",
-            "ZnR3YXJlXFZhbHZlXFN0ZWFtXFNtYWxsTW9kZRJJChtza2lwX3N0ZWFtdnJf",
-            "aW5zdGFsbF9kaWFsb2cYEyABKAhCJICmHQOKph0cc3lzdGVtXFN0ZWFtVlJI",
-            "TURWR1VJV2FybmluZxJPChhhbHdheXNfc2hvd191c2VyX2Nob29zZXIYFCAB",
-            "KAhCLYCmHQGKph0lV2ViU3RvcmFnZVxBdXRoXEFsd2F5c1Nob3dVc2VyQ2hv",
-            "b3NlchIwCiFzaG93X2ZhbWlseV9zaGFyaW5nX25vdGlmaWNhdGlvbnMYuBcg",
-            "ASgIQgSAph0FEk4KGm92ZXJsYXlfZnBzX2NvdW50ZXJfY29ybmVyGKAfIAEo",
-            "BUIpgKYdA4qmHSFzeXN0ZW1cSW5HYW1lT3ZlcmxheVNob3dGUFNDb3JuZXIS",
-            "Vwohb3ZlcmxheV9mcHNfY291bnRlcl9oaWdoX2NvbnRyYXN0GKEfIAEoCEIr",
-            "gKYdA4qmHSNzeXN0ZW1cSW5HYW1lT3ZlcmxheVNob3dGUFNDb250cmFzdBJb",
-            "CgtvdmVybGF5X2tleRiiHyABKAsyCy5DTXNnSG90a2V5QjiAph0DiqYdH3N5",
-            "c3RlbVxJbkdhbWVPdmVybGF5U2hvcnRjdXRLZXm6ph0NU2hpZnQJS0VZX1RB",
-            "QhJdCg5zY3JlZW5zaG90X2tleRijHyABKAsyCy5DTXNnSG90a2V5QjeAph0D",
-            "iqYdJHN5c3RlbVxJbkdhbWVPdmVybGF5U2NyZWVuc2hvdEhvdEtlebqmHQdL",
-            "RVlfRjEyEjkKDmVuYWJsZV9vdmVybGF5GKQfIAEoCEIggKYdA4qmHRhzeXN0",
-            "ZW1cRW5hYmxlR2FtZU92ZXJsYXkSXwoeZW5hYmxlX3NjcmVlbnNob3Rfbm90",
-            "aWZpY2F0aW9uGKYfIAEoCEI2gKYdA4qmHSpzeXN0ZW1cSW5HYW1lT3Zlcmxh",
-            "eVNjcmVlbnNob3ROb3RpZmljYXRpb26Yph0BElUKF2VuYWJsZV9zY3JlZW5z",
-            "aG90X3NvdW5kGKcfIAEoCEIzgKYdA4qmHSdzeXN0ZW1cSW5HYW1lT3Zlcmxh",
-            "eVNjcmVlbnNob3RQbGF5U291bmSYph0BEl4KHXNhdmVfdW5jb21wcmVzc2Vk",
-            "X3NjcmVlbnNob3RzGKgfIAEoCEI2gKYdA4qmHS5zeXN0ZW1cSW5HYW1lT3Zl",
-            "cmxheVNjcmVlbnNob3RTYXZlVW5jb21wcmVzc2VkEh8KEHNjcmVlbnNob3Rz",
-            "X3BhdGgYqR8gASgJQgSAph0FEmwKEWRlZmF1bHRfcGluZ19yYXRlGKofIAEo",
-            "BUJQgKYdBcCmHQHKph1EQ29tcHV0ZWQgZGVmYXVsdCAoYXV0b21hdGljKSBz",
-            "ZXJ2ZXIgcGluZyByYXRlIGJhc2VkIG9uIG5ldHdvcmsgc3BlZWQSHwoQc2Vy",
-            "dmVyX3BpbmdfcmF0ZRirHyABKAVCBICmHQUSKAoZc3RlYW1fbmV0d29ya2lu",
-            "Z19zaGFyZV9pcBisHyABKAVCBICmHQUSHwoQd2ViX2Jyb3dzZXJfaG9tZRit",
-            "HyABKAlCBICmHQUSJAoVdm9pY2VfbWljX2RldmljZV9uYW1lGK4fIAEoCUIE",
-            "gKYdBRIjChR2b2ljZV9taWNfaW5wdXRfZ2FpbhivHyABKAJCBICmHQUSKAoZ",
-            "dm9pY2Vfc3BlYWtlcl9vdXRwdXRfZ2FpbhiwHyABKAJCBICmHQUSJwoYdm9p",
-            "Y2VfcHVzaF90b190YWxzZXR0aW5nGLEfIAEoBUIEgKYdBRIwChR2b2ljZV9w",
-            "dXNoX3RvX3RhbGtleRiyHyABKAsyCy5DTXNnSG90a2V5QgSAph0FEkIKGW92",
-            "ZXJsYXlfdG9vbGJhcl9saXN0X3ZpZXcYsx8gASgIQh6Aph0DiqYdFk92ZXJs",
-            "YXlUb29sQmFyTGlzdFZpZXcSVAocYWx3YXlzX3VzZV9nYW1lcGFkdWlfb3Zl",
-            "cmxheRi0HyABKAhCLYCmHQOKph0lc3lzdGVtXEVuYWJsZVNDVGVuRm9vdE92",
-            "ZXJsYXlDaGVja05ldxIqCgxvdmVybGF5X3RhYnMYtR8gASgJQhOAph0CiqYd",
-            "C092ZXJsYXlUYWJzEmoKF292ZXJsYXlfc2NhbGVfaW50ZXJmYWNlGLYfIAEo",
-            "CEJIgKYdBIqmHTxIS0VZX0NVUlJFTlRfVVNFUlxTb2Z0d2FyZVxWYWx2ZVxT",
-            "dGVhbVxPdmVybGF5U2NhbGVJbnRlcmZhY2WYph0BElkKHG92ZXJsYXlfcmVz",
-            "dG9yZV9icm93c2VyX3RhYnMYtx8gASgIQjKAph0DiqYdJnN5c3RlbVxJbkdh",
-            "bWVPdmVybGF5UmVzdG9yZUJyb3dzZXJUYWJzmKYdARJSChdlbmFibGVfYXZp",
-            "Zl9zY3JlZW5zaG90cxi4HyABKAhCMICmHQOKph0oc3lzdGVtXEluR2FtZU92",
-            "ZXJsYXlTY3JlZW5zaG90RW5hYmxlQVZJRhJoChZzbW9vdGhfc2Nyb2xsX3dl",
-            "YnZpZXdzGIgnIAEoCEJHgKYdBIqmHTtIS0VZX0NVUlJFTlRfVVNFUlxTb2Z0",
-            "d2FyZVxWYWx2ZVxTdGVhbVxTbW9vdGhTY3JvbGxXZWJWaWV3c5imHQESLgof",
-            "ZW5hYmxlX2dwdV9hY2NlbGVyYXRlZF93ZWJ2aWV3cxiJJyABKAhCBICmHQUS",
-            "LQoeZW5hYmxlX2hhcmR3YXJlX3ZpZGVvX2RlY29kaW5nGIsnIAEoCEIEgKYd",
-            "BRIdCg5ydW5fYXRfc3RhcnR1cBiMJyABKAhCBICmHQUSIQoSZW5hYmxlX2Rw",
-            "aV9zY2FsaW5nGI0nIAEoCEIEgKYdBRJJChllbmFibGVfbWFya2V0aW5nX21l",
-            "c3NhZ2VzGI4nIAEoCEIlgKYdA4qmHRluZXdzXE5vdGlmeUF2YWlsYWJsZUdh",
-            "bWVzmKYdARIoChlzdGFydF9pbl9iaWdfcGljdHVyZV9tb2RlGI8nIAEoCEIE",
-            "gKYdBRI+Cg5qdW1wbGlzdF9mbGFncxiQJyABKA1CJYCmHQOKph0Xc3lzdGVt",
-            "XEp1bXBsaXN0U2V0dGluZ3Ooph3w3gQSPAoQZW5hYmxlX3VpX3NvdW5kcxiR",
-            "JyABKAhCIYCmHQOKph0Vc3lzdGVtXEVuYWJsZVVJU291bmRzmKYdARI1ChJk",
-            "aXNhYmxlX2FsbF90b2FzdHMY8C4gASgIQhiAph0CiqYdEERpc2FibGVBbGxU",
-            "b2FzdHMSPAoWZGlzYWJsZV90b2FzdHNfaW5fZ2FtZRjxLiABKAhCG4CmHQKK",
-            "ph0TRGlzYWJsZVRvYXN0c0luR2FtZRI6ChNwbGF5X3NvdW5kX29uX3RvYXN0",
-            "GPIuIAEoCEIcgKYdAoqmHRBQbGF5U291bmRPblRvYXN0mKYdARI5ChRsaWJy",
-            "YXJ5X2Rpc3BsYXlfc2l6ZRjYNiABKAVCGoCmHQOKph0STGlicmFyeURpc3Bs",
-            "YXlTaXplEmMKK2xpYnJhcnlfd2hhdHNfbmV3X3Nob3dfb25seV9wcm9kdWN0",
-            "X3VwZGF0ZXMY2TYgASgIQi2Aph0CiqYdJUxpYnJhcnlXaGF0c05ld1Nob3dP",
-            "bmx5UHJvZHVjdFVwZGF0ZXMSRwoac2hvd19zdG9yZV9jb250ZW50X29uX2hv",
-            "bWUY2jYgASgIQiKAph0CiqYdFlNob3dTdG9yZUNvbnRlbnRPbkhvbWWYph0B",
-            "EhkKCnN0YXJ0X3BhZ2UY2zYgASgJQgSAph0FEkQKGmxpYnJhcnlfbG93X2Jh",
-            "bmR3aWR0aF9tb2RlGNw2IAEoCEIfgKYdA4qmHRdMaWJyYXJ5TG93QmFuZHdp",
-            "ZHRoTW9kZRI6ChVsaWJyYXJ5X2xvd19wZXJmX21vZGUY3TYgASgIQhqAph0D",
-            "iqYdEkxpYnJhcnlMb3dQZXJmTW9kZRJSCiFsaWJyYXJ5X2Rpc2FibGVfY29t",
-            "bXVuaXR5X2NvbnRlbnQY3jYgASgIQiaAph0DiqYdHkxpYnJhcnlEaXNhYmxl",
-            "Q29tbXVuaXR5Q29udGVudBJUCiFsaWJyYXJ5X2Rpc3BsYXlfaWNvbl9pbl9n",
-            "YW1lX2xpc3QY3zYgASgIQiiAph0DiqYdHExpYnJhcnlEaXNwbGF5SWNvbklu",
-            "R2FtZUxpc3SYph0BEk8KIHJlYWR5X3RvX3BsYXlfaW5jbHVkZXNfc3RyZWFt",
-            "aW5nGOA2IAEoCEIkgKYdBYqmHRxSZWFkeVRvUGxheUluY2x1ZGVzU3RyZWFt",
-            "aW5nEj8KEnNob3dfc3RlYW1fZGVjaW5mbxjhNiABKAhCIoCmHQOKph0aU2hv",
-            "d1N0ZWFtRGVja0luZm9JbkxpYnJhcnkSJQoWZW5hYmxlX3NoYWRlcl9wcmVj",
-            "YWNoZRjAPiABKAhCBICmHQUSMgojZW5hYmxlX3NoYWRlcl9iYWNrZ3JvdW5k",
-            "X3Byb2Nlc3NpbmcYwT4gASgIQgSAph0FEigKFXNoYWRlcl9wcmVjYWNoZWRf",
-            "c2l6ZRjCPiABKARCCICmHQXAph0BEi0KGm5lZWRzX3N0ZWFtX3NlcnZpY2Vf",
-            "cmVwYWlyGMM+IAEoCEIIgKYdBcCmHQESJAoVZG93bmxvYWRfcGVlcl9jb250",
-            "ZW50GMQ+IAEoBUIEgKYdBRInChhkb3dubG9hZF9yYXRlX2JpdHNfcGVyX3MY",
-            "xT4gASgIQgSAph0FEiQKFXJlc3RyaWN0X2F1dG9fdXBkYXRlcxjGPiABKAhC",
-            "BICmHQUSKgobcmVzdHJpY3RfYXV0b191cGRhdGVzX3N0YXJ0GMc+IAEoBUIE",
-            "gKYdBRIoChlyZXN0cmljdF9hdXRvX3VwZGF0ZXNfZW5kGMg+IAEoBUIEgKYd",
-            "BRIeCg9kb3dubG9hZF9yZWdpb24YyT4gASgFQgSAph0FEikKGmRvd25sb2Fk",
-            "X3doaWxlX2FwcF9ydW5uaW5nGMo+IAEoCEIEgKYdBRIwCiFkb3dubG9hZF90",
-            "aHJvdHRsZV93aGlsZV9zdHJlYW1pbmcYyz4gASgIQgSAph0FEiUKFmRvd25s",
-            "b2FkX3Rocm90dGxlX3JhdGUYzD4gASgFQgSAph0FEhwKDWNsb3VkX2VuYWJs",
-            "ZWQYkE4gASgIQgSAph0FElQKF3Nob3dfc2NyZWVuc2hvdF9tYW5hZ2VyGJFO",
-            "IAEoCEIygKYdAoqmHSpTb2Z0d2FyZVxWYWx2ZVxTdGVhbVxTaG93U2NyZWVu",
-            "c2hvdE1hbmFnZXISGwoMbXVzaWNfdm9sdW1lGPhVIAEoBUIEgKYdBRJJChht",
-            "dXNpY19wYXVzZV9vbl9hcHBfc3RhcnQY+VUgASgIQiaAph0BiqYdHk11c2lj",
-            "XFBhdXNlT25BcHBTdGFydGVkUHJvY2VzcxJCChltdXNpY19wYXVzZV9vbl92",
-            "b2ljZV9jaGF0GPpVIAEoCEIegKYdAYqmHRZNdXNpY1xQYXVzZU9uVm9pY2VD",
-            "aGF0ElcKG211c2ljX2Rvd25sb2FkX2hpZ2hfcXVhbGl0eRj7VSABKAhCMYCm",
-            "HQGKph0pTXVzaWNcRG93bmxvYWRIaWdoUXVhbGl0eUF1ZGlvU291bmR0cmFj",
-            "a3MSUgobbXVzaWNfcGxheWxpc3Rfbm90aWZpY2F0aW9uGPxVIAEoCEIsgKYd",
-            "AYqmHSRNdXNpY1xQbGF5bGlzdE5vd1BsYXlpbmdOb3RpZmljYXRpb24SdgoV",
-            "YnJvYWRjYXN0X3Blcm1pc3Npb25zGOBdIAEoDjIVLkVCcm9hZGNhc3RQZXJt",
-            "aXNzaW9uOhxFQnJvYWRjYXN0UGVybWlzc2lvbkRpc2FibGVkQiGAph0DiqYd",
-            "FUJyb2FkY2FzdFxQZXJtaXNzaW9uc6CmHQESPgoWYnJvYWRjYXN0X291dHB1",
-            "dF93aWR0aBjhXSABKAVCHYCmHQOKph0VQnJvYWRjYXN0XE91dHB1dFdpZHRo",
-            "EkAKF2Jyb2FkY2FzdF9vdXRwdXRfaGVpZ2h0GOJdIAEoBUIegKYdA4qmHRZC",
-            "cm9hZGNhc3RcT3V0cHV0SGVpZ2h0EjUKEWJyb2FkY2FzdF9iaXRyYXRlGONd",
-            "IAEoBUIZgKYdA4qmHRFCcm9hZGNhc3RcTWF4S2JwcxJ9Chlicm9hZGNhc3Rf",
-            "ZW5jb2Rpbmdfb3B0aW9uGORdIAEoDjIZLkVCcm9hZGNhc3RFbmNvZGVyU2V0",
-            "dGluZzocRUJyb2FkY2FzdEVuY29kZXJCZXN0UXVhbGl0eUIggKYdA4qmHRhC",
-            "cm9hZGNhc3RcRW5jb2RlclNldHRpbmcSRQoaYnJvYWRjYXN0X3JlY29yZF9h",
-            "bGxfdmlkZW8Y5V0gASgIQiCAph0DiqYdGEJyb2FkY2FzdFxJbmNsdWRlRGVz",
-            "a3RvcBJIChpicm9hZGNhc3RfcmVjb3JkX2FsbF9hdWRpbxjmXSABKAhCI4Cm",
-            "HQOKph0bQnJvYWRjYXN0XFJlY29yZFN5c3RlbUF1ZGlvEkEKG2Jyb2FkY2Fz",
-            "dF9yZWNvcmRfbWljcm9waG9uZRjnXSABKAhCG4CmHQOKph0TQnJvYWRjYXN0",
-            "XFJlY29yZE1pYxJFChticm9hZGNhc3Rfc2hvd191cGxvYWRfc3RhdHMY6F0g",
-            "ASgIQh+Aph0DiqYdF0Jyb2FkY2FzdFxTaG93RGVidWdJbmZvEkkKHGJyb2Fk",
-            "Y2FzdF9zaG93X2xpdmVfcmVtaW5kZXIY6V0gASgIQiKAph0DiqYdFkJyb2Fk",
-            "Y2FzdFxTaG93UmVtaW5kZXKYph0BEj4KFWJyb2FkY2FzdF9jaGF0X2Nvcm5l",
-            "chjqXSABKAVCHoCmHQOKph0SQnJvYWRjYXN0XFNob3dDaGF0oKYdARJjCilz",
-            "dGVhbV9pbnB1dF9jb25maWd1cmF0b3JfZXJyb3JfbXNnX2VuYWJsZRixbSAB",
-            "KAhCL4CmHQGKph0nU3RlYW1JbnB1dC9Db25maWd1cmF0b3IvRXJyb3JNc2dF",
-            "bmFibGVkElUKI2NvbnRyb2xsZXJfZ3VpZGVfYnV0dG9uX2ZvY3VzX3N0ZWFt",
-            "GLJtIAEoCEIngKYdA4qmHRtDb250cm9sbGVyX0NoZWNrR3VpZGVCdXR0b26Y",
-            "ph0BEkUKFWNvbnRyb2xsZXJfcHNfc3VwcG9ydBizbSABKAVCJYCmHQOKph0Z",
-            "U3RlYW1Db250cm9sbGVyX1BTU3VwcG9ydKCmHQESRQoXY29udHJvbGxlcl94",
-            "Ym94X3N1cHBvcnQYtG0gASgIQiOAph0DiqYdG1N0ZWFtQ29udHJvbGxlcl9Y",
-            "Qm94U3VwcG9ydBJDChZjb250cm9sbGVyX3hib3hfZHJpdmVyGLVtIAEoCEIi",
-            "gKYdA4qmHRpTdGVhbUNvbnRyb2xsZXJfWEJveERyaXZlchJJChljb250cm9s",
-            "bGVyX3N3aXRjaF9zdXBwb3J0GLZtIAEoCEIlgKYdA4qmHR1TdGVhbUNvbnRy",
-            "b2xsZXJfU3dpdGNoU3VwcG9ydBJSChpjb250cm9sbGVyX2dlbmVyaWNfc3Vw",
-            "cG9ydBi3bSABKAhCLYCmHQOKph0lU3RlYW1Db250cm9sbGVyX0dlbmVyaWNH",
-            "YW1lcGFkU3VwcG9ydBJXChxjb250cm9sbGVyX3Bvd2VyX29mZl90aW1lb3V0",
-            "GLhtIAEoBUIwgKYdA4qmHSRDU2V0dGluZ3NQYW5lbEdhbWVDb250cm9sbGVy",
-            "LlRpbWVvdXSgph0PElIKG3R1cm5fb2ZmX2NvbnRyb2xsZXJfb25fZXhpdBi5",
-            "bSABKAhCLICmHQOKph0kQ1NldHRpbmdzUGFuZWxHYW1lQ29udHJvbGxlci5U",
-            "dXJuT2ZmEjIKI2NvbnRyb2xsZXJfY29tYmluZV9uaW50ZW5kb19qb3ljb25z",
-            "GLptIAEoCEIEgKYdBRJJChBzdGFydHVwX21vdmllX2lkGIB9IAEoBEIugKYd",
-            "AYqmHSJDdXN0b21pemF0aW9uL1N0YXJ0dXBNb3ZpZS9Nb3ZpZUlEkKYdARJT",
-            "ChhzdGFydHVwX21vdmllX2xvY2FsX3BhdGgYgX0gASgJQjCAph0BiqYdJEN1",
-            "c3RvbWl6YXRpb24vU3RhcnR1cE1vdmllL0xvY2FsUGF0aJCmHQESTgoVc3Rh",
-            "cnR1cF9tb3ZpZV9zaHVmZmxlGIJ9IAEoCEIugKYdAYqmHSJDdXN0b21pemF0",
-            "aW9uL1N0YXJ0dXBNb3ZpZS9TaHVmZmxlkKYdARJYCh1zdGFydHVwX21vdmll",
-            "X3VzZWRfZm9yX3Jlc3VtZRiDfSABKAhCMICmHQOKph0oQ3VzdG9taXphdGlv",
-            "bi9TdGFydHVwTW92aWUvVXNlZEZvclJlc3VtZRJNChxnYW1lX25vdGVzX2Vu",
-            "YWJsZV9zcGVsbGNoZWNrGOmEASABKAhCJYCmHQKKph0ZR2FtZU5vdGVzRW5h",
-            "YmxlU3BlbGxjaGVja5imHQESSQoYc2NyZWVuc2hvdF9pdGVtc19wZXJfcm93",
-            "GNCMASABKAVCJYCmHQKKph0ZU2NyZWVuc2hvdFZpZXdJdGVtc1BlclJvd6Cm",
-            "HQESJAoUZ19iYWNrZ3JvdW5kX2VuYWJsZWQYmI4BIAEoCEIEgKYdBRIhChFn",
-            "X2JhY2tncm91bmRfcGF0aBiZjgEgASgJQgSAph0FEiUKFWdfYmFja2dyb3Vu",
-            "ZF9tYXhfa2VlcBiajgEgASgJQgSAph0FEiwKHGdfYmFja2dyb3VuZF90aW1l",
-            "X3Jlc29sdXRpb24Ym44BIAEoBUIEgKYdBRIkChRnX2JhY2tncm91bmRfZGV2",
-            "bW9kZRiejgEgASgIQgSAph0FEiwKD2dfYmFja2dyb3VuZF9taxifjgEgASgL",
-            "MgsuQ01zZ0hvdGtleUIEgKYdBRIsCg9nX2JhY2tncm91bmRfdGcYoI4BIAEo",
-            "CzILLkNNc2dIb3RrZXlCBICmHQUSIAoQZ19iYWNrZ3JvdW5kX2FfbRihjgEg",
-            "ASgIQgSAph0FEk8KGnNob3dfdGltZXN0YW1wc19pbl9jb25zb2xlGKCcASAB",
-            "KAhCKYCmHQOKph0hRGV2ZWxvcGVyXFNob3dUaW1lc3RhbXBzSW5Db25zb2xl",
-            "Ek4KCmZvcmNlX29vYmUYoZwBIAEoCEI4gKYdBIqmHTBIS0VZX0NVUlJFTlRf",
-            "VVNFUlxTb2Z0d2FyZVxWYWx2ZVxTdGVhbVxGb3JjZU9PQkUSLgoeb3ZlcnJp",
-            "ZGVfYnJvd3Nlcl9jb21wb3Nlcl9tb2RlGKKcASABKAVCBICmHQUSLAocY2Vm",
-            "X3JlbW90ZV9kZWJ1Z2dpbmdfZW5hYmxlZBijnAEgASgIQgSAph0FEj8KEWZv",
-            "cmNlX2RlY3BlcmZfdGFiGKScASABKAhCIoCmHQGKph0aRGV2ZWxvcGVyL0Zv",
-            "cmNlRGVja1BlcmZUYWISTAobZm9yY2VfZmFrZV9tYW5kYXRvcnlfdXBkYXRl",
-            "GKWcASABKAhCJYCmHQGKph0dRGV2ZWxvcGVyL0Zha2VNYW5kYXRvcnlVcGRh",
-            "dGUSQAoSaGRyX2NvbXBhdF90ZXN0aW5nGKacASABKAhCIoCmHQGKph0aRGV2",
-            "ZWxvcGVyL0hEUkNvbXBhdFRlc3RpbmcSdgobZ2FtZXNjb3BlX2hkcl92aXN1",
-            "YWxpemF0aW9uGImkASABKA4yEi5FSERSVmlzdWFsaXphdGlvbjoWRUhEUlZp",
-            "c3VhbGl6YXRpb25fTm9uZUIjgKYdA4qmHRtHYW1lc2NvcGUvSERSVmlzdWFs",
-            "aXphdGlvbjISVgoeZ2FtZXNjb3BlX2FwcF90YXJnZXRfZnJhbWVyYXRlGIqk",
-            "ASABKAVCLICmHQOKph0cR2FtZXNjb3BlL0FwcFRhcmdldEZyYW1lUmF0ZaCm",
-            "HQDQph0CEogBCiVnYW1lc2NvcGVfZW5hYmxlX2FwcF90YXJnZXRfZnJhbWVy",
-            "YXRlGIukASABKAhCV4CmHQSKph1LSEtFWV9DVVJSRU5UX1VTRVJcU29mdHdh",
-            "cmVcVmFsdmVcU3RlYW1cR2FtZXNjb3BlRW5hYmxlQXBwVGFyZ2V0UmVmcmVz",
-            "aFJhdGUymKYdARJTChxnYW1lc2NvcGVfZGlzYWJsZV9mcmFtZWxpbWl0GIyk",
-            "ASABKAhCK4CmHQOKph0bR2FtZXNjb3BlL0Rpc2FibGVGcmFtZUxpbWl0mKYd",
-            "ANCmHQISTwoeZ2FtZXNjb3BlX2Rpc3BsYXlfcmVmcmVzaF9yYXRlGI2kASAB",
-            "KAVCJYCmHQOKph0VR2FtZXNjb3BlL1JlZnJlc2hSYXRloKYdANCmHQISYwoo",
-            "Z2FtZXNjb3BlX3VzZV9nYW1lX3JlZnJlc2hfcmF0ZV9pbl9zdGVhbRiOpAEg",
-            "ASgIQi+Aph0DiqYdI0RldmVsb3Blci9EeW5hbWljUmVmcmVzaFJhdGVJblN0",
-            "ZWFtmKYdARJQCh1zdGVhbW9zX3N0YXR1c19sZWRfYnJpZ2h0bmVzcxjwqwEg",
-            "ASgFQieAph0DiqYdG1N0ZWFtT1MvU3RhdHVzTEVEQnJpZ2h0bmVzc6CmHWQq",
-            "iQIKE0VDbGllbnRTZXR0aW5nU3RvcmUSHwobRUNsaWVudFNldHRpbmdTdG9y",
-            "ZV9JbnZhbGlkEAASKwonRUNsaWVudFNldHRpbmdTdG9yZV9Db25maWdTdG9y",
-            "ZV9JbnN0YWxsEAESLworRUNsaWVudFNldHRpbmdTdG9yZV9Db25maWdTdG9y",
-            "ZV9Vc2VyUm9hbWluZxACEi0KKUVDbGllbnRTZXR0aW5nU3RvcmVfQ29uZmln",
-            "U3RvcmVfVXNlckxvY2FsEAMSIAocRUNsaWVudFNldHRpbmdTdG9yZV9SZWdp",
-            "c3RyeRAEEiIKHkVDbGllbnRTZXR0aW5nU3RvcmVfQ3VzdG9tRnVuYxAFKq0B",
-            "ChlFT3ZlcmxheVRvZ2dsZUJhckxvY2F0aW9uEiQKIEVPdmVybGF5VG9nZ2xl",
-            "QmFyTG9jYXRpb25fQm90dG9tEAASIgoeRU92ZXJsYXlUb2dnbGVCYXJMb2Nh",
-            "dGlvbl9MZWZ0EAESIwofRU92ZXJsYXlUb2dnbGVCYXJMb2NhdGlvbl9SaWdo",
-            "dBACEiEKHUVPdmVybGF5VG9nZ2xlQmFyTG9jYXRpb25fVG9wEAMqfwoTRVNl",
-            "dHRpbmdQcm9maWxlTW9kZRIcChhFU2V0dGluZ1Byb2ZpbGVNb2RlX05vbmUQ",
-            "ABIfChtFU2V0dGluZ1Byb2ZpbGVNb2RlX1BlckdhbWUQARIpCiVFU2V0dGlu",
-            "Z1Byb2ZpbGVNb2RlX1BlckdhbWVQZXJEaXNwbGF5EAI6aQoNc2V0dGluZ19z",
-            "dG9yZRIdLmdvb2dsZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY4NQDIAEoDjIU",
-            "LkVDbGllbnRTZXR0aW5nU3RvcmU6G0VDbGllbnRTZXR0aW5nU3RvcmVfSW52",
-            "YWxpZDo1CgxzZXR0aW5nX25hbWUSHS5nb29nbGUucHJvdG9idWYuRmllbGRP",
-            "cHRpb25zGOHUAyABKAk6OgoRc2V0dGluZ19wcmVfbG9naW4SHS5nb29nbGUu",
-            "cHJvdG9idWYuRmllbGRPcHRpb25zGOLUAyABKAg6PQoUc2V0dGluZ19kZWZh",
-            "dWx0X2Jvb2wSHS5nb29nbGUucHJvdG9idWYuRmllbGRPcHRpb25zGOPUAyAB",
-            "KAg6PAoTc2V0dGluZ19kZWZhdWx0X2ludBIdLmdvb2dsZS5wcm90b2J1Zi5G",
-            "aWVsZE9wdGlvbnMY5NQDIAEoBTo9ChRzZXR0aW5nX2RlZmF1bHRfdWludBId",
-            "Lmdvb2dsZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY5dQDIAEoDTo+ChVzZXR0",
-            "aW5nX2RlZmF1bHRfZmxvYXQSHS5nb29nbGUucHJvdG9idWYuRmllbGRPcHRp",
-            "b25zGObUAyABKAI6PwoWc2V0dGluZ19kZWZhdWx0X3N0cmluZxIdLmdvb2ds",
-            "ZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY59QDIAEoCTo5ChBzZXR0aW5nX3Jl",
-            "YWRvbmx5Eh0uZ29vZ2xlLnByb3RvYnVmLkZpZWxkT3B0aW9ucxjo1AMgASgI",
-            "OjwKE3NldHRpbmdfZGVzY3JpcHRpb24SHS5nb29nbGUucHJvdG9idWYuRmll",
-            "bGRPcHRpb25zGOnUAyABKAk6bQoUc2V0dGluZ19wcm9maWxlX21vZGUSHS5n",
-            "b29nbGUucHJvdG9idWYuRmllbGRPcHRpb25zGOrUAyABKA4yFC5FU2V0dGlu",
-            "Z1Byb2ZpbGVNb2RlOhhFU2V0dGluZ1Byb2ZpbGVNb2RlX05vbmVCH0gBgAEB",
-            "qgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
+            "eRgFIAEoCBIUCgxkaXNwbGF5X25hbWUYBiABKAkizgEKEkNNc2dTZXR0aW5n",
+            "VmFyaWFudBIUCgp2YWx1ZV9ib29sGAEgASgISAASFQoLdmFsdWVfaW50MzIY",
+            "AiABKAVIABIWCgx2YWx1ZV91aW50MzIYAyABKA1IABIWCgx2YWx1ZV91aW50",
+            "NjQYBSABKANIABIVCgt2YWx1ZV9mbG9hdBgGIAEoAkgAEhYKDHZhbHVlX3N0",
+            "cmluZxgHIAEoCUgAEiMKDHZhbHVlX2hvdGtleRgIIAEoCzILLkNNc2dIb3Rr",
+            "ZXlIAEIHCgV2YWx1ZSL1SwoSQ01zZ0NsaWVudFNldHRpbmdzEk4KFW5vX3Nh",
+            "dmVfcGVyc29uYWxfaW5mbxgBIAEoCEIvgKYdAYqmHSdTb2Z0d2FyZVxWYWx2",
+            "ZVxTdGVhbVxOb1NhdmVQZXJzb25hbEluZm8SUAoWb29iZV90ZXN0X21vZGVf",
+            "ZW5hYmxlZBgCIAEoCEIwgKYdAYqmHShTb2Z0d2FyZVxWYWx2ZVxTdGVhbVxP",
+            "T0JFVGVzdE1vZGVFbmFibGVkEiAKDmluX2NsaWVudF9iZXRhGAMgASgIQgiA",
+            "ph0FkKYdARIlChNpc19zdGVhbV9zaWRlbG9hZGVkGAQgASgIQgiAph0FkKYd",
+            "ARI1ChFwcmVmZXJyZWRfbW9uaXRvchgFIAEoCUIagKYdAYqmHRJCaWdQaWN0",
+            "dXJlL01vbml0b3IScAogc3RlYW1fY2VmX2dwdV9ibG9ja2xpc3RfZGlzYWJs",
+            "ZWQYBiABKAhCRoCmHQSKph0+SEtFWV9DVVJSRU5UX1VTRVJcU29mdHdhcmVc",
+            "VmFsdmVcU3RlYW1cQ0VGR1BVQmxvY2tsaXN0RGlzYWJsZWQSPAoTYmlncGlj",
+            "dHVyZV93aW5kb3dlZBgHIAEoCEIfgKYdAYqmHRNCaWdQaWN0dXJlL1dpbmRv",
+            "d2VkkKYdARI1CgxkaXNwbGF5X25hbWUYCCABKAlCH4CmHQGKph0XVUkvRGlz",
+            "cGxheS9DdXJyZW50L05hbWUSSQoTaXNfZXh0ZXJuYWxfZGlzcGxheRgJIAEo",
+            "CEIsgKYdAYqmHSRVSS9EaXNwbGF5L0N1cnJlbnQvSXNFeHRlcm5hbERpc3Bs",
+            "YXkSRQoYc3RlYW1fb3NfdW5kZXJzY2FuX2xldmVsGAogASgCQiOAph0BiqYd",
+            "G1N0ZWFtT1NTY3JlZW5VbmRlcnNjYW5MZXZlbBJJChpzdGVhbV9vc191bmRl",
+            "cnNjYW5fZW5hYmxlZBgLIAEoCEIlgKYdAYqmHR1TdGVhbU9TU2NyZWVuVW5k",
+            "ZXJzY2FuRW5hYmxlZBJDChBtaW5fc2NhbGVfZmFjdG9yGAwgASgCQimAph0B",
+            "iqYdIVVJL0Rpc3BsYXkvQ3VycmVudC9NaW5TY2FsZUZhY3RvchJDChBtYXhf",
+            "c2NhbGVfZmFjdG9yGA0gASgCQimAph0BiqYdIVVJL0Rpc3BsYXkvQ3VycmVu",
+            "dC9NYXhTY2FsZUZhY3RvchJFChFhdXRvX3NjYWxlX2ZhY3RvchgOIAEoAkIq",
+            "gKYdAYqmHSJVSS9EaXNwbGF5L0N1cnJlbnQvQXV0b1NjYWxlRmFjdG9yEjoK",
+            "CnNtYWxsX21vZGUYECABKAhCJoCmHQOKph0eU29mdHdhcmVcVmFsdmVcU3Rl",
+            "YW1cU21hbGxNb2RlEkkKG3NraXBfc3RlYW12cl9pbnN0YWxsX2RpYWxvZxgT",
+            "IAEoCEIkgKYdA4qmHRxzeXN0ZW1cU3RlYW1WUkhNRFZHVUlXYXJuaW5nEk8K",
+            "GGFsd2F5c19zaG93X3VzZXJfY2hvb3NlchgUIAEoCEItgKYdAYqmHSVXZWJT",
+            "dG9yYWdlXEF1dGhcQWx3YXlzU2hvd1VzZXJDaG9vc2VyEjAKIXNob3dfZmFt",
+            "aWx5X3NoYXJpbmdfbm90aWZpY2F0aW9ucxi4FyABKAhCBICmHQUSTgoab3Zl",
+            "cmxheV9mcHNfY291bnRlcl9jb3JuZXIYoB8gASgFQimAph0DiqYdIXN5c3Rl",
+            "bVxJbkdhbWVPdmVybGF5U2hvd0ZQU0Nvcm5lchJXCiFvdmVybGF5X2Zwc19j",
+            "b3VudGVyX2hpZ2hfY29udHJhc3QYoR8gASgIQiuAph0DiqYdI3N5c3RlbVxJ",
+            "bkdhbWVPdmVybGF5U2hvd0ZQU0NvbnRyYXN0ElsKC292ZXJsYXlfa2V5GKIf",
+            "IAEoCzILLkNNc2dIb3RrZXlCOICmHQOKph0fc3lzdGVtXEluR2FtZU92ZXJs",
+            "YXlTaG9ydGN1dEtlebqmHQ1TaGlmdAlLRVlfVEFCEl0KDnNjcmVlbnNob3Rf",
+            "a2V5GKMfIAEoCzILLkNNc2dIb3RrZXlCN4CmHQOKph0kc3lzdGVtXEluR2Ft",
+            "ZU92ZXJsYXlTY3JlZW5zaG90SG90S2V5uqYdB0tFWV9GMTISOQoOZW5hYmxl",
+            "X292ZXJsYXkYpB8gASgIQiCAph0DiqYdGHN5c3RlbVxFbmFibGVHYW1lT3Zl",
+            "cmxheRJfCh5lbmFibGVfc2NyZWVuc2hvdF9ub3RpZmljYXRpb24Yph8gASgI",
+            "QjaAph0DiqYdKnN5c3RlbVxJbkdhbWVPdmVybGF5U2NyZWVuc2hvdE5vdGlm",
+            "aWNhdGlvbpimHQESVQoXZW5hYmxlX3NjcmVlbnNob3Rfc291bmQYpx8gASgI",
+            "QjOAph0DiqYdJ3N5c3RlbVxJbkdhbWVPdmVybGF5U2NyZWVuc2hvdFBsYXlT",
+            "b3VuZJimHQESXgodc2F2ZV91bmNvbXByZXNzZWRfc2NyZWVuc2hvdHMYqB8g",
+            "ASgIQjaAph0DiqYdLnN5c3RlbVxJbkdhbWVPdmVybGF5U2NyZWVuc2hvdFNh",
+            "dmVVbmNvbXByZXNzZWQSHwoQc2NyZWVuc2hvdHNfcGF0aBipHyABKAlCBICm",
+            "HQUSbAoRZGVmYXVsdF9waW5nX3JhdGUYqh8gASgFQlCAph0FwKYdAcqmHURD",
+            "b21wdXRlZCBkZWZhdWx0IChhdXRvbWF0aWMpIHNlcnZlciBwaW5nIHJhdGUg",
+            "YmFzZWQgb24gbmV0d29yayBzcGVlZBIfChBzZXJ2ZXJfcGluZ19yYXRlGKsf",
+            "IAEoBUIEgKYdBRIoChlzdGVhbV9uZXR3b3JraW5nX3NoYXJlX2lwGKwfIAEo",
+            "BUIEgKYdBRIfChB3ZWJfYnJvd3Nlcl9ob21lGK0fIAEoCUIEgKYdBRIkChV2",
+            "b2ljZV9taWNfZGV2aWNlX25hbWUYrh8gASgJQgSAph0FEiMKFHZvaWNlX21p",
+            "Y19pbnB1dF9nYWluGK8fIAEoAkIEgKYdBRIoChl2b2ljZV9zcGVha2VyX291",
+            "dHB1dF9nYWluGLAfIAEoAkIEgKYdBRInChh2b2ljZV9wdXNoX3RvX3RhbHNl",
+            "dHRpbmcYsR8gASgFQgSAph0FEjAKFHZvaWNlX3B1c2hfdG9fdGFsa2V5GLIf",
+            "IAEoCzILLkNNc2dIb3RrZXlCBICmHQUSQgoZb3ZlcmxheV90b29sYmFyX2xp",
+            "c3RfdmlldxizHyABKAhCHoCmHQOKph0WT3ZlcmxheVRvb2xCYXJMaXN0Vmll",
+            "dxJUChxhbHdheXNfdXNlX2dhbWVwYWR1aV9vdmVybGF5GLQfIAEoCEItgKYd",
+            "A4qmHSVzeXN0ZW1cRW5hYmxlU0NUZW5Gb290T3ZlcmxheUNoZWNrTmV3EioK",
+            "DG92ZXJsYXlfdGFicxi1HyABKAlCE4CmHQKKph0LT3ZlcmxheVRhYnMSagoX",
+            "b3ZlcmxheV9zY2FsZV9pbnRlcmZhY2UYth8gASgIQkiAph0EiqYdPEhLRVlf",
+            "Q1VSUkVOVF9VU0VSXFNvZnR3YXJlXFZhbHZlXFN0ZWFtXE92ZXJsYXlTY2Fs",
+            "ZUludGVyZmFjZZimHQESWQocb3ZlcmxheV9yZXN0b3JlX2Jyb3dzZXJfdGFi",
+            "cxi3HyABKAhCMoCmHQOKph0mc3lzdGVtXEluR2FtZU92ZXJsYXlSZXN0b3Jl",
+            "QnJvd3NlclRhYnOYph0BElIKF2VuYWJsZV9hdmlmX3NjcmVlbnNob3RzGLgf",
+            "IAEoCEIwgKYdA4qmHShzeXN0ZW1cSW5HYW1lT3ZlcmxheVNjcmVlbnNob3RF",
+            "bmFibGVBVklGEmgKFnNtb290aF9zY3JvbGxfd2Vidmlld3MYiCcgASgIQkeA",
+            "ph0EiqYdO0hLRVlfQ1VSUkVOVF9VU0VSXFNvZnR3YXJlXFZhbHZlXFN0ZWFt",
+            "XFNtb290aFNjcm9sbFdlYlZpZXdzmKYdARIuCh9lbmFibGVfZ3B1X2FjY2Vs",
+            "ZXJhdGVkX3dlYnZpZXdzGIknIAEoCEIEgKYdBRItCh5lbmFibGVfaGFyZHdh",
+            "cmVfdmlkZW9fZGVjb2RpbmcYiycgASgIQgSAph0FEh0KDnJ1bl9hdF9zdGFy",
+            "dHVwGIwnIAEoCEIEgKYdBRIhChJlbmFibGVfZHBpX3NjYWxpbmcYjScgASgI",
+            "QgSAph0FEkkKGWVuYWJsZV9tYXJrZXRpbmdfbWVzc2FnZXMYjicgASgIQiWA",
+            "ph0DiqYdGW5ld3NcTm90aWZ5QXZhaWxhYmxlR2FtZXOYph0BEigKGXN0YXJ0",
+            "X2luX2JpZ19waWN0dXJlX21vZGUYjycgASgIQgSAph0FEj4KDmp1bXBsaXN0",
+            "X2ZsYWdzGJAnIAEoDUIlgKYdA4qmHRdzeXN0ZW1cSnVtcGxpc3RTZXR0aW5n",
+            "c6imHfDeBBI8ChBlbmFibGVfdWlfc291bmRzGJEnIAEoCEIhgKYdA4qmHRVz",
+            "eXN0ZW1cRW5hYmxlVUlTb3VuZHOYph0BEjUKEmRpc2FibGVfYWxsX3RvYXN0",
+            "cxjwLiABKAhCGICmHQKKph0QRGlzYWJsZUFsbFRvYXN0cxI8ChZkaXNhYmxl",
+            "X3RvYXN0c19pbl9nYW1lGPEuIAEoCEIbgKYdAoqmHRNEaXNhYmxlVG9hc3Rz",
+            "SW5HYW1lEjoKE3BsYXlfc291bmRfb25fdG9hc3QY8i4gASgIQhyAph0CiqYd",
+            "EFBsYXlTb3VuZE9uVG9hc3SYph0BEjkKFGxpYnJhcnlfZGlzcGxheV9zaXpl",
+            "GNg2IAEoBUIagKYdA4qmHRJMaWJyYXJ5RGlzcGxheVNpemUSYworbGlicmFy",
+            "eV93aGF0c19uZXdfc2hvd19vbmx5X3Byb2R1Y3RfdXBkYXRlcxjZNiABKAhC",
+            "LYCmHQKKph0lTGlicmFyeVdoYXRzTmV3U2hvd09ubHlQcm9kdWN0VXBkYXRl",
+            "cxJHChpzaG93X3N0b3JlX2NvbnRlbnRfb25faG9tZRjaNiABKAhCIoCmHQKK",
+            "ph0WU2hvd1N0b3JlQ29udGVudE9uSG9tZZimHQESGQoKc3RhcnRfcGFnZRjb",
+            "NiABKAlCBICmHQUSRAoabGlicmFyeV9sb3dfYmFuZHdpZHRoX21vZGUY3DYg",
+            "ASgIQh+Aph0DiqYdF0xpYnJhcnlMb3dCYW5kd2lkdGhNb2RlEjoKFWxpYnJh",
+            "cnlfbG93X3BlcmZfbW9kZRjdNiABKAhCGoCmHQOKph0STGlicmFyeUxvd1Bl",
+            "cmZNb2RlElIKIWxpYnJhcnlfZGlzYWJsZV9jb21tdW5pdHlfY29udGVudBje",
+            "NiABKAhCJoCmHQOKph0eTGlicmFyeURpc2FibGVDb21tdW5pdHlDb250ZW50",
+            "ElQKIWxpYnJhcnlfZGlzcGxheV9pY29uX2luX2dhbWVfbGlzdBjfNiABKAhC",
+            "KICmHQOKph0cTGlicmFyeURpc3BsYXlJY29uSW5HYW1lTGlzdJimHQESTwog",
+            "cmVhZHlfdG9fcGxheV9pbmNsdWRlc19zdHJlYW1pbmcY4DYgASgIQiSAph0F",
+            "iqYdHFJlYWR5VG9QbGF5SW5jbHVkZXNTdHJlYW1pbmcSPwoSc2hvd19zdGVh",
+            "bV9kZWNpbmZvGOE2IAEoCEIigKYdA4qmHRpTaG93U3RlYW1EZWNrSW5mb0lu",
+            "TGlicmFyeRIlChZlbmFibGVfc2hhZGVyX3ByZWNhY2hlGMA+IAEoCEIEgKYd",
+            "BRIyCiNlbmFibGVfc2hhZGVyX2JhY2tncm91bmRfcHJvY2Vzc2luZxjBPiAB",
+            "KAhCBICmHQUSKAoVc2hhZGVyX3ByZWNhY2hlZF9zaXplGMI+IAEoBEIIgKYd",
+            "BcCmHQESLQoabmVlZHNfc3RlYW1fc2VydmljZV9yZXBhaXIYwz4gASgIQgiA",
+            "ph0FwKYdARIkChVkb3dubG9hZF9wZWVyX2NvbnRlbnQYxD4gASgFQgSAph0F",
+            "EicKGGRvd25sb2FkX3JhdGVfYml0c19wZXJfcxjFPiABKAhCBICmHQUSJAoV",
+            "cmVzdHJpY3RfYXV0b191cGRhdGVzGMY+IAEoCEIEgKYdBRIqChtyZXN0cmlj",
+            "dF9hdXRvX3VwZGF0ZXNfc3RhcnQYxz4gASgFQgSAph0FEigKGXJlc3RyaWN0",
+            "X2F1dG9fdXBkYXRlc19lbmQYyD4gASgFQgSAph0FEh4KD2Rvd25sb2FkX3Jl",
+            "Z2lvbhjJPiABKAVCBICmHQUSKQoaZG93bmxvYWRfd2hpbGVfYXBwX3J1bm5p",
+            "bmcYyj4gASgIQgSAph0FEjAKIWRvd25sb2FkX3Rocm90dGxlX3doaWxlX3N0",
+            "cmVhbWluZxjLPiABKAhCBICmHQUSJQoWZG93bmxvYWRfdGhyb3R0bGVfcmF0",
+            "ZRjMPiABKAVCBICmHQUSHAoNY2xvdWRfZW5hYmxlZBiQTiABKAhCBICmHQUS",
+            "VAoXc2hvd19zY3JlZW5zaG90X21hbmFnZXIYkU4gASgIQjKAph0CiqYdKlNv",
+            "ZnR3YXJlXFZhbHZlXFN0ZWFtXFNob3dTY3JlZW5zaG90TWFuYWdlchIbCgxt",
+            "dXNpY192b2x1bWUY+FUgASgFQgSAph0FEkkKGG11c2ljX3BhdXNlX29uX2Fw",
+            "cF9zdGFydBj5VSABKAhCJoCmHQGKph0eTXVzaWNcUGF1c2VPbkFwcFN0YXJ0",
+            "ZWRQcm9jZXNzEkIKGW11c2ljX3BhdXNlX29uX3ZvaWNlX2NoYXQY+lUgASgI",
+            "Qh6Aph0BiqYdFk11c2ljXFBhdXNlT25Wb2ljZUNoYXQSVwobbXVzaWNfZG93",
+            "bmxvYWRfaGlnaF9xdWFsaXR5GPtVIAEoCEIxgKYdAYqmHSlNdXNpY1xEb3du",
+            "bG9hZEhpZ2hRdWFsaXR5QXVkaW9Tb3VuZHRyYWNrcxJSChttdXNpY19wbGF5",
+            "bGlzdF9ub3RpZmljYXRpb24Y/FUgASgIQiyAph0BiqYdJE11c2ljXFBsYXls",
+            "aXN0Tm93UGxheWluZ05vdGlmaWNhdGlvbhJ2ChVicm9hZGNhc3RfcGVybWlz",
+            "c2lvbnMY4F0gASgOMhUuRUJyb2FkY2FzdFBlcm1pc3Npb246HEVCcm9hZGNh",
+            "c3RQZXJtaXNzaW9uRGlzYWJsZWRCIYCmHQOKph0VQnJvYWRjYXN0XFBlcm1p",
+            "c3Npb25zoKYdARI+ChZicm9hZGNhc3Rfb3V0cHV0X3dpZHRoGOFdIAEoBUId",
+            "gKYdA4qmHRVCcm9hZGNhc3RcT3V0cHV0V2lkdGgSQAoXYnJvYWRjYXN0X291",
+            "dHB1dF9oZWlnaHQY4l0gASgFQh6Aph0DiqYdFkJyb2FkY2FzdFxPdXRwdXRI",
+            "ZWlnaHQSNQoRYnJvYWRjYXN0X2JpdHJhdGUY410gASgFQhmAph0DiqYdEUJy",
+            "b2FkY2FzdFxNYXhLYnBzEn0KGWJyb2FkY2FzdF9lbmNvZGluZ19vcHRpb24Y",
+            "5F0gASgOMhkuRUJyb2FkY2FzdEVuY29kZXJTZXR0aW5nOhxFQnJvYWRjYXN0",
+            "RW5jb2RlckJlc3RRdWFsaXR5QiCAph0DiqYdGEJyb2FkY2FzdFxFbmNvZGVy",
+            "U2V0dGluZxJFChpicm9hZGNhc3RfcmVjb3JkX2FsbF92aWRlbxjlXSABKAhC",
+            "IICmHQOKph0YQnJvYWRjYXN0XEluY2x1ZGVEZXNrdG9wEkgKGmJyb2FkY2Fz",
+            "dF9yZWNvcmRfYWxsX2F1ZGlvGOZdIAEoCEIjgKYdA4qmHRtCcm9hZGNhc3Rc",
+            "UmVjb3JkU3lzdGVtQXVkaW8SQQobYnJvYWRjYXN0X3JlY29yZF9taWNyb3Bo",
+            "b25lGOddIAEoCEIbgKYdA4qmHRNCcm9hZGNhc3RcUmVjb3JkTWljEkUKG2Jy",
+            "b2FkY2FzdF9zaG93X3VwbG9hZF9zdGF0cxjoXSABKAhCH4CmHQOKph0XQnJv",
+            "YWRjYXN0XFNob3dEZWJ1Z0luZm8SSQocYnJvYWRjYXN0X3Nob3dfbGl2ZV9y",
+            "ZW1pbmRlchjpXSABKAhCIoCmHQOKph0WQnJvYWRjYXN0XFNob3dSZW1pbmRl",
+            "cpimHQESPgoVYnJvYWRjYXN0X2NoYXRfY29ybmVyGOpdIAEoBUIegKYdA4qm",
+            "HRJCcm9hZGNhc3RcU2hvd0NoYXSgph0BElUKIGdhbWVzdHJlYW1faGFyZHdh",
+            "cmVfdmlkZW9fZW5jb2RlGMhlIAEoCEIqgKYdA4qmHR5HYW1lU3RyZWFtXEhh",
+            "cmR3YXJlVmlkZW9FbmNvZGWYph0BEmMKKXN0ZWFtX2lucHV0X2NvbmZpZ3Vy",
+            "YXRvcl9lcnJvcl9tc2dfZW5hYmxlGLFtIAEoCEIvgKYdAYqmHSdTdGVhbUlu",
+            "cHV0L0NvbmZpZ3VyYXRvci9FcnJvck1zZ0VuYWJsZWQSVQojY29udHJvbGxl",
+            "cl9ndWlkZV9idXR0b25fZm9jdXNfc3RlYW0Ysm0gASgIQieAph0DiqYdG0Nv",
+            "bnRyb2xsZXJfQ2hlY2tHdWlkZUJ1dHRvbpimHQESRQoVY29udHJvbGxlcl9w",
+            "c19zdXBwb3J0GLNtIAEoBUIlgKYdA4qmHRlTdGVhbUNvbnRyb2xsZXJfUFNT",
+            "dXBwb3J0oKYdARJFChdjb250cm9sbGVyX3hib3hfc3VwcG9ydBi0bSABKAhC",
+            "I4CmHQOKph0bU3RlYW1Db250cm9sbGVyX1hCb3hTdXBwb3J0EkMKFmNvbnRy",
+            "b2xsZXJfeGJveF9kcml2ZXIYtW0gASgIQiKAph0DiqYdGlN0ZWFtQ29udHJv",
+            "bGxlcl9YQm94RHJpdmVyEkkKGWNvbnRyb2xsZXJfc3dpdGNoX3N1cHBvcnQY",
+            "tm0gASgIQiWAph0DiqYdHVN0ZWFtQ29udHJvbGxlcl9Td2l0Y2hTdXBwb3J0",
+            "ElIKGmNvbnRyb2xsZXJfZ2VuZXJpY19zdXBwb3J0GLdtIAEoCEItgKYdA4qm",
+            "HSVTdGVhbUNvbnRyb2xsZXJfR2VuZXJpY0dhbWVwYWRTdXBwb3J0ElcKHGNv",
+            "bnRyb2xsZXJfcG93ZXJfb2ZmX3RpbWVvdXQYuG0gASgFQjCAph0DiqYdJENT",
+            "ZXR0aW5nc1BhbmVsR2FtZUNvbnRyb2xsZXIuVGltZW91dKCmHQ8SUgobdHVy",
+            "bl9vZmZfY29udHJvbGxlcl9vbl9leGl0GLltIAEoCEIsgKYdA4qmHSRDU2V0",
+            "dGluZ3NQYW5lbEdhbWVDb250cm9sbGVyLlR1cm5PZmYSMgojY29udHJvbGxl",
+            "cl9jb21iaW5lX25pbnRlbmRvX2pveWNvbnMYum0gASgIQgSAph0FEkkKEHN0",
+            "YXJ0dXBfbW92aWVfaWQYgH0gASgEQi6Aph0BiqYdIkN1c3RvbWl6YXRpb24v",
+            "U3RhcnR1cE1vdmllL01vdmllSUSQph0BElMKGHN0YXJ0dXBfbW92aWVfbG9j",
+            "YWxfcGF0aBiBfSABKAlCMICmHQGKph0kQ3VzdG9taXphdGlvbi9TdGFydHVw",
+            "TW92aWUvTG9jYWxQYXRokKYdARJOChVzdGFydHVwX21vdmllX3NodWZmbGUY",
+            "gn0gASgIQi6Aph0BiqYdIkN1c3RvbWl6YXRpb24vU3RhcnR1cE1vdmllL1No",
+            "dWZmbGWQph0BElgKHXN0YXJ0dXBfbW92aWVfdXNlZF9mb3JfcmVzdW1lGIN9",
+            "IAEoCEIwgKYdA4qmHShDdXN0b21pemF0aW9uL1N0YXJ0dXBNb3ZpZS9Vc2Vk",
+            "Rm9yUmVzdW1lEk0KHGdhbWVfbm90ZXNfZW5hYmxlX3NwZWxsY2hlY2sY6YQB",
+            "IAEoCEIlgKYdAoqmHRlHYW1lTm90ZXNFbmFibGVTcGVsbGNoZWNrmKYdARJJ",
+            "ChhzY3JlZW5zaG90X2l0ZW1zX3Blcl9yb3cY0IwBIAEoBUIlgKYdAoqmHRlT",
+            "Y3JlZW5zaG90Vmlld0l0ZW1zUGVyUm93oKYdARIkChRnX2JhY2tncm91bmRf",
+            "ZW5hYmxlZBiYjgEgASgIQgSAph0FEiEKEWdfYmFja2dyb3VuZF9wYXRoGJmO",
+            "ASABKAlCBICmHQUSJQoVZ19iYWNrZ3JvdW5kX21heF9rZWVwGJqOASABKAlC",
+            "BICmHQUSLAocZ19iYWNrZ3JvdW5kX3RpbWVfcmVzb2x1dGlvbhibjgEgASgF",
+            "QgSAph0FEiwKD2dfYmFja2dyb3VuZF9taxifjgEgASgLMgsuQ01zZ0hvdGtl",
+            "eUIEgKYdBRIsCg9nX2JhY2tncm91bmRfdGcYoI4BIAEoCzILLkNNc2dIb3Rr",
+            "ZXlCBICmHQUSIAoQZ19iYWNrZ3JvdW5kX2FfbRihjgEgASgIQgSAph0FEh8K",
+            "D2dfYmFja2dyb3VuZF9ichiijgEgASgFQgSAph0FEk8KGnNob3dfdGltZXN0",
+            "YW1wc19pbl9jb25zb2xlGKCcASABKAhCKYCmHQOKph0hRGV2ZWxvcGVyXFNo",
+            "b3dUaW1lc3RhbXBzSW5Db25zb2xlEk4KCmZvcmNlX29vYmUYoZwBIAEoCEI4",
+            "gKYdBIqmHTBIS0VZX0NVUlJFTlRfVVNFUlxTb2Z0d2FyZVxWYWx2ZVxTdGVh",
+            "bVxGb3JjZU9PQkUSLgoeb3ZlcnJpZGVfYnJvd3Nlcl9jb21wb3Nlcl9tb2Rl",
+            "GKKcASABKAVCBICmHQUSLAocY2VmX3JlbW90ZV9kZWJ1Z2dpbmdfZW5hYmxl",
+            "ZBijnAEgASgIQgSAph0FEj8KEWZvcmNlX2RlY3BlcmZfdGFiGKScASABKAhC",
+            "IoCmHQGKph0aRGV2ZWxvcGVyL0ZvcmNlRGVja1BlcmZUYWISTAobZm9yY2Vf",
+            "ZmFrZV9tYW5kYXRvcnlfdXBkYXRlGKWcASABKAhCJYCmHQGKph0dRGV2ZWxv",
+            "cGVyL0Zha2VNYW5kYXRvcnlVcGRhdGUSQAoSaGRyX2NvbXBhdF90ZXN0aW5n",
+            "GKacASABKAhCIoCmHQGKph0aRGV2ZWxvcGVyL0hEUkNvbXBhdFRlc3RpbmcS",
+            "dgobZ2FtZXNjb3BlX2hkcl92aXN1YWxpemF0aW9uGImkASABKA4yEi5FSERS",
+            "VmlzdWFsaXphdGlvbjoWRUhEUlZpc3VhbGl6YXRpb25fTm9uZUIjgKYdA4qm",
+            "HRtHYW1lc2NvcGUvSERSVmlzdWFsaXphdGlvbjISVgoeZ2FtZXNjb3BlX2Fw",
+            "cF90YXJnZXRfZnJhbWVyYXRlGIqkASABKAVCLICmHQOKph0cR2FtZXNjb3Bl",
+            "L0FwcFRhcmdldEZyYW1lUmF0ZaCmHQDQph0CEogBCiVnYW1lc2NvcGVfZW5h",
+            "YmxlX2FwcF90YXJnZXRfZnJhbWVyYXRlGIukASABKAhCV4CmHQSKph1LSEtF",
+            "WV9DVVJSRU5UX1VTRVJcU29mdHdhcmVcVmFsdmVcU3RlYW1cR2FtZXNjb3Bl",
+            "RW5hYmxlQXBwVGFyZ2V0UmVmcmVzaFJhdGUymKYdARJTChxnYW1lc2NvcGVf",
+            "ZGlzYWJsZV9mcmFtZWxpbWl0GIykASABKAhCK4CmHQOKph0bR2FtZXNjb3Bl",
+            "L0Rpc2FibGVGcmFtZUxpbWl0mKYdANCmHQISTwoeZ2FtZXNjb3BlX2Rpc3Bs",
+            "YXlfcmVmcmVzaF9yYXRlGI2kASABKAVCJYCmHQOKph0VR2FtZXNjb3BlL1Jl",
+            "ZnJlc2hSYXRloKYdANCmHQISYwooZ2FtZXNjb3BlX3VzZV9nYW1lX3JlZnJl",
+            "c2hfcmF0ZV9pbl9zdGVhbRiOpAEgASgIQi+Aph0DiqYdI0RldmVsb3Blci9E",
+            "eW5hbWljUmVmcmVzaFJhdGVJblN0ZWFtmKYdARJZCiFnYW1lc2NvcGVfZGlz",
+            "YWJsZV9tdXJhX2NvcnJlY3Rpb24Yj6QBIAEoCEIsgKYdA4qmHSBHYW1lc2Nv",
+            "cGUvTXVyYUNvcnJlY3Rpb25EaXNhYmxlZJimHQASZQooZ2FtZXNjb3BlX2lu",
+            "Y2x1ZGVfc3RlYW11aV9pbl9zY3JlZW5zaG90cxiQpAEgASgIQjGAph0DiqYd",
+            "JUdhbWVzY29wZS9JbmNsdWRlU3RlYW1VSUluU2NyZWVuc2hvdHOYph0BElAK",
+            "HXN0ZWFtb3Nfc3RhdHVzX2xlZF9icmlnaHRuZXNzGPCrASABKAVCJ4CmHQOK",
+            "ph0bU3RlYW1PUy9TdGF0dXNMRURCcmlnaHRuZXNzoKYdZBJGChdzZXR0aW5n",
+            "X3ZhbGlkYXRpb25fYm9vbBjZswEgASgIQiOAph0BiqYdG1NldHRpbmdWYWxp",
+            "ZGF0aW9uL0R1bW15Qm9vbBJyChdzZXR0aW5nX3ZhbGlkYXRpb25fZW51bRja",
+            "swEgASgOMhIuRUhEUlZpc3VhbGl6YXRpb246FkVIRFJWaXN1YWxpemF0aW9u",
+            "X05vbmVCI4CmHQGKph0bU2V0dGluZ1ZhbGlkYXRpb24vRHVtbXlFbnVtEkgK",
+            "GHNldHRpbmdfdmFsaWRhdGlvbl9pbnQzMhjbswEgASgFQiSAph0BiqYdHFNl",
+            "dHRpbmdWYWxpZGF0aW9uL0R1bW15SW50MzISSgoZc2V0dGluZ192YWxpZGF0",
+            "aW9uX3VpbnQzMhjcswEgASgNQiWAph0BiqYdHVNldHRpbmdWYWxpZGF0aW9u",
+            "L0R1bW15VUludDMyEkoKGXNldHRpbmdfdmFsaWRhdGlvbl91aW50NjQY3bMB",
+            "IAEoBEIlgKYdAYqmHR1TZXR0aW5nVmFsaWRhdGlvbi9EdW1teVVJbnQ2NBJI",
+            "ChhzZXR0aW5nX3ZhbGlkYXRpb25fZmxvYXQY3rMBIAEoAkIkgKYdAYqmHRxT",
+            "ZXR0aW5nVmFsaWRhdGlvbi9EdW1teUZsb2F0EkoKGXNldHRpbmdfdmFsaWRh",
+            "dGlvbl9zdHJpbmcY37MBIAEoCUIlgKYdAYqmHR1TZXR0aW5nVmFsaWRhdGlv",
+            "bi9EdW1teVN0cmluZyqJAgoTRUNsaWVudFNldHRpbmdTdG9yZRIfChtFQ2xp",
+            "ZW50U2V0dGluZ1N0b3JlX0ludmFsaWQQABIrCidFQ2xpZW50U2V0dGluZ1N0",
+            "b3JlX0NvbmZpZ1N0b3JlX0luc3RhbGwQARIvCitFQ2xpZW50U2V0dGluZ1N0",
+            "b3JlX0NvbmZpZ1N0b3JlX1VzZXJSb2FtaW5nEAISLQopRUNsaWVudFNldHRp",
+            "bmdTdG9yZV9Db25maWdTdG9yZV9Vc2VyTG9jYWwQAxIgChxFQ2xpZW50U2V0",
+            "dGluZ1N0b3JlX1JlZ2lzdHJ5EAQSIgoeRUNsaWVudFNldHRpbmdTdG9yZV9D",
+            "dXN0b21GdW5jEAUqrQEKGUVPdmVybGF5VG9nZ2xlQmFyTG9jYXRpb24SJAog",
+            "RU92ZXJsYXlUb2dnbGVCYXJMb2NhdGlvbl9Cb3R0b20QABIiCh5FT3Zlcmxh",
+            "eVRvZ2dsZUJhckxvY2F0aW9uX0xlZnQQARIjCh9FT3ZlcmxheVRvZ2dsZUJh",
+            "ckxvY2F0aW9uX1JpZ2h0EAISIQodRU92ZXJsYXlUb2dnbGVCYXJMb2NhdGlv",
+            "bl9Ub3AQAyp/ChNFU2V0dGluZ1Byb2ZpbGVNb2RlEhwKGEVTZXR0aW5nUHJv",
+            "ZmlsZU1vZGVfTm9uZRAAEh8KG0VTZXR0aW5nUHJvZmlsZU1vZGVfUGVyR2Ft",
+            "ZRABEikKJUVTZXR0aW5nUHJvZmlsZU1vZGVfUGVyR2FtZVBlckRpc3BsYXkQ",
+            "AjppCg1zZXR0aW5nX3N0b3JlEh0uZ29vZ2xlLnByb3RvYnVmLkZpZWxkT3B0",
+            "aW9ucxjg1AMgASgOMhQuRUNsaWVudFNldHRpbmdTdG9yZTobRUNsaWVudFNl",
+            "dHRpbmdTdG9yZV9JbnZhbGlkOjUKDHNldHRpbmdfbmFtZRIdLmdvb2dsZS5w",
+            "cm90b2J1Zi5GaWVsZE9wdGlvbnMY4dQDIAEoCTo6ChFzZXR0aW5nX3ByZV9s",
+            "b2dpbhIdLmdvb2dsZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY4tQDIAEoCDo9",
+            "ChRzZXR0aW5nX2RlZmF1bHRfYm9vbBIdLmdvb2dsZS5wcm90b2J1Zi5GaWVs",
+            "ZE9wdGlvbnMY49QDIAEoCDo8ChNzZXR0aW5nX2RlZmF1bHRfaW50Eh0uZ29v",
+            "Z2xlLnByb3RvYnVmLkZpZWxkT3B0aW9ucxjk1AMgASgFOj0KFHNldHRpbmdf",
+            "ZGVmYXVsdF91aW50Eh0uZ29vZ2xlLnByb3RvYnVmLkZpZWxkT3B0aW9ucxjl",
+            "1AMgASgNOj4KFXNldHRpbmdfZGVmYXVsdF9mbG9hdBIdLmdvb2dsZS5wcm90",
+            "b2J1Zi5GaWVsZE9wdGlvbnMY5tQDIAEoAjo/ChZzZXR0aW5nX2RlZmF1bHRf",
+            "c3RyaW5nEh0uZ29vZ2xlLnByb3RvYnVmLkZpZWxkT3B0aW9ucxjn1AMgASgJ",
+            "OjkKEHNldHRpbmdfcmVhZG9ubHkSHS5nb29nbGUucHJvdG9idWYuRmllbGRP",
+            "cHRpb25zGOjUAyABKAg6PAoTc2V0dGluZ19kZXNjcmlwdGlvbhIdLmdvb2ds",
+            "ZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY6dQDIAEoCTptChRzZXR0aW5nX3By",
+            "b2ZpbGVfbW9kZRIdLmdvb2dsZS5wcm90b2J1Zi5GaWVsZE9wdGlvbnMY6tQD",
+            "IAEoDjIULkVTZXR0aW5nUHJvZmlsZU1vZGU6GEVTZXR0aW5nUHJvZmlsZU1v",
+            "ZGVfTm9uZUIfSAGAAQGqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EClientSettingStore), typeof(global::OpenSteamworks.Protobuf.EOverlayToggleBarLocation), typeof(global::OpenSteamworks.Protobuf.ESettingProfileMode), }, new pb::Extension[] { SteammessagesClientsettingsExtensions.SettingStore, SteammessagesClientsettingsExtensions.SettingName, SteammessagesClientsettingsExtensions.SettingPreLogin, SteammessagesClientsettingsExtensions.SettingDefaultBool, SteammessagesClientsettingsExtensions.SettingDefaultInt, SteammessagesClientsettingsExtensions.SettingDefaultUint, SteammessagesClientsettingsExtensions.SettingDefaultFloat, SteammessagesClientsettingsExtensions.SettingDefaultString, SteammessagesClientsettingsExtensions.SettingReadonly, SteammessagesClientsettingsExtensions.SettingDescription, SteammessagesClientsettingsExtensions.SettingProfileMode }, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgHotkey), global::OpenSteamworks.Protobuf.CMsgHotkey.Parser, new[]{ "KeyCode", "AltKey", "ShiftKey", "CtrlKey", "MetaKey", "DisplayName" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientSettings), global::OpenSteamworks.Protobuf.CMsgClientSettings.Parser, new[]{ "NoSavePersonalInfo", "OobeTestModeEnabled", "InClientBeta", "IsSteamSideloaded", "PreferredMonitor", "SteamCefGpuBlocklistDisabled", "BigpictureWindowed", "DisplayName", "IsExternalDisplay", "SteamOsUnderscanLevel", "SteamOsUnderscanEnabled", "MinScaleFactor", "MaxScaleFactor", "AutoScaleFactor", "SmallMode", "SkipSteamvrInstallDialog", "AlwaysShowUserChooser", "ShowFamilySharingNotifications", "OverlayFpsCounterCorner", "OverlayFpsCounterHighContrast", "OverlayKey", "ScreenshotKey", "EnableOverlay", "EnableScreenshotNotification", "EnableScreenshotSound", "SaveUncompressedScreenshots", "ScreenshotsPath", "DefaultPingRate", "ServerPingRate", "SteamNetworkingShareIp", "WebBrowserHome", "VoiceMicDeviceName", "VoiceMicInputGain", "VoiceSpeakerOutputGain", "VoicePushToTalsetting", "VoicePushToTalkey", "OverlayToolbarListView", "AlwaysUseGamepaduiOverlay", "OverlayTabs", "OverlayScaleInterface", "OverlayRestoreBrowserTabs", "EnableAvifScreenshots", "SmoothScrollWebviews", "EnableGpuAcceleratedWebviews", "EnableHardwareVideoDecoding", "RunAtStartup", "EnableDpiScaling", "EnableMarketingMessages", "StartInBigPictureMode", "JumplistFlags", "EnableUiSounds", "DisableAllToasts", "DisableToastsInGame", "PlaySoundOnToast", "LibraryDisplaySize", "LibraryWhatsNewShowOnlyProductUpdates", "ShowStoreContentOnHome", "StartPage", "LibraryLowBandwidthMode", "LibraryLowPerfMode", "LibraryDisableCommunityContent", "LibraryDisplayIconInGameList", "ReadyToPlayIncludesStreaming", "ShowSteamDecinfo", "EnableShaderPrecache", "EnableShaderBackgroundProcessing", "ShaderPrecachedSize", "NeedsSteamServiceRepair", "DownloadPeerContent", "DownloadRateBitsPerS", "RestrictAutoUpdates", "RestrictAutoUpdatesStart", "RestrictAutoUpdatesEnd", "DownloadRegion", "DownloadWhileAppRunning", "DownloadThrottleWhileStreaming", "DownloadThrottleRate", "CloudEnabled", "ShowScreenshotManager", "MusicVolume", "MusicPauseOnAppStart", "MusicPauseOnVoiceChat", "MusicDownloadHighQuality", "MusicPlaylistNotification", "BroadcastPermissions", "BroadcastOutputWidth", "BroadcastOutputHeight", "BroadcastBitrate", "BroadcastEncodingOption", "BroadcastRecordAllVideo", "BroadcastRecordAllAudio", "BroadcastRecordMicrophone", "BroadcastShowUploadStats", "BroadcastShowLiveReminder", "BroadcastChatCorner", "SteamInputConfiguratorErrorMsgEnable", "ControllerGuideButtonFocusSteam", "ControllerPsSupport", "ControllerXboxSupport", "ControllerXboxDriver", "ControllerSwitchSupport", "ControllerGenericSupport", "ControllerPowerOffTimeout", "TurnOffControllerOnExit", "ControllerCombineNintendoJoycons", "StartupMovieId", "StartupMovieLocalPath", "StartupMovieShuffle", "StartupMovieUsedForResume", "GameNotesEnableSpellcheck", "ScreenshotItemsPerRow", "GBackgroundEnabled", "GBackgroundPath", "GBackgroundMaxKeep", "GBackgroundTimeResolution", "GBackgroundDevmode", "GBackgroundMk", "GBackgroundTg", "GBackgroundAM", "ShowTimestampsInConsole", "ForceOobe", "OverrideBrowserComposerMode", "CefRemoteDebuggingEnabled", "ForceDecperfTab", "ForceFakeMandatoryUpdate", "HdrCompatTesting", "GamescopeHdrVisualization", "GamescopeAppTargetFramerate", "GamescopeEnableAppTargetFramerate", "GamescopeDisableFramelimit", "GamescopeDisplayRefreshRate", "GamescopeUseGameRefreshRateInSteam", "SteamosStatusLedBrightness" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSettingVariant), global::OpenSteamworks.Protobuf.CMsgSettingVariant.Parser, new[]{ "ValueBool", "ValueInt32", "ValueUint32", "ValueUint64", "ValueFloat", "ValueString", "ValueHotkey" }, new[]{ "Value" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientSettings), global::OpenSteamworks.Protobuf.CMsgClientSettings.Parser, new[]{ "NoSavePersonalInfo", "OobeTestModeEnabled", "InClientBeta", "IsSteamSideloaded", "PreferredMonitor", "SteamCefGpuBlocklistDisabled", "BigpictureWindowed", "DisplayName", "IsExternalDisplay", "SteamOsUnderscanLevel", "SteamOsUnderscanEnabled", "MinScaleFactor", "MaxScaleFactor", "AutoScaleFactor", "SmallMode", "SkipSteamvrInstallDialog", "AlwaysShowUserChooser", "ShowFamilySharingNotifications", "OverlayFpsCounterCorner", "OverlayFpsCounterHighContrast", "OverlayKey", "ScreenshotKey", "EnableOverlay", "EnableScreenshotNotification", "EnableScreenshotSound", "SaveUncompressedScreenshots", "ScreenshotsPath", "DefaultPingRate", "ServerPingRate", "SteamNetworkingShareIp", "WebBrowserHome", "VoiceMicDeviceName", "VoiceMicInputGain", "VoiceSpeakerOutputGain", "VoicePushToTalsetting", "VoicePushToTalkey", "OverlayToolbarListView", "AlwaysUseGamepaduiOverlay", "OverlayTabs", "OverlayScaleInterface", "OverlayRestoreBrowserTabs", "EnableAvifScreenshots", "SmoothScrollWebviews", "EnableGpuAcceleratedWebviews", "EnableHardwareVideoDecoding", "RunAtStartup", "EnableDpiScaling", "EnableMarketingMessages", "StartInBigPictureMode", "JumplistFlags", "EnableUiSounds", "DisableAllToasts", "DisableToastsInGame", "PlaySoundOnToast", "LibraryDisplaySize", "LibraryWhatsNewShowOnlyProductUpdates", "ShowStoreContentOnHome", "StartPage", "LibraryLowBandwidthMode", "LibraryLowPerfMode", "LibraryDisableCommunityContent", "LibraryDisplayIconInGameList", "ReadyToPlayIncludesStreaming", "ShowSteamDecinfo", "EnableShaderPrecache", "EnableShaderBackgroundProcessing", "ShaderPrecachedSize", "NeedsSteamServiceRepair", "DownloadPeerContent", "DownloadRateBitsPerS", "RestrictAutoUpdates", "RestrictAutoUpdatesStart", "RestrictAutoUpdatesEnd", "DownloadRegion", "DownloadWhileAppRunning", "DownloadThrottleWhileStreaming", "DownloadThrottleRate", "CloudEnabled", "ShowScreenshotManager", "MusicVolume", "MusicPauseOnAppStart", "MusicPauseOnVoiceChat", "MusicDownloadHighQuality", "MusicPlaylistNotification", "BroadcastPermissions", "BroadcastOutputWidth", "BroadcastOutputHeight", "BroadcastBitrate", "BroadcastEncodingOption", "BroadcastRecordAllVideo", "BroadcastRecordAllAudio", "BroadcastRecordMicrophone", "BroadcastShowUploadStats", "BroadcastShowLiveReminder", "BroadcastChatCorner", "GamestreamHardwareVideoEncode", "SteamInputConfiguratorErrorMsgEnable", "ControllerGuideButtonFocusSteam", "ControllerPsSupport", "ControllerXboxSupport", "ControllerXboxDriver", "ControllerSwitchSupport", "ControllerGenericSupport", "ControllerPowerOffTimeout", "TurnOffControllerOnExit", "ControllerCombineNintendoJoycons", "StartupMovieId", "StartupMovieLocalPath", "StartupMovieShuffle", "StartupMovieUsedForResume", "GameNotesEnableSpellcheck", "ScreenshotItemsPerRow", "GBackgroundEnabled", "GBackgroundPath", "GBackgroundMaxKeep", "GBackgroundTimeResolution", "GBackgroundMk", "GBackgroundTg", "GBackgroundAM", "GBackgroundBr", "ShowTimestampsInConsole", "ForceOobe", "OverrideBrowserComposerMode", "CefRemoteDebuggingEnabled", "ForceDecperfTab", "ForceFakeMandatoryUpdate", "HdrCompatTesting", "GamescopeHdrVisualization", "GamescopeAppTargetFramerate", "GamescopeEnableAppTargetFramerate", "GamescopeDisableFramelimit", "GamescopeDisplayRefreshRate", "GamescopeUseGameRefreshRateInSteam", "GamescopeDisableMuraCorrection", "GamescopeIncludeSteamuiInScreenshots", "SteamosStatusLedBrightness", "SettingValidationBool", "SettingValidationEnum", "SettingValidationInt32", "SettingValidationUint32", "SettingValidationUint64", "SettingValidationFloat", "SettingValidationString" }, null, null, null, null)
           }));
     }
     #endregion
@@ -786,6 +810,563 @@ namespace OpenSteamworks.Protobuf {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CMsgSettingVariant : pb::IMessage<CMsgSettingVariant>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CMsgSettingVariant> _parser = new pb::MessageParser<CMsgSettingVariant>(() => new CMsgSettingVariant());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CMsgSettingVariant> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientsettingsReflection.Descriptor.MessageTypes[1]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSettingVariant() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSettingVariant(CMsgSettingVariant other) : this() {
+      switch (other.ValueCase) {
+        case ValueOneofCase.ValueBool:
+          ValueBool = other.ValueBool;
+          break;
+        case ValueOneofCase.ValueInt32:
+          ValueInt32 = other.ValueInt32;
+          break;
+        case ValueOneofCase.ValueUint32:
+          ValueUint32 = other.ValueUint32;
+          break;
+        case ValueOneofCase.ValueUint64:
+          ValueUint64 = other.ValueUint64;
+          break;
+        case ValueOneofCase.ValueFloat:
+          ValueFloat = other.ValueFloat;
+          break;
+        case ValueOneofCase.ValueString:
+          ValueString = other.ValueString;
+          break;
+        case ValueOneofCase.ValueHotkey:
+          ValueHotkey = other.ValueHotkey.Clone();
+          break;
+      }
+
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSettingVariant Clone() {
+      return new CMsgSettingVariant(this);
+    }
+
+    /// <summary>Field number for the "value_bool" field.</summary>
+    public const int ValueBoolFieldNumber = 1;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool ValueBool {
+      get { return HasValueBool ? (bool) value_ : false; }
+      set {
+        value_ = value;
+        valueCase_ = ValueOneofCase.ValueBool;
+      }
+    }
+    /// <summary>Gets whether the "value_bool" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueBool {
+      get { return valueCase_ == ValueOneofCase.ValueBool; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_bool" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueBool() {
+      if (HasValueBool) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_int32" field.</summary>
+    public const int ValueInt32FieldNumber = 2;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int ValueInt32 {
+      get { return HasValueInt32 ? (int) value_ : 0; }
+      set {
+        value_ = value;
+        valueCase_ = ValueOneofCase.ValueInt32;
+      }
+    }
+    /// <summary>Gets whether the "value_int32" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueInt32 {
+      get { return valueCase_ == ValueOneofCase.ValueInt32; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_int32" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueInt32() {
+      if (HasValueInt32) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_uint32" field.</summary>
+    public const int ValueUint32FieldNumber = 3;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint ValueUint32 {
+      get { return HasValueUint32 ? (uint) value_ : 0; }
+      set {
+        value_ = value;
+        valueCase_ = ValueOneofCase.ValueUint32;
+      }
+    }
+    /// <summary>Gets whether the "value_uint32" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueUint32 {
+      get { return valueCase_ == ValueOneofCase.ValueUint32; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_uint32" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueUint32() {
+      if (HasValueUint32) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_uint64" field.</summary>
+    public const int ValueUint64FieldNumber = 5;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public long ValueUint64 {
+      get { return HasValueUint64 ? (long) value_ : 0L; }
+      set {
+        value_ = value;
+        valueCase_ = ValueOneofCase.ValueUint64;
+      }
+    }
+    /// <summary>Gets whether the "value_uint64" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueUint64 {
+      get { return valueCase_ == ValueOneofCase.ValueUint64; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_uint64" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueUint64() {
+      if (HasValueUint64) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_float" field.</summary>
+    public const int ValueFloatFieldNumber = 6;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float ValueFloat {
+      get { return HasValueFloat ? (float) value_ : 0F; }
+      set {
+        value_ = value;
+        valueCase_ = ValueOneofCase.ValueFloat;
+      }
+    }
+    /// <summary>Gets whether the "value_float" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueFloat {
+      get { return valueCase_ == ValueOneofCase.ValueFloat; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_float" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueFloat() {
+      if (HasValueFloat) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_string" field.</summary>
+    public const int ValueStringFieldNumber = 7;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string ValueString {
+      get { return HasValueString ? (string) value_ : ""; }
+      set {
+        value_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+        valueCase_ = ValueOneofCase.ValueString;
+      }
+    }
+    /// <summary>Gets whether the "value_string" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValueString {
+      get { return valueCase_ == ValueOneofCase.ValueString; }
+    }
+    /// <summary> Clears the value of the oneof if it's currently set to "value_string" </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValueString() {
+      if (HasValueString) {
+        ClearValue();
+      }
+    }
+
+    /// <summary>Field number for the "value_hotkey" field.</summary>
+    public const int ValueHotkeyFieldNumber = 8;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.CMsgHotkey ValueHotkey {
+      get { return valueCase_ == ValueOneofCase.ValueHotkey ? (global::OpenSteamworks.Protobuf.CMsgHotkey) value_ : null; }
+      set {
+        value_ = value;
+        valueCase_ = value == null ? ValueOneofCase.None : ValueOneofCase.ValueHotkey;
+      }
+    }
+
+    private object value_;
+    /// <summary>Enum of possible cases for the "value" oneof.</summary>
+    public enum ValueOneofCase {
+      None = 0,
+      ValueBool = 1,
+      ValueInt32 = 2,
+      ValueUint32 = 3,
+      ValueUint64 = 5,
+      ValueFloat = 6,
+      ValueString = 7,
+      ValueHotkey = 8,
+    }
+    private ValueOneofCase valueCase_ = ValueOneofCase.None;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ValueOneofCase ValueCase {
+      get { return valueCase_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValue() {
+      valueCase_ = ValueOneofCase.None;
+      value_ = null;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CMsgSettingVariant);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CMsgSettingVariant other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (ValueBool != other.ValueBool) return false;
+      if (ValueInt32 != other.ValueInt32) return false;
+      if (ValueUint32 != other.ValueUint32) return false;
+      if (ValueUint64 != other.ValueUint64) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(ValueFloat, other.ValueFloat)) return false;
+      if (ValueString != other.ValueString) return false;
+      if (!object.Equals(ValueHotkey, other.ValueHotkey)) return false;
+      if (ValueCase != other.ValueCase) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasValueBool) hash ^= ValueBool.GetHashCode();
+      if (HasValueInt32) hash ^= ValueInt32.GetHashCode();
+      if (HasValueUint32) hash ^= ValueUint32.GetHashCode();
+      if (HasValueUint64) hash ^= ValueUint64.GetHashCode();
+      if (HasValueFloat) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(ValueFloat);
+      if (HasValueString) hash ^= ValueString.GetHashCode();
+      if (valueCase_ == ValueOneofCase.ValueHotkey) hash ^= ValueHotkey.GetHashCode();
+      hash ^= (int) valueCase_;
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasValueBool) {
+        output.WriteRawTag(8);
+        output.WriteBool(ValueBool);
+      }
+      if (HasValueInt32) {
+        output.WriteRawTag(16);
+        output.WriteInt32(ValueInt32);
+      }
+      if (HasValueUint32) {
+        output.WriteRawTag(24);
+        output.WriteUInt32(ValueUint32);
+      }
+      if (HasValueUint64) {
+        output.WriteRawTag(40);
+        output.WriteInt64(ValueUint64);
+      }
+      if (HasValueFloat) {
+        output.WriteRawTag(53);
+        output.WriteFloat(ValueFloat);
+      }
+      if (HasValueString) {
+        output.WriteRawTag(58);
+        output.WriteString(ValueString);
+      }
+      if (valueCase_ == ValueOneofCase.ValueHotkey) {
+        output.WriteRawTag(66);
+        output.WriteMessage(ValueHotkey);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasValueBool) {
+        output.WriteRawTag(8);
+        output.WriteBool(ValueBool);
+      }
+      if (HasValueInt32) {
+        output.WriteRawTag(16);
+        output.WriteInt32(ValueInt32);
+      }
+      if (HasValueUint32) {
+        output.WriteRawTag(24);
+        output.WriteUInt32(ValueUint32);
+      }
+      if (HasValueUint64) {
+        output.WriteRawTag(40);
+        output.WriteInt64(ValueUint64);
+      }
+      if (HasValueFloat) {
+        output.WriteRawTag(53);
+        output.WriteFloat(ValueFloat);
+      }
+      if (HasValueString) {
+        output.WriteRawTag(58);
+        output.WriteString(ValueString);
+      }
+      if (valueCase_ == ValueOneofCase.ValueHotkey) {
+        output.WriteRawTag(66);
+        output.WriteMessage(ValueHotkey);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasValueBool) {
+        size += 1 + 1;
+      }
+      if (HasValueInt32) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(ValueInt32);
+      }
+      if (HasValueUint32) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(ValueUint32);
+      }
+      if (HasValueUint64) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(ValueUint64);
+      }
+      if (HasValueFloat) {
+        size += 1 + 4;
+      }
+      if (HasValueString) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(ValueString);
+      }
+      if (valueCase_ == ValueOneofCase.ValueHotkey) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(ValueHotkey);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CMsgSettingVariant other) {
+      if (other == null) {
+        return;
+      }
+      switch (other.ValueCase) {
+        case ValueOneofCase.ValueBool:
+          ValueBool = other.ValueBool;
+          break;
+        case ValueOneofCase.ValueInt32:
+          ValueInt32 = other.ValueInt32;
+          break;
+        case ValueOneofCase.ValueUint32:
+          ValueUint32 = other.ValueUint32;
+          break;
+        case ValueOneofCase.ValueUint64:
+          ValueUint64 = other.ValueUint64;
+          break;
+        case ValueOneofCase.ValueFloat:
+          ValueFloat = other.ValueFloat;
+          break;
+        case ValueOneofCase.ValueString:
+          ValueString = other.ValueString;
+          break;
+        case ValueOneofCase.ValueHotkey:
+          if (ValueHotkey == null) {
+            ValueHotkey = new global::OpenSteamworks.Protobuf.CMsgHotkey();
+          }
+          ValueHotkey.MergeFrom(other.ValueHotkey);
+          break;
+      }
+
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            ValueBool = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ValueInt32 = input.ReadInt32();
+            break;
+          }
+          case 24: {
+            ValueUint32 = input.ReadUInt32();
+            break;
+          }
+          case 40: {
+            ValueUint64 = input.ReadInt64();
+            break;
+          }
+          case 53: {
+            ValueFloat = input.ReadFloat();
+            break;
+          }
+          case 58: {
+            ValueString = input.ReadString();
+            break;
+          }
+          case 66: {
+            global::OpenSteamworks.Protobuf.CMsgHotkey subBuilder = new global::OpenSteamworks.Protobuf.CMsgHotkey();
+            if (valueCase_ == ValueOneofCase.ValueHotkey) {
+              subBuilder.MergeFrom(ValueHotkey);
+            }
+            input.ReadMessage(subBuilder);
+            ValueHotkey = subBuilder;
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            ValueBool = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ValueInt32 = input.ReadInt32();
+            break;
+          }
+          case 24: {
+            ValueUint32 = input.ReadUInt32();
+            break;
+          }
+          case 40: {
+            ValueUint64 = input.ReadInt64();
+            break;
+          }
+          case 53: {
+            ValueFloat = input.ReadFloat();
+            break;
+          }
+          case 58: {
+            ValueString = input.ReadString();
+            break;
+          }
+          case 66: {
+            global::OpenSteamworks.Protobuf.CMsgHotkey subBuilder = new global::OpenSteamworks.Protobuf.CMsgHotkey();
+            if (valueCase_ == ValueOneofCase.ValueHotkey) {
+              subBuilder.MergeFrom(ValueHotkey);
+            }
+            input.ReadMessage(subBuilder);
+            ValueHotkey = subBuilder;
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CMsgClientSettings : pb::IMessage<CMsgClientSettings>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -804,7 +1385,7 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.SteammessagesClientsettingsReflection.Descriptor.MessageTypes[1]; }
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientsettingsReflection.Descriptor.MessageTypes[2]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -923,6 +1504,7 @@ namespace OpenSteamworks.Protobuf {
       broadcastShowUploadStats_ = other.broadcastShowUploadStats_;
       broadcastShowLiveReminder_ = other.broadcastShowLiveReminder_;
       broadcastChatCorner_ = other.broadcastChatCorner_;
+      gamestreamHardwareVideoEncode_ = other.gamestreamHardwareVideoEncode_;
       steamInputConfiguratorErrorMsgEnable_ = other.steamInputConfiguratorErrorMsgEnable_;
       controllerGuideButtonFocusSteam_ = other.controllerGuideButtonFocusSteam_;
       controllerPsSupport_ = other.controllerPsSupport_;
@@ -943,10 +1525,10 @@ namespace OpenSteamworks.Protobuf {
       gBackgroundPath_ = other.gBackgroundPath_;
       gBackgroundMaxKeep_ = other.gBackgroundMaxKeep_;
       gBackgroundTimeResolution_ = other.gBackgroundTimeResolution_;
-      gBackgroundDevmode_ = other.gBackgroundDevmode_;
       gBackgroundMk_ = other.gBackgroundMk_ != null ? other.gBackgroundMk_.Clone() : null;
       gBackgroundTg_ = other.gBackgroundTg_ != null ? other.gBackgroundTg_.Clone() : null;
       gBackgroundAM_ = other.gBackgroundAM_;
+      gBackgroundBr_ = other.gBackgroundBr_;
       showTimestampsInConsole_ = other.showTimestampsInConsole_;
       forceOobe_ = other.forceOobe_;
       overrideBrowserComposerMode_ = other.overrideBrowserComposerMode_;
@@ -960,7 +1542,16 @@ namespace OpenSteamworks.Protobuf {
       gamescopeDisableFramelimit_ = other.gamescopeDisableFramelimit_;
       gamescopeDisplayRefreshRate_ = other.gamescopeDisplayRefreshRate_;
       gamescopeUseGameRefreshRateInSteam_ = other.gamescopeUseGameRefreshRateInSteam_;
+      gamescopeDisableMuraCorrection_ = other.gamescopeDisableMuraCorrection_;
+      gamescopeIncludeSteamuiInScreenshots_ = other.gamescopeIncludeSteamuiInScreenshots_;
       steamosStatusLedBrightness_ = other.steamosStatusLedBrightness_;
+      settingValidationBool_ = other.settingValidationBool_;
+      settingValidationEnum_ = other.settingValidationEnum_;
+      settingValidationInt32_ = other.settingValidationInt32_;
+      settingValidationUint32_ = other.settingValidationUint32_;
+      settingValidationUint64_ = other.settingValidationUint64_;
+      settingValidationFloat_ = other.settingValidationFloat_;
+      settingValidationString_ = other.settingValidationString_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3483,6 +4074,33 @@ namespace OpenSteamworks.Protobuf {
       _hasBits2 &= ~1048576;
     }
 
+    /// <summary>Field number for the "gamestream_hardware_video_encode" field.</summary>
+    public const int GamestreamHardwareVideoEncodeFieldNumber = 13000;
+    private readonly static bool GamestreamHardwareVideoEncodeDefaultValue = false;
+
+    private bool gamestreamHardwareVideoEncode_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool GamestreamHardwareVideoEncode {
+      get { if ((_hasBits2 & 2097152) != 0) { return gamestreamHardwareVideoEncode_; } else { return GamestreamHardwareVideoEncodeDefaultValue; } }
+      set {
+        _hasBits2 |= 2097152;
+        gamestreamHardwareVideoEncode_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gamestream_hardware_video_encode" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGamestreamHardwareVideoEncode {
+      get { return (_hasBits2 & 2097152) != 0; }
+    }
+    /// <summary>Clears the value of the "gamestream_hardware_video_encode" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGamestreamHardwareVideoEncode() {
+      _hasBits2 &= ~2097152;
+    }
+
     /// <summary>Field number for the "steam_input_configurator_error_msg_enable" field.</summary>
     public const int SteamInputConfiguratorErrorMsgEnableFieldNumber = 14001;
     private readonly static bool SteamInputConfiguratorErrorMsgEnableDefaultValue = false;
@@ -3491,9 +4109,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool SteamInputConfiguratorErrorMsgEnable {
-      get { if ((_hasBits2 & 2097152) != 0) { return steamInputConfiguratorErrorMsgEnable_; } else { return SteamInputConfiguratorErrorMsgEnableDefaultValue; } }
+      get { if ((_hasBits2 & 4194304) != 0) { return steamInputConfiguratorErrorMsgEnable_; } else { return SteamInputConfiguratorErrorMsgEnableDefaultValue; } }
       set {
-        _hasBits2 |= 2097152;
+        _hasBits2 |= 4194304;
         steamInputConfiguratorErrorMsgEnable_ = value;
       }
     }
@@ -3501,13 +4119,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasSteamInputConfiguratorErrorMsgEnable {
-      get { return (_hasBits2 & 2097152) != 0; }
+      get { return (_hasBits2 & 4194304) != 0; }
     }
     /// <summary>Clears the value of the "steam_input_configurator_error_msg_enable" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearSteamInputConfiguratorErrorMsgEnable() {
-      _hasBits2 &= ~2097152;
+      _hasBits2 &= ~4194304;
     }
 
     /// <summary>Field number for the "controller_guide_button_focus_steam" field.</summary>
@@ -3518,9 +4136,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerGuideButtonFocusSteam {
-      get { if ((_hasBits2 & 4194304) != 0) { return controllerGuideButtonFocusSteam_; } else { return ControllerGuideButtonFocusSteamDefaultValue; } }
+      get { if ((_hasBits2 & 8388608) != 0) { return controllerGuideButtonFocusSteam_; } else { return ControllerGuideButtonFocusSteamDefaultValue; } }
       set {
-        _hasBits2 |= 4194304;
+        _hasBits2 |= 8388608;
         controllerGuideButtonFocusSteam_ = value;
       }
     }
@@ -3528,13 +4146,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerGuideButtonFocusSteam {
-      get { return (_hasBits2 & 4194304) != 0; }
+      get { return (_hasBits2 & 8388608) != 0; }
     }
     /// <summary>Clears the value of the "controller_guide_button_focus_steam" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerGuideButtonFocusSteam() {
-      _hasBits2 &= ~4194304;
+      _hasBits2 &= ~8388608;
     }
 
     /// <summary>Field number for the "controller_ps_support" field.</summary>
@@ -3545,9 +4163,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int ControllerPsSupport {
-      get { if ((_hasBits2 & 8388608) != 0) { return controllerPsSupport_; } else { return ControllerPsSupportDefaultValue; } }
+      get { if ((_hasBits2 & 16777216) != 0) { return controllerPsSupport_; } else { return ControllerPsSupportDefaultValue; } }
       set {
-        _hasBits2 |= 8388608;
+        _hasBits2 |= 16777216;
         controllerPsSupport_ = value;
       }
     }
@@ -3555,13 +4173,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerPsSupport {
-      get { return (_hasBits2 & 8388608) != 0; }
+      get { return (_hasBits2 & 16777216) != 0; }
     }
     /// <summary>Clears the value of the "controller_ps_support" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerPsSupport() {
-      _hasBits2 &= ~8388608;
+      _hasBits2 &= ~16777216;
     }
 
     /// <summary>Field number for the "controller_xbox_support" field.</summary>
@@ -3572,9 +4190,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerXboxSupport {
-      get { if ((_hasBits2 & 16777216) != 0) { return controllerXboxSupport_; } else { return ControllerXboxSupportDefaultValue; } }
+      get { if ((_hasBits2 & 33554432) != 0) { return controllerXboxSupport_; } else { return ControllerXboxSupportDefaultValue; } }
       set {
-        _hasBits2 |= 16777216;
+        _hasBits2 |= 33554432;
         controllerXboxSupport_ = value;
       }
     }
@@ -3582,13 +4200,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerXboxSupport {
-      get { return (_hasBits2 & 16777216) != 0; }
+      get { return (_hasBits2 & 33554432) != 0; }
     }
     /// <summary>Clears the value of the "controller_xbox_support" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerXboxSupport() {
-      _hasBits2 &= ~16777216;
+      _hasBits2 &= ~33554432;
     }
 
     /// <summary>Field number for the "controller_xbox_driver" field.</summary>
@@ -3599,9 +4217,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerXboxDriver {
-      get { if ((_hasBits2 & 33554432) != 0) { return controllerXboxDriver_; } else { return ControllerXboxDriverDefaultValue; } }
+      get { if ((_hasBits2 & 67108864) != 0) { return controllerXboxDriver_; } else { return ControllerXboxDriverDefaultValue; } }
       set {
-        _hasBits2 |= 33554432;
+        _hasBits2 |= 67108864;
         controllerXboxDriver_ = value;
       }
     }
@@ -3609,13 +4227,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerXboxDriver {
-      get { return (_hasBits2 & 33554432) != 0; }
+      get { return (_hasBits2 & 67108864) != 0; }
     }
     /// <summary>Clears the value of the "controller_xbox_driver" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerXboxDriver() {
-      _hasBits2 &= ~33554432;
+      _hasBits2 &= ~67108864;
     }
 
     /// <summary>Field number for the "controller_switch_support" field.</summary>
@@ -3626,9 +4244,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerSwitchSupport {
-      get { if ((_hasBits2 & 67108864) != 0) { return controllerSwitchSupport_; } else { return ControllerSwitchSupportDefaultValue; } }
+      get { if ((_hasBits2 & 134217728) != 0) { return controllerSwitchSupport_; } else { return ControllerSwitchSupportDefaultValue; } }
       set {
-        _hasBits2 |= 67108864;
+        _hasBits2 |= 134217728;
         controllerSwitchSupport_ = value;
       }
     }
@@ -3636,13 +4254,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerSwitchSupport {
-      get { return (_hasBits2 & 67108864) != 0; }
+      get { return (_hasBits2 & 134217728) != 0; }
     }
     /// <summary>Clears the value of the "controller_switch_support" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerSwitchSupport() {
-      _hasBits2 &= ~67108864;
+      _hasBits2 &= ~134217728;
     }
 
     /// <summary>Field number for the "controller_generic_support" field.</summary>
@@ -3653,9 +4271,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerGenericSupport {
-      get { if ((_hasBits2 & 134217728) != 0) { return controllerGenericSupport_; } else { return ControllerGenericSupportDefaultValue; } }
+      get { if ((_hasBits2 & 268435456) != 0) { return controllerGenericSupport_; } else { return ControllerGenericSupportDefaultValue; } }
       set {
-        _hasBits2 |= 134217728;
+        _hasBits2 |= 268435456;
         controllerGenericSupport_ = value;
       }
     }
@@ -3663,13 +4281,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerGenericSupport {
-      get { return (_hasBits2 & 134217728) != 0; }
+      get { return (_hasBits2 & 268435456) != 0; }
     }
     /// <summary>Clears the value of the "controller_generic_support" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerGenericSupport() {
-      _hasBits2 &= ~134217728;
+      _hasBits2 &= ~268435456;
     }
 
     /// <summary>Field number for the "controller_power_off_timeout" field.</summary>
@@ -3680,9 +4298,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int ControllerPowerOffTimeout {
-      get { if ((_hasBits2 & 268435456) != 0) { return controllerPowerOffTimeout_; } else { return ControllerPowerOffTimeoutDefaultValue; } }
+      get { if ((_hasBits2 & 536870912) != 0) { return controllerPowerOffTimeout_; } else { return ControllerPowerOffTimeoutDefaultValue; } }
       set {
-        _hasBits2 |= 268435456;
+        _hasBits2 |= 536870912;
         controllerPowerOffTimeout_ = value;
       }
     }
@@ -3690,13 +4308,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerPowerOffTimeout {
-      get { return (_hasBits2 & 268435456) != 0; }
+      get { return (_hasBits2 & 536870912) != 0; }
     }
     /// <summary>Clears the value of the "controller_power_off_timeout" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerPowerOffTimeout() {
-      _hasBits2 &= ~268435456;
+      _hasBits2 &= ~536870912;
     }
 
     /// <summary>Field number for the "turn_off_controller_on_exit" field.</summary>
@@ -3707,9 +4325,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool TurnOffControllerOnExit {
-      get { if ((_hasBits2 & 536870912) != 0) { return turnOffControllerOnExit_; } else { return TurnOffControllerOnExitDefaultValue; } }
+      get { if ((_hasBits2 & 1073741824) != 0) { return turnOffControllerOnExit_; } else { return TurnOffControllerOnExitDefaultValue; } }
       set {
-        _hasBits2 |= 536870912;
+        _hasBits2 |= 1073741824;
         turnOffControllerOnExit_ = value;
       }
     }
@@ -3717,13 +4335,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasTurnOffControllerOnExit {
-      get { return (_hasBits2 & 536870912) != 0; }
+      get { return (_hasBits2 & 1073741824) != 0; }
     }
     /// <summary>Clears the value of the "turn_off_controller_on_exit" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearTurnOffControllerOnExit() {
-      _hasBits2 &= ~536870912;
+      _hasBits2 &= ~1073741824;
     }
 
     /// <summary>Field number for the "controller_combine_nintendo_joycons" field.</summary>
@@ -3734,9 +4352,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ControllerCombineNintendoJoycons {
-      get { if ((_hasBits2 & 1073741824) != 0) { return controllerCombineNintendoJoycons_; } else { return ControllerCombineNintendoJoyconsDefaultValue; } }
+      get { if ((_hasBits2 & -2147483648) != 0) { return controllerCombineNintendoJoycons_; } else { return ControllerCombineNintendoJoyconsDefaultValue; } }
       set {
-        _hasBits2 |= 1073741824;
+        _hasBits2 |= -2147483648;
         controllerCombineNintendoJoycons_ = value;
       }
     }
@@ -3744,13 +4362,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasControllerCombineNintendoJoycons {
-      get { return (_hasBits2 & 1073741824) != 0; }
+      get { return (_hasBits2 & -2147483648) != 0; }
     }
     /// <summary>Clears the value of the "controller_combine_nintendo_joycons" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearControllerCombineNintendoJoycons() {
-      _hasBits2 &= ~1073741824;
+      _hasBits2 &= ~-2147483648;
     }
 
     /// <summary>Field number for the "startup_movie_id" field.</summary>
@@ -3761,9 +4379,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public ulong StartupMovieId {
-      get { if ((_hasBits2 & -2147483648) != 0) { return startupMovieId_; } else { return StartupMovieIdDefaultValue; } }
+      get { if ((_hasBits3 & 1) != 0) { return startupMovieId_; } else { return StartupMovieIdDefaultValue; } }
       set {
-        _hasBits2 |= -2147483648;
+        _hasBits3 |= 1;
         startupMovieId_ = value;
       }
     }
@@ -3771,13 +4389,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasStartupMovieId {
-      get { return (_hasBits2 & -2147483648) != 0; }
+      get { return (_hasBits3 & 1) != 0; }
     }
     /// <summary>Clears the value of the "startup_movie_id" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearStartupMovieId() {
-      _hasBits2 &= ~-2147483648;
+      _hasBits3 &= ~1;
     }
 
     /// <summary>Field number for the "startup_movie_local_path" field.</summary>
@@ -3814,9 +4432,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool StartupMovieShuffle {
-      get { if ((_hasBits3 & 1) != 0) { return startupMovieShuffle_; } else { return StartupMovieShuffleDefaultValue; } }
+      get { if ((_hasBits3 & 2) != 0) { return startupMovieShuffle_; } else { return StartupMovieShuffleDefaultValue; } }
       set {
-        _hasBits3 |= 1;
+        _hasBits3 |= 2;
         startupMovieShuffle_ = value;
       }
     }
@@ -3824,13 +4442,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasStartupMovieShuffle {
-      get { return (_hasBits3 & 1) != 0; }
+      get { return (_hasBits3 & 2) != 0; }
     }
     /// <summary>Clears the value of the "startup_movie_shuffle" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearStartupMovieShuffle() {
-      _hasBits3 &= ~1;
+      _hasBits3 &= ~2;
     }
 
     /// <summary>Field number for the "startup_movie_used_for_resume" field.</summary>
@@ -3841,9 +4459,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool StartupMovieUsedForResume {
-      get { if ((_hasBits3 & 2) != 0) { return startupMovieUsedForResume_; } else { return StartupMovieUsedForResumeDefaultValue; } }
+      get { if ((_hasBits3 & 4) != 0) { return startupMovieUsedForResume_; } else { return StartupMovieUsedForResumeDefaultValue; } }
       set {
-        _hasBits3 |= 2;
+        _hasBits3 |= 4;
         startupMovieUsedForResume_ = value;
       }
     }
@@ -3851,13 +4469,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasStartupMovieUsedForResume {
-      get { return (_hasBits3 & 2) != 0; }
+      get { return (_hasBits3 & 4) != 0; }
     }
     /// <summary>Clears the value of the "startup_movie_used_for_resume" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearStartupMovieUsedForResume() {
-      _hasBits3 &= ~2;
+      _hasBits3 &= ~4;
     }
 
     /// <summary>Field number for the "game_notes_enable_spellcheck" field.</summary>
@@ -3868,9 +4486,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool GameNotesEnableSpellcheck {
-      get { if ((_hasBits3 & 4) != 0) { return gameNotesEnableSpellcheck_; } else { return GameNotesEnableSpellcheckDefaultValue; } }
+      get { if ((_hasBits3 & 8) != 0) { return gameNotesEnableSpellcheck_; } else { return GameNotesEnableSpellcheckDefaultValue; } }
       set {
-        _hasBits3 |= 4;
+        _hasBits3 |= 8;
         gameNotesEnableSpellcheck_ = value;
       }
     }
@@ -3878,13 +4496,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGameNotesEnableSpellcheck {
-      get { return (_hasBits3 & 4) != 0; }
+      get { return (_hasBits3 & 8) != 0; }
     }
     /// <summary>Clears the value of the "game_notes_enable_spellcheck" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGameNotesEnableSpellcheck() {
-      _hasBits3 &= ~4;
+      _hasBits3 &= ~8;
     }
 
     /// <summary>Field number for the "screenshot_items_per_row" field.</summary>
@@ -3895,9 +4513,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int ScreenshotItemsPerRow {
-      get { if ((_hasBits3 & 8) != 0) { return screenshotItemsPerRow_; } else { return ScreenshotItemsPerRowDefaultValue; } }
+      get { if ((_hasBits3 & 16) != 0) { return screenshotItemsPerRow_; } else { return ScreenshotItemsPerRowDefaultValue; } }
       set {
-        _hasBits3 |= 8;
+        _hasBits3 |= 16;
         screenshotItemsPerRow_ = value;
       }
     }
@@ -3905,13 +4523,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasScreenshotItemsPerRow {
-      get { return (_hasBits3 & 8) != 0; }
+      get { return (_hasBits3 & 16) != 0; }
     }
     /// <summary>Clears the value of the "screenshot_items_per_row" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearScreenshotItemsPerRow() {
-      _hasBits3 &= ~8;
+      _hasBits3 &= ~16;
     }
 
     /// <summary>Field number for the "g_background_enabled" field.</summary>
@@ -3922,9 +4540,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool GBackgroundEnabled {
-      get { if ((_hasBits3 & 16) != 0) { return gBackgroundEnabled_; } else { return GBackgroundEnabledDefaultValue; } }
+      get { if ((_hasBits3 & 32) != 0) { return gBackgroundEnabled_; } else { return GBackgroundEnabledDefaultValue; } }
       set {
-        _hasBits3 |= 16;
+        _hasBits3 |= 32;
         gBackgroundEnabled_ = value;
       }
     }
@@ -3932,13 +4550,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGBackgroundEnabled {
-      get { return (_hasBits3 & 16) != 0; }
+      get { return (_hasBits3 & 32) != 0; }
     }
     /// <summary>Clears the value of the "g_background_enabled" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGBackgroundEnabled() {
-      _hasBits3 &= ~16;
+      _hasBits3 &= ~32;
     }
 
     /// <summary>Field number for the "g_background_path" field.</summary>
@@ -4001,9 +4619,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int GBackgroundTimeResolution {
-      get { if ((_hasBits3 & 32) != 0) { return gBackgroundTimeResolution_; } else { return GBackgroundTimeResolutionDefaultValue; } }
+      get { if ((_hasBits3 & 64) != 0) { return gBackgroundTimeResolution_; } else { return GBackgroundTimeResolutionDefaultValue; } }
       set {
-        _hasBits3 |= 32;
+        _hasBits3 |= 64;
         gBackgroundTimeResolution_ = value;
       }
     }
@@ -4011,39 +4629,12 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGBackgroundTimeResolution {
-      get { return (_hasBits3 & 32) != 0; }
+      get { return (_hasBits3 & 64) != 0; }
     }
     /// <summary>Clears the value of the "g_background_time_resolution" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGBackgroundTimeResolution() {
-      _hasBits3 &= ~32;
-    }
-
-    /// <summary>Field number for the "g_background_devmode" field.</summary>
-    public const int GBackgroundDevmodeFieldNumber = 18206;
-    private readonly static bool GBackgroundDevmodeDefaultValue = false;
-
-    private bool gBackgroundDevmode_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool GBackgroundDevmode {
-      get { if ((_hasBits3 & 64) != 0) { return gBackgroundDevmode_; } else { return GBackgroundDevmodeDefaultValue; } }
-      set {
-        _hasBits3 |= 64;
-        gBackgroundDevmode_ = value;
-      }
-    }
-    /// <summary>Gets whether the "g_background_devmode" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasGBackgroundDevmode {
-      get { return (_hasBits3 & 64) != 0; }
-    }
-    /// <summary>Clears the value of the "g_background_devmode" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearGBackgroundDevmode() {
       _hasBits3 &= ~64;
     }
 
@@ -4098,6 +4689,33 @@ namespace OpenSteamworks.Protobuf {
       _hasBits3 &= ~128;
     }
 
+    /// <summary>Field number for the "g_background_br" field.</summary>
+    public const int GBackgroundBrFieldNumber = 18210;
+    private readonly static int GBackgroundBrDefaultValue = 0;
+
+    private int gBackgroundBr_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int GBackgroundBr {
+      get { if ((_hasBits3 & 256) != 0) { return gBackgroundBr_; } else { return GBackgroundBrDefaultValue; } }
+      set {
+        _hasBits3 |= 256;
+        gBackgroundBr_ = value;
+      }
+    }
+    /// <summary>Gets whether the "g_background_br" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGBackgroundBr {
+      get { return (_hasBits3 & 256) != 0; }
+    }
+    /// <summary>Clears the value of the "g_background_br" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGBackgroundBr() {
+      _hasBits3 &= ~256;
+    }
+
     /// <summary>Field number for the "show_timestamps_in_console" field.</summary>
     public const int ShowTimestampsInConsoleFieldNumber = 20000;
     private readonly static bool ShowTimestampsInConsoleDefaultValue = false;
@@ -4106,9 +4724,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ShowTimestampsInConsole {
-      get { if ((_hasBits3 & 256) != 0) { return showTimestampsInConsole_; } else { return ShowTimestampsInConsoleDefaultValue; } }
+      get { if ((_hasBits3 & 512) != 0) { return showTimestampsInConsole_; } else { return ShowTimestampsInConsoleDefaultValue; } }
       set {
-        _hasBits3 |= 256;
+        _hasBits3 |= 512;
         showTimestampsInConsole_ = value;
       }
     }
@@ -4116,13 +4734,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasShowTimestampsInConsole {
-      get { return (_hasBits3 & 256) != 0; }
+      get { return (_hasBits3 & 512) != 0; }
     }
     /// <summary>Clears the value of the "show_timestamps_in_console" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearShowTimestampsInConsole() {
-      _hasBits3 &= ~256;
+      _hasBits3 &= ~512;
     }
 
     /// <summary>Field number for the "force_oobe" field.</summary>
@@ -4133,9 +4751,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ForceOobe {
-      get { if ((_hasBits3 & 512) != 0) { return forceOobe_; } else { return ForceOobeDefaultValue; } }
+      get { if ((_hasBits3 & 1024) != 0) { return forceOobe_; } else { return ForceOobeDefaultValue; } }
       set {
-        _hasBits3 |= 512;
+        _hasBits3 |= 1024;
         forceOobe_ = value;
       }
     }
@@ -4143,13 +4761,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasForceOobe {
-      get { return (_hasBits3 & 512) != 0; }
+      get { return (_hasBits3 & 1024) != 0; }
     }
     /// <summary>Clears the value of the "force_oobe" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearForceOobe() {
-      _hasBits3 &= ~512;
+      _hasBits3 &= ~1024;
     }
 
     /// <summary>Field number for the "override_browser_composer_mode" field.</summary>
@@ -4160,9 +4778,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int OverrideBrowserComposerMode {
-      get { if ((_hasBits3 & 1024) != 0) { return overrideBrowserComposerMode_; } else { return OverrideBrowserComposerModeDefaultValue; } }
+      get { if ((_hasBits3 & 2048) != 0) { return overrideBrowserComposerMode_; } else { return OverrideBrowserComposerModeDefaultValue; } }
       set {
-        _hasBits3 |= 1024;
+        _hasBits3 |= 2048;
         overrideBrowserComposerMode_ = value;
       }
     }
@@ -4170,13 +4788,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasOverrideBrowserComposerMode {
-      get { return (_hasBits3 & 1024) != 0; }
+      get { return (_hasBits3 & 2048) != 0; }
     }
     /// <summary>Clears the value of the "override_browser_composer_mode" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearOverrideBrowserComposerMode() {
-      _hasBits3 &= ~1024;
+      _hasBits3 &= ~2048;
     }
 
     /// <summary>Field number for the "cef_remote_debugging_enabled" field.</summary>
@@ -4187,9 +4805,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool CefRemoteDebuggingEnabled {
-      get { if ((_hasBits3 & 2048) != 0) { return cefRemoteDebuggingEnabled_; } else { return CefRemoteDebuggingEnabledDefaultValue; } }
+      get { if ((_hasBits3 & 4096) != 0) { return cefRemoteDebuggingEnabled_; } else { return CefRemoteDebuggingEnabledDefaultValue; } }
       set {
-        _hasBits3 |= 2048;
+        _hasBits3 |= 4096;
         cefRemoteDebuggingEnabled_ = value;
       }
     }
@@ -4197,13 +4815,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCefRemoteDebuggingEnabled {
-      get { return (_hasBits3 & 2048) != 0; }
+      get { return (_hasBits3 & 4096) != 0; }
     }
     /// <summary>Clears the value of the "cef_remote_debugging_enabled" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCefRemoteDebuggingEnabled() {
-      _hasBits3 &= ~2048;
+      _hasBits3 &= ~4096;
     }
 
     /// <summary>Field number for the "force_decperf_tab" field.</summary>
@@ -4214,9 +4832,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ForceDecperfTab {
-      get { if ((_hasBits3 & 4096) != 0) { return forceDecperfTab_; } else { return ForceDecperfTabDefaultValue; } }
+      get { if ((_hasBits3 & 8192) != 0) { return forceDecperfTab_; } else { return ForceDecperfTabDefaultValue; } }
       set {
-        _hasBits3 |= 4096;
+        _hasBits3 |= 8192;
         forceDecperfTab_ = value;
       }
     }
@@ -4224,13 +4842,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasForceDecperfTab {
-      get { return (_hasBits3 & 4096) != 0; }
+      get { return (_hasBits3 & 8192) != 0; }
     }
     /// <summary>Clears the value of the "force_decperf_tab" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearForceDecperfTab() {
-      _hasBits3 &= ~4096;
+      _hasBits3 &= ~8192;
     }
 
     /// <summary>Field number for the "force_fake_mandatory_update" field.</summary>
@@ -4241,9 +4859,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ForceFakeMandatoryUpdate {
-      get { if ((_hasBits3 & 8192) != 0) { return forceFakeMandatoryUpdate_; } else { return ForceFakeMandatoryUpdateDefaultValue; } }
+      get { if ((_hasBits3 & 16384) != 0) { return forceFakeMandatoryUpdate_; } else { return ForceFakeMandatoryUpdateDefaultValue; } }
       set {
-        _hasBits3 |= 8192;
+        _hasBits3 |= 16384;
         forceFakeMandatoryUpdate_ = value;
       }
     }
@@ -4251,13 +4869,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasForceFakeMandatoryUpdate {
-      get { return (_hasBits3 & 8192) != 0; }
+      get { return (_hasBits3 & 16384) != 0; }
     }
     /// <summary>Clears the value of the "force_fake_mandatory_update" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearForceFakeMandatoryUpdate() {
-      _hasBits3 &= ~8192;
+      _hasBits3 &= ~16384;
     }
 
     /// <summary>Field number for the "hdr_compat_testing" field.</summary>
@@ -4268,9 +4886,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HdrCompatTesting {
-      get { if ((_hasBits3 & 16384) != 0) { return hdrCompatTesting_; } else { return HdrCompatTestingDefaultValue; } }
+      get { if ((_hasBits3 & 32768) != 0) { return hdrCompatTesting_; } else { return HdrCompatTestingDefaultValue; } }
       set {
-        _hasBits3 |= 16384;
+        _hasBits3 |= 32768;
         hdrCompatTesting_ = value;
       }
     }
@@ -4278,13 +4896,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasHdrCompatTesting {
-      get { return (_hasBits3 & 16384) != 0; }
+      get { return (_hasBits3 & 32768) != 0; }
     }
     /// <summary>Clears the value of the "hdr_compat_testing" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearHdrCompatTesting() {
-      _hasBits3 &= ~16384;
+      _hasBits3 &= ~32768;
     }
 
     /// <summary>Field number for the "gamescope_hdr_visualization" field.</summary>
@@ -4295,9 +4913,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public global::OpenSteamworks.Protobuf.EHDRVisualization GamescopeHdrVisualization {
-      get { if ((_hasBits3 & 32768) != 0) { return gamescopeHdrVisualization_; } else { return GamescopeHdrVisualizationDefaultValue; } }
+      get { if ((_hasBits3 & 65536) != 0) { return gamescopeHdrVisualization_; } else { return GamescopeHdrVisualizationDefaultValue; } }
       set {
-        _hasBits3 |= 32768;
+        _hasBits3 |= 65536;
         gamescopeHdrVisualization_ = value;
       }
     }
@@ -4305,13 +4923,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeHdrVisualization {
-      get { return (_hasBits3 & 32768) != 0; }
+      get { return (_hasBits3 & 65536) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_hdr_visualization" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeHdrVisualization() {
-      _hasBits3 &= ~32768;
+      _hasBits3 &= ~65536;
     }
 
     /// <summary>Field number for the "gamescope_app_target_framerate" field.</summary>
@@ -4322,9 +4940,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int GamescopeAppTargetFramerate {
-      get { if ((_hasBits3 & 65536) != 0) { return gamescopeAppTargetFramerate_; } else { return GamescopeAppTargetFramerateDefaultValue; } }
+      get { if ((_hasBits3 & 131072) != 0) { return gamescopeAppTargetFramerate_; } else { return GamescopeAppTargetFramerateDefaultValue; } }
       set {
-        _hasBits3 |= 65536;
+        _hasBits3 |= 131072;
         gamescopeAppTargetFramerate_ = value;
       }
     }
@@ -4332,13 +4950,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeAppTargetFramerate {
-      get { return (_hasBits3 & 65536) != 0; }
+      get { return (_hasBits3 & 131072) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_app_target_framerate" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeAppTargetFramerate() {
-      _hasBits3 &= ~65536;
+      _hasBits3 &= ~131072;
     }
 
     /// <summary>Field number for the "gamescope_enable_app_target_framerate" field.</summary>
@@ -4349,9 +4967,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool GamescopeEnableAppTargetFramerate {
-      get { if ((_hasBits3 & 131072) != 0) { return gamescopeEnableAppTargetFramerate_; } else { return GamescopeEnableAppTargetFramerateDefaultValue; } }
+      get { if ((_hasBits3 & 262144) != 0) { return gamescopeEnableAppTargetFramerate_; } else { return GamescopeEnableAppTargetFramerateDefaultValue; } }
       set {
-        _hasBits3 |= 131072;
+        _hasBits3 |= 262144;
         gamescopeEnableAppTargetFramerate_ = value;
       }
     }
@@ -4359,13 +4977,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeEnableAppTargetFramerate {
-      get { return (_hasBits3 & 131072) != 0; }
+      get { return (_hasBits3 & 262144) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_enable_app_target_framerate" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeEnableAppTargetFramerate() {
-      _hasBits3 &= ~131072;
+      _hasBits3 &= ~262144;
     }
 
     /// <summary>Field number for the "gamescope_disable_framelimit" field.</summary>
@@ -4376,9 +4994,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool GamescopeDisableFramelimit {
-      get { if ((_hasBits3 & 262144) != 0) { return gamescopeDisableFramelimit_; } else { return GamescopeDisableFramelimitDefaultValue; } }
+      get { if ((_hasBits3 & 524288) != 0) { return gamescopeDisableFramelimit_; } else { return GamescopeDisableFramelimitDefaultValue; } }
       set {
-        _hasBits3 |= 262144;
+        _hasBits3 |= 524288;
         gamescopeDisableFramelimit_ = value;
       }
     }
@@ -4386,13 +5004,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeDisableFramelimit {
-      get { return (_hasBits3 & 262144) != 0; }
+      get { return (_hasBits3 & 524288) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_disable_framelimit" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeDisableFramelimit() {
-      _hasBits3 &= ~262144;
+      _hasBits3 &= ~524288;
     }
 
     /// <summary>Field number for the "gamescope_display_refresh_rate" field.</summary>
@@ -4403,9 +5021,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int GamescopeDisplayRefreshRate {
-      get { if ((_hasBits3 & 524288) != 0) { return gamescopeDisplayRefreshRate_; } else { return GamescopeDisplayRefreshRateDefaultValue; } }
+      get { if ((_hasBits3 & 1048576) != 0) { return gamescopeDisplayRefreshRate_; } else { return GamescopeDisplayRefreshRateDefaultValue; } }
       set {
-        _hasBits3 |= 524288;
+        _hasBits3 |= 1048576;
         gamescopeDisplayRefreshRate_ = value;
       }
     }
@@ -4413,13 +5031,13 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeDisplayRefreshRate {
-      get { return (_hasBits3 & 524288) != 0; }
+      get { return (_hasBits3 & 1048576) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_display_refresh_rate" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeDisplayRefreshRate() {
-      _hasBits3 &= ~524288;
+      _hasBits3 &= ~1048576;
     }
 
     /// <summary>Field number for the "gamescope_use_game_refresh_rate_in_steam" field.</summary>
@@ -4430,9 +5048,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool GamescopeUseGameRefreshRateInSteam {
-      get { if ((_hasBits3 & 1048576) != 0) { return gamescopeUseGameRefreshRateInSteam_; } else { return GamescopeUseGameRefreshRateInSteamDefaultValue; } }
+      get { if ((_hasBits3 & 2097152) != 0) { return gamescopeUseGameRefreshRateInSteam_; } else { return GamescopeUseGameRefreshRateInSteamDefaultValue; } }
       set {
-        _hasBits3 |= 1048576;
+        _hasBits3 |= 2097152;
         gamescopeUseGameRefreshRateInSteam_ = value;
       }
     }
@@ -4440,13 +5058,67 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasGamescopeUseGameRefreshRateInSteam {
-      get { return (_hasBits3 & 1048576) != 0; }
+      get { return (_hasBits3 & 2097152) != 0; }
     }
     /// <summary>Clears the value of the "gamescope_use_game_refresh_rate_in_steam" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearGamescopeUseGameRefreshRateInSteam() {
-      _hasBits3 &= ~1048576;
+      _hasBits3 &= ~2097152;
+    }
+
+    /// <summary>Field number for the "gamescope_disable_mura_correction" field.</summary>
+    public const int GamescopeDisableMuraCorrectionFieldNumber = 21007;
+    private readonly static bool GamescopeDisableMuraCorrectionDefaultValue = false;
+
+    private bool gamescopeDisableMuraCorrection_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool GamescopeDisableMuraCorrection {
+      get { if ((_hasBits3 & 4194304) != 0) { return gamescopeDisableMuraCorrection_; } else { return GamescopeDisableMuraCorrectionDefaultValue; } }
+      set {
+        _hasBits3 |= 4194304;
+        gamescopeDisableMuraCorrection_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gamescope_disable_mura_correction" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGamescopeDisableMuraCorrection {
+      get { return (_hasBits3 & 4194304) != 0; }
+    }
+    /// <summary>Clears the value of the "gamescope_disable_mura_correction" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGamescopeDisableMuraCorrection() {
+      _hasBits3 &= ~4194304;
+    }
+
+    /// <summary>Field number for the "gamescope_include_steamui_in_screenshots" field.</summary>
+    public const int GamescopeIncludeSteamuiInScreenshotsFieldNumber = 21008;
+    private readonly static bool GamescopeIncludeSteamuiInScreenshotsDefaultValue = false;
+
+    private bool gamescopeIncludeSteamuiInScreenshots_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool GamescopeIncludeSteamuiInScreenshots {
+      get { if ((_hasBits3 & 8388608) != 0) { return gamescopeIncludeSteamuiInScreenshots_; } else { return GamescopeIncludeSteamuiInScreenshotsDefaultValue; } }
+      set {
+        _hasBits3 |= 8388608;
+        gamescopeIncludeSteamuiInScreenshots_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gamescope_include_steamui_in_screenshots" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGamescopeIncludeSteamuiInScreenshots {
+      get { return (_hasBits3 & 8388608) != 0; }
+    }
+    /// <summary>Clears the value of the "gamescope_include_steamui_in_screenshots" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGamescopeIncludeSteamuiInScreenshots() {
+      _hasBits3 &= ~8388608;
     }
 
     /// <summary>Field number for the "steamos_status_led_brightness" field.</summary>
@@ -4457,9 +5129,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int SteamosStatusLedBrightness {
-      get { if ((_hasBits3 & 2097152) != 0) { return steamosStatusLedBrightness_; } else { return SteamosStatusLedBrightnessDefaultValue; } }
+      get { if ((_hasBits3 & 16777216) != 0) { return steamosStatusLedBrightness_; } else { return SteamosStatusLedBrightnessDefaultValue; } }
       set {
-        _hasBits3 |= 2097152;
+        _hasBits3 |= 16777216;
         steamosStatusLedBrightness_ = value;
       }
     }
@@ -4467,13 +5139,201 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasSteamosStatusLedBrightness {
-      get { return (_hasBits3 & 2097152) != 0; }
+      get { return (_hasBits3 & 16777216) != 0; }
     }
     /// <summary>Clears the value of the "steamos_status_led_brightness" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearSteamosStatusLedBrightness() {
-      _hasBits3 &= ~2097152;
+      _hasBits3 &= ~16777216;
+    }
+
+    /// <summary>Field number for the "setting_validation_bool" field.</summary>
+    public const int SettingValidationBoolFieldNumber = 23001;
+    private readonly static bool SettingValidationBoolDefaultValue = false;
+
+    private bool settingValidationBool_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool SettingValidationBool {
+      get { if ((_hasBits3 & 33554432) != 0) { return settingValidationBool_; } else { return SettingValidationBoolDefaultValue; } }
+      set {
+        _hasBits3 |= 33554432;
+        settingValidationBool_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_bool" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationBool {
+      get { return (_hasBits3 & 33554432) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_bool" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationBool() {
+      _hasBits3 &= ~33554432;
+    }
+
+    /// <summary>Field number for the "setting_validation_enum" field.</summary>
+    public const int SettingValidationEnumFieldNumber = 23002;
+    private readonly static global::OpenSteamworks.Protobuf.EHDRVisualization SettingValidationEnumDefaultValue = global::OpenSteamworks.Protobuf.EHDRVisualization.None;
+
+    private global::OpenSteamworks.Protobuf.EHDRVisualization settingValidationEnum_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.EHDRVisualization SettingValidationEnum {
+      get { if ((_hasBits3 & 67108864) != 0) { return settingValidationEnum_; } else { return SettingValidationEnumDefaultValue; } }
+      set {
+        _hasBits3 |= 67108864;
+        settingValidationEnum_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_enum" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationEnum {
+      get { return (_hasBits3 & 67108864) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_enum" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationEnum() {
+      _hasBits3 &= ~67108864;
+    }
+
+    /// <summary>Field number for the "setting_validation_int32" field.</summary>
+    public const int SettingValidationInt32FieldNumber = 23003;
+    private readonly static int SettingValidationInt32DefaultValue = 0;
+
+    private int settingValidationInt32_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int SettingValidationInt32 {
+      get { if ((_hasBits3 & 134217728) != 0) { return settingValidationInt32_; } else { return SettingValidationInt32DefaultValue; } }
+      set {
+        _hasBits3 |= 134217728;
+        settingValidationInt32_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_int32" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationInt32 {
+      get { return (_hasBits3 & 134217728) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_int32" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationInt32() {
+      _hasBits3 &= ~134217728;
+    }
+
+    /// <summary>Field number for the "setting_validation_uint32" field.</summary>
+    public const int SettingValidationUint32FieldNumber = 23004;
+    private readonly static uint SettingValidationUint32DefaultValue = 0;
+
+    private uint settingValidationUint32_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint SettingValidationUint32 {
+      get { if ((_hasBits3 & 268435456) != 0) { return settingValidationUint32_; } else { return SettingValidationUint32DefaultValue; } }
+      set {
+        _hasBits3 |= 268435456;
+        settingValidationUint32_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_uint32" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationUint32 {
+      get { return (_hasBits3 & 268435456) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_uint32" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationUint32() {
+      _hasBits3 &= ~268435456;
+    }
+
+    /// <summary>Field number for the "setting_validation_uint64" field.</summary>
+    public const int SettingValidationUint64FieldNumber = 23005;
+    private readonly static ulong SettingValidationUint64DefaultValue = 0UL;
+
+    private ulong settingValidationUint64_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong SettingValidationUint64 {
+      get { if ((_hasBits3 & 536870912) != 0) { return settingValidationUint64_; } else { return SettingValidationUint64DefaultValue; } }
+      set {
+        _hasBits3 |= 536870912;
+        settingValidationUint64_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_uint64" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationUint64 {
+      get { return (_hasBits3 & 536870912) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_uint64" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationUint64() {
+      _hasBits3 &= ~536870912;
+    }
+
+    /// <summary>Field number for the "setting_validation_float" field.</summary>
+    public const int SettingValidationFloatFieldNumber = 23006;
+    private readonly static float SettingValidationFloatDefaultValue = 0F;
+
+    private float settingValidationFloat_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float SettingValidationFloat {
+      get { if ((_hasBits3 & 1073741824) != 0) { return settingValidationFloat_; } else { return SettingValidationFloatDefaultValue; } }
+      set {
+        _hasBits3 |= 1073741824;
+        settingValidationFloat_ = value;
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_float" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationFloat {
+      get { return (_hasBits3 & 1073741824) != 0; }
+    }
+    /// <summary>Clears the value of the "setting_validation_float" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationFloat() {
+      _hasBits3 &= ~1073741824;
+    }
+
+    /// <summary>Field number for the "setting_validation_string" field.</summary>
+    public const int SettingValidationStringFieldNumber = 23007;
+    private readonly static string SettingValidationStringDefaultValue = "";
+
+    private string settingValidationString_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string SettingValidationString {
+      get { return settingValidationString_ ?? SettingValidationStringDefaultValue; }
+      set {
+        settingValidationString_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "setting_validation_string" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSettingValidationString {
+      get { return settingValidationString_ != null; }
+    }
+    /// <summary>Clears the value of the "setting_validation_string" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSettingValidationString() {
+      settingValidationString_ = null;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4586,6 +5446,7 @@ namespace OpenSteamworks.Protobuf {
       if (BroadcastShowUploadStats != other.BroadcastShowUploadStats) return false;
       if (BroadcastShowLiveReminder != other.BroadcastShowLiveReminder) return false;
       if (BroadcastChatCorner != other.BroadcastChatCorner) return false;
+      if (GamestreamHardwareVideoEncode != other.GamestreamHardwareVideoEncode) return false;
       if (SteamInputConfiguratorErrorMsgEnable != other.SteamInputConfiguratorErrorMsgEnable) return false;
       if (ControllerGuideButtonFocusSteam != other.ControllerGuideButtonFocusSteam) return false;
       if (ControllerPsSupport != other.ControllerPsSupport) return false;
@@ -4606,10 +5467,10 @@ namespace OpenSteamworks.Protobuf {
       if (GBackgroundPath != other.GBackgroundPath) return false;
       if (GBackgroundMaxKeep != other.GBackgroundMaxKeep) return false;
       if (GBackgroundTimeResolution != other.GBackgroundTimeResolution) return false;
-      if (GBackgroundDevmode != other.GBackgroundDevmode) return false;
       if (!object.Equals(GBackgroundMk, other.GBackgroundMk)) return false;
       if (!object.Equals(GBackgroundTg, other.GBackgroundTg)) return false;
       if (GBackgroundAM != other.GBackgroundAM) return false;
+      if (GBackgroundBr != other.GBackgroundBr) return false;
       if (ShowTimestampsInConsole != other.ShowTimestampsInConsole) return false;
       if (ForceOobe != other.ForceOobe) return false;
       if (OverrideBrowserComposerMode != other.OverrideBrowserComposerMode) return false;
@@ -4623,7 +5484,16 @@ namespace OpenSteamworks.Protobuf {
       if (GamescopeDisableFramelimit != other.GamescopeDisableFramelimit) return false;
       if (GamescopeDisplayRefreshRate != other.GamescopeDisplayRefreshRate) return false;
       if (GamescopeUseGameRefreshRateInSteam != other.GamescopeUseGameRefreshRateInSteam) return false;
+      if (GamescopeDisableMuraCorrection != other.GamescopeDisableMuraCorrection) return false;
+      if (GamescopeIncludeSteamuiInScreenshots != other.GamescopeIncludeSteamuiInScreenshots) return false;
       if (SteamosStatusLedBrightness != other.SteamosStatusLedBrightness) return false;
+      if (SettingValidationBool != other.SettingValidationBool) return false;
+      if (SettingValidationEnum != other.SettingValidationEnum) return false;
+      if (SettingValidationInt32 != other.SettingValidationInt32) return false;
+      if (SettingValidationUint32 != other.SettingValidationUint32) return false;
+      if (SettingValidationUint64 != other.SettingValidationUint64) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(SettingValidationFloat, other.SettingValidationFloat)) return false;
+      if (SettingValidationString != other.SettingValidationString) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -4726,6 +5596,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasBroadcastShowUploadStats) hash ^= BroadcastShowUploadStats.GetHashCode();
       if (HasBroadcastShowLiveReminder) hash ^= BroadcastShowLiveReminder.GetHashCode();
       if (HasBroadcastChatCorner) hash ^= BroadcastChatCorner.GetHashCode();
+      if (HasGamestreamHardwareVideoEncode) hash ^= GamestreamHardwareVideoEncode.GetHashCode();
       if (HasSteamInputConfiguratorErrorMsgEnable) hash ^= SteamInputConfiguratorErrorMsgEnable.GetHashCode();
       if (HasControllerGuideButtonFocusSteam) hash ^= ControllerGuideButtonFocusSteam.GetHashCode();
       if (HasControllerPsSupport) hash ^= ControllerPsSupport.GetHashCode();
@@ -4746,10 +5617,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasGBackgroundPath) hash ^= GBackgroundPath.GetHashCode();
       if (HasGBackgroundMaxKeep) hash ^= GBackgroundMaxKeep.GetHashCode();
       if (HasGBackgroundTimeResolution) hash ^= GBackgroundTimeResolution.GetHashCode();
-      if (HasGBackgroundDevmode) hash ^= GBackgroundDevmode.GetHashCode();
       if (gBackgroundMk_ != null) hash ^= GBackgroundMk.GetHashCode();
       if (gBackgroundTg_ != null) hash ^= GBackgroundTg.GetHashCode();
       if (HasGBackgroundAM) hash ^= GBackgroundAM.GetHashCode();
+      if (HasGBackgroundBr) hash ^= GBackgroundBr.GetHashCode();
       if (HasShowTimestampsInConsole) hash ^= ShowTimestampsInConsole.GetHashCode();
       if (HasForceOobe) hash ^= ForceOobe.GetHashCode();
       if (HasOverrideBrowserComposerMode) hash ^= OverrideBrowserComposerMode.GetHashCode();
@@ -4763,7 +5634,16 @@ namespace OpenSteamworks.Protobuf {
       if (HasGamescopeDisableFramelimit) hash ^= GamescopeDisableFramelimit.GetHashCode();
       if (HasGamescopeDisplayRefreshRate) hash ^= GamescopeDisplayRefreshRate.GetHashCode();
       if (HasGamescopeUseGameRefreshRateInSteam) hash ^= GamescopeUseGameRefreshRateInSteam.GetHashCode();
+      if (HasGamescopeDisableMuraCorrection) hash ^= GamescopeDisableMuraCorrection.GetHashCode();
+      if (HasGamescopeIncludeSteamuiInScreenshots) hash ^= GamescopeIncludeSteamuiInScreenshots.GetHashCode();
       if (HasSteamosStatusLedBrightness) hash ^= SteamosStatusLedBrightness.GetHashCode();
+      if (HasSettingValidationBool) hash ^= SettingValidationBool.GetHashCode();
+      if (HasSettingValidationEnum) hash ^= SettingValidationEnum.GetHashCode();
+      if (HasSettingValidationInt32) hash ^= SettingValidationInt32.GetHashCode();
+      if (HasSettingValidationUint32) hash ^= SettingValidationUint32.GetHashCode();
+      if (HasSettingValidationUint64) hash ^= SettingValidationUint64.GetHashCode();
+      if (HasSettingValidationFloat) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(SettingValidationFloat);
+      if (HasSettingValidationString) hash ^= SettingValidationString.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -5162,6 +6042,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(208, 238, 5);
         output.WriteInt32(BroadcastChatCorner);
       }
+      if (HasGamestreamHardwareVideoEncode) {
+        output.WriteRawTag(192, 172, 6);
+        output.WriteBool(GamestreamHardwareVideoEncode);
+      }
       if (HasSteamInputConfiguratorErrorMsgEnable) {
         output.WriteRawTag(136, 235, 6);
         output.WriteBool(SteamInputConfiguratorErrorMsgEnable);
@@ -5242,10 +6126,6 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(216, 241, 8);
         output.WriteInt32(GBackgroundTimeResolution);
       }
-      if (HasGBackgroundDevmode) {
-        output.WriteRawTag(240, 241, 8);
-        output.WriteBool(GBackgroundDevmode);
-      }
       if (gBackgroundMk_ != null) {
         output.WriteRawTag(250, 241, 8);
         output.WriteMessage(GBackgroundMk);
@@ -5257,6 +6137,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasGBackgroundAM) {
         output.WriteRawTag(136, 242, 8);
         output.WriteBool(GBackgroundAM);
+      }
+      if (HasGBackgroundBr) {
+        output.WriteRawTag(144, 242, 8);
+        output.WriteInt32(GBackgroundBr);
       }
       if (HasShowTimestampsInConsole) {
         output.WriteRawTag(128, 226, 9);
@@ -5310,9 +6194,45 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(240, 160, 10);
         output.WriteBool(GamescopeUseGameRefreshRateInSteam);
       }
+      if (HasGamescopeDisableMuraCorrection) {
+        output.WriteRawTag(248, 160, 10);
+        output.WriteBool(GamescopeDisableMuraCorrection);
+      }
+      if (HasGamescopeIncludeSteamuiInScreenshots) {
+        output.WriteRawTag(128, 161, 10);
+        output.WriteBool(GamescopeIncludeSteamuiInScreenshots);
+      }
       if (HasSteamosStatusLedBrightness) {
         output.WriteRawTag(128, 223, 10);
         output.WriteInt32(SteamosStatusLedBrightness);
+      }
+      if (HasSettingValidationBool) {
+        output.WriteRawTag(200, 157, 11);
+        output.WriteBool(SettingValidationBool);
+      }
+      if (HasSettingValidationEnum) {
+        output.WriteRawTag(208, 157, 11);
+        output.WriteEnum((int) SettingValidationEnum);
+      }
+      if (HasSettingValidationInt32) {
+        output.WriteRawTag(216, 157, 11);
+        output.WriteInt32(SettingValidationInt32);
+      }
+      if (HasSettingValidationUint32) {
+        output.WriteRawTag(224, 157, 11);
+        output.WriteUInt32(SettingValidationUint32);
+      }
+      if (HasSettingValidationUint64) {
+        output.WriteRawTag(232, 157, 11);
+        output.WriteUInt64(SettingValidationUint64);
+      }
+      if (HasSettingValidationFloat) {
+        output.WriteRawTag(245, 157, 11);
+        output.WriteFloat(SettingValidationFloat);
+      }
+      if (HasSettingValidationString) {
+        output.WriteRawTag(250, 157, 11);
+        output.WriteString(SettingValidationString);
       }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
@@ -5704,6 +6624,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(208, 238, 5);
         output.WriteInt32(BroadcastChatCorner);
       }
+      if (HasGamestreamHardwareVideoEncode) {
+        output.WriteRawTag(192, 172, 6);
+        output.WriteBool(GamestreamHardwareVideoEncode);
+      }
       if (HasSteamInputConfiguratorErrorMsgEnable) {
         output.WriteRawTag(136, 235, 6);
         output.WriteBool(SteamInputConfiguratorErrorMsgEnable);
@@ -5784,10 +6708,6 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(216, 241, 8);
         output.WriteInt32(GBackgroundTimeResolution);
       }
-      if (HasGBackgroundDevmode) {
-        output.WriteRawTag(240, 241, 8);
-        output.WriteBool(GBackgroundDevmode);
-      }
       if (gBackgroundMk_ != null) {
         output.WriteRawTag(250, 241, 8);
         output.WriteMessage(GBackgroundMk);
@@ -5799,6 +6719,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasGBackgroundAM) {
         output.WriteRawTag(136, 242, 8);
         output.WriteBool(GBackgroundAM);
+      }
+      if (HasGBackgroundBr) {
+        output.WriteRawTag(144, 242, 8);
+        output.WriteInt32(GBackgroundBr);
       }
       if (HasShowTimestampsInConsole) {
         output.WriteRawTag(128, 226, 9);
@@ -5852,9 +6776,45 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(240, 160, 10);
         output.WriteBool(GamescopeUseGameRefreshRateInSteam);
       }
+      if (HasGamescopeDisableMuraCorrection) {
+        output.WriteRawTag(248, 160, 10);
+        output.WriteBool(GamescopeDisableMuraCorrection);
+      }
+      if (HasGamescopeIncludeSteamuiInScreenshots) {
+        output.WriteRawTag(128, 161, 10);
+        output.WriteBool(GamescopeIncludeSteamuiInScreenshots);
+      }
       if (HasSteamosStatusLedBrightness) {
         output.WriteRawTag(128, 223, 10);
         output.WriteInt32(SteamosStatusLedBrightness);
+      }
+      if (HasSettingValidationBool) {
+        output.WriteRawTag(200, 157, 11);
+        output.WriteBool(SettingValidationBool);
+      }
+      if (HasSettingValidationEnum) {
+        output.WriteRawTag(208, 157, 11);
+        output.WriteEnum((int) SettingValidationEnum);
+      }
+      if (HasSettingValidationInt32) {
+        output.WriteRawTag(216, 157, 11);
+        output.WriteInt32(SettingValidationInt32);
+      }
+      if (HasSettingValidationUint32) {
+        output.WriteRawTag(224, 157, 11);
+        output.WriteUInt32(SettingValidationUint32);
+      }
+      if (HasSettingValidationUint64) {
+        output.WriteRawTag(232, 157, 11);
+        output.WriteUInt64(SettingValidationUint64);
+      }
+      if (HasSettingValidationFloat) {
+        output.WriteRawTag(245, 157, 11);
+        output.WriteFloat(SettingValidationFloat);
+      }
+      if (HasSettingValidationString) {
+        output.WriteRawTag(250, 157, 11);
+        output.WriteString(SettingValidationString);
       }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
@@ -6151,6 +7111,9 @@ namespace OpenSteamworks.Protobuf {
       if (HasBroadcastChatCorner) {
         size += 3 + pb::CodedOutputStream.ComputeInt32Size(BroadcastChatCorner);
       }
+      if (HasGamestreamHardwareVideoEncode) {
+        size += 3 + 1;
+      }
       if (HasSteamInputConfiguratorErrorMsgEnable) {
         size += 3 + 1;
       }
@@ -6211,9 +7174,6 @@ namespace OpenSteamworks.Protobuf {
       if (HasGBackgroundTimeResolution) {
         size += 3 + pb::CodedOutputStream.ComputeInt32Size(GBackgroundTimeResolution);
       }
-      if (HasGBackgroundDevmode) {
-        size += 3 + 1;
-      }
       if (gBackgroundMk_ != null) {
         size += 3 + pb::CodedOutputStream.ComputeMessageSize(GBackgroundMk);
       }
@@ -6222,6 +7182,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasGBackgroundAM) {
         size += 3 + 1;
+      }
+      if (HasGBackgroundBr) {
+        size += 3 + pb::CodedOutputStream.ComputeInt32Size(GBackgroundBr);
       }
       if (HasShowTimestampsInConsole) {
         size += 3 + 1;
@@ -6262,8 +7225,35 @@ namespace OpenSteamworks.Protobuf {
       if (HasGamescopeUseGameRefreshRateInSteam) {
         size += 3 + 1;
       }
+      if (HasGamescopeDisableMuraCorrection) {
+        size += 3 + 1;
+      }
+      if (HasGamescopeIncludeSteamuiInScreenshots) {
+        size += 3 + 1;
+      }
       if (HasSteamosStatusLedBrightness) {
         size += 3 + pb::CodedOutputStream.ComputeInt32Size(SteamosStatusLedBrightness);
+      }
+      if (HasSettingValidationBool) {
+        size += 3 + 1;
+      }
+      if (HasSettingValidationEnum) {
+        size += 3 + pb::CodedOutputStream.ComputeEnumSize((int) SettingValidationEnum);
+      }
+      if (HasSettingValidationInt32) {
+        size += 3 + pb::CodedOutputStream.ComputeInt32Size(SettingValidationInt32);
+      }
+      if (HasSettingValidationUint32) {
+        size += 3 + pb::CodedOutputStream.ComputeUInt32Size(SettingValidationUint32);
+      }
+      if (HasSettingValidationUint64) {
+        size += 3 + pb::CodedOutputStream.ComputeUInt64Size(SettingValidationUint64);
+      }
+      if (HasSettingValidationFloat) {
+        size += 3 + 4;
+      }
+      if (HasSettingValidationString) {
+        size += 3 + pb::CodedOutputStream.ComputeStringSize(SettingValidationString);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -6571,6 +7561,9 @@ namespace OpenSteamworks.Protobuf {
       if (other.HasBroadcastChatCorner) {
         BroadcastChatCorner = other.BroadcastChatCorner;
       }
+      if (other.HasGamestreamHardwareVideoEncode) {
+        GamestreamHardwareVideoEncode = other.GamestreamHardwareVideoEncode;
+      }
       if (other.HasSteamInputConfiguratorErrorMsgEnable) {
         SteamInputConfiguratorErrorMsgEnable = other.SteamInputConfiguratorErrorMsgEnable;
       }
@@ -6631,9 +7624,6 @@ namespace OpenSteamworks.Protobuf {
       if (other.HasGBackgroundTimeResolution) {
         GBackgroundTimeResolution = other.GBackgroundTimeResolution;
       }
-      if (other.HasGBackgroundDevmode) {
-        GBackgroundDevmode = other.GBackgroundDevmode;
-      }
       if (other.gBackgroundMk_ != null) {
         if (gBackgroundMk_ == null) {
           GBackgroundMk = new global::OpenSteamworks.Protobuf.CMsgHotkey();
@@ -6648,6 +7638,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasGBackgroundAM) {
         GBackgroundAM = other.GBackgroundAM;
+      }
+      if (other.HasGBackgroundBr) {
+        GBackgroundBr = other.GBackgroundBr;
       }
       if (other.HasShowTimestampsInConsole) {
         ShowTimestampsInConsole = other.ShowTimestampsInConsole;
@@ -6688,8 +7681,35 @@ namespace OpenSteamworks.Protobuf {
       if (other.HasGamescopeUseGameRefreshRateInSteam) {
         GamescopeUseGameRefreshRateInSteam = other.GamescopeUseGameRefreshRateInSteam;
       }
+      if (other.HasGamescopeDisableMuraCorrection) {
+        GamescopeDisableMuraCorrection = other.GamescopeDisableMuraCorrection;
+      }
+      if (other.HasGamescopeIncludeSteamuiInScreenshots) {
+        GamescopeIncludeSteamuiInScreenshots = other.GamescopeIncludeSteamuiInScreenshots;
+      }
       if (other.HasSteamosStatusLedBrightness) {
         SteamosStatusLedBrightness = other.SteamosStatusLedBrightness;
+      }
+      if (other.HasSettingValidationBool) {
+        SettingValidationBool = other.SettingValidationBool;
+      }
+      if (other.HasSettingValidationEnum) {
+        SettingValidationEnum = other.SettingValidationEnum;
+      }
+      if (other.HasSettingValidationInt32) {
+        SettingValidationInt32 = other.SettingValidationInt32;
+      }
+      if (other.HasSettingValidationUint32) {
+        SettingValidationUint32 = other.SettingValidationUint32;
+      }
+      if (other.HasSettingValidationUint64) {
+        SettingValidationUint64 = other.SettingValidationUint64;
+      }
+      if (other.HasSettingValidationFloat) {
+        SettingValidationFloat = other.SettingValidationFloat;
+      }
+      if (other.HasSettingValidationString) {
+        SettingValidationString = other.SettingValidationString;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -7095,6 +8115,10 @@ namespace OpenSteamworks.Protobuf {
             BroadcastChatCorner = input.ReadInt32();
             break;
           }
+          case 104000: {
+            GamestreamHardwareVideoEncode = input.ReadBool();
+            break;
+          }
           case 112008: {
             SteamInputConfiguratorErrorMsgEnable = input.ReadBool();
             break;
@@ -7175,10 +8199,6 @@ namespace OpenSteamworks.Protobuf {
             GBackgroundTimeResolution = input.ReadInt32();
             break;
           }
-          case 145648: {
-            GBackgroundDevmode = input.ReadBool();
-            break;
-          }
           case 145658: {
             if (gBackgroundMk_ == null) {
               GBackgroundMk = new global::OpenSteamworks.Protobuf.CMsgHotkey();
@@ -7195,6 +8215,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 145672: {
             GBackgroundAM = input.ReadBool();
+            break;
+          }
+          case 145680: {
+            GBackgroundBr = input.ReadInt32();
             break;
           }
           case 160000: {
@@ -7249,8 +8273,44 @@ namespace OpenSteamworks.Protobuf {
             GamescopeUseGameRefreshRateInSteam = input.ReadBool();
             break;
           }
+          case 168056: {
+            GamescopeDisableMuraCorrection = input.ReadBool();
+            break;
+          }
+          case 168064: {
+            GamescopeIncludeSteamuiInScreenshots = input.ReadBool();
+            break;
+          }
           case 176000: {
             SteamosStatusLedBrightness = input.ReadInt32();
+            break;
+          }
+          case 184008: {
+            SettingValidationBool = input.ReadBool();
+            break;
+          }
+          case 184016: {
+            SettingValidationEnum = (global::OpenSteamworks.Protobuf.EHDRVisualization) input.ReadEnum();
+            break;
+          }
+          case 184024: {
+            SettingValidationInt32 = input.ReadInt32();
+            break;
+          }
+          case 184032: {
+            SettingValidationUint32 = input.ReadUInt32();
+            break;
+          }
+          case 184040: {
+            SettingValidationUint64 = input.ReadUInt64();
+            break;
+          }
+          case 184053: {
+            SettingValidationFloat = input.ReadFloat();
+            break;
+          }
+          case 184058: {
+            SettingValidationString = input.ReadString();
             break;
           }
         }
@@ -7657,6 +8717,10 @@ namespace OpenSteamworks.Protobuf {
             BroadcastChatCorner = input.ReadInt32();
             break;
           }
+          case 104000: {
+            GamestreamHardwareVideoEncode = input.ReadBool();
+            break;
+          }
           case 112008: {
             SteamInputConfiguratorErrorMsgEnable = input.ReadBool();
             break;
@@ -7737,10 +8801,6 @@ namespace OpenSteamworks.Protobuf {
             GBackgroundTimeResolution = input.ReadInt32();
             break;
           }
-          case 145648: {
-            GBackgroundDevmode = input.ReadBool();
-            break;
-          }
           case 145658: {
             if (gBackgroundMk_ == null) {
               GBackgroundMk = new global::OpenSteamworks.Protobuf.CMsgHotkey();
@@ -7757,6 +8817,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 145672: {
             GBackgroundAM = input.ReadBool();
+            break;
+          }
+          case 145680: {
+            GBackgroundBr = input.ReadInt32();
             break;
           }
           case 160000: {
@@ -7811,8 +8875,44 @@ namespace OpenSteamworks.Protobuf {
             GamescopeUseGameRefreshRateInSteam = input.ReadBool();
             break;
           }
+          case 168056: {
+            GamescopeDisableMuraCorrection = input.ReadBool();
+            break;
+          }
+          case 168064: {
+            GamescopeIncludeSteamuiInScreenshots = input.ReadBool();
+            break;
+          }
           case 176000: {
             SteamosStatusLedBrightness = input.ReadInt32();
+            break;
+          }
+          case 184008: {
+            SettingValidationBool = input.ReadBool();
+            break;
+          }
+          case 184016: {
+            SettingValidationEnum = (global::OpenSteamworks.Protobuf.EHDRVisualization) input.ReadEnum();
+            break;
+          }
+          case 184024: {
+            SettingValidationInt32 = input.ReadInt32();
+            break;
+          }
+          case 184032: {
+            SettingValidationUint32 = input.ReadUInt32();
+            break;
+          }
+          case 184040: {
+            SettingValidationUint64 = input.ReadUInt64();
+            break;
+          }
+          case 184053: {
+            SettingValidationFloat = input.ReadFloat();
+            break;
+          }
+          case 184058: {
+            SettingValidationString = input.ReadString();
             break;
           }
         }

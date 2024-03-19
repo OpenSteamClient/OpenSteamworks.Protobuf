@@ -105,7 +105,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "ZW50YWxUZW1wb3JhcnlQbGF5dGltZVJlc3RyaWN0aW9ucyJwChxQYXJlbnRh",
             "bFBsYXl0aW1lUmVzdHJpY3Rpb25zEiMKG2FwcGx5X3BsYXl0aW1lX3Jlc3Ry",
             "aWN0aW9ucxgCIAEoCBIrCg1wbGF5dGltZV9kYXlzGA8gAygLMhQuUGFyZW50",
-            "YWxQbGF5dGltZURheSKpBAoQUGFyZW50YWxTZXR0aW5ncxIPCgdzdGVhbWlk",
+            "YWxQbGF5dGltZURheSKFBQoQUGFyZW50YWxTZXR0aW5ncxIPCgdzdGVhbWlk",
             "GAEgASgGEhcKD2FwcGxpc3RfYmFzZV9pZBgCIAEoDRIgChhhcHBsaXN0X2Jh",
             "c2VfZGVzY3JpcHRpb24YAyABKAkSIgoMYXBwbGlzdF9iYXNlGAQgAygLMgwu",
             "UGFyZW50YWxBcHASJAoOYXBwbGlzdF9jdXN0b20YBSADKAsyDC5QYXJlbnRh",
@@ -117,54 +117,56 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "dHVyZV9leHBpcmF0aW9uGA4gASgNEjwKFXBsYXl0aW1lX3Jlc3RyaWN0aW9u",
             "cxgPIAEoCzIdLlBhcmVudGFsUGxheXRpbWVSZXN0cmljdGlvbnMSTwofdGVt",
             "cG9yYXJ5X3BsYXl0aW1lX3Jlc3RyaWN0aW9ucxgQIAEoCzImLlBhcmVudGFs",
-            "VGVtcG9yYXJ5UGxheXRpbWVSZXN0cmljdGlvbnMiagolUGFyZW50YWxUZW1w",
-            "b3JhcnlQbGF5dGltZVJlc3RyaWN0aW9ucxIqCgxyZXN0cmljdGlvbnMYASAB",
-            "KAsyFC5QYXJlbnRhbFBsYXl0aW1lRGF5EhUKDXJ0aW1lX2V4cGlyZXMYAiAB",
-            "KA0y6QwKCFBhcmVudGFsEmkKFEFwcHJvdmVGZWF0dXJlQWNjZXNzEicuQ1Bh",
-            "cmVudGFsX0FwcHJvdmVGZWF0dXJlQWNjZXNzX1JlcXVlc3QaKC5DUGFyZW50",
-            "YWxfQXBwcm92ZUZlYXR1cmVBY2Nlc3NfUmVzcG9uc2USWgoPQXBwcm92ZVBs",
-            "YXl0aW1lEiIuQ1BhcmVudGFsX0FwcHJvdmVQbGF5dGltZV9SZXF1ZXN0GiMu",
-            "Q1BhcmVudGFsX0FwcHJvdmVQbGF5dGltZV9SZXNwb25zZRJyChdEaXNhYmxl",
-            "UGFyZW50YWxTZXR0aW5ncxIqLkNQYXJlbnRhbF9EaXNhYmxlUGFyZW50YWxT",
-            "ZXR0aW5nc19SZXF1ZXN0GisuQ1BhcmVudGFsX0Rpc2FibGVQYXJlbnRhbFNl",
-            "dHRpbmdzX1Jlc3BvbnNlEnIKF0Rpc2FibGVXaXRoUmVjb3ZlcnlDb2RlEiou",
-            "Q1BhcmVudGFsX0Rpc2FibGVXaXRoUmVjb3ZlcnlDb2RlX1JlcXVlc3QaKy5D",
-            "UGFyZW50YWxfRGlzYWJsZVdpdGhSZWNvdmVyeUNvZGVfUmVzcG9uc2USbwoW",
-            "RW5hYmxlUGFyZW50YWxTZXR0aW5ncxIpLkNQYXJlbnRhbF9FbmFibGVQYXJl",
-            "bnRhbFNldHRpbmdzX1JlcXVlc3QaKi5DUGFyZW50YWxfRW5hYmxlUGFyZW50",
-            "YWxTZXR0aW5nc19SZXNwb25zZRJmChNHZXRQYXJlbnRhbFNldHRpbmdzEiYu",
-            "Q1BhcmVudGFsX0dldFBhcmVudGFsU2V0dGluZ3NfUmVxdWVzdBonLkNQYXJl",
-            "bnRhbF9HZXRQYXJlbnRhbFNldHRpbmdzX1Jlc3BvbnNlEk4KC0dldFJlcXVl",
-            "c3RzEh4uQ1BhcmVudGFsX0dldFJlcXVlc3RzX1JlcXVlc3QaHy5DUGFyZW50",
-            "YWxfR2V0UmVxdWVzdHNfUmVzcG9uc2USeAoZR2V0U2lnbmVkUGFyZW50YWxT",
-            "ZXR0aW5ncxIsLkNQYXJlbnRhbF9HZXRTaWduZWRQYXJlbnRhbFNldHRpbmdz",
-            "X1JlcXVlc3QaLS5DUGFyZW50YWxfR2V0U2lnbmVkUGFyZW50YWxTZXR0aW5n",
-            "c19SZXNwb25zZRJLCgpMb2NrQ2xpZW50Eh0uQ1BhcmVudGFsX0xvY2tDbGll",
-            "bnRfUmVxdWVzdBoeLkNQYXJlbnRhbF9Mb2NrQ2xpZW50X1Jlc3BvbnNlEnIK",
-            "F1JlcG9ydFBsYXl0aW1lQW5kTm90aWZ5EiouQ1BhcmVudGFsX1JlcG9ydFBs",
-            "YXl0aW1lQW5kTm90aWZ5X1JlcXVlc3QaKy5DUGFyZW50YWxfUmVwb3J0UGxh",
-            "eXRpbWVBbmROb3RpZnlfUmVzcG9uc2USaQoUUmVxdWVzdEZlYXR1cmVBY2Nl",
-            "c3MSJy5DUGFyZW50YWxfUmVxdWVzdEZlYXR1cmVBY2Nlc3NfUmVxdWVzdBoo",
-            "LkNQYXJlbnRhbF9SZXF1ZXN0RmVhdHVyZUFjY2Vzc19SZXNwb25zZRJaCg9S",
-            "ZXF1ZXN0UGxheXRpbWUSIi5DUGFyZW50YWxfUmVxdWVzdFBsYXl0aW1lX1Jl",
-            "cXVlc3QaIy5DUGFyZW50YWxfUmVxdWVzdFBsYXl0aW1lX1Jlc3BvbnNlEmYK",
-            "E1JlcXVlc3RSZWNvdmVyeUNvZGUSJi5DUGFyZW50YWxfUmVxdWVzdFJlY292",
-            "ZXJ5Q29kZV9SZXF1ZXN0GicuQ1BhcmVudGFsX1JlcXVlc3RSZWNvdmVyeUNv",
-            "ZGVfUmVzcG9uc2USZgoTU2V0UGFyZW50YWxTZXR0aW5ncxImLkNQYXJlbnRh",
-            "bF9TZXRQYXJlbnRhbFNldHRpbmdzX1JlcXVlc3QaJy5DUGFyZW50YWxfU2V0",
-            "UGFyZW50YWxTZXR0aW5nc19SZXNwb25zZRJdChBWYWxpZGF0ZVBhc3N3b3Jk",
-            "EiMuQ1BhcmVudGFsX1ZhbGlkYXRlUGFzc3dvcmRfUmVxdWVzdBokLkNQYXJl",
-            "bnRhbF9WYWxpZGF0ZVBhc3N3b3JkX1Jlc3BvbnNlElQKDVZhbGlkYXRlVG9r",
-            "ZW4SIC5DUGFyZW50YWxfVmFsaWRhdGVUb2tlbl9SZXF1ZXN0GiEuQ1BhcmVu",
-            "dGFsX1ZhbGlkYXRlVG9rZW5fUmVzcG9uc2UysAIKDlBhcmVudGFsQ2xpZW50",
-            "Ej0KCk5vdGlmeUxvY2sSIi5DUGFyZW50YWxfUGFyZW50YWxMb2NOb3RpZmlj",
-            "YXRpb24aCy5Ob1Jlc3BvbnNlEkcKEk5vdGlmeVBsYXl0aW1lVXNlZBIkLkNQ",
-            "YXJlbnRhbF9QbGF5dGltZVVzZWRfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25z",
-            "ZRJTChROb3RpZnlTZXR0aW5nc0NoYW5nZRIuLkNQYXJlbnRhbF9QYXJlbnRh",
-            "bFNldHRpbmdzQ2hhbmdlX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USQQoM",
-            "Tm90aWZ5VW5sb2NrEiQuQ1BhcmVudGFsX1BhcmVudGFsVW5sb2NOb3RpZmlj",
-            "YXRpb24aCy5Ob1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1",
-            "Zi5XZWJVSQ=="));
+            "VGVtcG9yYXJ5UGxheXRpbWVSZXN0cmljdGlvbnMSKgoiZXhjbHVkZWRfc3Rv",
+            "cmVfY29udGVudF9kZXNjcmlwdG9ycxgRIAMoDRIuCiZleGNsdWRlZF9jb21t",
+            "dW5pdHlfY29udGVudF9kZXNjcmlwdG9ycxgSIAMoDSJqCiVQYXJlbnRhbFRl",
+            "bXBvcmFyeVBsYXl0aW1lUmVzdHJpY3Rpb25zEioKDHJlc3RyaWN0aW9ucxgB",
+            "IAEoCzIULlBhcmVudGFsUGxheXRpbWVEYXkSFQoNcnRpbWVfZXhwaXJlcxgC",
+            "IAEoDTLpDAoIUGFyZW50YWwSaQoUQXBwcm92ZUZlYXR1cmVBY2Nlc3MSJy5D",
+            "UGFyZW50YWxfQXBwcm92ZUZlYXR1cmVBY2Nlc3NfUmVxdWVzdBooLkNQYXJl",
+            "bnRhbF9BcHByb3ZlRmVhdHVyZUFjY2Vzc19SZXNwb25zZRJaCg9BcHByb3Zl",
+            "UGxheXRpbWUSIi5DUGFyZW50YWxfQXBwcm92ZVBsYXl0aW1lX1JlcXVlc3Qa",
+            "Iy5DUGFyZW50YWxfQXBwcm92ZVBsYXl0aW1lX1Jlc3BvbnNlEnIKF0Rpc2Fi",
+            "bGVQYXJlbnRhbFNldHRpbmdzEiouQ1BhcmVudGFsX0Rpc2FibGVQYXJlbnRh",
+            "bFNldHRpbmdzX1JlcXVlc3QaKy5DUGFyZW50YWxfRGlzYWJsZVBhcmVudGFs",
+            "U2V0dGluZ3NfUmVzcG9uc2UScgoXRGlzYWJsZVdpdGhSZWNvdmVyeUNvZGUS",
+            "Ki5DUGFyZW50YWxfRGlzYWJsZVdpdGhSZWNvdmVyeUNvZGVfUmVxdWVzdBor",
+            "LkNQYXJlbnRhbF9EaXNhYmxlV2l0aFJlY292ZXJ5Q29kZV9SZXNwb25zZRJv",
+            "ChZFbmFibGVQYXJlbnRhbFNldHRpbmdzEikuQ1BhcmVudGFsX0VuYWJsZVBh",
+            "cmVudGFsU2V0dGluZ3NfUmVxdWVzdBoqLkNQYXJlbnRhbF9FbmFibGVQYXJl",
+            "bnRhbFNldHRpbmdzX1Jlc3BvbnNlEmYKE0dldFBhcmVudGFsU2V0dGluZ3MS",
+            "Ji5DUGFyZW50YWxfR2V0UGFyZW50YWxTZXR0aW5nc19SZXF1ZXN0GicuQ1Bh",
+            "cmVudGFsX0dldFBhcmVudGFsU2V0dGluZ3NfUmVzcG9uc2USTgoLR2V0UmVx",
+            "dWVzdHMSHi5DUGFyZW50YWxfR2V0UmVxdWVzdHNfUmVxdWVzdBofLkNQYXJl",
+            "bnRhbF9HZXRSZXF1ZXN0c19SZXNwb25zZRJ4ChlHZXRTaWduZWRQYXJlbnRh",
+            "bFNldHRpbmdzEiwuQ1BhcmVudGFsX0dldFNpZ25lZFBhcmVudGFsU2V0dGlu",
+            "Z3NfUmVxdWVzdBotLkNQYXJlbnRhbF9HZXRTaWduZWRQYXJlbnRhbFNldHRp",
+            "bmdzX1Jlc3BvbnNlEksKCkxvY2tDbGllbnQSHS5DUGFyZW50YWxfTG9ja0Ns",
+            "aWVudF9SZXF1ZXN0Gh4uQ1BhcmVudGFsX0xvY2tDbGllbnRfUmVzcG9uc2US",
+            "cgoXUmVwb3J0UGxheXRpbWVBbmROb3RpZnkSKi5DUGFyZW50YWxfUmVwb3J0",
+            "UGxheXRpbWVBbmROb3RpZnlfUmVxdWVzdBorLkNQYXJlbnRhbF9SZXBvcnRQ",
+            "bGF5dGltZUFuZE5vdGlmeV9SZXNwb25zZRJpChRSZXF1ZXN0RmVhdHVyZUFj",
+            "Y2VzcxInLkNQYXJlbnRhbF9SZXF1ZXN0RmVhdHVyZUFjY2Vzc19SZXF1ZXN0",
+            "GiguQ1BhcmVudGFsX1JlcXVlc3RGZWF0dXJlQWNjZXNzX1Jlc3BvbnNlEloK",
+            "D1JlcXVlc3RQbGF5dGltZRIiLkNQYXJlbnRhbF9SZXF1ZXN0UGxheXRpbWVf",
+            "UmVxdWVzdBojLkNQYXJlbnRhbF9SZXF1ZXN0UGxheXRpbWVfUmVzcG9uc2US",
+            "ZgoTUmVxdWVzdFJlY292ZXJ5Q29kZRImLkNQYXJlbnRhbF9SZXF1ZXN0UmVj",
+            "b3ZlcnlDb2RlX1JlcXVlc3QaJy5DUGFyZW50YWxfUmVxdWVzdFJlY292ZXJ5",
+            "Q29kZV9SZXNwb25zZRJmChNTZXRQYXJlbnRhbFNldHRpbmdzEiYuQ1BhcmVu",
+            "dGFsX1NldFBhcmVudGFsU2V0dGluZ3NfUmVxdWVzdBonLkNQYXJlbnRhbF9T",
+            "ZXRQYXJlbnRhbFNldHRpbmdzX1Jlc3BvbnNlEl0KEFZhbGlkYXRlUGFzc3dv",
+            "cmQSIy5DUGFyZW50YWxfVmFsaWRhdGVQYXNzd29yZF9SZXF1ZXN0GiQuQ1Bh",
+            "cmVudGFsX1ZhbGlkYXRlUGFzc3dvcmRfUmVzcG9uc2USVAoNVmFsaWRhdGVU",
+            "b2tlbhIgLkNQYXJlbnRhbF9WYWxpZGF0ZVRva2VuX1JlcXVlc3QaIS5DUGFy",
+            "ZW50YWxfVmFsaWRhdGVUb2tlbl9SZXNwb25zZTKwAgoOUGFyZW50YWxDbGll",
+            "bnQSPQoKTm90aWZ5TG9jaxIiLkNQYXJlbnRhbF9QYXJlbnRhbExvY05vdGlm",
+            "aWNhdGlvbhoLLk5vUmVzcG9uc2USRwoSTm90aWZ5UGxheXRpbWVVc2VkEiQu",
+            "Q1BhcmVudGFsX1BsYXl0aW1lVXNlZF9Ob3RpZmljYXRpb24aCy5Ob1Jlc3Bv",
+            "bnNlElMKFE5vdGlmeVNldHRpbmdzQ2hhbmdlEi4uQ1BhcmVudGFsX1BhcmVu",
+            "dGFsU2V0dGluZ3NDaGFuZ2VfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJB",
+            "CgxOb3RpZnlVbmxvY2sSJC5DUGFyZW50YWxfUGFyZW50YWxVbmxvY05vdGlm",
+            "aWNhdGlvbhoLLk5vUmVzcG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlByb3Rv",
+            "YnVmLldlYlVJ"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -209,7 +211,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeDay), global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeDay.Parser, new[]{ "AllowedTimeWindows", "AllowedDailyMinutes" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeRequest), global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeRequest.Parser, new[]{ "Requestid", "FamilyGroupid", "Steamid", "CurrentPlaytimeRestrictions", "TimeExpires", "TimeRequested", "Approved", "SteamidResponder", "TimeResponded", "RestrictionsApproved" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeRestrictions), global::OpenSteamworks.Protobuf.WebUI.ParentalPlaytimeRestrictions.Parser, new[]{ "ApplyPlaytimeRestrictions", "PlaytimeDays" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalSettings), global::OpenSteamworks.Protobuf.WebUI.ParentalSettings.Parser, new[]{ "Steamid", "ApplistBaseId", "ApplistBaseDescription", "ApplistBase", "ApplistCustom", "Passwordhashtype", "Salt", "Passwordhash", "IsEnabled", "EnabledFeatures", "RecoveryEmail", "IsSiteLicenseLock", "TemporaryEnabledFeatures", "RtimeTemporaryFeatureExpiration", "PlaytimeRestrictions", "TemporaryPlaytimeRestrictions" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalSettings), global::OpenSteamworks.Protobuf.WebUI.ParentalSettings.Parser, new[]{ "Steamid", "ApplistBaseId", "ApplistBaseDescription", "ApplistBase", "ApplistCustom", "Passwordhashtype", "Salt", "Passwordhash", "IsEnabled", "EnabledFeatures", "RecoveryEmail", "IsSiteLicenseLock", "TemporaryEnabledFeatures", "RtimeTemporaryFeatureExpiration", "PlaytimeRestrictions", "TemporaryPlaytimeRestrictions", "ExcludedStoreContentDescriptors", "ExcludedCommunityContentDescriptors" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.ParentalTemporaryPlaytimeRestrictions), global::OpenSteamworks.Protobuf.WebUI.ParentalTemporaryPlaytimeRestrictions.Parser, new[]{ "Restrictions", "RtimeExpires" }, null, null, null, null)
           }));
     }
@@ -10657,6 +10659,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       rtimeTemporaryFeatureExpiration_ = other.rtimeTemporaryFeatureExpiration_;
       playtimeRestrictions_ = other.playtimeRestrictions_ != null ? other.playtimeRestrictions_.Clone() : null;
       temporaryPlaytimeRestrictions_ = other.temporaryPlaytimeRestrictions_ != null ? other.temporaryPlaytimeRestrictions_.Clone() : null;
+      excludedStoreContentDescriptors_ = other.excludedStoreContentDescriptors_.Clone();
+      excludedCommunityContentDescriptors_ = other.excludedCommunityContentDescriptors_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -11032,6 +11036,28 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
     }
 
+    /// <summary>Field number for the "excluded_store_content_descriptors" field.</summary>
+    public const int ExcludedStoreContentDescriptorsFieldNumber = 17;
+    private static readonly pb::FieldCodec<uint> _repeated_excludedStoreContentDescriptors_codec
+        = pb::FieldCodec.ForUInt32(136);
+    private readonly pbc::RepeatedField<uint> excludedStoreContentDescriptors_ = new pbc::RepeatedField<uint>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<uint> ExcludedStoreContentDescriptors {
+      get { return excludedStoreContentDescriptors_; }
+    }
+
+    /// <summary>Field number for the "excluded_community_content_descriptors" field.</summary>
+    public const int ExcludedCommunityContentDescriptorsFieldNumber = 18;
+    private static readonly pb::FieldCodec<uint> _repeated_excludedCommunityContentDescriptors_codec
+        = pb::FieldCodec.ForUInt32(144);
+    private readonly pbc::RepeatedField<uint> excludedCommunityContentDescriptors_ = new pbc::RepeatedField<uint>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<uint> ExcludedCommunityContentDescriptors {
+      get { return excludedCommunityContentDescriptors_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -11063,6 +11089,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (RtimeTemporaryFeatureExpiration != other.RtimeTemporaryFeatureExpiration) return false;
       if (!object.Equals(PlaytimeRestrictions, other.PlaytimeRestrictions)) return false;
       if (!object.Equals(TemporaryPlaytimeRestrictions, other.TemporaryPlaytimeRestrictions)) return false;
+      if(!excludedStoreContentDescriptors_.Equals(other.excludedStoreContentDescriptors_)) return false;
+      if(!excludedCommunityContentDescriptors_.Equals(other.excludedCommunityContentDescriptors_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -11086,6 +11114,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasRtimeTemporaryFeatureExpiration) hash ^= RtimeTemporaryFeatureExpiration.GetHashCode();
       if (playtimeRestrictions_ != null) hash ^= PlaytimeRestrictions.GetHashCode();
       if (temporaryPlaytimeRestrictions_ != null) hash ^= TemporaryPlaytimeRestrictions.GetHashCode();
+      hash ^= excludedStoreContentDescriptors_.GetHashCode();
+      hash ^= excludedCommunityContentDescriptors_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -11162,6 +11192,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(130, 1);
         output.WriteMessage(TemporaryPlaytimeRestrictions);
       }
+      excludedStoreContentDescriptors_.WriteTo(output, _repeated_excludedStoreContentDescriptors_codec);
+      excludedCommunityContentDescriptors_.WriteTo(output, _repeated_excludedCommunityContentDescriptors_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -11230,6 +11262,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(130, 1);
         output.WriteMessage(TemporaryPlaytimeRestrictions);
       }
+      excludedStoreContentDescriptors_.WriteTo(ref output, _repeated_excludedStoreContentDescriptors_codec);
+      excludedCommunityContentDescriptors_.WriteTo(ref output, _repeated_excludedCommunityContentDescriptors_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -11284,6 +11318,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (temporaryPlaytimeRestrictions_ != null) {
         size += 2 + pb::CodedOutputStream.ComputeMessageSize(TemporaryPlaytimeRestrictions);
       }
+      size += excludedStoreContentDescriptors_.CalculateSize(_repeated_excludedStoreContentDescriptors_codec);
+      size += excludedCommunityContentDescriptors_.CalculateSize(_repeated_excludedCommunityContentDescriptors_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -11346,6 +11382,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
         }
         TemporaryPlaytimeRestrictions.MergeFrom(other.TemporaryPlaytimeRestrictions);
       }
+      excludedStoreContentDescriptors_.Add(other.excludedStoreContentDescriptors_);
+      excludedCommunityContentDescriptors_.Add(other.excludedCommunityContentDescriptors_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -11431,6 +11469,16 @@ namespace OpenSteamworks.Protobuf.WebUI {
             input.ReadMessage(TemporaryPlaytimeRestrictions);
             break;
           }
+          case 138:
+          case 136: {
+            excludedStoreContentDescriptors_.AddEntriesFrom(input, _repeated_excludedStoreContentDescriptors_codec);
+            break;
+          }
+          case 146:
+          case 144: {
+            excludedCommunityContentDescriptors_.AddEntriesFrom(input, _repeated_excludedCommunityContentDescriptors_codec);
+            break;
+          }
         }
       }
     #endif
@@ -11514,6 +11562,16 @@ namespace OpenSteamworks.Protobuf.WebUI {
               TemporaryPlaytimeRestrictions = new global::OpenSteamworks.Protobuf.WebUI.ParentalTemporaryPlaytimeRestrictions();
             }
             input.ReadMessage(TemporaryPlaytimeRestrictions);
+            break;
+          }
+          case 138:
+          case 136: {
+            excludedStoreContentDescriptors_.AddEntriesFrom(ref input, _repeated_excludedStoreContentDescriptors_codec);
+            break;
+          }
+          case 146:
+          case 144: {
+            excludedCommunityContentDescriptors_.AddEntriesFrom(ref input, _repeated_excludedCommunityContentDescriptors_codec);
             break;
           }
         }

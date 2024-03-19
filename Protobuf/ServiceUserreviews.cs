@@ -45,7 +45,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "bGljGAQgASgIEhAKCGxhbmd1YWdlGAUgASgJEhoKEmlzX2luX2Vhcmx5X2Fj",
             "Y2VzcxgGIAEoCBIdChVyZWNlaXZlZF9jb21wZW5zYXRpb24YByABKAgSGQoR",
             "Y29tbWVudHNfZGlzYWJsZWQYCCABKAgSGwoTaGlkZV9pbl9zdGVhbV9jaGlu",
-            "YRgJIAEoCCIeChxDVXNlclJldmlld3NfVXBkYXRlX1Jlc3BvbnNlIoUJChVS",
+            "YRgJIAEoCCIeChxDVXNlclJldmlld3NfVXBkYXRlX1Jlc3BvbnNlIocJChVS",
             "ZWNvbW1lbmRhdGlvbkRldGFpbHMSGAoQcmVjb21tZW5kYXRpb25pZBgBIAEo",
             "BBIPCgdzdGVhbWlkGAIgASgEEg0KBWFwcGlkGAMgASgNEg4KBnJldmlldxgE",
             "IAEoCRIUCgx0aW1lX2NyZWF0ZWQYBSABKA0SFAoMdGltZV91cGRhdGVkGAYg",
@@ -60,27 +60,27 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "ZXNwb25kZWQYFSABKA0SHgoWZGV2ZWxvcGVyX2ZsYWdfY2xlYXJlZBgWIAEo",
             "CBIjCht3cml0dGVuX2R1cmluZ19lYXJseV9hY2Nlc3MYFyABKAgSEwoLdm90",
             "ZXNfZnVubnkYGCABKA0SHQoVcmVjZWl2ZWRfY29tcGVuc2F0aW9uGBkgASgI",
-            "EhsKE3VudmVyaWZpZWRfcHVyY2hhc2UYGiABKAgSIAoOcmV2aWV3X3F1YWxp",
-            "dHkYGyABKAVCCIK1GARlbnVtEhsKE3dlaWdodGVkX3ZvdGVfc2NvcmUYHCAB",
-            "KAISFwoPbW9kZXJhdGlvbl9ub3RlGB0gASgJEhYKDnBheW1lbnRfbWV0aG9k",
-            "GB4gASgFEhcKD3BsYXl0aW1lXzJ3ZWVrcxgfIAEoBRIYChBwbGF5dGltZV9m",
-            "b3JldmVyGCAgASgFEhUKDWxhc3RfcGxheXRpbWUYISABKAUSGQoRY29tbWVu",
-            "dHNfZGlzYWJsZWQYIiABKAgSGgoScGxheXRpbWVfYXRfcmV2aWV3GCMgASgF",
-            "EhoKEmFwcHJvdmVkX2Zvcl9jaGluYRgkIAEoCBIgCg5iYW5fY2hlY3Jlc3Vs",
-            "dBglIAEoBUIIgrUYBGVudW0SEAoIcmVmdW5kZWQYJiABKAgSGwoTYWNjb3Vu",
-            "dF9zY29yZV9zcGVuZBgnIAEoBRI/CglyZWFjdGlvbnMYKCADKAsyLC5DVXNl",
-            "clJldmlld3NfUmVjb21tZW5kYXRpb25fTG95YWx0eVJlYWN0aW9uEhEKCWlw",
-            "YWRkcmVzcxgpIAEoCRIdChVoaWRkZW5faW5fc3RlYW1fY2hpbmEYKiABKAgS",
-            "HAoUc3RlYW1fY2hpbmFfbG9jYXRpb24YKyABKAky2wIKC1VzZXJSZXZpZXdz",
-            "EnsKGEdldEZyaWVuZHNSZWNvbW1lbmRlZEFwcBIuLkNVc2VyUmV2aWV3c19H",
-            "ZXRGcmllbmRzUmVjb21tZW5kZWRBcHBfUmVxdWVzdBovLkNVc2VyUmV2aWV3",
-            "c19HZXRGcmllbmRzUmVjb21tZW5kZWRBcHBfUmVzcG9uc2UShwEKHEdldElu",
-            "ZGl2aWR1YWxSZWNvbW1lbmRhdGlvbnMSMi5DVXNlclJldmlld3NfR2V0SW5k",
-            "aXZpZHVhbFJlY29tbWVuZGF0aW9uc19SZXF1ZXN0GjMuQ1VzZXJSZXZpZXdz",
-            "X0dldEluZGl2aWR1YWxSZWNvbW1lbmRhdGlvbnNfUmVzcG9uc2USRQoGVXBk",
-            "YXRlEhwuQ1VzZXJSZXZpZXdzX1VwZGF0ZV9SZXF1ZXN0Gh0uQ1VzZXJSZXZp",
-            "ZXdzX1VwZGF0ZV9SZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3MuUHJvdG9i",
-            "dWYuV2ViVUk="));
+            "EhsKE3VudmVyaWZpZWRfcHVyY2hhc2UYGiABKAgSIgoQcmV2aWV3X3F1YWxp",
+            "dGllcxgbIAMoBUIIgrUYBGVudW0SGwoTd2VpZ2h0ZWRfdm90ZV9zY29yZRgc",
+            "IAEoAhIXCg9tb2RlcmF0aW9uX25vdGUYHSABKAkSFgoOcGF5bWVudF9tZXRo",
+            "b2QYHiABKAUSFwoPcGxheXRpbWVfMndlZWtzGB8gASgFEhgKEHBsYXl0aW1l",
+            "X2ZvcmV2ZXIYICABKAUSFQoNbGFzdF9wbGF5dGltZRghIAEoBRIZChFjb21t",
+            "ZW50c19kaXNhYmxlZBgiIAEoCBIaChJwbGF5dGltZV9hdF9yZXZpZXcYIyAB",
+            "KAUSGgoSYXBwcm92ZWRfZm9yX2NoaW5hGCQgASgIEiAKDmJhbl9jaGVjcmVz",
+            "dWx0GCUgASgFQgiCtRgEZW51bRIQCghyZWZ1bmRlZBgmIAEoCBIbChNhY2Nv",
+            "dW50X3Njb3JlX3NwZW5kGCcgASgFEj8KCXJlYWN0aW9ucxgoIAMoCzIsLkNV",
+            "c2VyUmV2aWV3c19SZWNvbW1lbmRhdGlvbl9Mb3lhbHR5UmVhY3Rpb24SEQoJ",
+            "aXBhZGRyZXNzGCkgASgJEh0KFWhpZGRlbl9pbl9zdGVhbV9jaGluYRgqIAEo",
+            "CBIcChRzdGVhbV9jaGluYV9sb2NhdGlvbhgrIAEoCTLbAgoLVXNlclJldmll",
+            "d3MSewoYR2V0RnJpZW5kc1JlY29tbWVuZGVkQXBwEi4uQ1VzZXJSZXZpZXdz",
+            "X0dldEZyaWVuZHNSZWNvbW1lbmRlZEFwcF9SZXF1ZXN0Gi8uQ1VzZXJSZXZp",
+            "ZXdzX0dldEZyaWVuZHNSZWNvbW1lbmRlZEFwcF9SZXNwb25zZRKHAQocR2V0",
+            "SW5kaXZpZHVhbFJlY29tbWVuZGF0aW9ucxIyLkNVc2VyUmV2aWV3c19HZXRJ",
+            "bmRpdmlkdWFsUmVjb21tZW5kYXRpb25zX1JlcXVlc3QaMy5DVXNlclJldmll",
+            "d3NfR2V0SW5kaXZpZHVhbFJlY29tbWVuZGF0aW9uc19SZXNwb25zZRJFCgZV",
+            "cGRhdGUSHC5DVXNlclJldmlld3NfVXBkYXRlX1JlcXVlc3QaHS5DVXNlclJl",
+            "dmlld3NfVXBkYXRlX1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90",
+            "b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -92,7 +92,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Recommendation_LoyaltyReaction), global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Recommendation_LoyaltyReaction.Parser, new[]{ "ReactionType", "Count" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Update_Request), global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Update_Request.Parser, new[]{ "Recommendationid", "ReviewText", "VotedUp", "IsPublic", "Language", "IsInEarlyAccess", "ReceivedCompensation", "CommentsDisabled", "HideInSteamChina" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Update_Response), global::OpenSteamworks.Protobuf.WebUI.CUserReviews_Update_Response.Parser, null, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.RecommendationDetails), global::OpenSteamworks.Protobuf.WebUI.RecommendationDetails.Parser, new[]{ "Recommendationid", "Steamid", "Appid", "Review", "TimeCreated", "TimeUpdated", "VotesUp", "VotesDown", "VoteScore", "Language", "CommentCount", "VotedUp", "IsPublic", "ModeratorHidden", "FlaggedByDeveloper", "ReportScore", "SteamidModerator", "SteamidDeveloper", "SteamidDevResponder", "DeveloperResponse", "TimeDeveloperResponded", "DeveloperFlagCleared", "WrittenDuringEarlyAccess", "VotesFunny", "ReceivedCompensation", "UnverifiedPurchase", "ReviewQuality", "WeightedVoteScore", "ModerationNote", "PaymentMethod", "Playtime2Weeks", "PlaytimeForever", "LastPlaytime", "CommentsDisabled", "PlaytimeAtReview", "ApprovedForChina", "BanChecresult", "Refunded", "AccountScoreSpend", "Reactions", "Ipaddress", "HiddenInSteamChina", "SteamChinaLocation" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.RecommendationDetails), global::OpenSteamworks.Protobuf.WebUI.RecommendationDetails.Parser, new[]{ "Recommendationid", "Steamid", "Appid", "Review", "TimeCreated", "TimeUpdated", "VotesUp", "VotesDown", "VoteScore", "Language", "CommentCount", "VotedUp", "IsPublic", "ModeratorHidden", "FlaggedByDeveloper", "ReportScore", "SteamidModerator", "SteamidDeveloper", "SteamidDevResponder", "DeveloperResponse", "TimeDeveloperResponded", "DeveloperFlagCleared", "WrittenDuringEarlyAccess", "VotesFunny", "ReceivedCompensation", "UnverifiedPurchase", "ReviewQualities", "WeightedVoteScore", "ModerationNote", "PaymentMethod", "Playtime2Weeks", "PlaytimeForever", "LastPlaytime", "CommentsDisabled", "PlaytimeAtReview", "ApprovedForChina", "BanChecresult", "Refunded", "AccountScoreSpend", "Reactions", "Ipaddress", "HiddenInSteamChina", "SteamChinaLocation" }, null, null, null, null)
           }));
     }
     #endregion
@@ -2230,7 +2230,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       votesFunny_ = other.votesFunny_;
       receivedCompensation_ = other.receivedCompensation_;
       unverifiedPurchase_ = other.unverifiedPurchase_;
-      reviewQuality_ = other.reviewQuality_;
+      reviewQualities_ = other.reviewQualities_.Clone();
       weightedVoteScore_ = other.weightedVoteScore_;
       moderationNote_ = other.moderationNote_;
       paymentMethod_ = other.paymentMethod_;
@@ -2955,31 +2955,15 @@ namespace OpenSteamworks.Protobuf.WebUI {
       _hasBits0 &= ~4194304;
     }
 
-    /// <summary>Field number for the "review_quality" field.</summary>
-    public const int ReviewQualityFieldNumber = 27;
-    private readonly static int ReviewQualityDefaultValue = 0;
-
-    private int reviewQuality_;
+    /// <summary>Field number for the "review_qualities" field.</summary>
+    public const int ReviewQualitiesFieldNumber = 27;
+    private static readonly pb::FieldCodec<int> _repeated_reviewQualities_codec
+        = pb::FieldCodec.ForInt32(216);
+    private readonly pbc::RepeatedField<int> reviewQualities_ = new pbc::RepeatedField<int>();
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int ReviewQuality {
-      get { if ((_hasBits0 & 8388608) != 0) { return reviewQuality_; } else { return ReviewQualityDefaultValue; } }
-      set {
-        _hasBits0 |= 8388608;
-        reviewQuality_ = value;
-      }
-    }
-    /// <summary>Gets whether the "review_quality" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasReviewQuality {
-      get { return (_hasBits0 & 8388608) != 0; }
-    }
-    /// <summary>Clears the value of the "review_quality" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearReviewQuality() {
-      _hasBits0 &= ~8388608;
+    public pbc::RepeatedField<int> ReviewQualities {
+      get { return reviewQualities_; }
     }
 
     /// <summary>Field number for the "weighted_vote_score" field.</summary>
@@ -2987,12 +2971,15 @@ namespace OpenSteamworks.Protobuf.WebUI {
     private readonly static float WeightedVoteScoreDefaultValue = 0F;
 
     private float weightedVoteScore_;
+    /// <summary>
+    ///optional int32 review_quality = 27 [(.description) = "enum"];
+    /// </summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public float WeightedVoteScore {
-      get { if ((_hasBits0 & 16777216) != 0) { return weightedVoteScore_; } else { return WeightedVoteScoreDefaultValue; } }
+      get { if ((_hasBits0 & 8388608) != 0) { return weightedVoteScore_; } else { return WeightedVoteScoreDefaultValue; } }
       set {
-        _hasBits0 |= 16777216;
+        _hasBits0 |= 8388608;
         weightedVoteScore_ = value;
       }
     }
@@ -3000,13 +2987,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasWeightedVoteScore {
-      get { return (_hasBits0 & 16777216) != 0; }
+      get { return (_hasBits0 & 8388608) != 0; }
     }
     /// <summary>Clears the value of the "weighted_vote_score" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearWeightedVoteScore() {
-      _hasBits0 &= ~16777216;
+      _hasBits0 &= ~8388608;
     }
 
     /// <summary>Field number for the "moderation_note" field.</summary>
@@ -3043,9 +3030,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int PaymentMethod {
-      get { if ((_hasBits0 & 33554432) != 0) { return paymentMethod_; } else { return PaymentMethodDefaultValue; } }
+      get { if ((_hasBits0 & 16777216) != 0) { return paymentMethod_; } else { return PaymentMethodDefaultValue; } }
       set {
-        _hasBits0 |= 33554432;
+        _hasBits0 |= 16777216;
         paymentMethod_ = value;
       }
     }
@@ -3053,13 +3040,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPaymentMethod {
-      get { return (_hasBits0 & 33554432) != 0; }
+      get { return (_hasBits0 & 16777216) != 0; }
     }
     /// <summary>Clears the value of the "payment_method" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPaymentMethod() {
-      _hasBits0 &= ~33554432;
+      _hasBits0 &= ~16777216;
     }
 
     /// <summary>Field number for the "playtime_2weeks" field.</summary>
@@ -3070,9 +3057,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int Playtime2Weeks {
-      get { if ((_hasBits0 & 67108864) != 0) { return playtime2Weeks_; } else { return Playtime2WeeksDefaultValue; } }
+      get { if ((_hasBits0 & 33554432) != 0) { return playtime2Weeks_; } else { return Playtime2WeeksDefaultValue; } }
       set {
-        _hasBits0 |= 67108864;
+        _hasBits0 |= 33554432;
         playtime2Weeks_ = value;
       }
     }
@@ -3080,13 +3067,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPlaytime2Weeks {
-      get { return (_hasBits0 & 67108864) != 0; }
+      get { return (_hasBits0 & 33554432) != 0; }
     }
     /// <summary>Clears the value of the "playtime_2weeks" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPlaytime2Weeks() {
-      _hasBits0 &= ~67108864;
+      _hasBits0 &= ~33554432;
     }
 
     /// <summary>Field number for the "playtime_forever" field.</summary>
@@ -3097,9 +3084,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int PlaytimeForever {
-      get { if ((_hasBits0 & 134217728) != 0) { return playtimeForever_; } else { return PlaytimeForeverDefaultValue; } }
+      get { if ((_hasBits0 & 67108864) != 0) { return playtimeForever_; } else { return PlaytimeForeverDefaultValue; } }
       set {
-        _hasBits0 |= 134217728;
+        _hasBits0 |= 67108864;
         playtimeForever_ = value;
       }
     }
@@ -3107,13 +3094,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPlaytimeForever {
-      get { return (_hasBits0 & 134217728) != 0; }
+      get { return (_hasBits0 & 67108864) != 0; }
     }
     /// <summary>Clears the value of the "playtime_forever" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPlaytimeForever() {
-      _hasBits0 &= ~134217728;
+      _hasBits0 &= ~67108864;
     }
 
     /// <summary>Field number for the "last_playtime" field.</summary>
@@ -3124,9 +3111,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int LastPlaytime {
-      get { if ((_hasBits0 & 268435456) != 0) { return lastPlaytime_; } else { return LastPlaytimeDefaultValue; } }
+      get { if ((_hasBits0 & 134217728) != 0) { return lastPlaytime_; } else { return LastPlaytimeDefaultValue; } }
       set {
-        _hasBits0 |= 268435456;
+        _hasBits0 |= 134217728;
         lastPlaytime_ = value;
       }
     }
@@ -3134,13 +3121,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasLastPlaytime {
-      get { return (_hasBits0 & 268435456) != 0; }
+      get { return (_hasBits0 & 134217728) != 0; }
     }
     /// <summary>Clears the value of the "last_playtime" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearLastPlaytime() {
-      _hasBits0 &= ~268435456;
+      _hasBits0 &= ~134217728;
     }
 
     /// <summary>Field number for the "comments_disabled" field.</summary>
@@ -3151,9 +3138,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool CommentsDisabled {
-      get { if ((_hasBits0 & 536870912) != 0) { return commentsDisabled_; } else { return CommentsDisabledDefaultValue; } }
+      get { if ((_hasBits0 & 268435456) != 0) { return commentsDisabled_; } else { return CommentsDisabledDefaultValue; } }
       set {
-        _hasBits0 |= 536870912;
+        _hasBits0 |= 268435456;
         commentsDisabled_ = value;
       }
     }
@@ -3161,13 +3148,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasCommentsDisabled {
-      get { return (_hasBits0 & 536870912) != 0; }
+      get { return (_hasBits0 & 268435456) != 0; }
     }
     /// <summary>Clears the value of the "comments_disabled" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearCommentsDisabled() {
-      _hasBits0 &= ~536870912;
+      _hasBits0 &= ~268435456;
     }
 
     /// <summary>Field number for the "playtime_at_review" field.</summary>
@@ -3178,9 +3165,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int PlaytimeAtReview {
-      get { if ((_hasBits0 & 1073741824) != 0) { return playtimeAtReview_; } else { return PlaytimeAtReviewDefaultValue; } }
+      get { if ((_hasBits0 & 536870912) != 0) { return playtimeAtReview_; } else { return PlaytimeAtReviewDefaultValue; } }
       set {
-        _hasBits0 |= 1073741824;
+        _hasBits0 |= 536870912;
         playtimeAtReview_ = value;
       }
     }
@@ -3188,13 +3175,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasPlaytimeAtReview {
-      get { return (_hasBits0 & 1073741824) != 0; }
+      get { return (_hasBits0 & 536870912) != 0; }
     }
     /// <summary>Clears the value of the "playtime_at_review" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearPlaytimeAtReview() {
-      _hasBits0 &= ~1073741824;
+      _hasBits0 &= ~536870912;
     }
 
     /// <summary>Field number for the "approved_for_china" field.</summary>
@@ -3205,9 +3192,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool ApprovedForChina {
-      get { if ((_hasBits0 & -2147483648) != 0) { return approvedForChina_; } else { return ApprovedForChinaDefaultValue; } }
+      get { if ((_hasBits0 & 1073741824) != 0) { return approvedForChina_; } else { return ApprovedForChinaDefaultValue; } }
       set {
-        _hasBits0 |= -2147483648;
+        _hasBits0 |= 1073741824;
         approvedForChina_ = value;
       }
     }
@@ -3215,13 +3202,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasApprovedForChina {
-      get { return (_hasBits0 & -2147483648) != 0; }
+      get { return (_hasBits0 & 1073741824) != 0; }
     }
     /// <summary>Clears the value of the "approved_for_china" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearApprovedForChina() {
-      _hasBits0 &= ~-2147483648;
+      _hasBits0 &= ~1073741824;
     }
 
     /// <summary>Field number for the "ban_checresult" field.</summary>
@@ -3232,9 +3219,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int BanChecresult {
-      get { if ((_hasBits1 & 1) != 0) { return banChecresult_; } else { return BanChecresultDefaultValue; } }
+      get { if ((_hasBits0 & -2147483648) != 0) { return banChecresult_; } else { return BanChecresultDefaultValue; } }
       set {
-        _hasBits1 |= 1;
+        _hasBits0 |= -2147483648;
         banChecresult_ = value;
       }
     }
@@ -3242,13 +3229,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasBanChecresult {
-      get { return (_hasBits1 & 1) != 0; }
+      get { return (_hasBits0 & -2147483648) != 0; }
     }
     /// <summary>Clears the value of the "ban_checresult" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearBanChecresult() {
-      _hasBits1 &= ~1;
+      _hasBits0 &= ~-2147483648;
     }
 
     /// <summary>Field number for the "refunded" field.</summary>
@@ -3259,9 +3246,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool Refunded {
-      get { if ((_hasBits1 & 2) != 0) { return refunded_; } else { return RefundedDefaultValue; } }
+      get { if ((_hasBits1 & 1) != 0) { return refunded_; } else { return RefundedDefaultValue; } }
       set {
-        _hasBits1 |= 2;
+        _hasBits1 |= 1;
         refunded_ = value;
       }
     }
@@ -3269,13 +3256,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasRefunded {
-      get { return (_hasBits1 & 2) != 0; }
+      get { return (_hasBits1 & 1) != 0; }
     }
     /// <summary>Clears the value of the "refunded" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearRefunded() {
-      _hasBits1 &= ~2;
+      _hasBits1 &= ~1;
     }
 
     /// <summary>Field number for the "account_score_spend" field.</summary>
@@ -3286,9 +3273,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int AccountScoreSpend {
-      get { if ((_hasBits1 & 4) != 0) { return accountScoreSpend_; } else { return AccountScoreSpendDefaultValue; } }
+      get { if ((_hasBits1 & 2) != 0) { return accountScoreSpend_; } else { return AccountScoreSpendDefaultValue; } }
       set {
-        _hasBits1 |= 4;
+        _hasBits1 |= 2;
         accountScoreSpend_ = value;
       }
     }
@@ -3296,13 +3283,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasAccountScoreSpend {
-      get { return (_hasBits1 & 4) != 0; }
+      get { return (_hasBits1 & 2) != 0; }
     }
     /// <summary>Clears the value of the "account_score_spend" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearAccountScoreSpend() {
-      _hasBits1 &= ~4;
+      _hasBits1 &= ~2;
     }
 
     /// <summary>Field number for the "reactions" field.</summary>
@@ -3350,9 +3337,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HiddenInSteamChina {
-      get { if ((_hasBits1 & 8) != 0) { return hiddenInSteamChina_; } else { return HiddenInSteamChinaDefaultValue; } }
+      get { if ((_hasBits1 & 4) != 0) { return hiddenInSteamChina_; } else { return HiddenInSteamChinaDefaultValue; } }
       set {
-        _hasBits1 |= 8;
+        _hasBits1 |= 4;
         hiddenInSteamChina_ = value;
       }
     }
@@ -3360,13 +3347,13 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public bool HasHiddenInSteamChina {
-      get { return (_hasBits1 & 8) != 0; }
+      get { return (_hasBits1 & 4) != 0; }
     }
     /// <summary>Clears the value of the "hidden_in_steam_china" field</summary>
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public void ClearHiddenInSteamChina() {
-      _hasBits1 &= ~8;
+      _hasBits1 &= ~4;
     }
 
     /// <summary>Field number for the "steam_china_location" field.</summary>
@@ -3436,7 +3423,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (VotesFunny != other.VotesFunny) return false;
       if (ReceivedCompensation != other.ReceivedCompensation) return false;
       if (UnverifiedPurchase != other.UnverifiedPurchase) return false;
-      if (ReviewQuality != other.ReviewQuality) return false;
+      if(!reviewQualities_.Equals(other.reviewQualities_)) return false;
       if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(WeightedVoteScore, other.WeightedVoteScore)) return false;
       if (ModerationNote != other.ModerationNote) return false;
       if (PaymentMethod != other.PaymentMethod) return false;
@@ -3486,7 +3473,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasVotesFunny) hash ^= VotesFunny.GetHashCode();
       if (HasReceivedCompensation) hash ^= ReceivedCompensation.GetHashCode();
       if (HasUnverifiedPurchase) hash ^= UnverifiedPurchase.GetHashCode();
-      if (HasReviewQuality) hash ^= ReviewQuality.GetHashCode();
+      hash ^= reviewQualities_.GetHashCode();
       if (HasWeightedVoteScore) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(WeightedVoteScore);
       if (HasModerationNote) hash ^= ModerationNote.GetHashCode();
       if (HasPaymentMethod) hash ^= PaymentMethod.GetHashCode();
@@ -3625,10 +3612,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(208, 1);
         output.WriteBool(UnverifiedPurchase);
       }
-      if (HasReviewQuality) {
-        output.WriteRawTag(216, 1);
-        output.WriteInt32(ReviewQuality);
-      }
+      reviewQualities_.WriteTo(output, _repeated_reviewQualities_codec);
       if (HasWeightedVoteScore) {
         output.WriteRawTag(229, 1);
         output.WriteFloat(WeightedVoteScore);
@@ -3804,10 +3788,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(208, 1);
         output.WriteBool(UnverifiedPurchase);
       }
-      if (HasReviewQuality) {
-        output.WriteRawTag(216, 1);
-        output.WriteInt32(ReviewQuality);
-      }
+      reviewQualities_.WriteTo(ref output, _repeated_reviewQualities_codec);
       if (HasWeightedVoteScore) {
         output.WriteRawTag(229, 1);
         output.WriteFloat(WeightedVoteScore);
@@ -3957,9 +3938,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasUnverifiedPurchase) {
         size += 2 + 1;
       }
-      if (HasReviewQuality) {
-        size += 2 + pb::CodedOutputStream.ComputeInt32Size(ReviewQuality);
-      }
+      size += reviewQualities_.CalculateSize(_repeated_reviewQualities_codec);
       if (HasWeightedVoteScore) {
         size += 2 + 4;
       }
@@ -4096,9 +4075,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (other.HasUnverifiedPurchase) {
         UnverifiedPurchase = other.UnverifiedPurchase;
       }
-      if (other.HasReviewQuality) {
-        ReviewQuality = other.ReviewQuality;
-      }
+      reviewQualities_.Add(other.reviewQualities_);
       if (other.HasWeightedVoteScore) {
         WeightedVoteScore = other.WeightedVoteScore;
       }
@@ -4264,8 +4241,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
             UnverifiedPurchase = input.ReadBool();
             break;
           }
+          case 218:
           case 216: {
-            ReviewQuality = input.ReadInt32();
+            reviewQualities_.AddEntriesFrom(input, _repeated_reviewQualities_codec);
             break;
           }
           case 229: {
@@ -4451,8 +4429,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
             UnverifiedPurchase = input.ReadBool();
             break;
           }
+          case 218:
           case 216: {
-            ReviewQuality = input.ReadInt32();
+            reviewQualities_.AddEntriesFrom(ref input, _repeated_reviewQualities_codec);
             break;
           }
           case 229: {

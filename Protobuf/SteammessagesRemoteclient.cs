@@ -29,7 +29,7 @@ namespace OpenSteamworks.Protobuf {
             "cm90bxoqc3RlYW1tZXNzYWdlc19yZW1vdGVjbGllbnRfZGlzY292ZXJ5LnBy",
             "b3RvInIKFkNNc2dSZW1vdGVDbGllbnRTdGF0dXMSEQoJY2xpZW50X2lkGAEg",
             "ASgEEhMKC2luc3RhbmNlX2lkGAIgASgEEjAKBnN0YXR1cxgDIAEoCzIgLkNN",
-            "c2dSZW1vdGVDbGllbnRCcm9hZGNhc3RTdGF0dXMi5QQKGUNNc2dSZW1vdGVD",
+            "c2dSZW1vdGVDbGllbnRCcm9hZGNhc3RTdGF0dXMi5AQKGUNNc2dSZW1vdGVD",
             "bGllbnRBcHBTdGF0dXMSPAoOc3RhdHVzX3VwZGF0ZXMYASADKAsyJC5DTXNn",
             "UmVtb3RlQ2xpZW50QXBwU3RhdHVzLkFwcFN0YXR1cxroAQoNQXBwVXBkYXRl",
             "SW5mbxIZChF0aW1lX3VwZGF0ZV9zdGFydBgBIAEoBxIZChFieXRlc190b19k",
@@ -38,47 +38,47 @@ namespace OpenSteamworks.Protobuf {
             "EicKG2VzdGltYXRlZF9zZWNvbmRzX3JlbWFpbmluZxgGIAEoBToCLTESFQoN",
             "dXBkYXRlX3Jlc3VsdBgHIAEoBRIUCgx1cGRhdGVfc3RhdGUYCCABKA0aTwoM",
             "U2hvcnRjdXRJbmZvEgwKBG5hbWUYASABKAkSDAoEaWNvbhgCIAEoCRISCgpj",
-            "YXRlZ29yaWVzGAMgAygJEg8KB2V4ZXBhdGgYBCABKAkazQEKCUFwcFN0YXR1",
+            "YXRlZ29yaWVzGAMgAygJEg8KB2V4ZXBhdGgYBCABKAkazAEKCUFwcFN0YXR1",
             "cxIOCgZhcHBfaWQYASABKA0SEQoJYXBwX3N0YXRlGAIgASgNEj0KC3VwZGF0",
             "ZV9pbmZvGAMgASgLMiguQ01zZ1JlbW90ZUNsaWVudEFwcFN0YXR1cy5BcHBV",
             "cGRhdGVJbmZvEj4KDXNob3J0Y3V0X2luZm8YBCABKAsyJy5DTXNnUmVtb3Rl",
-            "Q2xpZW50QXBwU3RhdHVzLlNob3J0Y3V0SW5mbxIeChBsYXVuY2hfYXZhaWxh",
-            "YmxlGAUgASgIOgR0cnVlIsUDChtDTXNnUmVtb3RlQ2xpZW50U3RhcnRTdHJl",
-            "YW0SDgoGYXBwX2lkGAEgASgNEhMKC2Vudmlyb25tZW50GAIgASgFEhUKDWdh",
-            "bWVwYWRfY291bnQYAyABKAUSGQoNbGF1bmNoX29wdGlvbhgEIAEoBToCLTES",
-            "HwoQbG9jcGFyZW50YWxfbG9jaxgFIAEoCDoFZmFsc2USGgoSdW5sb2NwYXJl",
-            "bnRhbF9sb2NrGAYgASgJEhwKFG1heGltdW1fcmVzb2x1dGlvbl94GAcgASgF",
-            "EhwKFG1heGltdW1fcmVzb2x1dGlvbl95GAggASgFEj4KCGdhbWVwYWRzGAkg",
-            "AygLMiwuQ01zZ1JlbW90ZUNsaWVudFN0YXJ0U3RyZWFtLlJlc2VydmVkR2Ft",
-            "ZXBhZBIeChNhdWRpb19jaGFubmVsX2NvdW50GAogASgFOgEyEi4KE3N1cHBv",
-            "cnRlZF90cmFuc3BvcnQYCyADKA4yES5FU3RyZWFtVHJhbnNwb3J0GkYKD1Jl",
-            "c2VydmVkR2FtZXBhZBIXCg9jb250cm9sbGVyX3R5cGUYASABKA0SGgoSY29u",
-            "dHJvbGxlcl9zdWJ0eXBlGAIgASgNIrkCCiNDTXNnUmVtb3RlQ2xpZW50U3Rh",
-            "cnRTdHJlYW1SZXNwb25zZRIaCg9lX2xhdW5jaF9yZXN1bHQYASABKAU6ATIS",
-            "EwoLc3RyZWFtX3BvcnQYAiABKA0SFgoObGF1bmNoX29wdGlvbnMYAyADKAUS",
-            "EgoKYXV0aF90b2tlbhgEIAEoDBI5Cgl0cmFuc3BvcnQYBSABKA4yES5FU3Ry",
-            "ZWFtVHJhbnNwb3J0OhNFU3RyZWFtVHJhbnNwb3J0VURQEhQKDHJlbGF5X3Nl",
-            "cnZlchgGIAEoCRITCgtsYXVuY2hfdGFzaxgHIAEoCRIYChBsYXVuY2hfdGFz",
-            "ZGV0YWlsGAggASgJEhkKEWxhdW5jaF90YXNrc19kb25lGAkgASgFEhoKEmxh",
-            "dW5jaF90YXNrc190b3RhbBgKIAEoBSIWChRDTXNnUmVtb3RlQ2xpZW50UGlu",
-            "ZyIeChxDTXNnUmVtb3RlQ2xpZW50UGluZ1Jlc3BvbnNlIlMKGkNNc2dSZW1v",
-            "dGVDbGllbnRBY2NlcHRFVUxBEg4KBmFwcF9pZBgBIAMoDRIPCgdldWxhX2lk",
-            "GAIgAygJEhQKDGV1bGFfdmVyc2lvbhgDIAMoDSJPCiNDTXNnUmVtb3RlQ2xp",
-            "ZW50R2V0Q29udHJvbGxlckNvbmZpZxIOCgZhcHBfaWQYASABKA0SGAoQY29u",
-            "dHJvbGxlcl9pbmRleBgDIAEoDSJVCitDTXNnUmVtb3RlQ2xpZW50R2V0Q29u",
-            "dHJvbGxlckNvbmZpZ1Jlc3BvbnNlEhIKB2VyZXN1bHQYASABKAU6ATISEgoK",
-            "Y29uZmlnX3ZkZhgCIAEoDCIzCiBDTXNnUmVtb3RlQ2xpZW50U3RyZWFtaW5n",
-            "RW5hYmxlZBIPCgdlbmFibGVkGAEgAigIQh9IAYABAKoCF09wZW5TdGVhbXdv",
-            "cmtzLlByb3RvYnVm"));
+            "Q2xpZW50QXBwU3RhdHVzLlNob3J0Y3V0SW5mbxIdCg92cl9ub3RfcmVxdWly",
+            "ZWQYBSABKAg6BHRydWUixQMKG0NNc2dSZW1vdGVDbGllbnRTdGFydFN0cmVh",
+            "bRIOCgZhcHBfaWQYASABKA0SEwoLZW52aXJvbm1lbnQYAiABKAUSFQoNZ2Ft",
+            "ZXBhZF9jb3VudBgDIAEoBRIZCg1sYXVuY2hfb3B0aW9uGAQgASgFOgItMRIf",
+            "ChBsb2NwYXJlbnRhbF9sb2NrGAUgASgIOgVmYWxzZRIaChJ1bmxvY3BhcmVu",
+            "dGFsX2xvY2sYBiABKAkSHAoUbWF4aW11bV9yZXNvbHV0aW9uX3gYByABKAUS",
+            "HAoUbWF4aW11bV9yZXNvbHV0aW9uX3kYCCABKAUSPgoIZ2FtZXBhZHMYCSAD",
+            "KAsyLC5DTXNnUmVtb3RlQ2xpZW50U3RhcnRTdHJlYW0uUmVzZXJ2ZWRHYW1l",
+            "cGFkEh4KE2F1ZGlvX2NoYW5uZWxfY291bnQYCiABKAU6ATISLgoTc3VwcG9y",
+            "dGVkX3RyYW5zcG9ydBgLIAMoDjIRLkVTdHJlYW1UcmFuc3BvcnQaRgoPUmVz",
+            "ZXJ2ZWRHYW1lcGFkEhcKD2NvbnRyb2xsZXJfdHlwZRgBIAEoDRIaChJjb250",
+            "cm9sbGVyX3N1YnR5cGUYAiABKA0i1wIKI0NNc2dSZW1vdGVDbGllbnRTdGFy",
+            "dFN0cmVhbVJlc3BvbnNlEhoKD2VfbGF1bmNoX3Jlc3VsdBgBIAEoBToBMhIT",
+            "CgtzdHJlYW1fcG9ydBgCIAEoDRIWCg5sYXVuY2hfb3B0aW9ucxgDIAMoBRIS",
+            "CgphdXRoX3Rva2VuGAQgASgMEjkKCXRyYW5zcG9ydBgFIAEoDjIRLkVTdHJl",
+            "YW1UcmFuc3BvcnQ6E0VTdHJlYW1UcmFuc3BvcnRVRFASFAoMcmVsYXlfc2Vy",
+            "dmVyGAYgASgJEhMKC2xhdW5jaF90YXNrGAcgASgJEhgKEGxhdW5jaF90YXNk",
+            "ZXRhaWwYCCABKAkSGQoRbGF1bmNoX3Rhc2tzX2RvbmUYCSABKAUSGgoSbGF1",
+            "bmNoX3Rhc2tzX3RvdGFsGAogASgFEhwKFHZyX2Nvbm5lY3Rpb25fcGFyYW1z",
+            "GAsgASgJIhYKFENNc2dSZW1vdGVDbGllbnRQaW5nIh4KHENNc2dSZW1vdGVD",
+            "bGllbnRQaW5nUmVzcG9uc2UiUwoaQ01zZ1JlbW90ZUNsaWVudEFjY2VwdEVV",
+            "TEESDgoGYXBwX2lkGAEgAygNEg8KB2V1bGFfaWQYAiADKAkSFAoMZXVsYV92",
+            "ZXJzaW9uGAMgAygNIk8KI0NNc2dSZW1vdGVDbGllbnRHZXRDb250cm9sbGVy",
+            "Q29uZmlnEg4KBmFwcF9pZBgBIAEoDRIYChBjb250cm9sbGVyX2luZGV4GAMg",
+            "ASgNIlUKK0NNc2dSZW1vdGVDbGllbnRHZXRDb250cm9sbGVyQ29uZmlnUmVz",
+            "cG9uc2USEgoHZXJlc3VsdBgBIAEoBToBMhISCgpjb25maWdfdmRmGAIgASgM",
+            "IjMKIENNc2dSZW1vdGVDbGllbnRTdHJlYW1pbmdFbmFibGVkEg8KB2VuYWJs",
+            "ZWQYASACKAhCH0gBgAEAqgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesRemoteclientDiscoveryReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientStatus), global::OpenSteamworks.Protobuf.CMsgRemoteClientStatus.Parser, new[]{ "ClientId", "InstanceId", "Status" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus), global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Parser, new[]{ "StatusUpdates" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppUpdateInfo), global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppUpdateInfo.Parser, new[]{ "TimeUpdateStart", "BytesToDownload", "BytesDownloaded", "BytesToProcess", "BytesProcessed", "EstimatedSecondsRemaining", "UpdateResult", "UpdateState" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.ShortcutInfo), global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.ShortcutInfo.Parser, new[]{ "Name", "Icon", "Categories", "Exepath" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppStatus), global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppStatus.Parser, new[]{ "AppId", "AppState", "UpdateInfo", "ShortcutInfo", "LaunchAvailable" }, null, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppStatus), global::OpenSteamworks.Protobuf.CMsgRemoteClientAppStatus.Types.AppStatus.Parser, new[]{ "AppId", "AppState", "UpdateInfo", "ShortcutInfo", "VrNotRequired" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStream), global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStream.Parser, new[]{ "AppId", "Environment", "GamepadCount", "LaunchOption", "LocparentalLock", "UnlocparentalLock", "MaximumResolutionX", "MaximumResolutionY", "Gamepads", "AudioChannelCount", "SupportedTransport" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStream.Types.ReservedGamepad), global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStream.Types.ReservedGamepad.Parser, new[]{ "ControllerType", "ControllerSubtype" }, null, null, null, null)}),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStreamResponse), global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStreamResponse.Parser, new[]{ "ELaunchResult", "StreamPort", "LaunchOptions", "AuthToken", "Transport", "RelayServer", "LaunchTask", "LaunchTasdetail", "LaunchTasksDone", "LaunchTasksTotal" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStreamResponse), global::OpenSteamworks.Protobuf.CMsgRemoteClientStartStreamResponse.Parser, new[]{ "ELaunchResult", "StreamPort", "LaunchOptions", "AuthToken", "Transport", "RelayServer", "LaunchTask", "LaunchTasdetail", "LaunchTasksDone", "LaunchTasksTotal", "VrConnectionParams" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientPing), global::OpenSteamworks.Protobuf.CMsgRemoteClientPing.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientPingResponse), global::OpenSteamworks.Protobuf.CMsgRemoteClientPingResponse.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRemoteClientAcceptEULA), global::OpenSteamworks.Protobuf.CMsgRemoteClientAcceptEULA.Parser, new[]{ "AppId", "EulaId", "EulaVersion" }, null, null, null, null),
@@ -1522,7 +1522,7 @@ namespace OpenSteamworks.Protobuf {
           appState_ = other.appState_;
           updateInfo_ = other.updateInfo_ != null ? other.updateInfo_.Clone() : null;
           shortcutInfo_ = other.shortcutInfo_ != null ? other.shortcutInfo_.Clone() : null;
-          launchAvailable_ = other.launchAvailable_;
+          vrNotRequired_ = other.vrNotRequired_;
           _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
         }
 
@@ -1610,30 +1610,30 @@ namespace OpenSteamworks.Protobuf {
           }
         }
 
-        /// <summary>Field number for the "launch_available" field.</summary>
-        public const int LaunchAvailableFieldNumber = 5;
-        private readonly static bool LaunchAvailableDefaultValue = true;
+        /// <summary>Field number for the "vr_not_required" field.</summary>
+        public const int VrNotRequiredFieldNumber = 5;
+        private readonly static bool VrNotRequiredDefaultValue = true;
 
-        private bool launchAvailable_;
+        private bool vrNotRequired_;
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
         [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-        public bool LaunchAvailable {
-          get { if ((_hasBits0 & 4) != 0) { return launchAvailable_; } else { return LaunchAvailableDefaultValue; } }
+        public bool VrNotRequired {
+          get { if ((_hasBits0 & 4) != 0) { return vrNotRequired_; } else { return VrNotRequiredDefaultValue; } }
           set {
             _hasBits0 |= 4;
-            launchAvailable_ = value;
+            vrNotRequired_ = value;
           }
         }
-        /// <summary>Gets whether the "launch_available" field is set</summary>
+        /// <summary>Gets whether the "vr_not_required" field is set</summary>
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
         [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-        public bool HasLaunchAvailable {
+        public bool HasVrNotRequired {
           get { return (_hasBits0 & 4) != 0; }
         }
-        /// <summary>Clears the value of the "launch_available" field</summary>
+        /// <summary>Clears the value of the "vr_not_required" field</summary>
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
         [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-        public void ClearLaunchAvailable() {
+        public void ClearVrNotRequired() {
           _hasBits0 &= ~4;
         }
 
@@ -1656,7 +1656,7 @@ namespace OpenSteamworks.Protobuf {
           if (AppState != other.AppState) return false;
           if (!object.Equals(UpdateInfo, other.UpdateInfo)) return false;
           if (!object.Equals(ShortcutInfo, other.ShortcutInfo)) return false;
-          if (LaunchAvailable != other.LaunchAvailable) return false;
+          if (VrNotRequired != other.VrNotRequired) return false;
           return Equals(_unknownFields, other._unknownFields);
         }
 
@@ -1668,7 +1668,7 @@ namespace OpenSteamworks.Protobuf {
           if (HasAppState) hash ^= AppState.GetHashCode();
           if (updateInfo_ != null) hash ^= UpdateInfo.GetHashCode();
           if (shortcutInfo_ != null) hash ^= ShortcutInfo.GetHashCode();
-          if (HasLaunchAvailable) hash ^= LaunchAvailable.GetHashCode();
+          if (HasVrNotRequired) hash ^= VrNotRequired.GetHashCode();
           if (_unknownFields != null) {
             hash ^= _unknownFields.GetHashCode();
           }
@@ -1703,9 +1703,9 @@ namespace OpenSteamworks.Protobuf {
             output.WriteRawTag(34);
             output.WriteMessage(ShortcutInfo);
           }
-          if (HasLaunchAvailable) {
+          if (HasVrNotRequired) {
             output.WriteRawTag(40);
-            output.WriteBool(LaunchAvailable);
+            output.WriteBool(VrNotRequired);
           }
           if (_unknownFields != null) {
             _unknownFields.WriteTo(output);
@@ -1733,9 +1733,9 @@ namespace OpenSteamworks.Protobuf {
             output.WriteRawTag(34);
             output.WriteMessage(ShortcutInfo);
           }
-          if (HasLaunchAvailable) {
+          if (HasVrNotRequired) {
             output.WriteRawTag(40);
-            output.WriteBool(LaunchAvailable);
+            output.WriteBool(VrNotRequired);
           }
           if (_unknownFields != null) {
             _unknownFields.WriteTo(ref output);
@@ -1759,7 +1759,7 @@ namespace OpenSteamworks.Protobuf {
           if (shortcutInfo_ != null) {
             size += 1 + pb::CodedOutputStream.ComputeMessageSize(ShortcutInfo);
           }
-          if (HasLaunchAvailable) {
+          if (HasVrNotRequired) {
             size += 1 + 1;
           }
           if (_unknownFields != null) {
@@ -1792,8 +1792,8 @@ namespace OpenSteamworks.Protobuf {
             }
             ShortcutInfo.MergeFrom(other.ShortcutInfo);
           }
-          if (other.HasLaunchAvailable) {
-            LaunchAvailable = other.LaunchAvailable;
+          if (other.HasVrNotRequired) {
+            VrNotRequired = other.VrNotRequired;
           }
           _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
         }
@@ -1833,7 +1833,7 @@ namespace OpenSteamworks.Protobuf {
                 break;
               }
               case 40: {
-                LaunchAvailable = input.ReadBool();
+                VrNotRequired = input.ReadBool();
                 break;
               }
             }
@@ -1874,7 +1874,7 @@ namespace OpenSteamworks.Protobuf {
                 break;
               }
               case 40: {
-                LaunchAvailable = input.ReadBool();
+                VrNotRequired = input.ReadBool();
                 break;
               }
             }
@@ -2879,6 +2879,7 @@ namespace OpenSteamworks.Protobuf {
       launchTasdetail_ = other.launchTasdetail_;
       launchTasksDone_ = other.launchTasksDone_;
       launchTasksTotal_ = other.launchTasksTotal_;
+      vrConnectionParams_ = other.vrConnectionParams_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3138,6 +3139,32 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~16;
     }
 
+    /// <summary>Field number for the "vr_connection_params" field.</summary>
+    public const int VrConnectionParamsFieldNumber = 11;
+    private readonly static string VrConnectionParamsDefaultValue = "";
+
+    private string vrConnectionParams_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string VrConnectionParams {
+      get { return vrConnectionParams_ ?? VrConnectionParamsDefaultValue; }
+      set {
+        vrConnectionParams_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "vr_connection_params" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasVrConnectionParams {
+      get { return vrConnectionParams_ != null; }
+    }
+    /// <summary>Clears the value of the "vr_connection_params" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearVrConnectionParams() {
+      vrConnectionParams_ = null;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3163,6 +3190,7 @@ namespace OpenSteamworks.Protobuf {
       if (LaunchTasdetail != other.LaunchTasdetail) return false;
       if (LaunchTasksDone != other.LaunchTasksDone) return false;
       if (LaunchTasksTotal != other.LaunchTasksTotal) return false;
+      if (VrConnectionParams != other.VrConnectionParams) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3180,6 +3208,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasLaunchTasdetail) hash ^= LaunchTasdetail.GetHashCode();
       if (HasLaunchTasksDone) hash ^= LaunchTasksDone.GetHashCode();
       if (HasLaunchTasksTotal) hash ^= LaunchTasksTotal.GetHashCode();
+      if (HasVrConnectionParams) hash ^= VrConnectionParams.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3235,6 +3264,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(80);
         output.WriteInt32(LaunchTasksTotal);
       }
+      if (HasVrConnectionParams) {
+        output.WriteRawTag(90);
+        output.WriteString(VrConnectionParams);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3282,6 +3315,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(80);
         output.WriteInt32(LaunchTasksTotal);
       }
+      if (HasVrConnectionParams) {
+        output.WriteRawTag(90);
+        output.WriteString(VrConnectionParams);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3319,6 +3356,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasLaunchTasksTotal) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(LaunchTasksTotal);
+      }
+      if (HasVrConnectionParams) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(VrConnectionParams);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -3359,6 +3399,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasLaunchTasksTotal) {
         LaunchTasksTotal = other.LaunchTasksTotal;
+      }
+      if (other.HasVrConnectionParams) {
+        VrConnectionParams = other.VrConnectionParams;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -3416,6 +3459,10 @@ namespace OpenSteamworks.Protobuf {
             LaunchTasksTotal = input.ReadInt32();
             break;
           }
+          case 90: {
+            VrConnectionParams = input.ReadString();
+            break;
+          }
         }
       }
     #endif
@@ -3470,6 +3517,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 80: {
             LaunchTasksTotal = input.ReadInt32();
+            break;
+          }
+          case 90: {
+            VrConnectionParams = input.ReadString();
             break;
           }
         }

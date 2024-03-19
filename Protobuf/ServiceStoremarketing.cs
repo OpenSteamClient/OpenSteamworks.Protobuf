@@ -25,40 +25,44 @@ namespace OpenSteamworks.Protobuf.WebUI {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChxzZXJ2aWNlX3N0b3JlbWFya2V0aW5nLnByb3RvGiBnb29nbGUvcHJvdG9i",
-            "dWYvZGVzY3JpcHRvci5wcm90bxoMY29tbW9uLnByb3RvIpwCCilDU3RvcmVN",
+            "dWYvZGVzY3JpcHRvci5wcm90bxoMY29tbW9uLnByb3RvIvoCCilDU3RvcmVN",
             "YXJrZXRpbmdfR2V0SXRlbXNUb0ZlYXR1cmVfUmVxdWVzdBIkCgdjb250ZXh0",
             "GAEgASgLMhMuU3RvcmVCcm93c2VDb250ZXh0EjEKDGRhdGFfcmVxdWVzdBgC",
             "IAEoCzIbLlN0b3JlQnJvd3NlSXRlbURhdGFSZXF1ZXN0ElYKEmluY2x1ZGVf",
             "c3BvdGxpZ2h0cxgFIAEoCzI6LkNTdG9yZU1hcmtldGluZ19HZXRJdGVtc1Rv",
             "RmVhdHVyZV9SZXF1ZXN0X1Nwb3RsaWdodEZpbHRlchIaChJpbmNsdWRlX2Rh",
             "aWx5ZGVhbHMYBiABKAgSIgoaaW5jbHVkZV90b3Bfc3BlY2lhbHNfY291bnQY",
-            "ByABKAUicQo5Q1N0b3JlTWFya2V0aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jl",
-            "cXVlc3RfU3BvdGxpZ2h0RmlsdGVyEhAKCGxvY2F0aW9uGAEgASgJEhAKCGNh",
-            "dGVnb3J5GAIgASgJEhAKCGdlbnJlX2lkGAMgASgFIpICCipDU3RvcmVNYXJr",
-            "ZXRpbmdfR2V0SXRlbXNUb0ZlYXR1cmVfUmVzcG9uc2USSQoKc3BvdGxpZ2h0",
-            "cxgBIAMoCzI1LkNTdG9yZU1hcmtldGluZ19HZXRJdGVtc1RvRmVhdHVyZV9S",
-            "ZXNwb25zZV9TcG90bGlnaHQSTQoLZGFpbHlfZGVhbHMYAiADKAsyOC5DU3Rv",
-            "cmVNYXJrZXRpbmdfR2V0SXRlbXNUb0ZlYXR1cmVfUmVzcG9uc2VfRmVhdHVy",
-            "ZWRJdGVtEkoKCHNwZWNpYWxzGAMgAygLMjguQ1N0b3JlTWFya2V0aW5nX0dl",
-            "dEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlX0ZlYXR1cmVkSXRlbSJyCjdDU3Rv",
-            "cmVNYXJrZXRpbmdfR2V0SXRlbXNUb0ZlYXR1cmVfUmVzcG9uc2VfRmVhdHVy",
-            "ZWRJdGVtEh0KB2l0ZW1faWQYASABKAsyDC5TdG9yZUl0ZW1JRBIYCgRpdGVt",
-            "GAIgASgLMgouU3RvcmVJdGVtIvQBCjRDU3RvcmVNYXJrZXRpbmdfR2V0SXRl",
-            "bXNUb0ZlYXR1cmVfUmVzcG9uc2VfU3BvdGxpZ2h0Eh0KB2l0ZW1faWQYASAB",
-            "KAsyDC5TdG9yZUl0ZW1JRBIjCg9hc3NvY2lhdGVkX2l0ZW0YAiABKAsyCi5T",
-            "dG9yZUl0ZW0SGgoSc3BvdGxpZ2h0X3RlbXBsYXRlGAMgASgJEhcKD3Nwb3Rs",
-            "aWdodF90aXRsZRgEIAEoCRIWCg5zcG90bGlnaHRfYm9keRgFIAEoCRIRCglh",
-            "c3NldF91cmwYBiABKAkSGAoQc3BvdGxpZ2h0X2xpbnVybBgHIAEoCTJ+Cg5T",
-            "dG9yZU1hcmtldGluZxJsChFHZXRJdGVtc1RvRmVhdHVyZRIqLkNTdG9yZU1h",
-            "cmtldGluZ19HZXRJdGVtc1RvRmVhdHVyZV9SZXF1ZXN0GisuQ1N0b3JlTWFy",
-            "a2V0aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlQiCqAh1PcGVuU3Rl",
-            "YW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
+            "ByABKAUSKAogaW5jbHVkZV9wdXJjaGFzZV9yZWNvbW1lbmRhdGlvbnMYCCAB",
+            "KAgSMgocYWRkaXRpb25hbF9wdXJjaGFzZV9pdGVtX2lkcxgJIAMoCzIMLlN0",
+            "b3JlSXRlbUlEInEKOUNTdG9yZU1hcmtldGluZ19HZXRJdGVtc1RvRmVhdHVy",
+            "ZV9SZXF1ZXN0X1Nwb3RsaWdodEZpbHRlchIQCghsb2NhdGlvbhgBIAEoCRIQ",
+            "CghjYXRlZ29yeRgCIAEoCRIQCghnZW5yZV9pZBgDIAEoBSLuAgoqQ1N0b3Jl",
+            "TWFya2V0aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlEkkKCnNwb3Rs",
+            "aWdodHMYASADKAsyNS5DU3RvcmVNYXJrZXRpbmdfR2V0SXRlbXNUb0ZlYXR1",
+            "cmVfUmVzcG9uc2VfU3BvdGxpZ2h0Ek0KC2RhaWx5X2RlYWxzGAIgAygLMjgu",
+            "Q1N0b3JlTWFya2V0aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlX0Zl",
+            "YXR1cmVkSXRlbRJKCghzcGVjaWFscxgDIAMoCzI4LkNTdG9yZU1hcmtldGlu",
+            "Z19HZXRJdGVtc1RvRmVhdHVyZV9SZXNwb25zZV9GZWF0dXJlZEl0ZW0SWgoY",
+            "cHVyY2hhc2VfcmVjb21tZW5kYXRpb25zGAQgAygLMjguQ1N0b3JlTWFya2V0",
+            "aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlX0ZlYXR1cmVkSXRlbSJy",
+            "CjdDU3RvcmVNYXJrZXRpbmdfR2V0SXRlbXNUb0ZlYXR1cmVfUmVzcG9uc2Vf",
+            "RmVhdHVyZWRJdGVtEh0KB2l0ZW1faWQYASABKAsyDC5TdG9yZUl0ZW1JRBIY",
+            "CgRpdGVtGAIgASgLMgouU3RvcmVJdGVtIvQBCjRDU3RvcmVNYXJrZXRpbmdf",
+            "R2V0SXRlbXNUb0ZlYXR1cmVfUmVzcG9uc2VfU3BvdGxpZ2h0Eh0KB2l0ZW1f",
+            "aWQYASABKAsyDC5TdG9yZUl0ZW1JRBIjCg9hc3NvY2lhdGVkX2l0ZW0YAiAB",
+            "KAsyCi5TdG9yZUl0ZW0SGgoSc3BvdGxpZ2h0X3RlbXBsYXRlGAMgASgJEhcK",
+            "D3Nwb3RsaWdodF90aXRsZRgEIAEoCRIWCg5zcG90bGlnaHRfYm9keRgFIAEo",
+            "CRIRCglhc3NldF91cmwYBiABKAkSGAoQc3BvdGxpZ2h0X2xpbnVybBgHIAEo",
+            "CTJ+Cg5TdG9yZU1hcmtldGluZxJsChFHZXRJdGVtc1RvRmVhdHVyZRIqLkNT",
+            "dG9yZU1hcmtldGluZ19HZXRJdGVtc1RvRmVhdHVyZV9SZXF1ZXN0GisuQ1N0",
+            "b3JlTWFya2V0aW5nX0dldEl0ZW1zVG9GZWF0dXJlX1Jlc3BvbnNlQiCqAh1P",
+            "cGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request.Parser, new[]{ "Context", "DataRequest", "IncludeSpotlights", "IncludeDailydeals", "IncludeTopSpecialsCount" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request.Parser, new[]{ "Context", "DataRequest", "IncludeSpotlights", "IncludeDailydeals", "IncludeTopSpecialsCount", "IncludePurchaseRecommendations", "AdditionalPurchaseItemIds" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request_SpotlightFilter), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Request_SpotlightFilter.Parser, new[]{ "Location", "Category", "GenreId" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response.Parser, new[]{ "Spotlights", "DailyDeals", "Specials" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response.Parser, new[]{ "Spotlights", "DailyDeals", "Specials", "PurchaseRecommendations" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem.Parser, new[]{ "ItemId", "Item" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_Spotlight), global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_Spotlight.Parser, new[]{ "ItemId", "AssociatedItem", "SpotlightTemplate", "SpotlightTitle", "SpotlightBody", "AssetUrl", "SpotlightLinurl" }, null, null, null, null)
           }));
@@ -109,6 +113,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       includeSpotlights_ = other.includeSpotlights_ != null ? other.includeSpotlights_.Clone() : null;
       includeDailydeals_ = other.includeDailydeals_;
       includeTopSpecialsCount_ = other.includeTopSpecialsCount_;
+      includePurchaseRecommendations_ = other.includePurchaseRecommendations_;
+      additionalPurchaseItemIds_ = other.additionalPurchaseItemIds_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -208,6 +214,44 @@ namespace OpenSteamworks.Protobuf.WebUI {
       _hasBits0 &= ~2;
     }
 
+    /// <summary>Field number for the "include_purchase_recommendations" field.</summary>
+    public const int IncludePurchaseRecommendationsFieldNumber = 8;
+    private readonly static bool IncludePurchaseRecommendationsDefaultValue = false;
+
+    private bool includePurchaseRecommendations_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IncludePurchaseRecommendations {
+      get { if ((_hasBits0 & 4) != 0) { return includePurchaseRecommendations_; } else { return IncludePurchaseRecommendationsDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        includePurchaseRecommendations_ = value;
+      }
+    }
+    /// <summary>Gets whether the "include_purchase_recommendations" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIncludePurchaseRecommendations {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "include_purchase_recommendations" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIncludePurchaseRecommendations() {
+      _hasBits0 &= ~4;
+    }
+
+    /// <summary>Field number for the "additional_purchase_item_ids" field.</summary>
+    public const int AdditionalPurchaseItemIdsFieldNumber = 9;
+    private static readonly pb::FieldCodec<global::OpenSteamworks.Protobuf.WebUI.StoreItemID> _repeated_additionalPurchaseItemIds_codec
+        = pb::FieldCodec.ForMessage(74, global::OpenSteamworks.Protobuf.WebUI.StoreItemID.Parser);
+    private readonly pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.StoreItemID> additionalPurchaseItemIds_ = new pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.StoreItemID>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.StoreItemID> AdditionalPurchaseItemIds {
+      get { return additionalPurchaseItemIds_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -228,6 +272,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (!object.Equals(IncludeSpotlights, other.IncludeSpotlights)) return false;
       if (IncludeDailydeals != other.IncludeDailydeals) return false;
       if (IncludeTopSpecialsCount != other.IncludeTopSpecialsCount) return false;
+      if (IncludePurchaseRecommendations != other.IncludePurchaseRecommendations) return false;
+      if(!additionalPurchaseItemIds_.Equals(other.additionalPurchaseItemIds_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -240,6 +286,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (includeSpotlights_ != null) hash ^= IncludeSpotlights.GetHashCode();
       if (HasIncludeDailydeals) hash ^= IncludeDailydeals.GetHashCode();
       if (HasIncludeTopSpecialsCount) hash ^= IncludeTopSpecialsCount.GetHashCode();
+      if (HasIncludePurchaseRecommendations) hash ^= IncludePurchaseRecommendations.GetHashCode();
+      hash ^= additionalPurchaseItemIds_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -278,6 +326,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(56);
         output.WriteInt32(IncludeTopSpecialsCount);
       }
+      if (HasIncludePurchaseRecommendations) {
+        output.WriteRawTag(64);
+        output.WriteBool(IncludePurchaseRecommendations);
+      }
+      additionalPurchaseItemIds_.WriteTo(output, _repeated_additionalPurchaseItemIds_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -308,6 +361,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(56);
         output.WriteInt32(IncludeTopSpecialsCount);
       }
+      if (HasIncludePurchaseRecommendations) {
+        output.WriteRawTag(64);
+        output.WriteBool(IncludePurchaseRecommendations);
+      }
+      additionalPurchaseItemIds_.WriteTo(ref output, _repeated_additionalPurchaseItemIds_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -333,6 +391,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasIncludeTopSpecialsCount) {
         size += 1 + pb::CodedOutputStream.ComputeInt32Size(IncludeTopSpecialsCount);
       }
+      if (HasIncludePurchaseRecommendations) {
+        size += 1 + 1;
+      }
+      size += additionalPurchaseItemIds_.CalculateSize(_repeated_additionalPurchaseItemIds_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -369,6 +431,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (other.HasIncludeTopSpecialsCount) {
         IncludeTopSpecialsCount = other.IncludeTopSpecialsCount;
       }
+      if (other.HasIncludePurchaseRecommendations) {
+        IncludePurchaseRecommendations = other.IncludePurchaseRecommendations;
+      }
+      additionalPurchaseItemIds_.Add(other.additionalPurchaseItemIds_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -413,6 +479,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
             IncludeTopSpecialsCount = input.ReadInt32();
             break;
           }
+          case 64: {
+            IncludePurchaseRecommendations = input.ReadBool();
+            break;
+          }
+          case 74: {
+            additionalPurchaseItemIds_.AddEntriesFrom(input, _repeated_additionalPurchaseItemIds_codec);
+            break;
+          }
         }
       }
     #endif
@@ -455,6 +529,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 56: {
             IncludeTopSpecialsCount = input.ReadInt32();
+            break;
+          }
+          case 64: {
+            IncludePurchaseRecommendations = input.ReadBool();
+            break;
+          }
+          case 74: {
+            additionalPurchaseItemIds_.AddEntriesFrom(ref input, _repeated_additionalPurchaseItemIds_codec);
             break;
           }
         }
@@ -811,6 +893,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       spotlights_ = other.spotlights_.Clone();
       dailyDeals_ = other.dailyDeals_.Clone();
       specials_ = other.specials_.Clone();
+      purchaseRecommendations_ = other.purchaseRecommendations_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -853,6 +936,17 @@ namespace OpenSteamworks.Protobuf.WebUI {
       get { return specials_; }
     }
 
+    /// <summary>Field number for the "purchase_recommendations" field.</summary>
+    public const int PurchaseRecommendationsFieldNumber = 4;
+    private static readonly pb::FieldCodec<global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem> _repeated_purchaseRecommendations_codec
+        = pb::FieldCodec.ForMessage(34, global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem.Parser);
+    private readonly pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem> purchaseRecommendations_ = new pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CStoreMarketing_GetItemsToFeature_Response_FeaturedItem> PurchaseRecommendations {
+      get { return purchaseRecommendations_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -871,6 +965,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if(!spotlights_.Equals(other.spotlights_)) return false;
       if(!dailyDeals_.Equals(other.dailyDeals_)) return false;
       if(!specials_.Equals(other.specials_)) return false;
+      if(!purchaseRecommendations_.Equals(other.purchaseRecommendations_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -881,6 +976,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       hash ^= spotlights_.GetHashCode();
       hash ^= dailyDeals_.GetHashCode();
       hash ^= specials_.GetHashCode();
+      hash ^= purchaseRecommendations_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -902,6 +998,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       spotlights_.WriteTo(output, _repeated_spotlights_codec);
       dailyDeals_.WriteTo(output, _repeated_dailyDeals_codec);
       specials_.WriteTo(output, _repeated_specials_codec);
+      purchaseRecommendations_.WriteTo(output, _repeated_purchaseRecommendations_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -915,6 +1012,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       spotlights_.WriteTo(ref output, _repeated_spotlights_codec);
       dailyDeals_.WriteTo(ref output, _repeated_dailyDeals_codec);
       specials_.WriteTo(ref output, _repeated_specials_codec);
+      purchaseRecommendations_.WriteTo(ref output, _repeated_purchaseRecommendations_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -928,6 +1026,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       size += spotlights_.CalculateSize(_repeated_spotlights_codec);
       size += dailyDeals_.CalculateSize(_repeated_dailyDeals_codec);
       size += specials_.CalculateSize(_repeated_specials_codec);
+      size += purchaseRecommendations_.CalculateSize(_repeated_purchaseRecommendations_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -943,6 +1042,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       spotlights_.Add(other.spotlights_);
       dailyDeals_.Add(other.dailyDeals_);
       specials_.Add(other.specials_);
+      purchaseRecommendations_.Add(other.purchaseRecommendations_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -970,6 +1070,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             specials_.AddEntriesFrom(input, _repeated_specials_codec);
             break;
           }
+          case 34: {
+            purchaseRecommendations_.AddEntriesFrom(input, _repeated_purchaseRecommendations_codec);
+            break;
+          }
         }
       }
     #endif
@@ -995,6 +1099,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 26: {
             specials_.AddEntriesFrom(ref input, _repeated_specials_codec);
+            break;
+          }
+          case 34: {
+            purchaseRecommendations_.AddEntriesFrom(ref input, _repeated_purchaseRecommendations_codec);
             break;
           }
         }

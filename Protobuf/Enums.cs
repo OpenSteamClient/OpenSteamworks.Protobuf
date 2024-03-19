@@ -323,11 +323,23 @@ namespace OpenSteamworks.Protobuf {
             "dWFsaXR5EAASJAogRUJyb2FkY2FzdEVuY29kZXJCZXN0UGVyZm9ybWFuY2UQ",
             "ASpzChRFQ2xvdWRHYW1pbmdQbGF0Zm9ybRIcChhFQ2xvdWRHYW1pbmdQbGF0",
             "Zm9ybU5vbmUQABIdChlFQ2xvdWRHYW1pbmdQbGF0Zm9ybVZhbHZlEAESHgoa",
-            "RUNsb3VkR2FtaW5nUGxhdGZvcm1OVklESUEQAkIjSAGAAQGqAhdPcGVuU3Rl",
-            "YW13b3Jrcy5Qcm90b2J1ZoC1GAE="));
+            "RUNsb3VkR2FtaW5nUGxhdGZvcm1OVklESUEQAiqQAQoYRUNvbXByb21pc2VE",
+            "ZXRlY3Rpb25UeXBlEiEKHUVDb21wcm9taXNlRGV0ZWN0aW9uVHlwZV9Ob25l",
+            "EAASJwojRUNvbXByb21pc2VEZXRlY3Rpb25UeXBlX1RyYWRlRXZlbnQQARIo",
+            "CiRFQ29tcHJvbWlzZURldGVjdGlvblR5cGVfQXBpQ2FsbFJhdGUQAirOAQoa",
+            "RUFzeW5jR2FtZVNlc3Npb25Vc2VyU3RhdGUSLgohRUFzeW5jR2FtZVNlc3Np",
+            "b25Vc2VyU3RhdGVVbmtub3duEP///////////wESLgoqRUFzeW5jR2FtZVNl",
+            "c3Npb25Vc2VyU3RhdGVXYWl0aW5nRm9yT3RoZXJzEAASLAooRUFzeW5jR2Ft",
+            "ZVNlc3Npb25Vc2VyU3RhdGVSZWFkeUZvckFjdGlvbhABEiIKHkVBc3luY0dh",
+            "bWVTZXNzaW9uVXNlclN0YXRlRG9uZRACKr4BCh9FQXN5bmNHYW1lU2Vzc2lv",
+            "blVzZXJWaXNpYmlsaXR5EjkKNUVBc3luY0dhbWVTZXNzaW9uVXNlclZpc2li",
+            "aWxpdHlFbnZlbG9wZUFuZFNlc3Npb25MaXN0EAASMgouRUFzeW5jR2FtZVNl",
+            "c3Npb25Vc2VyVmlzaWJpbGl0eVNlc3Npb25MaXN0T25seRABEiwKKEVBc3lu",
+            "Y0dhbWVTZXNzaW9uVXNlclZpc2liaWxpdHlEaXNtaXNzZWQQAkIjSAGAAQGq",
+            "AhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1ZoC1GAE="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EPublishedFileQueryType), typeof(global::OpenSteamworks.Protobuf.EPublishedFileInappropriateProvider), typeof(global::OpenSteamworks.Protobuf.EPublishedFileInappropriateResult), typeof(global::OpenSteamworks.Protobuf.EPersonaStateFlag), typeof(global::OpenSteamworks.Protobuf.EContentCheckProvider), typeof(global::OpenSteamworks.Protobuf.EProfileCustomizationType), typeof(global::OpenSteamworks.Protobuf.EPublishedFileStorageSystem), typeof(global::OpenSteamworks.Protobuf.ECloudStoragePersistState), typeof(global::OpenSteamworks.Protobuf.ESDCardFormatStage), typeof(global::OpenSteamworks.Protobuf.EStorageFormatStage), typeof(global::OpenSteamworks.Protobuf.ESystemFanControlMode), typeof(global::OpenSteamworks.Protobuf.EStartupMovieVariant), typeof(global::OpenSteamworks.Protobuf.EColorGamutLabelSet), typeof(global::OpenSteamworks.Protobuf.EBluetoothDeviceType), typeof(global::OpenSteamworks.Protobuf.ESystemAudioDirection), typeof(global::OpenSteamworks.Protobuf.ESystemAudioChannel), typeof(global::OpenSteamworks.Protobuf.ESystemAudioPortType), typeof(global::OpenSteamworks.Protobuf.ESystemAudioPortDirection), typeof(global::OpenSteamworks.Protobuf.ESystemServiceState), typeof(global::OpenSteamworks.Protobuf.EGraphicsPerfOverlayLevel), typeof(global::OpenSteamworks.Protobuf.EGPUPerformanceLevel), typeof(global::OpenSteamworks.Protobuf.EScalingFilter), typeof(global::OpenSteamworks.Protobuf.ESplitScalingFilter), typeof(global::OpenSteamworks.Protobuf.ESplitScalingScaler), typeof(global::OpenSteamworks.Protobuf.EGamescopeBlurMode), typeof(global::OpenSteamworks.Protobuf.ESLSHelper), typeof(global::OpenSteamworks.Protobuf.EHDRVisualization), typeof(global::OpenSteamworks.Protobuf.EHDRToneMapOperator), typeof(global::OpenSteamworks.Protobuf.ECPUGovernor), typeof(global::OpenSteamworks.Protobuf.EUpdaterType), typeof(global::OpenSteamworks.Protobuf.EUpdaterState), typeof(global::OpenSteamworks.Protobuf.EStorageBlockContentType), typeof(global::OpenSteamworks.Protobuf.EStorageBlockFileSystemType), typeof(global::OpenSteamworks.Protobuf.EStorageDriveMediaType), typeof(global::OpenSteamworks.Protobuf.ESystemDisplayCompatibilityMode), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityCategory), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityResultDisplayType), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityTestResult), typeof(global::OpenSteamworks.Protobuf.EACState), typeof(global::OpenSteamworks.Protobuf.EBatteryState), typeof(global::OpenSteamworks.Protobuf.EOSBranch), typeof(global::OpenSteamworks.Protobuf.ECommunityItemClass), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityFeedback), typeof(global::OpenSteamworks.Protobuf.EProvideDeckFeedbackPreference), typeof(global::OpenSteamworks.Protobuf.ETouchGesture), typeof(global::OpenSteamworks.Protobuf.ESessionPersistence), typeof(global::OpenSteamworks.Protobuf.ENewSteamAnnouncementState), typeof(global::OpenSteamworks.Protobuf.ECommentThreadType), typeof(global::OpenSteamworks.Protobuf.EBroadcastPermission), typeof(global::OpenSteamworks.Protobuf.EBroadcastEncoderSetting), typeof(global::OpenSteamworks.Protobuf.ECloudGamingPlatform), }, null, null));
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EPublishedFileQueryType), typeof(global::OpenSteamworks.Protobuf.EPublishedFileInappropriateProvider), typeof(global::OpenSteamworks.Protobuf.EPublishedFileInappropriateResult), typeof(global::OpenSteamworks.Protobuf.EPersonaStateFlag), typeof(global::OpenSteamworks.Protobuf.EContentCheckProvider), typeof(global::OpenSteamworks.Protobuf.EProfileCustomizationType), typeof(global::OpenSteamworks.Protobuf.EPublishedFileStorageSystem), typeof(global::OpenSteamworks.Protobuf.ECloudStoragePersistState), typeof(global::OpenSteamworks.Protobuf.ESDCardFormatStage), typeof(global::OpenSteamworks.Protobuf.EStorageFormatStage), typeof(global::OpenSteamworks.Protobuf.ESystemFanControlMode), typeof(global::OpenSteamworks.Protobuf.EStartupMovieVariant), typeof(global::OpenSteamworks.Protobuf.EColorGamutLabelSet), typeof(global::OpenSteamworks.Protobuf.EBluetoothDeviceType), typeof(global::OpenSteamworks.Protobuf.ESystemAudioDirection), typeof(global::OpenSteamworks.Protobuf.ESystemAudioChannel), typeof(global::OpenSteamworks.Protobuf.ESystemAudioPortType), typeof(global::OpenSteamworks.Protobuf.ESystemAudioPortDirection), typeof(global::OpenSteamworks.Protobuf.ESystemServiceState), typeof(global::OpenSteamworks.Protobuf.EGraphicsPerfOverlayLevel), typeof(global::OpenSteamworks.Protobuf.EGPUPerformanceLevel), typeof(global::OpenSteamworks.Protobuf.EScalingFilter), typeof(global::OpenSteamworks.Protobuf.ESplitScalingFilter), typeof(global::OpenSteamworks.Protobuf.ESplitScalingScaler), typeof(global::OpenSteamworks.Protobuf.EGamescopeBlurMode), typeof(global::OpenSteamworks.Protobuf.ESLSHelper), typeof(global::OpenSteamworks.Protobuf.EHDRVisualization), typeof(global::OpenSteamworks.Protobuf.EHDRToneMapOperator), typeof(global::OpenSteamworks.Protobuf.ECPUGovernor), typeof(global::OpenSteamworks.Protobuf.EUpdaterType), typeof(global::OpenSteamworks.Protobuf.EUpdaterState), typeof(global::OpenSteamworks.Protobuf.EStorageBlockContentType), typeof(global::OpenSteamworks.Protobuf.EStorageBlockFileSystemType), typeof(global::OpenSteamworks.Protobuf.EStorageDriveMediaType), typeof(global::OpenSteamworks.Protobuf.ESystemDisplayCompatibilityMode), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityCategory), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityResultDisplayType), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityTestResult), typeof(global::OpenSteamworks.Protobuf.EACState), typeof(global::OpenSteamworks.Protobuf.EBatteryState), typeof(global::OpenSteamworks.Protobuf.EOSBranch), typeof(global::OpenSteamworks.Protobuf.ECommunityItemClass), typeof(global::OpenSteamworks.Protobuf.ESteamDeckCompatibilityFeedback), typeof(global::OpenSteamworks.Protobuf.EProvideDeckFeedbackPreference), typeof(global::OpenSteamworks.Protobuf.ETouchGesture), typeof(global::OpenSteamworks.Protobuf.ESessionPersistence), typeof(global::OpenSteamworks.Protobuf.ENewSteamAnnouncementState), typeof(global::OpenSteamworks.Protobuf.ECommentThreadType), typeof(global::OpenSteamworks.Protobuf.EBroadcastPermission), typeof(global::OpenSteamworks.Protobuf.EBroadcastEncoderSetting), typeof(global::OpenSteamworks.Protobuf.ECloudGamingPlatform), typeof(global::OpenSteamworks.Protobuf.ECompromiseDetectionType), typeof(global::OpenSteamworks.Protobuf.EAsyncGameSessionUserState), typeof(global::OpenSteamworks.Protobuf.EAsyncGameSessionUserVisibility), }, null, null));
     }
     #endregion
 
@@ -808,6 +820,25 @@ namespace OpenSteamworks.Protobuf {
     [pbr::OriginalName("ECloudGamingPlatformNone")] None = 0,
     [pbr::OriginalName("ECloudGamingPlatformValve")] Valve = 1,
     [pbr::OriginalName("ECloudGamingPlatformNVIDIA")] Nvidia = 2,
+  }
+
+  public enum ECompromiseDetectionType {
+    [pbr::OriginalName("ECompromiseDetectionType_None")] None = 0,
+    [pbr::OriginalName("ECompromiseDetectionType_TradeEvent")] TradeEvent = 1,
+    [pbr::OriginalName("ECompromiseDetectionType_ApiCallRate")] ApiCallRate = 2,
+  }
+
+  public enum EAsyncGameSessionUserState {
+    [pbr::OriginalName("EAsyncGameSessionUserStateUnknown")] Unknown = -1,
+    [pbr::OriginalName("EAsyncGameSessionUserStateWaitingForOthers")] WaitingForOthers = 0,
+    [pbr::OriginalName("EAsyncGameSessionUserStateReadyForAction")] ReadyForAction = 1,
+    [pbr::OriginalName("EAsyncGameSessionUserStateDone")] Done = 2,
+  }
+
+  public enum EAsyncGameSessionUserVisibility {
+    [pbr::OriginalName("EAsyncGameSessionUserVisibilityEnvelopeAndSessionList")] EnvelopeAndSessionList = 0,
+    [pbr::OriginalName("EAsyncGameSessionUserVisibilitySessionListOnly")] SessionListOnly = 1,
+    [pbr::OriginalName("EAsyncGameSessionUserVisibilityDismissed")] Dismissed = 2,
   }
 
   #endregion
