@@ -29,66 +29,68 @@ namespace OpenSteamworks.Protobuf {
             "c19iYXNlLnByb3RvGhh3ZWJ1aW1lc3NhZ2VzX2Jhc2UucHJvdG8ifQoVQ01z",
             "Z0ZhY3RvcnlSZXNldFN0YXRlEhIKCmlzX3J1bm5pbmcYASABKAgSEAoIcHJv",
             "Z3Jlc3MYAiABKAUSGgoSaXNfcmVzdGFydF9wZW5kaW5nGAMgASgIEiIKGnJ0",
-            "aW1lX2VzdGltYXRlZF9jb21wbGV0aW9uGAQgASgHIqECChRDU3RlYW1PU01h",
+            "aW1lX2VzdGltYXRlZF9jb21wbGV0aW9uGAQgASgHIokDChRDU3RlYW1PU01h",
             "bmFnZXJTdGF0ZRIcChRpc19zZXJ2aWNlX2F2YWlsYWJsZRgBIAEoCBISCgpv",
             "c192ZXJzaW9uGAIgASgJEiUKHWlzX21hbmRhdG9yeV91cGRhdGVfYXZhaWxh",
             "YmxlGAMgASgIElIKFXN0YXJ0dXBfbW92aWVfdmFyaWFudBgEIAEoDjIVLkVT",
             "dGFydHVwTW92aWVWYXJpYW50OhxFU3RhcnR1cE1vdmllVmFyaWFudF9JbnZh",
             "bGlkEicKH2lzX3N0YXR1c19sZWRfY29udHJvbF9hdmFpbGFibGUYBSABKAgS",
             "MwoTZmFjdG9yeV9yZXNldF9zdGF0ZRgGIAEoCzIWLkNNc2dGYWN0b3J5UmVz",
-            "ZXRTdGF0ZSIiCiBDU3RlYW1PU01hbmFnZXJfR2V0U3RhdGVfUmVxdWVzdCJJ",
-            "CiFDU3RlYW1PU01hbmFnZXJfR2V0U3RhdGVfUmVzcG9uc2USJAoFc3RhdGUY",
-            "ASABKAsyFS5DU3RlYW1PU01hbmFnZXJTdGF0ZSIrCilDU3RlYW1PU01hbmFn",
-            "ZXJfU3RhdGVDaGFuZ2VkX05vdGlmaWNhdGlvbiJkCjJDU3RlYW1PU01hbmFn",
-            "ZXJfSXNUZWxlbWV0cnlIZWxwZXJBdmFpbGFibGVfUmVxdWVzdBIuCgVldHlw",
-            "ZRgBIAEoDjILLkVTTFNIZWxwZXI6EkVTTFNIZWxwZXJfSW52YWxpZCJICjND",
-            "U3RlYW1PU01hbmFnZXJfSXNUZWxlbWV0cnlIZWxwZXJBdmFpbGFibGVfUmVz",
-            "cG9uc2USEQoJYXZhaWxhYmxlGAEgASgIIjIKMENTdGVhbU9TTWFuYWdlcl9P",
-            "cHRPdXRPZlNpZGVsb2FkZWRDbGllbnRfUmVxdWVzdCIzCjFDU3RlYW1PU01h",
-            "bmFnZXJfT3B0T3V0T2ZTaWRlbG9hZGVkQ2xpZW50X1Jlc3BvbnNlIi4KLENT",
-            "dGVhbU9TTWFuYWdlcl9BcHBseU1hbmRhdG9yeVVwZGF0ZV9SZXF1ZXN0Ii8K",
-            "LUNTdGVhbU9TTWFuYWdlcl9BcHBseU1hbmRhdG9yeVVwZGF0ZV9SZXNwb25z",
-            "ZSImCiRDU3RlYW1PU01hbmFnZXJfRmFjdG9yeVJlc2V0X1JlcXVlc3QiJwol",
-            "Q1N0ZWFtT1NNYW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXNwb25zZSJtChFDU3Rl",
-            "YW1PU1NMU1BsdWdpbhIuCgVldHlwZRgBIAEoDjILLkVTTFNIZWxwZXI6EkVT",
-            "TFNIZWxwZXJfSW52YWxpZBIUCgxpc19hdmFpbGFibGUYAiABKAgSEgoKaXNf",
-            "ZW5hYmxlZBgDIAEoCCJhChBDU3RlYW1PU1NMU1N0YXRlEhQKDGlzX2F2YWls",
-            "YWJsZRgBIAEoCBISCgppc19lbmFibGVkGAIgASgIEiMKB3BsdWdpbnMYAyAD",
-            "KAsyEi5DU3RlYW1PU1NMU1BsdWdpbiIeChxDU3RlYW1PU1NMU19HZXRTdGF0",
-            "ZV9SZXF1ZXN0IkEKHUNTdGVhbU9TU0xTX0dldFN0YXRlX1Jlc3BvbnNlEiAK",
-            "BXN0YXRlGAEgASgLMhEuQ1N0ZWFtT1NTTFNTdGF0ZSInCiVDU3RlYW1PU1NM",
-            "U19TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uIjEKHkNTdGVhbU9TU0xTX1Nl",
-            "dEVuYWJsZWRfUmVxdWVzdBIPCgdlbmFibGVkGAEgASgIIiEKH0NTdGVhbU9T",
-            "U0xTX1NldEVuYWJsZWRfUmVzcG9uc2UiZwokQ1N0ZWFtT1NTTFNfU2V0UGx1",
-            "Z2luRW5hYmxlZF9SZXF1ZXN0Ei4KBWV0eXBlGAEgASgOMgsuRVNMU0hlbHBl",
-            "cjoSRVNMU0hlbHBlcl9JbnZhbGlkEg8KB2VuYWJsZWQYAiABKAgiJwolQ1N0",
-            "ZWFtT1NTTFNfU2V0UGx1Z2luRW5hYmxlZF9SZXNwb25zZTKXBAoOU3RlYW1P",
-            "U01hbmFnZXISUQoIR2V0U3RhdGUSIS5DU3RlYW1PU01hbmFnZXJfR2V0U3Rh",
-            "dGVfUmVxdWVzdBoiLkNTdGVhbU9TTWFuYWdlcl9HZXRTdGF0ZV9SZXNwb25z",
-            "ZRJSChJOb3RpZnlTdGF0ZUNoYW5nZWQSKi5DU3RlYW1PU01hbmFnZXJfU3Rh",
-            "dGVDaGFuZ2VkX05vdGlmaWNhdGlvbhoQLldlYlVJTm9SZXNwb25zZRKBAQoY",
-            "T3B0T3V0T2ZTaWRlbG9hZGVkQ2xpZW50EjEuQ1N0ZWFtT1NNYW5hZ2VyX09w",
-            "dE91dE9mU2lkZWxvYWRlZENsaWVudF9SZXF1ZXN0GjIuQ1N0ZWFtT1NNYW5h",
-            "Z2VyX09wdE91dE9mU2lkZWxvYWRlZENsaWVudF9SZXNwb25zZRJ1ChRBcHBs",
-            "eU1hbmRhdG9yeVVwZGF0ZRItLkNTdGVhbU9TTWFuYWdlcl9BcHBseU1hbmRh",
-            "dG9yeVVwZGF0ZV9SZXF1ZXN0Gi4uQ1N0ZWFtT1NNYW5hZ2VyX0FwcGx5TWFu",
-            "ZGF0b3J5VXBkYXRlX1Jlc3BvbnNlEl0KDEZhY3RvcnlSZXNldBIlLkNTdGVh",
-            "bU9TTWFuYWdlcl9GYWN0b3J5UmVzZXRfUmVxdWVzdBomLkNTdGVhbU9TTWFu",
-            "YWdlcl9GYWN0b3J5UmVzZXRfUmVzcG9uc2UaBICXIgEy4QIKClN0ZWFtT1NT",
-            "TFMSSQoIR2V0U3RhdGUSHS5DU3RlYW1PU1NMU19HZXRTdGF0ZV9SZXF1ZXN0",
-            "Gh4uQ1N0ZWFtT1NTTFNfR2V0U3RhdGVfUmVzcG9uc2USTgoSTm90aWZ5U3Rh",
-            "dGVDaGFuZ2VkEiYuQ1N0ZWFtT1NTTFNfU3RhdGVDaGFuZ2VkX05vdGlmaWNh",
-            "dGlvbhoQLldlYlVJTm9SZXNwb25zZRJPCgpTZXRFbmFibGVkEh8uQ1N0ZWFt",
-            "T1NTTFNfU2V0RW5hYmxlZF9SZXF1ZXN0GiAuQ1N0ZWFtT1NTTFNfU2V0RW5h",
-            "YmxlZF9SZXNwb25zZRJhChBTZXRQbHVnaW5FbmFibGVkEiUuQ1N0ZWFtT1NT",
-            "TFNfU2V0UGx1Z2luRW5hYmxlZF9SZXF1ZXN0GiYuQ1N0ZWFtT1NTTFNfU2V0",
-            "UGx1Z2luRW5hYmxlZF9SZXNwb25zZRoEgJciAUIfSAGAAQGqAhdPcGVuU3Rl",
-            "YW13b3Jrcy5Qcm90b2J1Zg=="));
+            "ZXRTdGF0ZRIeChZpc190ZHBfbGltaXRfYXZhaWxhYmxlGAcgASgIEhUKDXRk",
+            "cF9saW1pdF9taW4YCCABKAUSFQoNdGRwX2xpbWl0X21heBgJIAEoBRIYChBp",
+            "c19jZWNfYXZhaWxhYmxlGAogASgIIiIKIENTdGVhbU9TTWFuYWdlcl9HZXRT",
+            "dGF0ZV9SZXF1ZXN0IkkKIUNTdGVhbU9TTWFuYWdlcl9HZXRTdGF0ZV9SZXNw",
+            "b25zZRIkCgVzdGF0ZRgBIAEoCzIVLkNTdGVhbU9TTWFuYWdlclN0YXRlIisK",
+            "KUNTdGVhbU9TTWFuYWdlcl9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uImQK",
+            "MkNTdGVhbU9TTWFuYWdlcl9Jc1RlbGVtZXRyeUhlbHBlckF2YWlsYWJsZV9S",
+            "ZXF1ZXN0Ei4KBWV0eXBlGAEgASgOMgsuRVNMU0hlbHBlcjoSRVNMU0hlbHBl",
+            "cl9JbnZhbGlkIkgKM0NTdGVhbU9TTWFuYWdlcl9Jc1RlbGVtZXRyeUhlbHBl",
+            "ckF2YWlsYWJsZV9SZXNwb25zZRIRCglhdmFpbGFibGUYASABKAgiMgowQ1N0",
+            "ZWFtT1NNYW5hZ2VyX09wdE91dE9mU2lkZWxvYWRlZENsaWVudF9SZXF1ZXN0",
+            "IjMKMUNTdGVhbU9TTWFuYWdlcl9PcHRPdXRPZlNpZGVsb2FkZWRDbGllbnRf",
+            "UmVzcG9uc2UiLgosQ1N0ZWFtT1NNYW5hZ2VyX0FwcGx5TWFuZGF0b3J5VXBk",
+            "YXRlX1JlcXVlc3QiLwotQ1N0ZWFtT1NNYW5hZ2VyX0FwcGx5TWFuZGF0b3J5",
+            "VXBkYXRlX1Jlc3BvbnNlIiYKJENTdGVhbU9TTWFuYWdlcl9GYWN0b3J5UmVz",
+            "ZXRfUmVxdWVzdCInCiVDU3RlYW1PU01hbmFnZXJfRmFjdG9yeVJlc2V0X1Jl",
+            "c3BvbnNlIm0KEUNTdGVhbU9TU0xTUGx1Z2luEi4KBWV0eXBlGAEgASgOMgsu",
+            "RVNMU0hlbHBlcjoSRVNMU0hlbHBlcl9JbnZhbGlkEhQKDGlzX2F2YWlsYWJs",
+            "ZRgCIAEoCBISCgppc19lbmFibGVkGAMgASgIImEKEENTdGVhbU9TU0xTU3Rh",
+            "dGUSFAoMaXNfYXZhaWxhYmxlGAEgASgIEhIKCmlzX2VuYWJsZWQYAiABKAgS",
+            "IwoHcGx1Z2lucxgDIAMoCzISLkNTdGVhbU9TU0xTUGx1Z2luIh4KHENTdGVh",
+            "bU9TU0xTX0dldFN0YXRlX1JlcXVlc3QiQQodQ1N0ZWFtT1NTTFNfR2V0U3Rh",
+            "dGVfUmVzcG9uc2USIAoFc3RhdGUYASABKAsyES5DU3RlYW1PU1NMU1N0YXRl",
+            "IicKJUNTdGVhbU9TU0xTX1N0YXRlQ2hhbmdlZF9Ob3RpZmljYXRpb24iMQoe",
+            "Q1N0ZWFtT1NTTFNfU2V0RW5hYmxlZF9SZXF1ZXN0Eg8KB2VuYWJsZWQYASAB",
+            "KAgiIQofQ1N0ZWFtT1NTTFNfU2V0RW5hYmxlZF9SZXNwb25zZSJnCiRDU3Rl",
+            "YW1PU1NMU19TZXRQbHVnaW5FbmFibGVkX1JlcXVlc3QSLgoFZXR5cGUYASAB",
+            "KA4yCy5FU0xTSGVscGVyOhJFU0xTSGVscGVyX0ludmFsaWQSDwoHZW5hYmxl",
+            "ZBgCIAEoCCInCiVDU3RlYW1PU1NMU19TZXRQbHVnaW5FbmFibGVkX1Jlc3Bv",
+            "bnNlMpcECg5TdGVhbU9TTWFuYWdlchJRCghHZXRTdGF0ZRIhLkNTdGVhbU9T",
+            "TWFuYWdlcl9HZXRTdGF0ZV9SZXF1ZXN0GiIuQ1N0ZWFtT1NNYW5hZ2VyX0dl",
+            "dFN0YXRlX1Jlc3BvbnNlElIKEk5vdGlmeVN0YXRlQ2hhbmdlZBIqLkNTdGVh",
+            "bU9TTWFuYWdlcl9TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9uGhAuV2ViVUlO",
+            "b1Jlc3BvbnNlEoEBChhPcHRPdXRPZlNpZGVsb2FkZWRDbGllbnQSMS5DU3Rl",
+            "YW1PU01hbmFnZXJfT3B0T3V0T2ZTaWRlbG9hZGVkQ2xpZW50X1JlcXVlc3Qa",
+            "Mi5DU3RlYW1PU01hbmFnZXJfT3B0T3V0T2ZTaWRlbG9hZGVkQ2xpZW50X1Jl",
+            "c3BvbnNlEnUKFEFwcGx5TWFuZGF0b3J5VXBkYXRlEi0uQ1N0ZWFtT1NNYW5h",
+            "Z2VyX0FwcGx5TWFuZGF0b3J5VXBkYXRlX1JlcXVlc3QaLi5DU3RlYW1PU01h",
+            "bmFnZXJfQXBwbHlNYW5kYXRvcnlVcGRhdGVfUmVzcG9uc2USXQoMRmFjdG9y",
+            "eVJlc2V0EiUuQ1N0ZWFtT1NNYW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXF1ZXN0",
+            "GiYuQ1N0ZWFtT1NNYW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXNwb25zZRoEgJci",
+            "ATLhAgoKU3RlYW1PU1NMUxJJCghHZXRTdGF0ZRIdLkNTdGVhbU9TU0xTX0dl",
+            "dFN0YXRlX1JlcXVlc3QaHi5DU3RlYW1PU1NMU19HZXRTdGF0ZV9SZXNwb25z",
+            "ZRJOChJOb3RpZnlTdGF0ZUNoYW5nZWQSJi5DU3RlYW1PU1NMU19TdGF0ZUNo",
+            "YW5nZWRfTm90aWZpY2F0aW9uGhAuV2ViVUlOb1Jlc3BvbnNlEk8KClNldEVu",
+            "YWJsZWQSHy5DU3RlYW1PU1NMU19TZXRFbmFibGVkX1JlcXVlc3QaIC5DU3Rl",
+            "YW1PU1NMU19TZXRFbmFibGVkX1Jlc3BvbnNlEmEKEFNldFBsdWdpbkVuYWJs",
+            "ZWQSJS5DU3RlYW1PU1NMU19TZXRQbHVnaW5FbmFibGVkX1JlcXVlc3QaJi5D",
+            "U3RlYW1PU1NMU19TZXRQbHVnaW5FbmFibGVkX1Jlc3BvbnNlGgSAlyIBQh9I",
+            "AYABAaoCF09wZW5TdGVhbXdvcmtzLlByb3RvYnVm"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.WebuimessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgFactoryResetState), global::OpenSteamworks.Protobuf.CMsgFactoryResetState.Parser, new[]{ "IsRunning", "Progress", "IsRestartPending", "RtimeEstimatedCompletion" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManagerState), global::OpenSteamworks.Protobuf.CSteamOSManagerState.Parser, new[]{ "IsServiceAvailable", "OsVersion", "IsMandatoryUpdateAvailable", "StartupMovieVariant", "IsStatusLedControlAvailable", "FactoryResetState" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManagerState), global::OpenSteamworks.Protobuf.CSteamOSManagerState.Parser, new[]{ "IsServiceAvailable", "OsVersion", "IsMandatoryUpdateAvailable", "StartupMovieVariant", "IsStatusLedControlAvailable", "FactoryResetState", "IsTdpLimitAvailable", "TdpLimitMin", "TdpLimitMax", "IsCecAvailable" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_GetState_Request), global::OpenSteamworks.Protobuf.CSteamOSManager_GetState_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_GetState_Response), global::OpenSteamworks.Protobuf.CSteamOSManager_GetState_Response.Parser, new[]{ "State" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_StateChanged_Notification), global::OpenSteamworks.Protobuf.CSteamOSManager_StateChanged_Notification.Parser, null, null, null, null, null),
@@ -521,6 +523,10 @@ namespace OpenSteamworks.Protobuf {
       startupMovieVariant_ = other.startupMovieVariant_;
       isStatusLedControlAvailable_ = other.isStatusLedControlAvailable_;
       factoryResetState_ = other.factoryResetState_ != null ? other.factoryResetState_.Clone() : null;
+      isTdpLimitAvailable_ = other.isTdpLimitAvailable_;
+      tdpLimitMin_ = other.tdpLimitMin_;
+      tdpLimitMax_ = other.tdpLimitMax_;
+      isCecAvailable_ = other.isCecAvailable_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -676,6 +682,114 @@ namespace OpenSteamworks.Protobuf {
       }
     }
 
+    /// <summary>Field number for the "is_tdp_limit_available" field.</summary>
+    public const int IsTdpLimitAvailableFieldNumber = 7;
+    private readonly static bool IsTdpLimitAvailableDefaultValue = false;
+
+    private bool isTdpLimitAvailable_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IsTdpLimitAvailable {
+      get { if ((_hasBits0 & 16) != 0) { return isTdpLimitAvailable_; } else { return IsTdpLimitAvailableDefaultValue; } }
+      set {
+        _hasBits0 |= 16;
+        isTdpLimitAvailable_ = value;
+      }
+    }
+    /// <summary>Gets whether the "is_tdp_limit_available" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIsTdpLimitAvailable {
+      get { return (_hasBits0 & 16) != 0; }
+    }
+    /// <summary>Clears the value of the "is_tdp_limit_available" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIsTdpLimitAvailable() {
+      _hasBits0 &= ~16;
+    }
+
+    /// <summary>Field number for the "tdp_limit_min" field.</summary>
+    public const int TdpLimitMinFieldNumber = 8;
+    private readonly static int TdpLimitMinDefaultValue = 0;
+
+    private int tdpLimitMin_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int TdpLimitMin {
+      get { if ((_hasBits0 & 32) != 0) { return tdpLimitMin_; } else { return TdpLimitMinDefaultValue; } }
+      set {
+        _hasBits0 |= 32;
+        tdpLimitMin_ = value;
+      }
+    }
+    /// <summary>Gets whether the "tdp_limit_min" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasTdpLimitMin {
+      get { return (_hasBits0 & 32) != 0; }
+    }
+    /// <summary>Clears the value of the "tdp_limit_min" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearTdpLimitMin() {
+      _hasBits0 &= ~32;
+    }
+
+    /// <summary>Field number for the "tdp_limit_max" field.</summary>
+    public const int TdpLimitMaxFieldNumber = 9;
+    private readonly static int TdpLimitMaxDefaultValue = 0;
+
+    private int tdpLimitMax_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int TdpLimitMax {
+      get { if ((_hasBits0 & 64) != 0) { return tdpLimitMax_; } else { return TdpLimitMaxDefaultValue; } }
+      set {
+        _hasBits0 |= 64;
+        tdpLimitMax_ = value;
+      }
+    }
+    /// <summary>Gets whether the "tdp_limit_max" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasTdpLimitMax {
+      get { return (_hasBits0 & 64) != 0; }
+    }
+    /// <summary>Clears the value of the "tdp_limit_max" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearTdpLimitMax() {
+      _hasBits0 &= ~64;
+    }
+
+    /// <summary>Field number for the "is_cec_available" field.</summary>
+    public const int IsCecAvailableFieldNumber = 10;
+    private readonly static bool IsCecAvailableDefaultValue = false;
+
+    private bool isCecAvailable_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool IsCecAvailable {
+      get { if ((_hasBits0 & 128) != 0) { return isCecAvailable_; } else { return IsCecAvailableDefaultValue; } }
+      set {
+        _hasBits0 |= 128;
+        isCecAvailable_ = value;
+      }
+    }
+    /// <summary>Gets whether the "is_cec_available" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasIsCecAvailable {
+      get { return (_hasBits0 & 128) != 0; }
+    }
+    /// <summary>Clears the value of the "is_cec_available" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearIsCecAvailable() {
+      _hasBits0 &= ~128;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -697,6 +811,10 @@ namespace OpenSteamworks.Protobuf {
       if (StartupMovieVariant != other.StartupMovieVariant) return false;
       if (IsStatusLedControlAvailable != other.IsStatusLedControlAvailable) return false;
       if (!object.Equals(FactoryResetState, other.FactoryResetState)) return false;
+      if (IsTdpLimitAvailable != other.IsTdpLimitAvailable) return false;
+      if (TdpLimitMin != other.TdpLimitMin) return false;
+      if (TdpLimitMax != other.TdpLimitMax) return false;
+      if (IsCecAvailable != other.IsCecAvailable) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -710,6 +828,10 @@ namespace OpenSteamworks.Protobuf {
       if (HasStartupMovieVariant) hash ^= StartupMovieVariant.GetHashCode();
       if (HasIsStatusLedControlAvailable) hash ^= IsStatusLedControlAvailable.GetHashCode();
       if (factoryResetState_ != null) hash ^= FactoryResetState.GetHashCode();
+      if (HasIsTdpLimitAvailable) hash ^= IsTdpLimitAvailable.GetHashCode();
+      if (HasTdpLimitMin) hash ^= TdpLimitMin.GetHashCode();
+      if (HasTdpLimitMax) hash ^= TdpLimitMax.GetHashCode();
+      if (HasIsCecAvailable) hash ^= IsCecAvailable.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -752,6 +874,22 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteMessage(FactoryResetState);
       }
+      if (HasIsTdpLimitAvailable) {
+        output.WriteRawTag(56);
+        output.WriteBool(IsTdpLimitAvailable);
+      }
+      if (HasTdpLimitMin) {
+        output.WriteRawTag(64);
+        output.WriteInt32(TdpLimitMin);
+      }
+      if (HasTdpLimitMax) {
+        output.WriteRawTag(72);
+        output.WriteInt32(TdpLimitMax);
+      }
+      if (HasIsCecAvailable) {
+        output.WriteRawTag(80);
+        output.WriteBool(IsCecAvailable);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -786,6 +924,22 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteMessage(FactoryResetState);
       }
+      if (HasIsTdpLimitAvailable) {
+        output.WriteRawTag(56);
+        output.WriteBool(IsTdpLimitAvailable);
+      }
+      if (HasTdpLimitMin) {
+        output.WriteRawTag(64);
+        output.WriteInt32(TdpLimitMin);
+      }
+      if (HasTdpLimitMax) {
+        output.WriteRawTag(72);
+        output.WriteInt32(TdpLimitMax);
+      }
+      if (HasIsCecAvailable) {
+        output.WriteRawTag(80);
+        output.WriteBool(IsCecAvailable);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -813,6 +967,18 @@ namespace OpenSteamworks.Protobuf {
       }
       if (factoryResetState_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(FactoryResetState);
+      }
+      if (HasIsTdpLimitAvailable) {
+        size += 1 + 1;
+      }
+      if (HasTdpLimitMin) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(TdpLimitMin);
+      }
+      if (HasTdpLimitMax) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(TdpLimitMax);
+      }
+      if (HasIsCecAvailable) {
+        size += 1 + 1;
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -846,6 +1012,18 @@ namespace OpenSteamworks.Protobuf {
           FactoryResetState = new global::OpenSteamworks.Protobuf.CMsgFactoryResetState();
         }
         FactoryResetState.MergeFrom(other.FactoryResetState);
+      }
+      if (other.HasIsTdpLimitAvailable) {
+        IsTdpLimitAvailable = other.IsTdpLimitAvailable;
+      }
+      if (other.HasTdpLimitMin) {
+        TdpLimitMin = other.TdpLimitMin;
+      }
+      if (other.HasTdpLimitMax) {
+        TdpLimitMax = other.TdpLimitMax;
+      }
+      if (other.HasIsCecAvailable) {
+        IsCecAvailable = other.IsCecAvailable;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -889,6 +1067,22 @@ namespace OpenSteamworks.Protobuf {
             input.ReadMessage(FactoryResetState);
             break;
           }
+          case 56: {
+            IsTdpLimitAvailable = input.ReadBool();
+            break;
+          }
+          case 64: {
+            TdpLimitMin = input.ReadInt32();
+            break;
+          }
+          case 72: {
+            TdpLimitMax = input.ReadInt32();
+            break;
+          }
+          case 80: {
+            IsCecAvailable = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -929,6 +1123,22 @@ namespace OpenSteamworks.Protobuf {
               FactoryResetState = new global::OpenSteamworks.Protobuf.CMsgFactoryResetState();
             }
             input.ReadMessage(FactoryResetState);
+            break;
+          }
+          case 56: {
+            IsTdpLimitAvailable = input.ReadBool();
+            break;
+          }
+          case 64: {
+            TdpLimitMin = input.ReadInt32();
+            break;
+          }
+          case 72: {
+            TdpLimitMax = input.ReadInt32();
+            break;
+          }
+          case 80: {
+            IsCecAvailable = input.ReadBool();
             break;
           }
         }

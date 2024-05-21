@@ -350,14 +350,15 @@ namespace OpenSteamworks.Protobuf {
             "X2hhbmRsZRgBIAEoDRIMCgRsaXN0GAIgASgJIkoKHkNNc2dTZXRGb3JjZURl",
             "dmljZVNjYWxlRmFjdG9ycxIRCglkcGlfc2NhbGUYASABKAESFQoNYnJvd3Nl",
             "cl9zY2FsZRgCIAEoASIgCg1DTXNnU2V0VUlNb2RlEg8KB3VpX21vZGUYASAB",
-            "KAUiKgoQQ01zZ1BvcHVwQ3JlYXRlZBIWCg5icm93c2VyX2hhbmRsZRgBIAEo",
-            "DSJGChtDTXNnU2V0VlJLZXlib2FyZFZpc2liaWxpdHkSFgoOYnJvd3Nlcl9o",
-            "YW5kbGUYASABKA0SDwoHdmlzaWJsZRgCIAEoCCIWChRDTXNnUmVzdGFydEpT",
-            "Q29udGV4dCqlAQoVRUpTUmVnaXN0ZXJNZXRob2RUeXBlEiEKHUVKU1JlZ2lz",
-            "dGVyTWV0aG9kVHlwZV9JbnZhbGlkEAASIgoeRUpTUmVnaXN0ZXJNZXRob2RU",
-            "eXBlX0Z1bmN0aW9uEAESIgoeRUpTUmVnaXN0ZXJNZXRob2RUeXBlX0NhbGxi",
-            "YWNrEAISIQodRUpTUmVnaXN0ZXJNZXRob2RUeXBlX1Byb21pc2UQA0IfSAGA",
-            "AQCqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
+            "KAUiLwoUQ01zZ1NldFN0ZWFtQmV0YU5hbWUSFwoPc3RlYW1fYmV0YV9uYW1l",
+            "GAEgASgJIioKEENNc2dQb3B1cENyZWF0ZWQSFgoOYnJvd3Nlcl9oYW5kbGUY",
+            "ASABKA0iRgobQ01zZ1NldFZSS2V5Ym9hcmRWaXNpYmlsaXR5EhYKDmJyb3dz",
+            "ZXJfaGFuZGxlGAEgASgNEg8KB3Zpc2libGUYAiABKAgiFgoUQ01zZ1Jlc3Rh",
+            "cnRKU0NvbnRleHQqpQEKFUVKU1JlZ2lzdGVyTWV0aG9kVHlwZRIhCh1FSlNS",
+            "ZWdpc3Rlck1ldGhvZFR5cGVfSW52YWxpZBAAEiIKHkVKU1JlZ2lzdGVyTWV0",
+            "aG9kVHlwZV9GdW5jdGlvbhABEiIKHkVKU1JlZ2lzdGVyTWV0aG9kVHlwZV9D",
+            "YWxsYmFjaxACEiEKHUVKU1JlZ2lzdGVyTWV0aG9kVHlwZV9Qcm9taXNlEANC",
+            "H0gBgAEAqgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EJSRegisterMethodType), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -523,6 +524,7 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetProtocolBlockList), global::OpenSteamworks.Protobuf.CMsgSetProtocolBlockList.Parser, new[]{ "BrowserHandle", "List" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetForceDeviceScaleFactors), global::OpenSteamworks.Protobuf.CMsgSetForceDeviceScaleFactors.Parser, new[]{ "DpiScale", "BrowserScale" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetUIMode), global::OpenSteamworks.Protobuf.CMsgSetUIMode.Parser, new[]{ "UiMode" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetSteamBetaName), global::OpenSteamworks.Protobuf.CMsgSetSteamBetaName.Parser, new[]{ "SteamBetaName" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgPopupCreated), global::OpenSteamworks.Protobuf.CMsgPopupCreated.Parser, new[]{ "BrowserHandle" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetVRKeyboardVisibility), global::OpenSteamworks.Protobuf.CMsgSetVRKeyboardVisibility.Parser, new[]{ "BrowserHandle", "Visible" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgRestartJSContext), global::OpenSteamworks.Protobuf.CMsgRestartJSContext.Parser, null, null, null, null, null)
@@ -52756,6 +52758,210 @@ namespace OpenSteamworks.Protobuf {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CMsgSetSteamBetaName : pb::IMessage<CMsgSetSteamBetaName>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CMsgSetSteamBetaName> _parser = new pb::MessageParser<CMsgSetSteamBetaName>(() => new CMsgSetSteamBetaName());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CMsgSetSteamBetaName> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[162]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSetSteamBetaName() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSetSteamBetaName(CMsgSetSteamBetaName other) : this() {
+      steamBetaName_ = other.steamBetaName_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgSetSteamBetaName Clone() {
+      return new CMsgSetSteamBetaName(this);
+    }
+
+    /// <summary>Field number for the "steam_beta_name" field.</summary>
+    public const int SteamBetaNameFieldNumber = 1;
+    private readonly static string SteamBetaNameDefaultValue = "";
+
+    private string steamBetaName_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string SteamBetaName {
+      get { return steamBetaName_ ?? SteamBetaNameDefaultValue; }
+      set {
+        steamBetaName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "steam_beta_name" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSteamBetaName {
+      get { return steamBetaName_ != null; }
+    }
+    /// <summary>Clears the value of the "steam_beta_name" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSteamBetaName() {
+      steamBetaName_ = null;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CMsgSetSteamBetaName);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CMsgSetSteamBetaName other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (SteamBetaName != other.SteamBetaName) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasSteamBetaName) hash ^= SteamBetaName.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasSteamBetaName) {
+        output.WriteRawTag(10);
+        output.WriteString(SteamBetaName);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasSteamBetaName) {
+        output.WriteRawTag(10);
+        output.WriteString(SteamBetaName);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasSteamBetaName) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SteamBetaName);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CMsgSetSteamBetaName other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasSteamBetaName) {
+        SteamBetaName = other.SteamBetaName;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            SteamBetaName = input.ReadString();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            SteamBetaName = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CMsgPopupCreated : pb::IMessage<CMsgPopupCreated>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -52771,7 +52977,7 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[162]; }
+      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[163]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -52978,7 +53184,7 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[163]; }
+      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[164]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -53236,7 +53442,7 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[164]; }
+      get { return global::OpenSteamworks.Protobuf.HtmlmessagesReflection.Descriptor.MessageTypes[165]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

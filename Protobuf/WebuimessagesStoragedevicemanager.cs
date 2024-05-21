@@ -37,7 +37,7 @@ namespace OpenSteamworks.Protobuf {
             "RVN0b3JhZ2VEcml2ZU1lZGlhVHlwZV9JbnZhbGlkEhYKDmlzX3VuZm9ybWF0",
             "dGVkGAggASgIEkYKC2Fkb3B0X3N0YWdlGAkgASgOMhQuRVN0b3JhZ2VGb3Jt",
             "YXRTdGFnZTobRVN0b3JhZ2VGb3JtYXRTdGFnZV9JbnZhbGlkEhYKDmlzX2Zv",
-            "cm1hdHRhYmxlGAogASgIEhoKEmlzX21lZGlhX2F2YWlsYWJsZRgLIAEoCCKv",
+            "cm1hdHRhYmxlGAogASgIEhoKEmlzX21lZGlhX2F2YWlsYWJsZRgLIAEoCCLK",
             "AwogQ1N0b3JhZ2VEZXZpY2VNYW5hZ2VyQmxvY2tEZXZpY2USDQoCaWQYASAB",
             "KA06ATASEwoIZHJpdmVfaWQYAiABKA06ATASDAoEcGF0aBgDIAEoCRIVCg1m",
             "cmllbmRseV9wYXRoGAQgASgJEg0KBWxhYmVsGAUgASgJEhIKCnNpemVfYnl0",
@@ -47,20 +47,21 @@ namespace OpenSteamworks.Protobuf {
             "Z2VCbG9ja0NvbnRlbnRUeXBlX0ludmFsaWQSWgoPZmlsZXN5c3RlbV90eXBl",
             "GAsgASgOMhwuRVN0b3JhZ2VCbG9ja0ZpbGVTeXN0ZW1UeXBlOiNFU3RvcmFn",
             "ZUJsb2NrRmlsZVN5c3RlbVR5cGVfSW52YWxpZBITCgttb3VudF9wYXRocxgM",
-            "IAMoCRIVCg1pc191bm1vdW50aW5nGA0gASgIIu8BChpDU3RvcmFnZURldmlj",
-            "ZU1hbmFnZXJTdGF0ZRIrCgZkcml2ZXMYASADKAsyGy5DU3RvcmFnZURldmlj",
-            "ZU1hbmFnZXJEcml2ZRI2CgtibG9jZGV2aWNlcxgCIAMoCzIhLkNTdG9yYWdl",
-            "RGV2aWNlTWFuYWdlckJsb2NrRGV2aWNlEhwKFGlzX3VubW91bnRfc3VwcG9y",
-            "dGVkGAMgASgIEhkKEWlzX3RyaW1fc3VwcG9ydGVkGAQgASgIEhcKD2lzX3Ry",
-            "aW1fcnVubmluZxgFIAEoCBIaChJpc19hZG9wdF9zdXBwb3J0ZWQYBiABKAgi",
-            "KAomQ1N0b3JhZ2VEZXZpY2VNYW5hZ2VyX0dldFN0YXRlX1JlcXVlc3QiVQon",
-            "Q1N0b3JhZ2VEZXZpY2VNYW5hZ2VyX0dldFN0YXRlX1Jlc3BvbnNlEioKBXN0",
-            "YXRlGAEgASgLMhsuQ1N0b3JhZ2VEZXZpY2VNYW5hZ2VyU3RhdGUiMQovQ1N0",
-            "b3JhZ2VEZXZpY2VNYW5hZ2VyX1N0YXRlQ2hhbmdlZF9Ob3RpZmljYXRpb24i",
-            "NwojQ1N0b3JhZ2VEZXZpY2VNYW5hZ2VyX0VqZWN0X1JlcXVlc3QSEAoIZHJp",
-            "dmVfaWQYASABKA0iJgokQ1N0b3JhZ2VEZXZpY2VNYW5hZ2VyX0VqZWN0X1Jl",
-            "c3BvbnNlIkYKI0NTdG9yYWdlRGV2aWNlTWFuYWdlcl9BZG9wdF9SZXF1ZXN0",
-            "EhAKCGRyaXZlX2lkGAEgASgNEg0KBWxhYmVsGAIgASgJIiYKJENTdG9yYWdl",
+            "IAMoCRIVCg1pc191bm1vdW50aW5nGA0gASgIEhkKEWhhc19zdGVhbV9saWJy",
+            "YXJ5GA4gASgIIu8BChpDU3RvcmFnZURldmljZU1hbmFnZXJTdGF0ZRIrCgZk",
+            "cml2ZXMYASADKAsyGy5DU3RvcmFnZURldmljZU1hbmFnZXJEcml2ZRI2Cgti",
+            "bG9jZGV2aWNlcxgCIAMoCzIhLkNTdG9yYWdlRGV2aWNlTWFuYWdlckJsb2Nr",
+            "RGV2aWNlEhwKFGlzX3VubW91bnRfc3VwcG9ydGVkGAMgASgIEhkKEWlzX3Ry",
+            "aW1fc3VwcG9ydGVkGAQgASgIEhcKD2lzX3RyaW1fcnVubmluZxgFIAEoCBIa",
+            "ChJpc19hZG9wdF9zdXBwb3J0ZWQYBiABKAgiKAomQ1N0b3JhZ2VEZXZpY2VN",
+            "YW5hZ2VyX0dldFN0YXRlX1JlcXVlc3QiVQonQ1N0b3JhZ2VEZXZpY2VNYW5h",
+            "Z2VyX0dldFN0YXRlX1Jlc3BvbnNlEioKBXN0YXRlGAEgASgLMhsuQ1N0b3Jh",
+            "Z2VEZXZpY2VNYW5hZ2VyU3RhdGUiMQovQ1N0b3JhZ2VEZXZpY2VNYW5hZ2Vy",
+            "X1N0YXRlQ2hhbmdlZF9Ob3RpZmljYXRpb24iNwojQ1N0b3JhZ2VEZXZpY2VN",
+            "YW5hZ2VyX0VqZWN0X1JlcXVlc3QSEAoIZHJpdmVfaWQYASABKA0iJgokQ1N0",
+            "b3JhZ2VEZXZpY2VNYW5hZ2VyX0VqZWN0X1Jlc3BvbnNlIlgKI0NTdG9yYWdl",
+            "RGV2aWNlTWFuYWdlcl9BZG9wdF9SZXF1ZXN0EhAKCGRyaXZlX2lkGAEgASgN",
+            "Eg0KBWxhYmVsGAIgASgJEhAKCHZhbGlkYXRlGAMgASgIIiYKJENTdG9yYWdl",
             "RGV2aWNlTWFuYWdlcl9BZG9wdF9SZXNwb25zZSI9CiRDU3RvcmFnZURldmlj",
             "ZU1hbmFnZXJfRm9ybWF0X1JlcXVlc3QSFQoNYmxvY2RldmljZV9pZBgBIAEo",
             "DSInCiVDU3RvcmFnZURldmljZU1hbmFnZXJfRm9ybWF0X1Jlc3BvbnNlIj4K",
@@ -93,14 +94,14 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_IsServiceAvailable_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_IsServiceAvailable_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_IsServiceAvailable_Response), global::OpenSteamworks.Protobuf.CStorageDeviceManager_IsServiceAvailable_Response.Parser, new[]{ "IsAvailable" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManagerDrive), global::OpenSteamworks.Protobuf.CStorageDeviceManagerDrive.Parser, new[]{ "Id", "Model", "Vendor", "Serial", "IsEjectable", "SizeBytes", "MediaType", "IsUnformatted", "AdoptStage", "IsFormattable", "IsMediaAvailable" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManagerBlockDevice), global::OpenSteamworks.Protobuf.CStorageDeviceManagerBlockDevice.Parser, new[]{ "Id", "DriveId", "Path", "FriendlyPath", "Label", "SizeBytes", "IsFormattable", "IsReadOnly", "IsRootDevice", "ContentType", "FilesystemType", "MountPaths", "IsUnmounting" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManagerBlockDevice), global::OpenSteamworks.Protobuf.CStorageDeviceManagerBlockDevice.Parser, new[]{ "Id", "DriveId", "Path", "FriendlyPath", "Label", "SizeBytes", "IsFormattable", "IsReadOnly", "IsRootDevice", "ContentType", "FilesystemType", "MountPaths", "IsUnmounting", "HasSteamLibrary" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManagerState), global::OpenSteamworks.Protobuf.CStorageDeviceManagerState.Parser, new[]{ "Drives", "Blocdevices", "IsUnmountSupported", "IsTrimSupported", "IsTrimRunning", "IsAdoptSupported" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_GetState_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_GetState_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_GetState_Response), global::OpenSteamworks.Protobuf.CStorageDeviceManager_GetState_Response.Parser, new[]{ "State" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_StateChanged_Notification), global::OpenSteamworks.Protobuf.CStorageDeviceManager_StateChanged_Notification.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Eject_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Eject_Request.Parser, new[]{ "DriveId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Eject_Response), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Eject_Response.Parser, null, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Request.Parser, new[]{ "DriveId", "Label" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Request.Parser, new[]{ "DriveId", "Label", "Validate" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Response), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Adopt_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Format_Request), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Format_Request.Parser, new[]{ "BlocdeviceId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CStorageDeviceManager_Format_Response), global::OpenSteamworks.Protobuf.CStorageDeviceManager_Format_Response.Parser, null, null, null, null, null),
@@ -1248,6 +1249,7 @@ namespace OpenSteamworks.Protobuf {
       filesystemType_ = other.filesystemType_;
       mountPaths_ = other.mountPaths_.Clone();
       isUnmounting_ = other.isUnmounting_;
+      hasSteamLibrary_ = other.hasSteamLibrary_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1589,6 +1591,33 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~256;
     }
 
+    /// <summary>Field number for the "has_steam_library" field.</summary>
+    public const int HasSteamLibraryFieldNumber = 14;
+    private readonly static bool HasSteamLibraryDefaultValue = false;
+
+    private bool hasSteamLibrary_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSteamLibrary {
+      get { if ((_hasBits0 & 512) != 0) { return hasSteamLibrary_; } else { return HasSteamLibraryDefaultValue; } }
+      set {
+        _hasBits0 |= 512;
+        hasSteamLibrary_ = value;
+      }
+    }
+    /// <summary>Gets whether the "has_steam_library" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasHasSteamLibrary {
+      get { return (_hasBits0 & 512) != 0; }
+    }
+    /// <summary>Clears the value of the "has_steam_library" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearHasSteamLibrary() {
+      _hasBits0 &= ~512;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -1617,6 +1646,7 @@ namespace OpenSteamworks.Protobuf {
       if (FilesystemType != other.FilesystemType) return false;
       if(!mountPaths_.Equals(other.mountPaths_)) return false;
       if (IsUnmounting != other.IsUnmounting) return false;
+      if (HasSteamLibrary != other.HasSteamLibrary) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -1637,6 +1667,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasFilesystemType) hash ^= FilesystemType.GetHashCode();
       hash ^= mountPaths_.GetHashCode();
       if (HasIsUnmounting) hash ^= IsUnmounting.GetHashCode();
+      if (HasHasSteamLibrary) hash ^= HasSteamLibrary.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -1704,6 +1735,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(104);
         output.WriteBool(IsUnmounting);
       }
+      if (HasHasSteamLibrary) {
+        output.WriteRawTag(112);
+        output.WriteBool(HasSteamLibrary);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1763,6 +1798,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(104);
         output.WriteBool(IsUnmounting);
       }
+      if (HasHasSteamLibrary) {
+        output.WriteRawTag(112);
+        output.WriteBool(HasSteamLibrary);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -1808,6 +1847,9 @@ namespace OpenSteamworks.Protobuf {
       }
       size += mountPaths_.CalculateSize(_repeated_mountPaths_codec);
       if (HasIsUnmounting) {
+        size += 1 + 1;
+      }
+      if (HasHasSteamLibrary) {
         size += 1 + 1;
       }
       if (_unknownFields != null) {
@@ -1858,6 +1900,9 @@ namespace OpenSteamworks.Protobuf {
       mountPaths_.Add(other.mountPaths_);
       if (other.HasIsUnmounting) {
         IsUnmounting = other.IsUnmounting;
+      }
+      if (other.HasHasSteamLibrary) {
+        HasSteamLibrary = other.HasSteamLibrary;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1926,6 +1971,10 @@ namespace OpenSteamworks.Protobuf {
             IsUnmounting = input.ReadBool();
             break;
           }
+          case 112: {
+            HasSteamLibrary = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -1991,6 +2040,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 104: {
             IsUnmounting = input.ReadBool();
+            break;
+          }
+          case 112: {
+            HasSteamLibrary = input.ReadBool();
             break;
           }
         }
@@ -3319,6 +3372,7 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 = other._hasBits0;
       driveId_ = other.driveId_;
       label_ = other.label_;
+      validate_ = other.validate_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3381,6 +3435,33 @@ namespace OpenSteamworks.Protobuf {
       label_ = null;
     }
 
+    /// <summary>Field number for the "validate" field.</summary>
+    public const int ValidateFieldNumber = 3;
+    private readonly static bool ValidateDefaultValue = false;
+
+    private bool validate_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Validate {
+      get { if ((_hasBits0 & 2) != 0) { return validate_; } else { return ValidateDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        validate_ = value;
+      }
+    }
+    /// <summary>Gets whether the "validate" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasValidate {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "validate" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearValidate() {
+      _hasBits0 &= ~2;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3398,6 +3479,7 @@ namespace OpenSteamworks.Protobuf {
       }
       if (DriveId != other.DriveId) return false;
       if (Label != other.Label) return false;
+      if (Validate != other.Validate) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3407,6 +3489,7 @@ namespace OpenSteamworks.Protobuf {
       int hash = 1;
       if (HasDriveId) hash ^= DriveId.GetHashCode();
       if (HasLabel) hash ^= Label.GetHashCode();
+      if (HasValidate) hash ^= Validate.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3433,6 +3516,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(18);
         output.WriteString(Label);
       }
+      if (HasValidate) {
+        output.WriteRawTag(24);
+        output.WriteBool(Validate);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3451,6 +3538,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(18);
         output.WriteString(Label);
       }
+      if (HasValidate) {
+        output.WriteRawTag(24);
+        output.WriteBool(Validate);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3466,6 +3557,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasLabel) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(Label);
+      }
+      if (HasValidate) {
+        size += 1 + 1;
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -3484,6 +3578,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasLabel) {
         Label = other.Label;
+      }
+      if (other.HasValidate) {
+        Validate = other.Validate;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -3508,6 +3605,10 @@ namespace OpenSteamworks.Protobuf {
             Label = input.ReadString();
             break;
           }
+          case 24: {
+            Validate = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -3529,6 +3630,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 18: {
             Label = input.ReadString();
+            break;
+          }
+          case 24: {
+            Validate = input.ReadBool();
             break;
           }
         }
