@@ -25,25 +25,27 @@ namespace OpenSteamworks.Protobuf.WebUI {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChxzZXJ2aWNlX3Byb21vdGlvbnN0YXRzLnByb3RvGiBnb29nbGUvcHJvdG9i",
-            "dWYvZGVzY3JpcHRvci5wcm90byJACilDUHJvbW90aW9uU3RhdHNfR2V0T3B0",
-            "SW5EZW1vU3RhdHNfUmVxdWVzdBITCgtvcHRfaW5fbmFtZRgBIAEoCSJ0CipD",
-            "UHJvbW90aW9uU3RhdHNfR2V0T3B0SW5EZW1vU3RhdHNfUmVzcG9uc2USRgoF",
-            "c3RhdHMYASADKAsyNy5DUHJvbW90aW9uU3RhdHNfR2V0T3B0SW5EZW1vU3Rh",
-            "dHNfUmVzcG9uc2VfUGVyQXBwU3RhdHMi2QEKNkNQcm9tb3Rpb25TdGF0c19H",
-            "ZXRPcHRJbkRlbW9TdGF0c19SZXNwb25zZV9QZXJBcHBTdGF0cxINCgVhcHBp",
-            "ZBgBIAEoDRISCgpkZW1vX2FwcGlkGAIgASgNEhUKDXJ0X3N0YXJ0X3RpbWUY",
-            "AyABKA0SEwoLcnRfZW5kX3RpbWUYBCABKA0SGQoRZGVtb19wbGF5ZXJfY291",
-            "bnQYBSABKA0SFgoOd2lzaGxpc3RfY291bnQYBiABKA0SHQoVcGxheWVyX3dp",
-            "c2hsaXN0X2NvdW50GAcgASgNMn4KDlByb21vdGlvblN0YXRzEmwKEUdldE9w",
-            "dEluRGVtb1N0YXRzEiouQ1Byb21vdGlvblN0YXRzX0dldE9wdEluRGVtb1N0",
-            "YXRzX1JlcXVlc3QaKy5DUHJvbW90aW9uU3RhdHNfR2V0T3B0SW5EZW1vU3Rh",
-            "dHNfUmVzcG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
+            "dWYvZGVzY3JpcHRvci5wcm90byJUCilDUHJvbW90aW9uU3RhdHNfR2V0T3B0",
+            "SW5EZW1vU3RhdHNfUmVxdWVzdBITCgtvcHRfaW5fbmFtZRgBIAEoCRISCgpw",
+            "YXJ0bmVyX2lkGAIgASgNIpcBCipDUHJvbW90aW9uU3RhdHNfR2V0T3B0SW5E",
+            "ZW1vU3RhdHNfUmVzcG9uc2USRgoFc3RhdHMYASADKAsyNy5DUHJvbW90aW9u",
+            "U3RhdHNfR2V0T3B0SW5EZW1vU3RhdHNfUmVzcG9uc2VfUGVyQXBwU3RhdHMS",
+            "IQoZYXBwaWRfd2l0aG91dF9wZXJtaXNzaW9ucxgCIAMoDSL2AQo2Q1Byb21v",
+            "dGlvblN0YXRzX0dldE9wdEluRGVtb1N0YXRzX1Jlc3BvbnNlX1BlckFwcFN0",
+            "YXRzEg0KBWFwcGlkGAEgASgNEhIKCmRlbW9fYXBwaWQYAiABKA0SFQoNcnRf",
+            "c3RhcnRfdGltZRgDIAEoDRITCgtydF9lbmRfdGltZRgEIAEoDRIZChFkZW1v",
+            "X3BsYXllcl9jb3VudBgFIAEoDRIWCg53aXNobGlzdF9jb3VudBgGIAEoDRId",
+            "ChVwbGF5ZXJfd2lzaGxpc3RfY291bnQYByABKA0SGwoTcnRfbGFzdF91cGRh",
+            "dGVfdGltZRgJIAEoDTJ+Cg5Qcm9tb3Rpb25TdGF0cxJsChFHZXRPcHRJbkRl",
+            "bW9TdGF0cxIqLkNQcm9tb3Rpb25TdGF0c19HZXRPcHRJbkRlbW9TdGF0c19S",
+            "ZXF1ZXN0GisuQ1Byb21vdGlvblN0YXRzX0dldE9wdEluRGVtb1N0YXRzX1Jl",
+            "c3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Request.Parser, new[]{ "OptInName" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response.Parser, new[]{ "Stats" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response_PerAppStats), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response_PerAppStats.Parser, new[]{ "Appid", "DemoAppid", "RtStartTime", "RtEndTime", "DemoPlayerCount", "WishlistCount", "PlayerWishlistCount" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Request.Parser, new[]{ "OptInName", "PartnerId" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response.Parser, new[]{ "Stats", "AppidWithoutPermissions" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response_PerAppStats), global::OpenSteamworks.Protobuf.WebUI.CPromotionStats_GetOptInDemoStats_Response_PerAppStats.Parser, new[]{ "Appid", "DemoAppid", "RtStartTime", "RtEndTime", "DemoPlayerCount", "WishlistCount", "PlayerWishlistCount", "RtLastUpdateTime" }, null, null, null, null)
           }));
     }
     #endregion
@@ -58,6 +60,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
   {
     private static readonly pb::MessageParser<CPromotionStats_GetOptInDemoStats_Request> _parser = new pb::MessageParser<CPromotionStats_GetOptInDemoStats_Request>(() => new CPromotionStats_GetOptInDemoStats_Request());
     private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pb::MessageParser<CPromotionStats_GetOptInDemoStats_Request> Parser { get { return _parser; } }
@@ -85,7 +88,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CPromotionStats_GetOptInDemoStats_Request(CPromotionStats_GetOptInDemoStats_Request other) : this() {
+      _hasBits0 = other._hasBits0;
       optInName_ = other.optInName_;
+      partnerId_ = other.partnerId_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -121,6 +126,33 @@ namespace OpenSteamworks.Protobuf.WebUI {
       optInName_ = null;
     }
 
+    /// <summary>Field number for the "partner_id" field.</summary>
+    public const int PartnerIdFieldNumber = 2;
+    private readonly static uint PartnerIdDefaultValue = 0;
+
+    private uint partnerId_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint PartnerId {
+      get { if ((_hasBits0 & 1) != 0) { return partnerId_; } else { return PartnerIdDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        partnerId_ = value;
+      }
+    }
+    /// <summary>Gets whether the "partner_id" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasPartnerId {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "partner_id" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearPartnerId() {
+      _hasBits0 &= ~1;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -137,6 +169,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         return true;
       }
       if (OptInName != other.OptInName) return false;
+      if (PartnerId != other.PartnerId) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -145,6 +178,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     public override int GetHashCode() {
       int hash = 1;
       if (HasOptInName) hash ^= OptInName.GetHashCode();
+      if (HasPartnerId) hash ^= PartnerId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -167,6 +201,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(10);
         output.WriteString(OptInName);
       }
+      if (HasPartnerId) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(PartnerId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -181,6 +219,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(10);
         output.WriteString(OptInName);
       }
+      if (HasPartnerId) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(PartnerId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -193,6 +235,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       int size = 0;
       if (HasOptInName) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(OptInName);
+      }
+      if (HasPartnerId) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(PartnerId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -208,6 +253,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (other.HasOptInName) {
         OptInName = other.OptInName;
+      }
+      if (other.HasPartnerId) {
+        PartnerId = other.PartnerId;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -228,6 +276,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             OptInName = input.ReadString();
             break;
           }
+          case 16: {
+            PartnerId = input.ReadUInt32();
+            break;
+          }
         }
       }
     #endif
@@ -245,6 +297,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             break;
           case 10: {
             OptInName = input.ReadString();
+            break;
+          }
+          case 16: {
+            PartnerId = input.ReadUInt32();
             break;
           }
         }
@@ -290,6 +346,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CPromotionStats_GetOptInDemoStats_Response(CPromotionStats_GetOptInDemoStats_Response other) : this() {
       stats_ = other.stats_.Clone();
+      appidWithoutPermissions_ = other.appidWithoutPermissions_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -310,6 +367,17 @@ namespace OpenSteamworks.Protobuf.WebUI {
       get { return stats_; }
     }
 
+    /// <summary>Field number for the "appid_without_permissions" field.</summary>
+    public const int AppidWithoutPermissionsFieldNumber = 2;
+    private static readonly pb::FieldCodec<uint> _repeated_appidWithoutPermissions_codec
+        = pb::FieldCodec.ForUInt32(16);
+    private readonly pbc::RepeatedField<uint> appidWithoutPermissions_ = new pbc::RepeatedField<uint>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<uint> AppidWithoutPermissions {
+      get { return appidWithoutPermissions_; }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -326,6 +394,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         return true;
       }
       if(!stats_.Equals(other.stats_)) return false;
+      if(!appidWithoutPermissions_.Equals(other.appidWithoutPermissions_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -334,6 +403,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     public override int GetHashCode() {
       int hash = 1;
       hash ^= stats_.GetHashCode();
+      hash ^= appidWithoutPermissions_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -353,6 +423,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       output.WriteRawMessage(this);
     #else
       stats_.WriteTo(output, _repeated_stats_codec);
+      appidWithoutPermissions_.WriteTo(output, _repeated_appidWithoutPermissions_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -364,6 +435,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
       stats_.WriteTo(ref output, _repeated_stats_codec);
+      appidWithoutPermissions_.WriteTo(ref output, _repeated_appidWithoutPermissions_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -375,6 +447,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     public int CalculateSize() {
       int size = 0;
       size += stats_.CalculateSize(_repeated_stats_codec);
+      size += appidWithoutPermissions_.CalculateSize(_repeated_appidWithoutPermissions_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -388,6 +461,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
         return;
       }
       stats_.Add(other.stats_);
+      appidWithoutPermissions_.Add(other.appidWithoutPermissions_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -407,6 +481,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
             stats_.AddEntriesFrom(input, _repeated_stats_codec);
             break;
           }
+          case 18:
+          case 16: {
+            appidWithoutPermissions_.AddEntriesFrom(input, _repeated_appidWithoutPermissions_codec);
+            break;
+          }
         }
       }
     #endif
@@ -424,6 +503,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
             break;
           case 10: {
             stats_.AddEntriesFrom(ref input, _repeated_stats_codec);
+            break;
+          }
+          case 18:
+          case 16: {
+            appidWithoutPermissions_.AddEntriesFrom(ref input, _repeated_appidWithoutPermissions_codec);
             break;
           }
         }
@@ -477,6 +561,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       demoPlayerCount_ = other.demoPlayerCount_;
       wishlistCount_ = other.wishlistCount_;
       playerWishlistCount_ = other.playerWishlistCount_;
+      rtLastUpdateTime_ = other.rtLastUpdateTime_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -675,6 +760,33 @@ namespace OpenSteamworks.Protobuf.WebUI {
       _hasBits0 &= ~64;
     }
 
+    /// <summary>Field number for the "rt_last_update_time" field.</summary>
+    public const int RtLastUpdateTimeFieldNumber = 9;
+    private readonly static uint RtLastUpdateTimeDefaultValue = 0;
+
+    private uint rtLastUpdateTime_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint RtLastUpdateTime {
+      get { if ((_hasBits0 & 128) != 0) { return rtLastUpdateTime_; } else { return RtLastUpdateTimeDefaultValue; } }
+      set {
+        _hasBits0 |= 128;
+        rtLastUpdateTime_ = value;
+      }
+    }
+    /// <summary>Gets whether the "rt_last_update_time" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasRtLastUpdateTime {
+      get { return (_hasBits0 & 128) != 0; }
+    }
+    /// <summary>Clears the value of the "rt_last_update_time" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearRtLastUpdateTime() {
+      _hasBits0 &= ~128;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -697,6 +809,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (DemoPlayerCount != other.DemoPlayerCount) return false;
       if (WishlistCount != other.WishlistCount) return false;
       if (PlayerWishlistCount != other.PlayerWishlistCount) return false;
+      if (RtLastUpdateTime != other.RtLastUpdateTime) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -711,6 +824,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasDemoPlayerCount) hash ^= DemoPlayerCount.GetHashCode();
       if (HasWishlistCount) hash ^= WishlistCount.GetHashCode();
       if (HasPlayerWishlistCount) hash ^= PlayerWishlistCount.GetHashCode();
+      if (HasRtLastUpdateTime) hash ^= RtLastUpdateTime.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -757,6 +871,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(56);
         output.WriteUInt32(PlayerWishlistCount);
       }
+      if (HasRtLastUpdateTime) {
+        output.WriteRawTag(72);
+        output.WriteUInt32(RtLastUpdateTime);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -795,6 +913,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(56);
         output.WriteUInt32(PlayerWishlistCount);
       }
+      if (HasRtLastUpdateTime) {
+        output.WriteRawTag(72);
+        output.WriteUInt32(RtLastUpdateTime);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -825,6 +947,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (HasPlayerWishlistCount) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(PlayerWishlistCount);
+      }
+      if (HasRtLastUpdateTime) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(RtLastUpdateTime);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -858,6 +983,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (other.HasPlayerWishlistCount) {
         PlayerWishlistCount = other.PlayerWishlistCount;
+      }
+      if (other.HasRtLastUpdateTime) {
+        RtLastUpdateTime = other.RtLastUpdateTime;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -902,6 +1030,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
             PlayerWishlistCount = input.ReadUInt32();
             break;
           }
+          case 72: {
+            RtLastUpdateTime = input.ReadUInt32();
+            break;
+          }
         }
       }
     #endif
@@ -943,6 +1075,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 56: {
             PlayerWishlistCount = input.ReadUInt32();
+            break;
+          }
+          case 72: {
+            RtLastUpdateTime = input.ReadUInt32();
             break;
           }
         }

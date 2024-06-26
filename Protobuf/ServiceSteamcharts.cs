@@ -25,55 +25,70 @@ namespace OpenSteamworks.Protobuf.WebUI {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChlzZXJ2aWNlX3N0ZWFtY2hhcnRzLnByb3RvGiBnb29nbGUvcHJvdG9idWYv",
-            "ZGVzY3JpcHRvci5wcm90bxoMY29tbW9uLnByb3RvIikKJ0NTdGVhbUNoYXJ0",
-            "c19HZXRCZXN0T2ZZZWFyUGFnZXNfUmVxdWVzdCJzCihDU3RlYW1DaGFydHNf",
-            "R2V0QmVzdE9mWWVhclBhZ2VzX1Jlc3BvbnNlEkcKBXBhZ2VzGAEgAygLMjgu",
-            "Q1N0ZWFtQ2hhcnRzX0dldEJlc3RPZlllYXJQYWdlc19SZXNwb25zZV9CZXN0",
-            "T2ZZZWFyUGFnZSKcAQo3Q1N0ZWFtQ2hhcnRzX0dldEJlc3RPZlllYXJQYWdl",
-            "c19SZXNwb25zZV9CZXN0T2ZZZWFyUGFnZRIMCgRuYW1lGAEgASgJEhAKCHVy",
-            "bF9wYXRoGAIgASgJEhIKCmJhbm5lcl91cmwYAyADKAkSGQoRYmFubmVyX3Vy",
-            "bF9tb2JpbGUYBCADKAkSEgoKc3RhcnRfZGF0ZRgFIAEoDSKLAQowQ1N0ZWFt",
-            "Q2hhcnRzX0dldEdhbWVzQnlDb25jdXJyZW50UGxheWVyc19SZXF1ZXN0EiQK",
-            "B2NvbnRleHQYASABKAsyEy5TdG9yZUJyb3dzZUNvbnRleHQSMQoMZGF0YV9y",
-            "ZXF1ZXN0GAIgASgLMhsuU3RvcmVCcm93c2VJdGVtRGF0YVJlcXVlc3QimgEK",
-            "MUNTdGVhbUNoYXJ0c19HZXRHYW1lc0J5Q29uY3VycmVudFBsYXllcnNfUmVz",
-            "cG9uc2USEwoLbGFzdF91cGRhdGUYASABKA0SUAoFcmFua3MYAiADKAsyQS5D",
-            "U3RlYW1DaGFydHNfR2V0R2FtZXNCeUNvbmN1cnJlbnRQbGF5ZXJzX1Jlc3Bv",
-            "bnNlX01vc3RQbGF5ZWRSYW5rIqkBCkBDU3RlYW1DaGFydHNfR2V0R2FtZXNC",
-            "eUNvbmN1cnJlbnRQbGF5ZXJzX1Jlc3BvbnNlX01vc3RQbGF5ZWRSYW5rEgwK",
-            "BHJhbmsYASABKAUSDQoFYXBwaWQYAiABKA0SGAoEaXRlbRgDIAEoCzIKLlN0",
-            "b3JlSXRlbRIaChJjb25jdXJyZW50X2luX2dhbWUYBCABKA0SEgoKcGVhaW5f",
-            "Z2FtZRgFIAEoDSKCAQonQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQbGF5ZWRHYW1l",
-            "c19SZXF1ZXN0EiQKB2NvbnRleHQYASABKAsyEy5TdG9yZUJyb3dzZUNvbnRl",
-            "eHQSMQoMZGF0YV9yZXF1ZXN0GAIgASgLMhsuU3RvcmVCcm93c2VJdGVtRGF0",
-            "YVJlcXVlc3QiiAEKKENTdGVhbUNoYXJ0c19HZXRNb3N0UGxheWVkR2FtZXNf",
-            "UmVzcG9uc2USEwoLcm9sbHVwX2RhdGUYASABKA0SRwoFcmFua3MYAiADKAsy",
-            "OC5DU3RlYW1DaGFydHNfR2V0TW9zdFBsYXllZEdhbWVzX1Jlc3BvbnNlX01v",
-            "c3RQbGF5ZWRSYW5rIrgBCjdDU3RlYW1DaGFydHNfR2V0TW9zdFBsYXllZEdh",
-            "bWVzX1Jlc3BvbnNlX01vc3RQbGF5ZWRSYW5rEgwKBHJhbmsYASABKAUSDQoF",
-            "YXBwaWQYAiABKA0SGAoEaXRlbRgDIAEoCzIKLlN0b3JlSXRlbRIUCgxsYXN0",
-            "X3dlZXJhbmsYBCABKAUSEgoKcGVhaW5fZ2FtZRgFIAEoDRIcChRkYWlseV9h",
-            "Y3RpdmVfcGxheWVycxgGIAEoDSIqCihDU3RlYW1DaGFydHNfR2V0VG9wUmVs",
-            "ZWFzZXNQYWdlc19SZXF1ZXN0InYKKUNTdGVhbUNoYXJ0c19HZXRUb3BSZWxl",
-            "YXNlc1BhZ2VzX1Jlc3BvbnNlEkkKBXBhZ2VzGAEgAygLMjouQ1N0ZWFtQ2hh",
-            "cnRzX0dldFRvcFJlbGVhc2VzUGFnZXNfUmVzcG9uc2VfVG9wUmVsZWFzZXNQ",
-            "YWdlIpMBCjlDU3RlYW1DaGFydHNfR2V0VG9wUmVsZWFzZXNQYWdlc19SZXNw",
-            "b25zZV9Ub3BSZWxlYXNlc1BhZ2USDAoEbmFtZRgBIAEoCRIWCg5zdGFydF9v",
-            "Zl9tb250aBgCIAEoDRIQCgh1cmxfcGF0aBgDIAEoCRIeCghpdGVtX2lkcxgE",
-            "IAMoCzIMLlN0b3JlSXRlbUlEMtgDCgtTdGVhbUNoYXJ0cxJpChJHZXRCZXN0",
-            "T2ZZZWFyUGFnZXMSKC5DU3RlYW1DaGFydHNfR2V0QmVzdE9mWWVhclBhZ2Vz",
-            "X1JlcXVlc3QaKS5DU3RlYW1DaGFydHNfR2V0QmVzdE9mWWVhclBhZ2VzX1Jl",
-            "c3BvbnNlEoQBChtHZXRHYW1lc0J5Q29uY3VycmVudFBsYXllcnMSMS5DU3Rl",
-            "YW1DaGFydHNfR2V0R2FtZXNCeUNvbmN1cnJlbnRQbGF5ZXJzX1JlcXVlc3Qa",
-            "Mi5DU3RlYW1DaGFydHNfR2V0R2FtZXNCeUNvbmN1cnJlbnRQbGF5ZXJzX1Jl",
-            "c3BvbnNlEmkKEkdldE1vc3RQbGF5ZWRHYW1lcxIoLkNTdGVhbUNoYXJ0c19H",
-            "ZXRNb3N0UGxheWVkR2FtZXNfUmVxdWVzdBopLkNTdGVhbUNoYXJ0c19HZXRN",
-            "b3N0UGxheWVkR2FtZXNfUmVzcG9uc2USbAoTR2V0VG9wUmVsZWFzZXNQYWdl",
-            "cxIpLkNTdGVhbUNoYXJ0c19HZXRUb3BSZWxlYXNlc1BhZ2VzX1JlcXVlc3Qa",
-            "Ki5DU3RlYW1DaGFydHNfR2V0VG9wUmVsZWFzZXNQYWdlc19SZXNwb25zZUIg",
-            "qgIdT3BlblN0ZWFtd29ya3MuUHJvdG9idWYuV2ViVUk="));
+            "ZGVzY3JpcHRvci5wcm90bxoRY29tbW9uX2Jhc2UucHJvdG8aDGNvbW1vbi5w",
+            "cm90byIpCidDU3RlYW1DaGFydHNfR2V0QmVzdE9mWWVhclBhZ2VzX1JlcXVl",
+            "c3QicwooQ1N0ZWFtQ2hhcnRzX0dldEJlc3RPZlllYXJQYWdlc19SZXNwb25z",
+            "ZRJHCgVwYWdlcxgBIAMoCzI4LkNTdGVhbUNoYXJ0c19HZXRCZXN0T2ZZZWFy",
+            "UGFnZXNfUmVzcG9uc2VfQmVzdE9mWWVhclBhZ2UinAEKN0NTdGVhbUNoYXJ0",
+            "c19HZXRCZXN0T2ZZZWFyUGFnZXNfUmVzcG9uc2VfQmVzdE9mWWVhclBhZ2US",
+            "DAoEbmFtZRgBIAEoCRIQCgh1cmxfcGF0aBgCIAEoCRISCgpiYW5uZXJfdXJs",
+            "GAMgAygJEhkKEWJhbm5lcl91cmxfbW9iaWxlGAQgAygJEhIKCnN0YXJ0X2Rh",
+            "dGUYBSABKA0iiwEKMENTdGVhbUNoYXJ0c19HZXRHYW1lc0J5Q29uY3VycmVu",
+            "dFBsYXllcnNfUmVxdWVzdBIkCgdjb250ZXh0GAEgASgLMhMuU3RvcmVCcm93",
+            "c2VDb250ZXh0EjEKDGRhdGFfcmVxdWVzdBgCIAEoCzIbLlN0b3JlQnJvd3Nl",
+            "SXRlbURhdGFSZXF1ZXN0IpoBCjFDU3RlYW1DaGFydHNfR2V0R2FtZXNCeUNv",
+            "bmN1cnJlbnRQbGF5ZXJzX1Jlc3BvbnNlEhMKC2xhc3RfdXBkYXRlGAEgASgN",
+            "ElAKBXJhbmtzGAIgAygLMkEuQ1N0ZWFtQ2hhcnRzX0dldEdhbWVzQnlDb25j",
+            "dXJyZW50UGxheWVyc19SZXNwb25zZV9Nb3N0UGxheWVkUmFuayKpAQpAQ1N0",
+            "ZWFtQ2hhcnRzX0dldEdhbWVzQnlDb25jdXJyZW50UGxheWVyc19SZXNwb25z",
+            "ZV9Nb3N0UGxheWVkUmFuaxIMCgRyYW5rGAEgASgFEg0KBWFwcGlkGAIgASgN",
+            "EhgKBGl0ZW0YAyABKAsyCi5TdG9yZUl0ZW0SGgoSY29uY3VycmVudF9pbl9n",
+            "YW1lGAQgASgNEhIKCnBlYWluX2dhbWUYBSABKA0iggEKJ0NTdGVhbUNoYXJ0",
+            "c19HZXRNb3N0UGxheWVkR2FtZXNfUmVxdWVzdBIkCgdjb250ZXh0GAEgASgL",
+            "MhMuU3RvcmVCcm93c2VDb250ZXh0EjEKDGRhdGFfcmVxdWVzdBgCIAEoCzIb",
+            "LlN0b3JlQnJvd3NlSXRlbURhdGFSZXF1ZXN0IogBCihDU3RlYW1DaGFydHNf",
+            "R2V0TW9zdFBsYXllZEdhbWVzX1Jlc3BvbnNlEhMKC3JvbGx1cF9kYXRlGAEg",
+            "ASgNEkcKBXJhbmtzGAIgAygLMjguQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQbGF5",
+            "ZWRHYW1lc19SZXNwb25zZV9Nb3N0UGxheWVkUmFuayK4AQo3Q1N0ZWFtQ2hh",
+            "cnRzX0dldE1vc3RQbGF5ZWRHYW1lc19SZXNwb25zZV9Nb3N0UGxheWVkUmFu",
+            "axIMCgRyYW5rGAEgASgFEg0KBWFwcGlkGAIgASgNEhgKBGl0ZW0YAyABKAsy",
+            "Ci5TdG9yZUl0ZW0SFAoMbGFzdF93ZWVyYW5rGAQgASgFEhIKCnBlYWluX2dh",
+            "bWUYBSABKA0SHAoUZGFpbHlfYWN0aXZlX3BsYXllcnMYBiABKA0ivwEKMENT",
+            "dGVhbUNoYXJ0c19HZXRNb3N0UGxheWVkU3RlYW1EZWNrR2FtZXNfUmVxdWVz",
+            "dBIkCgdjb250ZXh0GAEgASgLMhMuU3RvcmVCcm93c2VDb250ZXh0EjEKDGRh",
+            "dGFfcmVxdWVzdBgCIAEoCzIbLlN0b3JlQnJvd3NlSXRlbURhdGFSZXF1ZXN0",
+            "EiMKEXRvcF9wbGF5ZWRfcGVyaW9kGAMgASgFQgiCtRgEZW51bRINCgVjb3Vu",
+            "dBgEIAEoBSKqAQoxQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQbGF5ZWRTdGVhbURl",
+            "Y2tHYW1lc19SZXNwb25zZRJQCgVyYW5rcxgBIAMoCzJBLkNTdGVhbUNoYXJ0",
+            "c19HZXRNb3N0UGxheWVkU3RlYW1EZWNrR2FtZXNfUmVzcG9uc2VfTW9zdFBs",
+            "YXllZFJhbmsSIwoRdG9wX3BsYXllZF9wZXJpb2QYAiABKAVCCIK1GARlbnVt",
+            "IpMBCkBDU3RlYW1DaGFydHNfR2V0TW9zdFBsYXllZFN0ZWFtRGVja0dhbWVz",
+            "X1Jlc3BvbnNlX01vc3RQbGF5ZWRSYW5rEgwKBHJhbmsYASABKAUSDQoFYXBw",
+            "aWQYAiABKA0SGAoEaXRlbRgDIAEoCzIKLlN0b3JlSXRlbRIYChBsYXN0X3Bl",
+            "cmlvZF9yYW5rGAQgASgFIioKKENTdGVhbUNoYXJ0c19HZXRUb3BSZWxlYXNl",
+            "c1BhZ2VzX1JlcXVlc3QidgopQ1N0ZWFtQ2hhcnRzX0dldFRvcFJlbGVhc2Vz",
+            "UGFnZXNfUmVzcG9uc2USSQoFcGFnZXMYASADKAsyOi5DU3RlYW1DaGFydHNf",
+            "R2V0VG9wUmVsZWFzZXNQYWdlc19SZXNwb25zZV9Ub3BSZWxlYXNlc1BhZ2Ui",
+            "kwEKOUNTdGVhbUNoYXJ0c19HZXRUb3BSZWxlYXNlc1BhZ2VzX1Jlc3BvbnNl",
+            "X1RvcFJlbGVhc2VzUGFnZRIMCgRuYW1lGAEgASgJEhYKDnN0YXJ0X29mX21v",
+            "bnRoGAIgASgNEhAKCHVybF9wYXRoGAMgASgJEh4KCGl0ZW1faWRzGAQgAygL",
+            "MgwuU3RvcmVJdGVtSUQy3wQKC1N0ZWFtQ2hhcnRzEmkKEkdldEJlc3RPZlll",
+            "YXJQYWdlcxIoLkNTdGVhbUNoYXJ0c19HZXRCZXN0T2ZZZWFyUGFnZXNfUmVx",
+            "dWVzdBopLkNTdGVhbUNoYXJ0c19HZXRCZXN0T2ZZZWFyUGFnZXNfUmVzcG9u",
+            "c2UShAEKG0dldEdhbWVzQnlDb25jdXJyZW50UGxheWVycxIxLkNTdGVhbUNo",
+            "YXJ0c19HZXRHYW1lc0J5Q29uY3VycmVudFBsYXllcnNfUmVxdWVzdBoyLkNT",
+            "dGVhbUNoYXJ0c19HZXRHYW1lc0J5Q29uY3VycmVudFBsYXllcnNfUmVzcG9u",
+            "c2USaQoSR2V0TW9zdFBsYXllZEdhbWVzEiguQ1N0ZWFtQ2hhcnRzX0dldE1v",
+            "c3RQbGF5ZWRHYW1lc19SZXF1ZXN0GikuQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQ",
+            "bGF5ZWRHYW1lc19SZXNwb25zZRKEAQobR2V0TW9zdFBsYXllZFN0ZWFtRGVj",
+            "a0dhbWVzEjEuQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQbGF5ZWRTdGVhbURlY2tH",
+            "YW1lc19SZXF1ZXN0GjIuQ1N0ZWFtQ2hhcnRzX0dldE1vc3RQbGF5ZWRTdGVh",
+            "bURlY2tHYW1lc19SZXNwb25zZRJsChNHZXRUb3BSZWxlYXNlc1BhZ2VzEiku",
+            "Q1N0ZWFtQ2hhcnRzX0dldFRvcFJlbGVhc2VzUGFnZXNfUmVxdWVzdBoqLkNT",
+            "dGVhbUNoYXJ0c19HZXRUb3BSZWxlYXNlc1BhZ2VzX1Jlc3BvbnNlQiCqAh1P",
+            "cGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, },
+          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetBestOfYearPages_Request), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetBestOfYearPages_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetBestOfYearPages_Response), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetBestOfYearPages_Response.Parser, new[]{ "Pages" }, null, null, null, null),
@@ -84,6 +99,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Request), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Request.Parser, new[]{ "Context", "DataRequest" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Response), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Response.Parser, new[]{ "RollupDate", "Ranks" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Response_MostPlayedRank), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedGames_Response_MostPlayedRank.Parser, new[]{ "Rank", "Appid", "Item", "LastWeerank", "PeainGame", "DailyActivePlayers" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Request), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Request.Parser, new[]{ "Context", "DataRequest", "TopPlayedPeriod", "Count" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response.Parser, new[]{ "Ranks", "TopPlayedPeriod" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank.Parser, new[]{ "Rank", "Appid", "Item", "LastPeriodRank" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Request), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Response), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Response.Parser, new[]{ "Pages" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Response_TopReleasesPage), global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetTopReleasesPages_Response_TopReleasesPage.Parser, new[]{ "Name", "StartOfMonth", "UrlPath", "ItemIds" }, null, null, null, null)
@@ -2613,6 +2631,947 @@ namespace OpenSteamworks.Protobuf.WebUI {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CSteamCharts_GetMostPlayedSteamDeckGames_Request : pb::IMessage<CSteamCharts_GetMostPlayedSteamDeckGames_Request>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Request> _parser = new pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Request>(() => new CSteamCharts_GetMostPlayedSteamDeckGames_Request());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Request> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[9]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Request() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Request(CSteamCharts_GetMostPlayedSteamDeckGames_Request other) : this() {
+      _hasBits0 = other._hasBits0;
+      context_ = other.context_ != null ? other.context_.Clone() : null;
+      dataRequest_ = other.dataRequest_ != null ? other.dataRequest_.Clone() : null;
+      topPlayedPeriod_ = other.topPlayedPeriod_;
+      count_ = other.count_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Request Clone() {
+      return new CSteamCharts_GetMostPlayedSteamDeckGames_Request(this);
+    }
+
+    /// <summary>Field number for the "context" field.</summary>
+    public const int ContextFieldNumber = 1;
+    private global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext context_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext Context {
+      get { return context_; }
+      set {
+        context_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "data_request" field.</summary>
+    public const int DataRequestFieldNumber = 2;
+    private global::OpenSteamworks.Protobuf.WebUI.StoreBrowseItemDataRequest dataRequest_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.WebUI.StoreBrowseItemDataRequest DataRequest {
+      get { return dataRequest_; }
+      set {
+        dataRequest_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "top_played_period" field.</summary>
+    public const int TopPlayedPeriodFieldNumber = 3;
+    private readonly static int TopPlayedPeriodDefaultValue = 0;
+
+    private int topPlayedPeriod_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int TopPlayedPeriod {
+      get { if ((_hasBits0 & 1) != 0) { return topPlayedPeriod_; } else { return TopPlayedPeriodDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        topPlayedPeriod_ = value;
+      }
+    }
+    /// <summary>Gets whether the "top_played_period" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasTopPlayedPeriod {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "top_played_period" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearTopPlayedPeriod() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "count" field.</summary>
+    public const int CountFieldNumber = 4;
+    private readonly static int CountDefaultValue = 0;
+
+    private int count_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Count {
+      get { if ((_hasBits0 & 2) != 0) { return count_; } else { return CountDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        count_ = value;
+      }
+    }
+    /// <summary>Gets whether the "count" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasCount {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "count" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearCount() {
+      _hasBits0 &= ~2;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CSteamCharts_GetMostPlayedSteamDeckGames_Request);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CSteamCharts_GetMostPlayedSteamDeckGames_Request other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Context, other.Context)) return false;
+      if (!object.Equals(DataRequest, other.DataRequest)) return false;
+      if (TopPlayedPeriod != other.TopPlayedPeriod) return false;
+      if (Count != other.Count) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (context_ != null) hash ^= Context.GetHashCode();
+      if (dataRequest_ != null) hash ^= DataRequest.GetHashCode();
+      if (HasTopPlayedPeriod) hash ^= TopPlayedPeriod.GetHashCode();
+      if (HasCount) hash ^= Count.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (context_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Context);
+      }
+      if (dataRequest_ != null) {
+        output.WriteRawTag(18);
+        output.WriteMessage(DataRequest);
+      }
+      if (HasTopPlayedPeriod) {
+        output.WriteRawTag(24);
+        output.WriteInt32(TopPlayedPeriod);
+      }
+      if (HasCount) {
+        output.WriteRawTag(32);
+        output.WriteInt32(Count);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (context_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Context);
+      }
+      if (dataRequest_ != null) {
+        output.WriteRawTag(18);
+        output.WriteMessage(DataRequest);
+      }
+      if (HasTopPlayedPeriod) {
+        output.WriteRawTag(24);
+        output.WriteInt32(TopPlayedPeriod);
+      }
+      if (HasCount) {
+        output.WriteRawTag(32);
+        output.WriteInt32(Count);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (context_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Context);
+      }
+      if (dataRequest_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(DataRequest);
+      }
+      if (HasTopPlayedPeriod) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(TopPlayedPeriod);
+      }
+      if (HasCount) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Count);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CSteamCharts_GetMostPlayedSteamDeckGames_Request other) {
+      if (other == null) {
+        return;
+      }
+      if (other.context_ != null) {
+        if (context_ == null) {
+          Context = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext();
+        }
+        Context.MergeFrom(other.Context);
+      }
+      if (other.dataRequest_ != null) {
+        if (dataRequest_ == null) {
+          DataRequest = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseItemDataRequest();
+        }
+        DataRequest.MergeFrom(other.DataRequest);
+      }
+      if (other.HasTopPlayedPeriod) {
+        TopPlayedPeriod = other.TopPlayedPeriod;
+      }
+      if (other.HasCount) {
+        Count = other.Count;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (context_ == null) {
+              Context = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext();
+            }
+            input.ReadMessage(Context);
+            break;
+          }
+          case 18: {
+            if (dataRequest_ == null) {
+              DataRequest = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseItemDataRequest();
+            }
+            input.ReadMessage(DataRequest);
+            break;
+          }
+          case 24: {
+            TopPlayedPeriod = input.ReadInt32();
+            break;
+          }
+          case 32: {
+            Count = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            if (context_ == null) {
+              Context = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext();
+            }
+            input.ReadMessage(Context);
+            break;
+          }
+          case 18: {
+            if (dataRequest_ == null) {
+              DataRequest = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseItemDataRequest();
+            }
+            input.ReadMessage(DataRequest);
+            break;
+          }
+          case 24: {
+            TopPlayedPeriod = input.ReadInt32();
+            break;
+          }
+          case 32: {
+            Count = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CSteamCharts_GetMostPlayedSteamDeckGames_Response : pb::IMessage<CSteamCharts_GetMostPlayedSteamDeckGames_Response>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response> _parser = new pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response>(() => new CSteamCharts_GetMostPlayedSteamDeckGames_Response());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[10]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response(CSteamCharts_GetMostPlayedSteamDeckGames_Response other) : this() {
+      _hasBits0 = other._hasBits0;
+      ranks_ = other.ranks_.Clone();
+      topPlayedPeriod_ = other.topPlayedPeriod_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response Clone() {
+      return new CSteamCharts_GetMostPlayedSteamDeckGames_Response(this);
+    }
+
+    /// <summary>Field number for the "ranks" field.</summary>
+    public const int RanksFieldNumber = 1;
+    private static readonly pb::FieldCodec<global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank> _repeated_ranks_codec
+        = pb::FieldCodec.ForMessage(10, global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank.Parser);
+    private readonly pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank> ranks_ = new pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pbc::RepeatedField<global::OpenSteamworks.Protobuf.WebUI.CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank> Ranks {
+      get { return ranks_; }
+    }
+
+    /// <summary>Field number for the "top_played_period" field.</summary>
+    public const int TopPlayedPeriodFieldNumber = 2;
+    private readonly static int TopPlayedPeriodDefaultValue = 0;
+
+    private int topPlayedPeriod_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int TopPlayedPeriod {
+      get { if ((_hasBits0 & 1) != 0) { return topPlayedPeriod_; } else { return TopPlayedPeriodDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        topPlayedPeriod_ = value;
+      }
+    }
+    /// <summary>Gets whether the "top_played_period" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasTopPlayedPeriod {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "top_played_period" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearTopPlayedPeriod() {
+      _hasBits0 &= ~1;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CSteamCharts_GetMostPlayedSteamDeckGames_Response);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CSteamCharts_GetMostPlayedSteamDeckGames_Response other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if(!ranks_.Equals(other.ranks_)) return false;
+      if (TopPlayedPeriod != other.TopPlayedPeriod) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      hash ^= ranks_.GetHashCode();
+      if (HasTopPlayedPeriod) hash ^= TopPlayedPeriod.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      ranks_.WriteTo(output, _repeated_ranks_codec);
+      if (HasTopPlayedPeriod) {
+        output.WriteRawTag(16);
+        output.WriteInt32(TopPlayedPeriod);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      ranks_.WriteTo(ref output, _repeated_ranks_codec);
+      if (HasTopPlayedPeriod) {
+        output.WriteRawTag(16);
+        output.WriteInt32(TopPlayedPeriod);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      size += ranks_.CalculateSize(_repeated_ranks_codec);
+      if (HasTopPlayedPeriod) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(TopPlayedPeriod);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CSteamCharts_GetMostPlayedSteamDeckGames_Response other) {
+      if (other == null) {
+        return;
+      }
+      ranks_.Add(other.ranks_);
+      if (other.HasTopPlayedPeriod) {
+        TopPlayedPeriod = other.TopPlayedPeriod;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            ranks_.AddEntriesFrom(input, _repeated_ranks_codec);
+            break;
+          }
+          case 16: {
+            TopPlayedPeriod = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 10: {
+            ranks_.AddEntriesFrom(ref input, _repeated_ranks_codec);
+            break;
+          }
+          case 16: {
+            TopPlayedPeriod = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank : pb::IMessage<CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank> _parser = new pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank>(() => new CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[11]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank(CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank other) : this() {
+      _hasBits0 = other._hasBits0;
+      rank_ = other.rank_;
+      appid_ = other.appid_;
+      item_ = other.item_ != null ? other.item_.Clone() : null;
+      lastPeriodRank_ = other.lastPeriodRank_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank Clone() {
+      return new CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank(this);
+    }
+
+    /// <summary>Field number for the "rank" field.</summary>
+    public const int RankFieldNumber = 1;
+    private readonly static int RankDefaultValue = 0;
+
+    private int rank_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Rank {
+      get { if ((_hasBits0 & 1) != 0) { return rank_; } else { return RankDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        rank_ = value;
+      }
+    }
+    /// <summary>Gets whether the "rank" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasRank {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "rank" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearRank() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "appid" field.</summary>
+    public const int AppidFieldNumber = 2;
+    private readonly static uint AppidDefaultValue = 0;
+
+    private uint appid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Appid {
+      get { if ((_hasBits0 & 2) != 0) { return appid_; } else { return AppidDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        appid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "appid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasAppid {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "appid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearAppid() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "item" field.</summary>
+    public const int ItemFieldNumber = 3;
+    private global::OpenSteamworks.Protobuf.WebUI.StoreItem item_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.WebUI.StoreItem Item {
+      get { return item_; }
+      set {
+        item_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "last_period_rank" field.</summary>
+    public const int LastPeriodRankFieldNumber = 4;
+    private readonly static int LastPeriodRankDefaultValue = 0;
+
+    private int lastPeriodRank_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int LastPeriodRank {
+      get { if ((_hasBits0 & 4) != 0) { return lastPeriodRank_; } else { return LastPeriodRankDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        lastPeriodRank_ = value;
+      }
+    }
+    /// <summary>Gets whether the "last_period_rank" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasLastPeriodRank {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "last_period_rank" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearLastPeriodRank() {
+      _hasBits0 &= ~4;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Rank != other.Rank) return false;
+      if (Appid != other.Appid) return false;
+      if (!object.Equals(Item, other.Item)) return false;
+      if (LastPeriodRank != other.LastPeriodRank) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasRank) hash ^= Rank.GetHashCode();
+      if (HasAppid) hash ^= Appid.GetHashCode();
+      if (item_ != null) hash ^= Item.GetHashCode();
+      if (HasLastPeriodRank) hash ^= LastPeriodRank.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasRank) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Rank);
+      }
+      if (HasAppid) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(Appid);
+      }
+      if (item_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Item);
+      }
+      if (HasLastPeriodRank) {
+        output.WriteRawTag(32);
+        output.WriteInt32(LastPeriodRank);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasRank) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Rank);
+      }
+      if (HasAppid) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(Appid);
+      }
+      if (item_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(Item);
+      }
+      if (HasLastPeriodRank) {
+        output.WriteRawTag(32);
+        output.WriteInt32(LastPeriodRank);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasRank) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Rank);
+      }
+      if (HasAppid) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Appid);
+      }
+      if (item_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Item);
+      }
+      if (HasLastPeriodRank) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(LastPeriodRank);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CSteamCharts_GetMostPlayedSteamDeckGames_Response_MostPlayedRank other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasRank) {
+        Rank = other.Rank;
+      }
+      if (other.HasAppid) {
+        Appid = other.Appid;
+      }
+      if (other.item_ != null) {
+        if (item_ == null) {
+          Item = new global::OpenSteamworks.Protobuf.WebUI.StoreItem();
+        }
+        Item.MergeFrom(other.Item);
+      }
+      if (other.HasLastPeriodRank) {
+        LastPeriodRank = other.LastPeriodRank;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Rank = input.ReadInt32();
+            break;
+          }
+          case 16: {
+            Appid = input.ReadUInt32();
+            break;
+          }
+          case 26: {
+            if (item_ == null) {
+              Item = new global::OpenSteamworks.Protobuf.WebUI.StoreItem();
+            }
+            input.ReadMessage(Item);
+            break;
+          }
+          case 32: {
+            LastPeriodRank = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Rank = input.ReadInt32();
+            break;
+          }
+          case 16: {
+            Appid = input.ReadUInt32();
+            break;
+          }
+          case 26: {
+            if (item_ == null) {
+              Item = new global::OpenSteamworks.Protobuf.WebUI.StoreItem();
+            }
+            input.ReadMessage(Item);
+            break;
+          }
+          case 32: {
+            LastPeriodRank = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CSteamCharts_GetTopReleasesPages_Request : pb::IMessage<CSteamCharts_GetTopReleasesPages_Request>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -2627,7 +3586,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[9]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[12]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2780,7 +3739,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[10]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[13]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2960,7 +3919,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[11]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceSteamchartsReflection.Descriptor.MessageTypes[14]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

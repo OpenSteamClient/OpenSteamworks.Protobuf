@@ -26,86 +26,84 @@ namespace OpenSteamworks.Protobuf.WebUI {
           string.Concat(
             "ChhzZXJ2aWNlX3N0b3JlcXVlcnkucHJvdG8aIGdvb2dsZS9wcm90b2J1Zi9k",
             "ZXNjcmlwdG9yLnByb3RvGgxjb21tb24ucHJvdG8aEWNvbW1vbl9iYXNlLnBy",
-            "b3RvIqECCjFDU3RvcmVRdWVyeV9HZXRJdGVtc0J5VXNlclJlY29tbWVuZGVk",
-            "VGFnc19SZXF1ZXN0EhkKBHNvcnQYASABKAU6ATBCCIK1GARlbnVtEiIKB2Zp",
-            "bHRlcnMYAiABKAsyES5DU3RvcmVQYWdlRmlsdGVyEh0KFXJlY29tbWVuZGVk",
-            "X3RhZ19jb3VudBgDIAEoDRIaChJtaW5faXRlbXNfcGVyX3RhZ3MYBCADKA0S",
-            "JAoHY29udGV4dBgFIAEoCzITLlN0b3JlQnJvd3NlQ29udGV4dBJMCghzZWN0",
-            "aW9ucxgGIAMoCzI6LkNTdG9yZVF1ZXJ5X0dldEl0ZW1zQnlVc2VyUmVjb21t",
-            "ZW5kZWRUYWdzX1JlcXVlc3RfU2VjdGlvbiK9AQo5Q1N0b3JlUXVlcnlfR2V0",
-            "SXRlbXNCeVVzZXJSZWNvbW1lbmRlZFRhZ3NfUmVxdWVzdF9TZWN0aW9uEhkK",
-            "BHNvcnQYASABKAU6ATBCCIK1GARlbnVtEhEKCW1pbl9pdGVtcxgCIAEoDRIR",
-            "CglyYW5kb21pemUYAyABKAgSHwoQaW5jbHVkZV9wYWNrYWdlcxgEIAEoCDoF",
-            "ZmFsc2USHgoPaW5jbHVkZV9idW5kbGVzGAUgASgIOgVmYWxzZSKDAQoyQ1N0",
-            "b3JlUXVlcnlfR2V0SXRlbXNCeVVzZXJSZWNvbW1lbmRlZFRhZ3NfUmVzcG9u",
-            "c2USTQoIc2VjdGlvbnMYASADKAsyOy5DU3RvcmVRdWVyeV9HZXRJdGVtc0J5",
-            "VXNlclJlY29tbWVuZGVkVGFnc19SZXNwb25zZV9TZWN0aW9uIoMBCjpDU3Rv",
-            "cmVRdWVyeV9HZXRJdGVtc0J5VXNlclJlY29tbWVuZGVkVGFnc19SZXNwb25z",
-            "ZV9TZWN0aW9uEg0KBXRhZ2lkGAEgASgNEiQKDnN0b3JlX2l0ZW1faWRzGAIg",
-            "AygLMgwuU3RvcmVJdGVtSUQSEAoIdGFnX25hbWUYAyABKAkiygEKGUNTdG9y",
-            "ZVF1ZXJ5X1F1ZXJ5X1JlcXVlc3QSEgoKcXVlcnlfbmFtZRgBIAEoCRIhCgVx",
-            "dWVyeRgCIAEoCzISLkNTdG9yZVF1ZXJ5UGFyYW1zEiQKB2NvbnRleHQYAyAB",
-            "KAsyEy5TdG9yZUJyb3dzZUNvbnRleHQSMQoMZGF0YV9yZXF1ZXN0GAQgASgL",
-            "MhsuU3RvcmVCcm93c2VJdGVtRGF0YVJlcXVlc3QSHQoVb3ZlcnJpZGVfY291",
-            "bnRyeV9jb2RlGAUgASgJIoYBChpDU3RvcmVRdWVyeV9RdWVyeV9SZXNwb25z",
-            "ZRIsCghtZXRhZGF0YRgBIAEoCzIaLkNTdG9yZVF1ZXJ5UmVzdWx0TWV0YWRh",
-            "dGESGQoDaWRzGAIgAygLMgwuU3RvcmVJdGVtSUQSHwoLc3RvcmVfaXRlbXMY",
-            "AyADKAsyCi5TdG9yZUl0ZW0ixgIKJUNTdG9yZVF1ZXJ5X1NlYXJjaFN1Z2dl",
-            "c3Rpb25zX1JlcXVlc3QSEgoKcXVlcnlfbmFtZRgBIAEoCRIkCgdjb250ZXh0",
-            "GAIgASgLMhMuU3RvcmVCcm93c2VDb250ZXh0EhMKC3NlYXJjaF90ZXJtGAMg",
-            "ASgJEhMKC21heF9yZXN1bHRzGAQgASgNEiQKB2ZpbHRlcnMYBSABKAsyEy5D",
-            "U3RvcmVRdWVyeUZpbHRlcnMSMQoMZGF0YV9yZXF1ZXN0GAYgASgLMhsuU3Rv",
-            "cmVCcm93c2VJdGVtRGF0YVJlcXVlc3QSFgoOdXNlX3NwZWxsY2hlY2sYByAB",
-            "KAgSEwoLc2VhcmNoX3RhZ3MYCCABKAgSFwoPc2VhcmNoX2NyZWF0b3JzGAkg",
-            "ASgIEhoKEnByZWZpbHRlcl9jcmVhdG9ycxgKIAEoCCKSAQomQ1N0b3JlUXVl",
-            "cnlfU2VhcmNoU3VnZ2VzdGlvbnNfUmVzcG9uc2USLAoIbWV0YWRhdGEYASAB",
-            "KAsyGi5DU3RvcmVRdWVyeVJlc3VsdE1ldGFkYXRhEhkKA2lkcxgCIAMoCzIM",
-            "LlN0b3JlSXRlbUlEEh8KC3N0b3JlX2l0ZW1zGAMgAygLMgouU3RvcmVJdGVt",
-            "Ir4EChJDU3RvcmVRdWVyeUZpbHRlcnMSFQoNcmVsZWFzZWRfb25seRgBIAEo",
-            "CBIYChBjb21pbmdfc29vbl9vbmx5GAIgASgIEjUKDHR5cGVfZmlsdGVycxgD",
-            "IAEoCzIfLkNTdG9yZVF1ZXJ5RmlsdGVyc19UeXBlRmlsdGVycxI4ChF0YWdp",
-            "ZHNfbXVzdF9tYXRjaBgKIAMoCzIdLkNTdG9yZVF1ZXJ5RmlsdGVyc19UYWdG",
-            "aWx0ZXISFgoOdGFnaWRzX2V4Y2x1ZGUYCyADKAUSNwoNcHJpY2VfZmlsdGVy",
-            "cxgMIAEoCzIgLkNTdG9yZVF1ZXJ5RmlsdGVyc19QcmljZUZpbHRlcnMSMAoe",
-            "Y29udGVudF9kZXNjcmlwdG9yc19tdXN0X21hdGNoGA8gAygFQgiCtRgEZW51",
-            "bRIuChxjb250ZW50X2Rlc2NyaXB0b3JzX2V4Y2x1ZGVkGBAgAygFQgiCtRgE",
-            "ZW51bRIeChZyZWdpb25hbF90b3Bfbl9zZWxsZXJzGCggASgFEhwKFGdsb2Jh",
-            "bF90b3Bfbl9zZWxsZXJzGCkgASgFEigKIHJlZ2lvbmFsX2xvbmdfdGVybV90",
-            "b3Bfbl9zZWxsZXJzGCogASgFEiYKHmdsb2JhbF9sb25nX3Rlcm1fdG9wX25f",
-            "c2VsbGVycxgrIAEoBRIsChFzdG9yZV9wYWdlX2ZpbHRlchgsIAEoCzIRLkNT",
-            "dG9yZVBhZ2VGaWx0ZXISFQoNcGFyZW50X2FwcGlkcxgtIAMoDSJWCh9DU3Rv",
-            "cmVRdWVyeUZpbHRlcnNfUHJpY2VGaWx0ZXJzEhcKD29ubHlfZnJlZV9pdGVt",
-            "cxgBIAEoCBIaChJleGNsdWRlX2ZyZWVfaXRlbXMYAiABKAgiLgocQ1N0b3Jl",
-            "UXVlcnlGaWx0ZXJzX1RhZ0ZpbHRlchIOCgZ0YWdpZHMYASADKAUivAIKHkNT",
-            "dG9yZVF1ZXJ5RmlsdGVyc19UeXBlRmlsdGVycxIUCgxpbmNsdWRlX2FwcHMY",
-            "ASABKAgSGAoQaW5jbHVkZV9wYWNrYWdlcxgCIAEoCBIXCg9pbmNsdWRlX2J1",
-            "bmRsZXMYAyABKAgSFQoNaW5jbHVkZV9nYW1lcxgKIAEoCBIVCg1pbmNsdWRl",
-            "X2RlbW9zGAsgASgIEhQKDGluY2x1ZGVfbW9kcxgMIAEoCBITCgtpbmNsdWRl",
-            "X2RsYxgNIAEoCBIYChBpbmNsdWRlX3NvZnR3YXJlGA4gASgIEhUKDWluY2x1",
-            "ZGVfdmlkZW8YDyABKAgSGAoQaW5jbHVkZV9oYXJkd2FyZRgQIAEoCBIWCg5p",
-            "bmNsdWRlX3NlcmllcxgRIAEoCBIVCg1pbmNsdWRlX211c2ljGBIgASgIInkK",
-            "EUNTdG9yZVF1ZXJ5UGFyYW1zEhAKBXN0YXJ0GAEgASgFOgEwEhEKBWNvdW50",
-            "GAIgASgFOgIxMBIZCgRzb3J0GAogASgFOgEwQgiCtRgEZW51bRIkCgdmaWx0",
-            "ZXJzGBQgASgLMhMuQ1N0b3JlUXVlcnlGaWx0ZXJzImoKHENTdG9yZVF1ZXJ5",
-            "UGVyUmVzdWx0TWV0YWRhdGESGAoCaWQYASABKAsyDC5TdG9yZUl0ZW1JRBIN",
-            "CgVzY29yZRgCIAEoARIhChlzcGVsbGNoZWNnZW5lcmF0ZWRfcmVzdWx0GAMg",
-            "ASgIIrMBChlDU3RvcmVRdWVyeVJlc3VsdE1ldGFkYXRhEh4KFnRvdGFsX21h",
-            "dGNoaW5nX3JlY29yZHMYASABKAUSDQoFc3RhcnQYAiABKAUSDQoFY291bnQY",
-            "AyABKAUSOgoTcGVyX3Jlc3VsdF9tZXRhZGF0YRgEIAMoCzIdLkNTdG9yZVF1",
-            "ZXJ5UGVyUmVzdWx0TWV0YWRhdGESHAoUc3BlbGxjaGVjc3VnZ2VzdGlvbnMY",
-            "BSADKAkyvwIKClN0b3JlUXVlcnkSiAEKHUdldEl0ZW1zQnlVc2VyUmVjb21t",
-            "ZW5kZWRUYWdzEjIuQ1N0b3JlUXVlcnlfR2V0SXRlbXNCeVVzZXJSZWNvbW1l",
-            "bmRlZFRhZ3NfUmVxdWVzdBozLkNTdG9yZVF1ZXJ5X0dldEl0ZW1zQnlVc2Vy",
-            "UmVjb21tZW5kZWRUYWdzX1Jlc3BvbnNlEkAKBVF1ZXJ5EhouQ1N0b3JlUXVl",
-            "cnlfUXVlcnlfUmVxdWVzdBobLkNTdG9yZVF1ZXJ5X1F1ZXJ5X1Jlc3BvbnNl",
-            "EmQKEVNlYXJjaFN1Z2dlc3Rpb25zEiYuQ1N0b3JlUXVlcnlfU2VhcmNoU3Vn",
-            "Z2VzdGlvbnNfUmVxdWVzdBonLkNTdG9yZVF1ZXJ5X1NlYXJjaFN1Z2dlc3Rp",
-            "b25zX1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zi5XZWJV",
-            "SQ=="));
+            "b3RvIssBCjFDU3RvcmVRdWVyeV9HZXRJdGVtc0J5VXNlclJlY29tbWVuZGVk",
+            "VGFnc19SZXF1ZXN0EiIKB2ZpbHRlcnMYAiABKAsyES5DU3RvcmVQYWdlRmls",
+            "dGVyEiQKB2NvbnRleHQYBSABKAsyEy5TdG9yZUJyb3dzZUNvbnRleHQSTAoI",
+            "c2VjdGlvbnMYBiADKAsyOi5DU3RvcmVRdWVyeV9HZXRJdGVtc0J5VXNlclJl",
+            "Y29tbWVuZGVkVGFnc19SZXF1ZXN0X1NlY3Rpb24ivQEKOUNTdG9yZVF1ZXJ5",
+            "X0dldEl0ZW1zQnlVc2VyUmVjb21tZW5kZWRUYWdzX1JlcXVlc3RfU2VjdGlv",
+            "bhIZCgRzb3J0GAEgASgFOgEwQgiCtRgEZW51bRIRCgltaW5faXRlbXMYAiAB",
+            "KA0SEQoJcmFuZG9taXplGAMgASgIEh8KEGluY2x1ZGVfcGFja2FnZXMYBCAB",
+            "KAg6BWZhbHNlEh4KD2luY2x1ZGVfYnVuZGxlcxgFIAEoCDoFZmFsc2UigwEK",
+            "MkNTdG9yZVF1ZXJ5X0dldEl0ZW1zQnlVc2VyUmVjb21tZW5kZWRUYWdzX1Jl",
+            "c3BvbnNlEk0KCHNlY3Rpb25zGAEgAygLMjsuQ1N0b3JlUXVlcnlfR2V0SXRl",
+            "bXNCeVVzZXJSZWNvbW1lbmRlZFRhZ3NfUmVzcG9uc2VfU2VjdGlvbiKDAQo6",
+            "Q1N0b3JlUXVlcnlfR2V0SXRlbXNCeVVzZXJSZWNvbW1lbmRlZFRhZ3NfUmVz",
+            "cG9uc2VfU2VjdGlvbhINCgV0YWdpZBgBIAEoDRIkCg5zdG9yZV9pdGVtX2lk",
+            "cxgCIAMoCzIMLlN0b3JlSXRlbUlEEhAKCHRhZ19uYW1lGAMgASgJIsoBChlD",
+            "U3RvcmVRdWVyeV9RdWVyeV9SZXF1ZXN0EhIKCnF1ZXJ5X25hbWUYASABKAkS",
+            "IQoFcXVlcnkYAiABKAsyEi5DU3RvcmVRdWVyeVBhcmFtcxIkCgdjb250ZXh0",
+            "GAMgASgLMhMuU3RvcmVCcm93c2VDb250ZXh0EjEKDGRhdGFfcmVxdWVzdBgE",
+            "IAEoCzIbLlN0b3JlQnJvd3NlSXRlbURhdGFSZXF1ZXN0Eh0KFW92ZXJyaWRl",
+            "X2NvdW50cnlfY29kZRgFIAEoCSKGAQoaQ1N0b3JlUXVlcnlfUXVlcnlfUmVz",
+            "cG9uc2USLAoIbWV0YWRhdGEYASABKAsyGi5DU3RvcmVRdWVyeVJlc3VsdE1l",
+            "dGFkYXRhEhkKA2lkcxgCIAMoCzIMLlN0b3JlSXRlbUlEEh8KC3N0b3JlX2l0",
+            "ZW1zGAMgAygLMgouU3RvcmVJdGVtIsYCCiVDU3RvcmVRdWVyeV9TZWFyY2hT",
+            "dWdnZXN0aW9uc19SZXF1ZXN0EhIKCnF1ZXJ5X25hbWUYASABKAkSJAoHY29u",
+            "dGV4dBgCIAEoCzITLlN0b3JlQnJvd3NlQ29udGV4dBITCgtzZWFyY2hfdGVy",
+            "bRgDIAEoCRITCgttYXhfcmVzdWx0cxgEIAEoDRIkCgdmaWx0ZXJzGAUgASgL",
+            "MhMuQ1N0b3JlUXVlcnlGaWx0ZXJzEjEKDGRhdGFfcmVxdWVzdBgGIAEoCzIb",
+            "LlN0b3JlQnJvd3NlSXRlbURhdGFSZXF1ZXN0EhYKDnVzZV9zcGVsbGNoZWNr",
+            "GAcgASgIEhMKC3NlYXJjaF90YWdzGAggASgIEhcKD3NlYXJjaF9jcmVhdG9y",
+            "cxgJIAEoCBIaChJwcmVmaWx0ZXJfY3JlYXRvcnMYCiABKAgikgEKJkNTdG9y",
+            "ZVF1ZXJ5X1NlYXJjaFN1Z2dlc3Rpb25zX1Jlc3BvbnNlEiwKCG1ldGFkYXRh",
+            "GAEgASgLMhouQ1N0b3JlUXVlcnlSZXN1bHRNZXRhZGF0YRIZCgNpZHMYAiAD",
+            "KAsyDC5TdG9yZUl0ZW1JRBIfCgtzdG9yZV9pdGVtcxgDIAMoCzIKLlN0b3Jl",
+            "SXRlbSK+BAoSQ1N0b3JlUXVlcnlGaWx0ZXJzEhUKDXJlbGVhc2VkX29ubHkY",
+            "ASABKAgSGAoQY29taW5nX3Nvb25fb25seRgCIAEoCBI1Cgx0eXBlX2ZpbHRl",
+            "cnMYAyABKAsyHy5DU3RvcmVRdWVyeUZpbHRlcnNfVHlwZUZpbHRlcnMSOAoR",
+            "dGFnaWRzX211c3RfbWF0Y2gYCiADKAsyHS5DU3RvcmVRdWVyeUZpbHRlcnNf",
+            "VGFnRmlsdGVyEhYKDnRhZ2lkc19leGNsdWRlGAsgAygFEjcKDXByaWNlX2Zp",
+            "bHRlcnMYDCABKAsyIC5DU3RvcmVRdWVyeUZpbHRlcnNfUHJpY2VGaWx0ZXJz",
+            "EjAKHmNvbnRlbnRfZGVzY3JpcHRvcnNfbXVzdF9tYXRjaBgPIAMoBUIIgrUY",
+            "BGVudW0SLgocY29udGVudF9kZXNjcmlwdG9yc19leGNsdWRlZBgQIAMoBUII",
+            "grUYBGVudW0SHgoWcmVnaW9uYWxfdG9wX25fc2VsbGVycxgoIAEoBRIcChRn",
+            "bG9iYWxfdG9wX25fc2VsbGVycxgpIAEoBRIoCiByZWdpb25hbF9sb25nX3Rl",
+            "cm1fdG9wX25fc2VsbGVycxgqIAEoBRImCh5nbG9iYWxfbG9uZ190ZXJtX3Rv",
+            "cF9uX3NlbGxlcnMYKyABKAUSLAoRc3RvcmVfcGFnZV9maWx0ZXIYLCABKAsy",
+            "ES5DU3RvcmVQYWdlRmlsdGVyEhUKDXBhcmVudF9hcHBpZHMYLSADKA0iVgof",
+            "Q1N0b3JlUXVlcnlGaWx0ZXJzX1ByaWNlRmlsdGVycxIXCg9vbmx5X2ZyZWVf",
+            "aXRlbXMYASABKAgSGgoSZXhjbHVkZV9mcmVlX2l0ZW1zGAIgASgIIi4KHENT",
+            "dG9yZVF1ZXJ5RmlsdGVyc19UYWdGaWx0ZXISDgoGdGFnaWRzGAEgAygFIrwC",
+            "Ch5DU3RvcmVRdWVyeUZpbHRlcnNfVHlwZUZpbHRlcnMSFAoMaW5jbHVkZV9h",
+            "cHBzGAEgASgIEhgKEGluY2x1ZGVfcGFja2FnZXMYAiABKAgSFwoPaW5jbHVk",
+            "ZV9idW5kbGVzGAMgASgIEhUKDWluY2x1ZGVfZ2FtZXMYCiABKAgSFQoNaW5j",
+            "bHVkZV9kZW1vcxgLIAEoCBIUCgxpbmNsdWRlX21vZHMYDCABKAgSEwoLaW5j",
+            "bHVkZV9kbGMYDSABKAgSGAoQaW5jbHVkZV9zb2Z0d2FyZRgOIAEoCBIVCg1p",
+            "bmNsdWRlX3ZpZGVvGA8gASgIEhgKEGluY2x1ZGVfaGFyZHdhcmUYECABKAgS",
+            "FgoOaW5jbHVkZV9zZXJpZXMYESABKAgSFQoNaW5jbHVkZV9tdXNpYxgSIAEo",
+            "CCJ5ChFDU3RvcmVRdWVyeVBhcmFtcxIQCgVzdGFydBgBIAEoBToBMBIRCgVj",
+            "b3VudBgCIAEoBToCMTASGQoEc29ydBgKIAEoBToBMEIIgrUYBGVudW0SJAoH",
+            "ZmlsdGVycxgUIAEoCzITLkNTdG9yZVF1ZXJ5RmlsdGVycyJqChxDU3RvcmVR",
+            "dWVyeVBlclJlc3VsdE1ldGFkYXRhEhgKAmlkGAEgASgLMgwuU3RvcmVJdGVt",
+            "SUQSDQoFc2NvcmUYAiABKAESIQoZc3BlbGxjaGVjZ2VuZXJhdGVkX3Jlc3Vs",
+            "dBgDIAEoCCKzAQoZQ1N0b3JlUXVlcnlSZXN1bHRNZXRhZGF0YRIeChZ0b3Rh",
+            "bF9tYXRjaGluZ19yZWNvcmRzGAEgASgFEg0KBXN0YXJ0GAIgASgFEg0KBWNv",
+            "dW50GAMgASgFEjoKE3Blcl9yZXN1bHRfbWV0YWRhdGEYBCADKAsyHS5DU3Rv",
+            "cmVRdWVyeVBlclJlc3VsdE1ldGFkYXRhEhwKFHNwZWxsY2hlY3N1Z2dlc3Rp",
+            "b25zGAUgAygJMr8CCgpTdG9yZVF1ZXJ5EogBCh1HZXRJdGVtc0J5VXNlclJl",
+            "Y29tbWVuZGVkVGFncxIyLkNTdG9yZVF1ZXJ5X0dldEl0ZW1zQnlVc2VyUmVj",
+            "b21tZW5kZWRUYWdzX1JlcXVlc3QaMy5DU3RvcmVRdWVyeV9HZXRJdGVtc0J5",
+            "VXNlclJlY29tbWVuZGVkVGFnc19SZXNwb25zZRJACgVRdWVyeRIaLkNTdG9y",
+            "ZVF1ZXJ5X1F1ZXJ5X1JlcXVlc3QaGy5DU3RvcmVRdWVyeV9RdWVyeV9SZXNw",
+            "b25zZRJkChFTZWFyY2hTdWdnZXN0aW9ucxImLkNTdG9yZVF1ZXJ5X1NlYXJj",
+            "aFN1Z2dlc3Rpb25zX1JlcXVlc3QaJy5DU3RvcmVRdWVyeV9TZWFyY2hTdWdn",
+            "ZXN0aW9uc19SZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3MuUHJvdG9idWYu",
+            "V2ViVUk="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request.Parser, new[]{ "Sort", "Filters", "RecommendedTagCount", "MinItemsPerTags", "Context", "Sections" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request.Parser, new[]{ "Filters", "Context", "Sections" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request_Section), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Request_Section.Parser, new[]{ "Sort", "MinItems", "Randomize", "IncludePackages", "IncludeBundles" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Response), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Response.Parser, new[]{ "Sections" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Response_Section), global::OpenSteamworks.Protobuf.WebUI.CStoreQuery_GetItemsByUserRecommendedTags_Response_Section.Parser, new[]{ "Tagid", "StoreItemIds", "TagName" }, null, null, null, null),
@@ -134,7 +132,6 @@ namespace OpenSteamworks.Protobuf.WebUI {
   {
     private static readonly pb::MessageParser<CStoreQuery_GetItemsByUserRecommendedTags_Request> _parser = new pb::MessageParser<CStoreQuery_GetItemsByUserRecommendedTags_Request>(() => new CStoreQuery_GetItemsByUserRecommendedTags_Request());
     private pb::UnknownFieldSet _unknownFields;
-    private int _hasBits0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pb::MessageParser<CStoreQuery_GetItemsByUserRecommendedTags_Request> Parser { get { return _parser; } }
@@ -162,11 +159,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CStoreQuery_GetItemsByUserRecommendedTags_Request(CStoreQuery_GetItemsByUserRecommendedTags_Request other) : this() {
-      _hasBits0 = other._hasBits0;
-      sort_ = other.sort_;
       filters_ = other.filters_ != null ? other.filters_.Clone() : null;
-      recommendedTagCount_ = other.recommendedTagCount_;
-      minItemsPerTags_ = other.minItemsPerTags_.Clone();
       context_ = other.context_ != null ? other.context_.Clone() : null;
       sections_ = other.sections_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
@@ -176,33 +169,6 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CStoreQuery_GetItemsByUserRecommendedTags_Request Clone() {
       return new CStoreQuery_GetItemsByUserRecommendedTags_Request(this);
-    }
-
-    /// <summary>Field number for the "sort" field.</summary>
-    public const int SortFieldNumber = 1;
-    private readonly static int SortDefaultValue = 0;
-
-    private int sort_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int Sort {
-      get { if ((_hasBits0 & 1) != 0) { return sort_; } else { return SortDefaultValue; } }
-      set {
-        _hasBits0 |= 1;
-        sort_ = value;
-      }
-    }
-    /// <summary>Gets whether the "sort" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasSort {
-      get { return (_hasBits0 & 1) != 0; }
-    }
-    /// <summary>Clears the value of the "sort" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearSort() {
-      _hasBits0 &= ~1;
     }
 
     /// <summary>Field number for the "filters" field.</summary>
@@ -215,44 +181,6 @@ namespace OpenSteamworks.Protobuf.WebUI {
       set {
         filters_ = value;
       }
-    }
-
-    /// <summary>Field number for the "recommended_tag_count" field.</summary>
-    public const int RecommendedTagCountFieldNumber = 3;
-    private readonly static uint RecommendedTagCountDefaultValue = 0;
-
-    private uint recommendedTagCount_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public uint RecommendedTagCount {
-      get { if ((_hasBits0 & 2) != 0) { return recommendedTagCount_; } else { return RecommendedTagCountDefaultValue; } }
-      set {
-        _hasBits0 |= 2;
-        recommendedTagCount_ = value;
-      }
-    }
-    /// <summary>Gets whether the "recommended_tag_count" field is set</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool HasRecommendedTagCount {
-      get { return (_hasBits0 & 2) != 0; }
-    }
-    /// <summary>Clears the value of the "recommended_tag_count" field</summary>
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void ClearRecommendedTagCount() {
-      _hasBits0 &= ~2;
-    }
-
-    /// <summary>Field number for the "min_items_per_tags" field.</summary>
-    public const int MinItemsPerTagsFieldNumber = 4;
-    private static readonly pb::FieldCodec<uint> _repeated_minItemsPerTags_codec
-        = pb::FieldCodec.ForUInt32(32);
-    private readonly pbc::RepeatedField<uint> minItemsPerTags_ = new pbc::RepeatedField<uint>();
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public pbc::RepeatedField<uint> MinItemsPerTags {
-      get { return minItemsPerTags_; }
     }
 
     /// <summary>Field number for the "context" field.</summary>
@@ -293,10 +221,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (ReferenceEquals(other, this)) {
         return true;
       }
-      if (Sort != other.Sort) return false;
       if (!object.Equals(Filters, other.Filters)) return false;
-      if (RecommendedTagCount != other.RecommendedTagCount) return false;
-      if(!minItemsPerTags_.Equals(other.minItemsPerTags_)) return false;
       if (!object.Equals(Context, other.Context)) return false;
       if(!sections_.Equals(other.sections_)) return false;
       return Equals(_unknownFields, other._unknownFields);
@@ -306,10 +231,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
-      if (HasSort) hash ^= Sort.GetHashCode();
       if (filters_ != null) hash ^= Filters.GetHashCode();
-      if (HasRecommendedTagCount) hash ^= RecommendedTagCount.GetHashCode();
-      hash ^= minItemsPerTags_.GetHashCode();
       if (context_ != null) hash ^= Context.GetHashCode();
       hash ^= sections_.GetHashCode();
       if (_unknownFields != null) {
@@ -330,19 +252,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
-      if (HasSort) {
-        output.WriteRawTag(8);
-        output.WriteInt32(Sort);
-      }
       if (filters_ != null) {
         output.WriteRawTag(18);
         output.WriteMessage(Filters);
       }
-      if (HasRecommendedTagCount) {
-        output.WriteRawTag(24);
-        output.WriteUInt32(RecommendedTagCount);
-      }
-      minItemsPerTags_.WriteTo(output, _repeated_minItemsPerTags_codec);
       if (context_ != null) {
         output.WriteRawTag(42);
         output.WriteMessage(Context);
@@ -358,19 +271,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
-      if (HasSort) {
-        output.WriteRawTag(8);
-        output.WriteInt32(Sort);
-      }
       if (filters_ != null) {
         output.WriteRawTag(18);
         output.WriteMessage(Filters);
       }
-      if (HasRecommendedTagCount) {
-        output.WriteRawTag(24);
-        output.WriteUInt32(RecommendedTagCount);
-      }
-      minItemsPerTags_.WriteTo(ref output, _repeated_minItemsPerTags_codec);
       if (context_ != null) {
         output.WriteRawTag(42);
         output.WriteMessage(Context);
@@ -386,16 +290,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
-      if (HasSort) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Sort);
-      }
       if (filters_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(Filters);
       }
-      if (HasRecommendedTagCount) {
-        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(RecommendedTagCount);
-      }
-      size += minItemsPerTags_.CalculateSize(_repeated_minItemsPerTags_codec);
       if (context_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(Context);
       }
@@ -412,19 +309,12 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (other == null) {
         return;
       }
-      if (other.HasSort) {
-        Sort = other.Sort;
-      }
       if (other.filters_ != null) {
         if (filters_ == null) {
           Filters = new global::OpenSteamworks.Protobuf.WebUI.CStorePageFilter();
         }
         Filters.MergeFrom(other.Filters);
       }
-      if (other.HasRecommendedTagCount) {
-        RecommendedTagCount = other.RecommendedTagCount;
-      }
-      minItemsPerTags_.Add(other.minItemsPerTags_);
       if (other.context_ != null) {
         if (context_ == null) {
           Context = new global::OpenSteamworks.Protobuf.WebUI.StoreBrowseContext();
@@ -447,24 +337,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
-          case 8: {
-            Sort = input.ReadInt32();
-            break;
-          }
           case 18: {
             if (filters_ == null) {
               Filters = new global::OpenSteamworks.Protobuf.WebUI.CStorePageFilter();
             }
             input.ReadMessage(Filters);
-            break;
-          }
-          case 24: {
-            RecommendedTagCount = input.ReadUInt32();
-            break;
-          }
-          case 34:
-          case 32: {
-            minItemsPerTags_.AddEntriesFrom(input, _repeated_minItemsPerTags_codec);
             break;
           }
           case 42: {
@@ -493,24 +370,11 @@ namespace OpenSteamworks.Protobuf.WebUI {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
-          case 8: {
-            Sort = input.ReadInt32();
-            break;
-          }
           case 18: {
             if (filters_ == null) {
               Filters = new global::OpenSteamworks.Protobuf.WebUI.CStorePageFilter();
             }
             input.ReadMessage(Filters);
-            break;
-          }
-          case 24: {
-            RecommendedTagCount = input.ReadUInt32();
-            break;
-          }
-          case 34:
-          case 32: {
-            minItemsPerTags_.AddEntriesFrom(ref input, _repeated_minItemsPerTags_codec);
             break;
           }
           case 42: {

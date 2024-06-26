@@ -47,72 +47,78 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "c3QYAyABKAgiQQomQ1ZvaWNlQ2hhdF9SZXF1ZXN0T25lT25PbmVDaGF0X1Jl",
             "cXVlc3QSFwoPc3RlYW1pZF9wYXJ0bmVyGAEgASgGIj8KJ0NWb2ljZUNoYXRf",
             "UmVxdWVzdE9uZU9uT25lQ2hhdF9SZXNwb25zZRIUCgx2b2ljZV9jaGF0aWQY",
-            "ASABKAYi4wIKLENWb2ljZUNoYXRfVXBkYXRlVm9pY2VDaGF0V2ViUlRDRGF0",
-            "YV9SZXF1ZXN0EhQKDHZvaWNlX2NoYXRpZBgBIAEoBhIYChBpcF93ZWJydGNf",
-            "c2VydmVyGAIgASgNEhoKEnBvcnRfd2VicnRjX3NlcnZlchgDIAEoDRIYChBp",
-            "cF93ZWJydGNfY2xpZW50GAQgASgNEhoKEnBvcnRfd2VicnRjX2NsaWVudBgF",
-            "IAEoDRIeChZzc3JjX215X3NlbmRpbmdfc3RyZWFtGAYgASgNEhIKCnVzZXJf",
-            "YWdlbnQYByABKAkSIgoaaGFzX2F1ZGlvX3dvcmtsZXRzX3N1cHBvcnQYCCAB",
-            "KAgSHwoXaGFzX3dlYnJ0Y19kYXRhX2NoYW5uZWwYCSABKAgSHAoUYWNjZXB0",
-            "c193ZWJydGNfdmlkZW8YCiABKAgSGgoSc2VuZHNfd2VicnRjX3ZpZGVvGAsg",
-            "ASgIIk8KLUNWb2ljZUNoYXRfVXBkYXRlVm9pY2VDaGF0V2ViUlRDRGF0YV9S",
-            "ZXNwb25zZRIeChZzZW5kX2NsaWVudF92b2ljZV9sb2dzGAEgASgIImkKLENW",
-            "b2ljZUNoYXRfVXBsb2FkQ2xpZW50Vm9pY2VDaGF0TG9nc19SZXF1ZXN0EhQK",
-            "DHZvaWNlX2NoYXRpZBgBIAEoBhIjChtjbGllbnRfdm9pY2VfbG9nc19uZXdf",
-            "bGluZXMYAiABKAkiLwotQ1ZvaWNlQ2hhdF9VcGxvYWRDbGllbnRWb2ljZUNo",
-            "YXRMb2dzX1Jlc3BvbnNlIt0BCitDVm9pY2VDaGF0X1VzZXJKb2luZWRWb2lj",
-            "ZUNoYXRfTm90aWZpY2F0aW9uEhQKDHZvaWNlX2NoYXRpZBgBIAEoBhIUCgx1",
-            "c2VyX3N0ZWFtaWQYAiABKAYSDgoGY2hhdGlkGAMgASgEEiAKGG9uZV9vbl9v",
-            "bmVfc3RlYW1pZF9sb3dlchgEIAEoBhIhChlvbmVfb25fb25lX3N0ZWFtaWRf",
-            "aGlnaGVyGAUgASgGEhUKDWNoYXRfZ3JvdXBfaWQYBiABKAQSFgoOdXNlcl9z",
-            "ZXNzaW9uaWQYByABKA0i2wEKKUNWb2ljZUNoYXRfVXNlckxlZnRWb2ljZUNo",
-            "YXRfTm90aWZpY2F0aW9uEhQKDHZvaWNlX2NoYXRpZBgBIAEoBhIUCgx1c2Vy",
-            "X3N0ZWFtaWQYAiABKAYSDgoGY2hhdGlkGAMgASgEEiAKGG9uZV9vbl9vbmVf",
-            "c3RlYW1pZF9sb3dlchgEIAEoBhIhChlvbmVfb25fb25lX3N0ZWFtaWRfaGln",
-            "aGVyGAUgASgGEhUKDWNoYXRfZ3JvdXBfaWQYBiABKAQSFgoOdXNlcl9zZXNz",
-            "aW9uaWQYByABKA0i+gEKJ0NWb2ljZUNoYXRfVXNlclZvaWNlU3RhdHVzX05v",
-            "dGlmaWNhdGlvbhIUCgx2b2ljZV9jaGF0aWQYASABKAYSFAoMdXNlcl9zdGVh",
-            "bWlkGAIgASgGEh4KFnVzZXJfbXV0ZWRfbWljX2xvY2FsbHkYAyABKAgSIQoZ",
-            "dXNlcl9tdXRlZF9vdXRwdXRfbG9jYWxseRgEIAEoCBIjCht1c2VyX2hhc19u",
-            "b19taWNfZm9yX3Nlc3Npb24YBSABKAgSIQoZdXNlcl93ZWJhdWRpb19zYW1w",
-            "bGVfcmF0ZRgGIAEoBRIYChB1c2VyX3NlbmRzX3ZpZGVvGAcgASgIIqoBCiZD",
-            "Vm9pY2VDaGF0X1ZvaWNlQ2hhdEVuZGVkX05vdGlmaWNhdGlvbhIUCgx2b2lj",
-            "ZV9jaGF0aWQYASABKAYSIAoYb25lX29uX29uZV9zdGVhbWlkX2xvd2VyGAIg",
-            "ASgGEiEKGW9uZV9vbl9vbmVfc3RlYW1pZF9oaWdoZXIYAyABKAYSDgoGY2hh",
-            "dGlkGAQgASgEEhUKDWNoYXRfZ3JvdXBfaWQYBSABKAQywQYKCVZvaWNlQ2hh",
-            "dBJlChJBbnN3ZXJPbmVPbk9uZUNoYXQSJi5DVm9pY2VDaGF0X0Fuc3dlck9u",
-            "ZU9uT25lQ2hhdF9SZXF1ZXN0GicuQ1ZvaWNlQ2hhdF9BbnN3ZXJPbmVPbk9u",
-            "ZUNoYXRfUmVzcG9uc2USXAoPRW5kT25lT25PbmVDaGF0EiMuQ1ZvaWNlQ2hh",
-            "dF9FbmRPbmVPbk9uZUNoYXRfUmVxdWVzdBokLkNWb2ljZUNoYXRfRW5kT25l",
-            "T25PbmVDaGF0X1Jlc3BvbnNlEmIKEUxlYXZlT25lT25PbmVDaGF0EiUuQ1Zv",
-            "aWNlQ2hhdF9MZWF2ZU9uZU9uT25lQ2hhdF9SZXF1ZXN0GiYuQ1ZvaWNlQ2hh",
-            "dF9MZWF2ZU9uZU9uT25lQ2hhdF9SZXNwb25zZRJZCg5MZWF2ZVZvaWNlQ2hh",
-            "dBIiLkNWb2ljZUNoYXRfTGVhdmVWb2ljZUNoYXRfUmVxdWVzdBojLkNWb2lj",
-            "ZUNoYXRfTGVhdmVWb2ljZUNoYXRfUmVzcG9uc2USTgoVTm90aWZ5VXNlclZv",
-            "aWNlU3RhdHVzEiguQ1ZvaWNlQ2hhdF9Vc2VyVm9pY2VTdGF0dXNfTm90aWZp",
-            "Y2F0aW9uGgsuTm9SZXNwb25zZRJoChNSZXF1ZXN0T25lT25PbmVDaGF0Eicu",
-            "Q1ZvaWNlQ2hhdF9SZXF1ZXN0T25lT25PbmVDaGF0X1JlcXVlc3QaKC5DVm9p",
-            "Y2VDaGF0X1JlcXVlc3RPbmVPbk9uZUNoYXRfUmVzcG9uc2USegoZVXBkYXRl",
-            "Vm9pY2VDaGF0V2ViUlRDRGF0YRItLkNWb2ljZUNoYXRfVXBkYXRlVm9pY2VD",
-            "aGF0V2ViUlRDRGF0YV9SZXF1ZXN0Gi4uQ1ZvaWNlQ2hhdF9VcGRhdGVWb2lj",
-            "ZUNoYXRXZWJSVENEYXRhX1Jlc3BvbnNlEnoKGVVwbG9hZENsaWVudFZvaWNl",
-            "Q2hhdExvZ3MSLS5DVm9pY2VDaGF0X1VwbG9hZENsaWVudFZvaWNlQ2hhdExv",
-            "Z3NfUmVxdWVzdBouLkNWb2ljZUNoYXRfVXBsb2FkQ2xpZW50Vm9pY2VDaGF0",
-            "TG9nc19SZXNwb25zZTLtBAoPVm9pY2VDaGF0Q2xpZW50ElMKGU5vdGlmeUFs",
-            "bFVzZXJzVm9pY2VTdGF0dXMSKS5DVm9pY2VDaGF0X0FsbE1lbWJlcnNTdGF0",
-            "dXNfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJaChtOb3RpZnlPbmVPbk9u",
-            "ZUNoYXRSZXF1ZXN0ZWQSLi5DVm9pY2VDaGF0X09uZU9uT25lQ2hhdFJlcXVl",
-            "c3RlZF9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlEl8KGk5vdGlmeU9uZU9u",
-            "T25lQ2hhdFJlc3BvbnNlEjQuQ1ZvaWNlQ2hhdF9PbmVPbk9uZUNoYXRSZXF1",
-            "ZXN0UmVzcG9uc2VfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJWChlOb3Rp",
-            "ZnlVc2VySm9pbmVkVm9pY2VDaGF0EiwuQ1ZvaWNlQ2hhdF9Vc2VySm9pbmVk",
-            "Vm9pY2VDaGF0X05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USUgoXTm90aWZ5",
-            "VXNlckxlZnRWb2ljZUNoYXQSKi5DVm9pY2VDaGF0X1VzZXJMZWZ0Vm9pY2VD",
-            "aGF0X05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoVTm90aWZ5VXNlclZv",
-            "aWNlU3RhdHVzEiguQ1ZvaWNlQ2hhdF9Vc2VyVm9pY2VTdGF0dXNfTm90aWZp",
-            "Y2F0aW9uGgsuTm9SZXNwb25zZRJMChROb3RpZnlWb2ljZUNoYXRFbmRlZBIn",
-            "LkNWb2ljZUNoYXRfVm9pY2VDaGF0RW5kZWRfTm90aWZpY2F0aW9uGgsuTm9S",
-            "ZXNwb25zZUIgqgIdT3BlblN0ZWFtd29ya3MuUHJvdG9idWYuV2ViVUk="));
+            "ASABKAYicwooQ1ZvaWNlQ2hhdF9VcGRhdGVVc2VyVmlkZW9TdGF0dXNfUmVx",
+            "dWVzdBIUCgx2b2ljZV9jaGF0aWQYASABKAYSFAoMdXNlcl9zdGVhbWlkGAIg",
+            "ASgGEhsKE2FjY2VwdF93ZWJydGNfdmlkZW8YAyABKAgiKwopQ1ZvaWNlQ2hh",
+            "dF9VcGRhdGVVc2VyVmlkZW9TdGF0dXNfUmVzcG9uc2Ui4wIKLENWb2ljZUNo",
+            "YXRfVXBkYXRlVm9pY2VDaGF0V2ViUlRDRGF0YV9SZXF1ZXN0EhQKDHZvaWNl",
+            "X2NoYXRpZBgBIAEoBhIYChBpcF93ZWJydGNfc2VydmVyGAIgASgNEhoKEnBv",
+            "cnRfd2VicnRjX3NlcnZlchgDIAEoDRIYChBpcF93ZWJydGNfY2xpZW50GAQg",
+            "ASgNEhoKEnBvcnRfd2VicnRjX2NsaWVudBgFIAEoDRIeChZzc3JjX215X3Nl",
+            "bmRpbmdfc3RyZWFtGAYgASgNEhIKCnVzZXJfYWdlbnQYByABKAkSIgoaaGFz",
+            "X2F1ZGlvX3dvcmtsZXRzX3N1cHBvcnQYCCABKAgSHwoXaGFzX3dlYnJ0Y19k",
+            "YXRhX2NoYW5uZWwYCSABKAgSHAoUYWNjZXB0c193ZWJydGNfdmlkZW8YCiAB",
+            "KAgSGgoSc2VuZHNfd2VicnRjX3ZpZGVvGAsgASgIIk8KLUNWb2ljZUNoYXRf",
+            "VXBkYXRlVm9pY2VDaGF0V2ViUlRDRGF0YV9SZXNwb25zZRIeChZzZW5kX2Ns",
+            "aWVudF92b2ljZV9sb2dzGAEgASgIImkKLENWb2ljZUNoYXRfVXBsb2FkQ2xp",
+            "ZW50Vm9pY2VDaGF0TG9nc19SZXF1ZXN0EhQKDHZvaWNlX2NoYXRpZBgBIAEo",
+            "BhIjChtjbGllbnRfdm9pY2VfbG9nc19uZXdfbGluZXMYAiABKAkiLwotQ1Zv",
+            "aWNlQ2hhdF9VcGxvYWRDbGllbnRWb2ljZUNoYXRMb2dzX1Jlc3BvbnNlIt0B",
+            "CitDVm9pY2VDaGF0X1VzZXJKb2luZWRWb2ljZUNoYXRfTm90aWZpY2F0aW9u",
+            "EhQKDHZvaWNlX2NoYXRpZBgBIAEoBhIUCgx1c2VyX3N0ZWFtaWQYAiABKAYS",
+            "DgoGY2hhdGlkGAMgASgEEiAKGG9uZV9vbl9vbmVfc3RlYW1pZF9sb3dlchgE",
+            "IAEoBhIhChlvbmVfb25fb25lX3N0ZWFtaWRfaGlnaGVyGAUgASgGEhUKDWNo",
+            "YXRfZ3JvdXBfaWQYBiABKAQSFgoOdXNlcl9zZXNzaW9uaWQYByABKA0i2wEK",
+            "KUNWb2ljZUNoYXRfVXNlckxlZnRWb2ljZUNoYXRfTm90aWZpY2F0aW9uEhQK",
+            "DHZvaWNlX2NoYXRpZBgBIAEoBhIUCgx1c2VyX3N0ZWFtaWQYAiABKAYSDgoG",
+            "Y2hhdGlkGAMgASgEEiAKGG9uZV9vbl9vbmVfc3RlYW1pZF9sb3dlchgEIAEo",
+            "BhIhChlvbmVfb25fb25lX3N0ZWFtaWRfaGlnaGVyGAUgASgGEhUKDWNoYXRf",
+            "Z3JvdXBfaWQYBiABKAQSFgoOdXNlcl9zZXNzaW9uaWQYByABKA0i+gEKJ0NW",
+            "b2ljZUNoYXRfVXNlclZvaWNlU3RhdHVzX05vdGlmaWNhdGlvbhIUCgx2b2lj",
+            "ZV9jaGF0aWQYASABKAYSFAoMdXNlcl9zdGVhbWlkGAIgASgGEh4KFnVzZXJf",
+            "bXV0ZWRfbWljX2xvY2FsbHkYAyABKAgSIQoZdXNlcl9tdXRlZF9vdXRwdXRf",
+            "bG9jYWxseRgEIAEoCBIjCht1c2VyX2hhc19ub19taWNfZm9yX3Nlc3Npb24Y",
+            "BSABKAgSIQoZdXNlcl93ZWJhdWRpb19zYW1wbGVfcmF0ZRgGIAEoBRIYChB1",
+            "c2VyX3NlbmRzX3ZpZGVvGAcgASgIIqoBCiZDVm9pY2VDaGF0X1ZvaWNlQ2hh",
+            "dEVuZGVkX05vdGlmaWNhdGlvbhIUCgx2b2ljZV9jaGF0aWQYASABKAYSIAoY",
+            "b25lX29uX29uZV9zdGVhbWlkX2xvd2VyGAIgASgGEiEKGW9uZV9vbl9vbmVf",
+            "c3RlYW1pZF9oaWdoZXIYAyABKAYSDgoGY2hhdGlkGAQgASgEEhUKDWNoYXRf",
+            "Z3JvdXBfaWQYBSABKAQysQcKCVZvaWNlQ2hhdBJlChJBbnN3ZXJPbmVPbk9u",
+            "ZUNoYXQSJi5DVm9pY2VDaGF0X0Fuc3dlck9uZU9uT25lQ2hhdF9SZXF1ZXN0",
+            "GicuQ1ZvaWNlQ2hhdF9BbnN3ZXJPbmVPbk9uZUNoYXRfUmVzcG9uc2USXAoP",
+            "RW5kT25lT25PbmVDaGF0EiMuQ1ZvaWNlQ2hhdF9FbmRPbmVPbk9uZUNoYXRf",
+            "UmVxdWVzdBokLkNWb2ljZUNoYXRfRW5kT25lT25PbmVDaGF0X1Jlc3BvbnNl",
+            "EmIKEUxlYXZlT25lT25PbmVDaGF0EiUuQ1ZvaWNlQ2hhdF9MZWF2ZU9uZU9u",
+            "T25lQ2hhdF9SZXF1ZXN0GiYuQ1ZvaWNlQ2hhdF9MZWF2ZU9uZU9uT25lQ2hh",
+            "dF9SZXNwb25zZRJZCg5MZWF2ZVZvaWNlQ2hhdBIiLkNWb2ljZUNoYXRfTGVh",
+            "dmVWb2ljZUNoYXRfUmVxdWVzdBojLkNWb2ljZUNoYXRfTGVhdmVWb2ljZUNo",
+            "YXRfUmVzcG9uc2USTgoVTm90aWZ5VXNlclZvaWNlU3RhdHVzEiguQ1ZvaWNl",
+            "Q2hhdF9Vc2VyVm9pY2VTdGF0dXNfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25z",
+            "ZRJoChNSZXF1ZXN0T25lT25PbmVDaGF0EicuQ1ZvaWNlQ2hhdF9SZXF1ZXN0",
+            "T25lT25PbmVDaGF0X1JlcXVlc3QaKC5DVm9pY2VDaGF0X1JlcXVlc3RPbmVP",
+            "bk9uZUNoYXRfUmVzcG9uc2USbgoVVXBkYXRlVXNlclZpZGVvU3RhdHVzEiku",
+            "Q1ZvaWNlQ2hhdF9VcGRhdGVVc2VyVmlkZW9TdGF0dXNfUmVxdWVzdBoqLkNW",
+            "b2ljZUNoYXRfVXBkYXRlVXNlclZpZGVvU3RhdHVzX1Jlc3BvbnNlEnoKGVVw",
+            "ZGF0ZVZvaWNlQ2hhdFdlYlJUQ0RhdGESLS5DVm9pY2VDaGF0X1VwZGF0ZVZv",
+            "aWNlQ2hhdFdlYlJUQ0RhdGFfUmVxdWVzdBouLkNWb2ljZUNoYXRfVXBkYXRl",
+            "Vm9pY2VDaGF0V2ViUlRDRGF0YV9SZXNwb25zZRJ6ChlVcGxvYWRDbGllbnRW",
+            "b2ljZUNoYXRMb2dzEi0uQ1ZvaWNlQ2hhdF9VcGxvYWRDbGllbnRWb2ljZUNo",
+            "YXRMb2dzX1JlcXVlc3QaLi5DVm9pY2VDaGF0X1VwbG9hZENsaWVudFZvaWNl",
+            "Q2hhdExvZ3NfUmVzcG9uc2Uy7QQKD1ZvaWNlQ2hhdENsaWVudBJTChlOb3Rp",
+            "ZnlBbGxVc2Vyc1ZvaWNlU3RhdHVzEikuQ1ZvaWNlQ2hhdF9BbGxNZW1iZXJz",
+            "U3RhdHVzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USWgobTm90aWZ5T25l",
+            "T25PbmVDaGF0UmVxdWVzdGVkEi4uQ1ZvaWNlQ2hhdF9PbmVPbk9uZUNoYXRS",
+            "ZXF1ZXN0ZWRfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJfChpOb3RpZnlP",
+            "bmVPbk9uZUNoYXRSZXNwb25zZRI0LkNWb2ljZUNoYXRfT25lT25PbmVDaGF0",
+            "UmVxdWVzdFJlc3BvbnNlX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USVgoZ",
+            "Tm90aWZ5VXNlckpvaW5lZFZvaWNlQ2hhdBIsLkNWb2ljZUNoYXRfVXNlckpv",
+            "aW5lZFZvaWNlQ2hhdF9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlElIKF05v",
+            "dGlmeVVzZXJMZWZ0Vm9pY2VDaGF0EiouQ1ZvaWNlQ2hhdF9Vc2VyTGVmdFZv",
+            "aWNlQ2hhdF9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlEk4KFU5vdGlmeVVz",
+            "ZXJWb2ljZVN0YXR1cxIoLkNWb2ljZUNoYXRfVXNlclZvaWNlU3RhdHVzX05v",
+            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTAoUTm90aWZ5Vm9pY2VDaGF0RW5k",
+            "ZWQSJy5DVm9pY2VDaGF0X1ZvaWNlQ2hhdEVuZGVkX05vdGlmaWNhdGlvbhoL",
+            "Lk5vUmVzcG9uc2VCIKoCHU9wZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -129,6 +135,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_OneOnOneChatRequestResponse_Notification), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_OneOnOneChatRequestResponse_Notification.Parser, new[]{ "VoicechatId", "SteamidPartner", "AcceptedRequest" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_RequestOneOnOneChat_Request), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_RequestOneOnOneChat_Request.Parser, new[]{ "SteamidPartner" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_RequestOneOnOneChat_Response), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_RequestOneOnOneChat_Response.Parser, new[]{ "VoiceChatid" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateUserVideoStatus_Request), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateUserVideoStatus_Request.Parser, new[]{ "VoiceChatid", "UserSteamid", "AcceptWebrtcVideo" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateUserVideoStatus_Response), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateUserVideoStatus_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateVoiceChatWebRTCData_Request), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateVoiceChatWebRTCData_Request.Parser, new[]{ "VoiceChatid", "IpWebrtcServer", "PortWebrtcServer", "IpWebrtcClient", "PortWebrtcClient", "SsrcMySendingStream", "UserAgent", "HasAudioWorkletsSupport", "HasWebrtcDataChannel", "AcceptsWebrtcVideo", "SendsWebrtcVideo" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateVoiceChatWebRTCData_Response), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UpdateVoiceChatWebRTCData_Response.Parser, new[]{ "SendClientVoiceLogs" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UploadClientVoiceChatLogs_Request), global::OpenSteamworks.Protobuf.WebUI.CVoiceChat_UploadClientVoiceChatLogs_Request.Parser, new[]{ "VoiceChatid", "ClientVoiceLogsNewLines" }, null, null, null, null),
@@ -2957,6 +2965,470 @@ namespace OpenSteamworks.Protobuf.WebUI {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CVoiceChat_UpdateUserVideoStatus_Request : pb::IMessage<CVoiceChat_UpdateUserVideoStatus_Request>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Request> _parser = new pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Request>(() => new CVoiceChat_UpdateUserVideoStatus_Request());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Request> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[13]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Request() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Request(CVoiceChat_UpdateUserVideoStatus_Request other) : this() {
+      _hasBits0 = other._hasBits0;
+      voiceChatid_ = other.voiceChatid_;
+      userSteamid_ = other.userSteamid_;
+      acceptWebrtcVideo_ = other.acceptWebrtcVideo_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Request Clone() {
+      return new CVoiceChat_UpdateUserVideoStatus_Request(this);
+    }
+
+    /// <summary>Field number for the "voice_chatid" field.</summary>
+    public const int VoiceChatidFieldNumber = 1;
+    private readonly static ulong VoiceChatidDefaultValue = 0UL;
+
+    private ulong voiceChatid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong VoiceChatid {
+      get { if ((_hasBits0 & 1) != 0) { return voiceChatid_; } else { return VoiceChatidDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        voiceChatid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "voice_chatid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasVoiceChatid {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "voice_chatid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearVoiceChatid() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "user_steamid" field.</summary>
+    public const int UserSteamidFieldNumber = 2;
+    private readonly static ulong UserSteamidDefaultValue = 0UL;
+
+    private ulong userSteamid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong UserSteamid {
+      get { if ((_hasBits0 & 2) != 0) { return userSteamid_; } else { return UserSteamidDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        userSteamid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "user_steamid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasUserSteamid {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "user_steamid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearUserSteamid() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "accept_webrtc_video" field.</summary>
+    public const int AcceptWebrtcVideoFieldNumber = 3;
+    private readonly static bool AcceptWebrtcVideoDefaultValue = false;
+
+    private bool acceptWebrtcVideo_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool AcceptWebrtcVideo {
+      get { if ((_hasBits0 & 4) != 0) { return acceptWebrtcVideo_; } else { return AcceptWebrtcVideoDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        acceptWebrtcVideo_ = value;
+      }
+    }
+    /// <summary>Gets whether the "accept_webrtc_video" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasAcceptWebrtcVideo {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "accept_webrtc_video" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearAcceptWebrtcVideo() {
+      _hasBits0 &= ~4;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CVoiceChat_UpdateUserVideoStatus_Request);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CVoiceChat_UpdateUserVideoStatus_Request other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (VoiceChatid != other.VoiceChatid) return false;
+      if (UserSteamid != other.UserSteamid) return false;
+      if (AcceptWebrtcVideo != other.AcceptWebrtcVideo) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasVoiceChatid) hash ^= VoiceChatid.GetHashCode();
+      if (HasUserSteamid) hash ^= UserSteamid.GetHashCode();
+      if (HasAcceptWebrtcVideo) hash ^= AcceptWebrtcVideo.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasVoiceChatid) {
+        output.WriteRawTag(9);
+        output.WriteFixed64(VoiceChatid);
+      }
+      if (HasUserSteamid) {
+        output.WriteRawTag(17);
+        output.WriteFixed64(UserSteamid);
+      }
+      if (HasAcceptWebrtcVideo) {
+        output.WriteRawTag(24);
+        output.WriteBool(AcceptWebrtcVideo);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasVoiceChatid) {
+        output.WriteRawTag(9);
+        output.WriteFixed64(VoiceChatid);
+      }
+      if (HasUserSteamid) {
+        output.WriteRawTag(17);
+        output.WriteFixed64(UserSteamid);
+      }
+      if (HasAcceptWebrtcVideo) {
+        output.WriteRawTag(24);
+        output.WriteBool(AcceptWebrtcVideo);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasVoiceChatid) {
+        size += 1 + 8;
+      }
+      if (HasUserSteamid) {
+        size += 1 + 8;
+      }
+      if (HasAcceptWebrtcVideo) {
+        size += 1 + 1;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CVoiceChat_UpdateUserVideoStatus_Request other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasVoiceChatid) {
+        VoiceChatid = other.VoiceChatid;
+      }
+      if (other.HasUserSteamid) {
+        UserSteamid = other.UserSteamid;
+      }
+      if (other.HasAcceptWebrtcVideo) {
+        AcceptWebrtcVideo = other.AcceptWebrtcVideo;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 9: {
+            VoiceChatid = input.ReadFixed64();
+            break;
+          }
+          case 17: {
+            UserSteamid = input.ReadFixed64();
+            break;
+          }
+          case 24: {
+            AcceptWebrtcVideo = input.ReadBool();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 9: {
+            VoiceChatid = input.ReadFixed64();
+            break;
+          }
+          case 17: {
+            UserSteamid = input.ReadFixed64();
+            break;
+          }
+          case 24: {
+            AcceptWebrtcVideo = input.ReadBool();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CVoiceChat_UpdateUserVideoStatus_Response : pb::IMessage<CVoiceChat_UpdateUserVideoStatus_Response>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Response> _parser = new pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Response>(() => new CVoiceChat_UpdateUserVideoStatus_Response());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CVoiceChat_UpdateUserVideoStatus_Response> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[14]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Response() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Response(CVoiceChat_UpdateUserVideoStatus_Response other) : this() {
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CVoiceChat_UpdateUserVideoStatus_Response Clone() {
+      return new CVoiceChat_UpdateUserVideoStatus_Response(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CVoiceChat_UpdateUserVideoStatus_Response);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CVoiceChat_UpdateUserVideoStatus_Response other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CVoiceChat_UpdateUserVideoStatus_Response other) {
+      if (other == null) {
+        return;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CVoiceChat_UpdateVoiceChatWebRTCData_Request : pb::IMessage<CVoiceChat_UpdateVoiceChatWebRTCData_Request>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -2972,7 +3444,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[13]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[15]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3698,7 +4170,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[14]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[16]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3905,7 +4377,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[15]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[17]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4162,7 +4634,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[16]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[18]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4316,7 +4788,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[17]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[19]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4835,7 +5307,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[18]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[20]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5354,7 +5826,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[19]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[21]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5873,7 +6345,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[20]; }
+      get { return global::OpenSteamworks.Protobuf.WebUI.ServiceVoicechatReflection.Descriptor.MessageTypes[22]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

@@ -26,7 +26,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
           string.Concat(
             "CiNzZXJ2aWNlX3Byb21vdGlvbmV2ZW50aW52aXRlcy5wcm90bxogZ29vZ2xl",
             "L3Byb3RvYnVmL2Rlc2NyaXB0b3IucHJvdG8aEWNvbW1vbl9iYXNlLnByb3Rv",
-            "ItoDChlDUHJvbW90aW9uRXZlbnRJbnZpdGF0aW9uEhAKCGludml0ZWlkGAEg",
+            "Ip8EChlDUHJvbW90aW9uRXZlbnRJbnZpdGF0aW9uEhAKCGludml0ZWlkGAEg",
             "ASgGEg0KBWFwcGlkGAIgASgNEhYKDmludml0ZV9hY2NvdW50GAMgASgNEhQK",
             "DHJ0aW52aXRldGltZRgEIAEoDRIUCgxydGV4cGlyZXRpbWUYBSABKA0SFgoE",
             "dHlwZRgGIAEoBUIIgrUYBGVudW0SFgoOYWNjZXB0X2FjY291bnQYByABKA0S",
@@ -36,65 +36,67 @@ namespace OpenSteamworks.Protobuf.WebUI {
             "CglkZWFkbGluZXMYDiABKAsyFy5DUHJvbW90aW9uUmVxdWlyZW1lbnRzEhYK",
             "Dm5vdGlmeV9wYXJ0bmVyGA8gASgIEhgKEGFkZGl0aW9uYWxfZW1haWwYECAD",
             "KAkSFAoMcHJvbW90aW9uX2lkGBEgASgJEhEKCWNhbmNlbGxlZBgSIAEoCBIb",
-            "ChNydGltZTMyX2NhbmNlbF90aW1lGBMgASgNIlsKHENQcm9tb3Rpb25FdmVu",
-            "dEludml0ZVJlY2VpdmUSEQoJYWNjb3VudGlkGAEgASgNEhEKCXBhcnRuZXJp",
-            "ZBgCIAEoDRIVCg1lbWFpbF9hZGRyZXNzGAMgASgJIqABCitDUHJvbW90aW9u",
-            "RXZlbnRJbnZpdGVzX0FjY2VwdEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlk",
-            "GAEgASgGEhQKDHJ0ZGF0ZWNob3NlbhgCIAEoDRIVCg1kaXNjb3VudF9kYXlz",
-            "GAMgASgNEhUKDWRpc2NvdW50X2luZm8YBCABKAkSGwoTc2tpcF9kaXNjb3Vu",
-            "dF9ldmVudBgFIAEoCCIuCixDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0FjY2Vw",
-            "dEludml0ZV9SZXNwb25zZSI/CitDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0Nh",
-            "bmNlbEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlkGAEgASgGIi4KLENQcm9t",
-            "b3Rpb25FdmVudEludml0ZXNfQ2FuY2VsSW52aXRlX1Jlc3BvbnNlImIKM0NQ",
-            "cm9tb3Rpb25FdmVudEludml0ZXNfR2V0QWxsQWN0aXZlSW52aXRlc19SZXNw",
-            "b25zZRIrCgdpbnZpdGVzGAEgAygLMhouQ1Byb21vdGlvbkV2ZW50SW52aXRh",
-            "dGlvbiJCCi5DUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEVtYWlsVGFyZ2V0",
-            "c19SZXF1ZXN0EhAKCGludml0ZWlkGAEgASgGIrcBCi9DUHJvbW90aW9uRXZl",
-            "bnRJbnZpdGVzX0dldEVtYWlsVGFyZ2V0c19SZXNwb25zZRIuCgd0YXJnZXRz",
-            "GAEgAygLMh0uQ1Byb21vdGlvbkV2ZW50SW52aXRlUmVjZWl2ZRIgChhhZGRp",
-            "dGlvbmFsX2VtYWlsX2FkZHJlc3MYAiADKAkSGQoRdmFsdmVfYWNjb3VudF9p",
-            "ZHMYAyADKA0SFwoPb3BlcmF0aW9uX2VtYWlsGAQgASgJIpkBCihDUHJvbW90",
-            "aW9uRXZlbnRJbnZpdGVzX0dldEludml0ZV9SZXF1ZXN0EhAKCGludml0ZWlk",
-            "GAEgASgGEg0KBWFwcGlkGAIgASgNEhEKCXBhY2thZ2VpZBgDIAEoDRIQCghi",
-            "dW5kbGVpZBgEIAEoDRIRCglwYXJ0bmVyaWQYBSABKA0SFAoMcHJvbW90aW9u",
-            "X2lkGAYgASgJIlgKKUNQcm9tb3Rpb25FdmVudEludml0ZXNfR2V0SW52aXRl",
-            "X1Jlc3BvbnNlEisKB2ludml0ZXMYASADKAsyGi5DUHJvbW90aW9uRXZlbnRJ",
-            "bnZpdGF0aW9uImoKMENQcm9tb3Rpb25FdmVudEludml0ZXNfUmVzZW5kRW1h",
-            "aWxJbnZpdGVfUmVxdWVzdBIQCghpbnZpdGVpZBgBIAEoBhIkChxvbmx5X25v",
-            "dGlmeV9hZGRpdGlvbmFsX2VtYWlsGAIgASgIIjMKMUNQcm9tb3Rpb25FdmVu",
-            "dEludml0ZXNfUmVzZW5kRW1haWxJbnZpdGVfUmVzcG9uc2UicwooQ1Byb21v",
-            "dGlvbkV2ZW50SW52aXRlc19TZXRJbnZpdGVfUmVxdWVzdBIqCgZpbnZpdGUY",
-            "ASABKAsyGi5DUHJvbW90aW9uRXZlbnRJbnZpdGF0aW9uEhsKE3F1ZXVlX2Vt",
-            "YWlsX3RvX3NlbmQYAiABKAgiPQopQ1Byb21vdGlvbkV2ZW50SW52aXRlc19T",
-            "ZXRJbnZpdGVfUmVzcG9uc2USEAoIaW52aXRlaWQYASABKAYieQoWQ1Byb21v",
-            "dGlvblJlcXVpcmVtZW50cxIaChJzcG90bGlnaHRfZHVlX2RhdGUYASABKA0S",
-            "IgoabWFya2V0aW5nX21lc3NhZ2VfZHVlX2RhdGUYAiABKA0SHwoXZGlzY291",
-            "bnRfZXZlbnRfZHVlX2RhdGUYAyABKA0yiQYKFVByb21vdGlvbkV2ZW50SW52",
-            "aXRlcxJrCgxBY2NlcHRJbnZpdGUSLC5DUHJvbW90aW9uRXZlbnRJbnZpdGVz",
-            "X0FjY2VwdEludml0ZV9SZXF1ZXN0Gi0uQ1Byb21vdGlvbkV2ZW50SW52aXRl",
-            "c19BY2NlcHRJbnZpdGVfUmVzcG9uc2USawoMQ2FuY2VsSW52aXRlEiwuQ1By",
-            "b21vdGlvbkV2ZW50SW52aXRlc19DYW5jZWxJbnZpdGVfUmVxdWVzdBotLkNQ",
-            "cm9tb3Rpb25FdmVudEludml0ZXNfQ2FuY2VsSW52aXRlX1Jlc3BvbnNlElwK",
-            "E0dldEFsbEFjdGl2ZUludml0ZXMSDy5Ob3RJbXBsZW1lbnRlZBo0LkNQcm9t",
-            "b3Rpb25FdmVudEludml0ZXNfR2V0QWxsQWN0aXZlSW52aXRlc19SZXNwb25z",
-            "ZRJ0Cg9HZXRFbWFpbFRhcmdldHMSLy5DUHJvbW90aW9uRXZlbnRJbnZpdGVz",
-            "X0dldEVtYWlsVGFyZ2V0c19SZXF1ZXN0GjAuQ1Byb21vdGlvbkV2ZW50SW52",
-            "aXRlc19HZXRFbWFpbFRhcmdldHNfUmVzcG9uc2USYgoJR2V0SW52aXRlEiku",
-            "Q1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRJbnZpdGVfUmVxdWVzdBoqLkNQ",
-            "cm9tb3Rpb25FdmVudEludml0ZXNfR2V0SW52aXRlX1Jlc3BvbnNlEnoKEVJl",
-            "c2VuZEVtYWlsSW52aXRlEjEuQ1Byb21vdGlvbkV2ZW50SW52aXRlc19SZXNl",
-            "bmRFbWFpbEludml0ZV9SZXF1ZXN0GjIuQ1Byb21vdGlvbkV2ZW50SW52aXRl",
-            "c19SZXNlbmRFbWFpbEludml0ZV9SZXNwb25zZRJiCglTZXRJbnZpdGUSKS5D",
-            "UHJvbW90aW9uRXZlbnRJbnZpdGVzX1NldEludml0ZV9SZXF1ZXN0GiouQ1By",
-            "b21vdGlvbkV2ZW50SW52aXRlc19TZXRJbnZpdGVfUmVzcG9uc2VCIKoCHU9w",
-            "ZW5TdGVhbXdvcmtzLlByb3RvYnVmLldlYlVJ"));
+            "ChNydGltZTMyX2NhbmNlbF90aW1lGBMgASgNEhkKEXJlcXVpcmVfc2FsZV9w",
+            "YWdlGBQgASgIEigKFnJlcXVpcmVfc2FsZV9wYWdlX3R5cGUYFSABKAVCCIK1",
+            "GARlbnVtIlsKHENQcm9tb3Rpb25FdmVudEludml0ZVJlY2VpdmUSEQoJYWNj",
+            "b3VudGlkGAEgASgNEhEKCXBhcnRuZXJpZBgCIAEoDRIVCg1lbWFpbF9hZGRy",
+            "ZXNzGAMgASgJIqABCitDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0FjY2VwdElu",
+            "dml0ZV9SZXF1ZXN0EhAKCGludml0ZWlkGAEgASgGEhQKDHJ0ZGF0ZWNob3Nl",
+            "bhgCIAEoDRIVCg1kaXNjb3VudF9kYXlzGAMgASgNEhUKDWRpc2NvdW50X2lu",
+            "Zm8YBCABKAkSGwoTc2tpcF9kaXNjb3VudF9ldmVudBgFIAEoCCI7CixDUHJv",
+            "bW90aW9uRXZlbnRJbnZpdGVzX0FjY2VwdEludml0ZV9SZXNwb25zZRILCgNn",
+            "aWQYASABKAYiPworQ1Byb21vdGlvbkV2ZW50SW52aXRlc19DYW5jZWxJbnZp",
+            "dGVfUmVxdWVzdBIQCghpbnZpdGVpZBgBIAEoBiIuCixDUHJvbW90aW9uRXZl",
+            "bnRJbnZpdGVzX0NhbmNlbEludml0ZV9SZXNwb25zZSJiCjNDUHJvbW90aW9u",
+            "RXZlbnRJbnZpdGVzX0dldEFsbEFjdGl2ZUludml0ZXNfUmVzcG9uc2USKwoH",
+            "aW52aXRlcxgBIAMoCzIaLkNQcm9tb3Rpb25FdmVudEludml0YXRpb24iQgou",
+            "Q1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRFbWFpbFRhcmdldHNfUmVxdWVz",
+            "dBIQCghpbnZpdGVpZBgBIAEoBiK3AQovQ1Byb21vdGlvbkV2ZW50SW52aXRl",
+            "c19HZXRFbWFpbFRhcmdldHNfUmVzcG9uc2USLgoHdGFyZ2V0cxgBIAMoCzId",
+            "LkNQcm9tb3Rpb25FdmVudEludml0ZVJlY2VpdmUSIAoYYWRkaXRpb25hbF9l",
+            "bWFpbF9hZGRyZXNzGAIgAygJEhkKEXZhbHZlX2FjY291bnRfaWRzGAMgAygN",
+            "EhcKD29wZXJhdGlvbl9lbWFpbBgEIAEoCSKZAQooQ1Byb21vdGlvbkV2ZW50",
+            "SW52aXRlc19HZXRJbnZpdGVfUmVxdWVzdBIQCghpbnZpdGVpZBgBIAEoBhIN",
+            "CgVhcHBpZBgCIAEoDRIRCglwYWNrYWdlaWQYAyABKA0SEAoIYnVuZGxlaWQY",
+            "BCABKA0SEQoJcGFydG5lcmlkGAUgASgNEhQKDHByb21vdGlvbl9pZBgGIAEo",
+            "CSJYCilDUHJvbW90aW9uRXZlbnRJbnZpdGVzX0dldEludml0ZV9SZXNwb25z",
+            "ZRIrCgdpbnZpdGVzGAEgAygLMhouQ1Byb21vdGlvbkV2ZW50SW52aXRhdGlv",
+            "biJqCjBDUHJvbW90aW9uRXZlbnRJbnZpdGVzX1Jlc2VuZEVtYWlsSW52aXRl",
+            "X1JlcXVlc3QSEAoIaW52aXRlaWQYASABKAYSJAocb25seV9ub3RpZnlfYWRk",
+            "aXRpb25hbF9lbWFpbBgCIAEoCCIzCjFDUHJvbW90aW9uRXZlbnRJbnZpdGVz",
+            "X1Jlc2VuZEVtYWlsSW52aXRlX1Jlc3BvbnNlInMKKENQcm9tb3Rpb25FdmVu",
+            "dEludml0ZXNfU2V0SW52aXRlX1JlcXVlc3QSKgoGaW52aXRlGAEgASgLMhou",
+            "Q1Byb21vdGlvbkV2ZW50SW52aXRhdGlvbhIbChNxdWV1ZV9lbWFpbF90b19z",
+            "ZW5kGAIgASgIIj0KKUNQcm9tb3Rpb25FdmVudEludml0ZXNfU2V0SW52aXRl",
+            "X1Jlc3BvbnNlEhAKCGludml0ZWlkGAEgASgGInkKFkNQcm9tb3Rpb25SZXF1",
+            "aXJlbWVudHMSGgoSc3BvdGxpZ2h0X2R1ZV9kYXRlGAEgASgNEiIKGm1hcmtl",
+            "dGluZ19tZXNzYWdlX2R1ZV9kYXRlGAIgASgNEh8KF2Rpc2NvdW50X2V2ZW50",
+            "X2R1ZV9kYXRlGAMgASgNMokGChVQcm9tb3Rpb25FdmVudEludml0ZXMSawoM",
+            "QWNjZXB0SW52aXRlEiwuQ1Byb21vdGlvbkV2ZW50SW52aXRlc19BY2NlcHRJ",
+            "bnZpdGVfUmVxdWVzdBotLkNQcm9tb3Rpb25FdmVudEludml0ZXNfQWNjZXB0",
+            "SW52aXRlX1Jlc3BvbnNlEmsKDENhbmNlbEludml0ZRIsLkNQcm9tb3Rpb25F",
+            "dmVudEludml0ZXNfQ2FuY2VsSW52aXRlX1JlcXVlc3QaLS5DUHJvbW90aW9u",
+            "RXZlbnRJbnZpdGVzX0NhbmNlbEludml0ZV9SZXNwb25zZRJcChNHZXRBbGxB",
+            "Y3RpdmVJbnZpdGVzEg8uTm90SW1wbGVtZW50ZWQaNC5DUHJvbW90aW9uRXZl",
+            "bnRJbnZpdGVzX0dldEFsbEFjdGl2ZUludml0ZXNfUmVzcG9uc2USdAoPR2V0",
+            "RW1haWxUYXJnZXRzEi8uQ1Byb21vdGlvbkV2ZW50SW52aXRlc19HZXRFbWFp",
+            "bFRhcmdldHNfUmVxdWVzdBowLkNQcm9tb3Rpb25FdmVudEludml0ZXNfR2V0",
+            "RW1haWxUYXJnZXRzX1Jlc3BvbnNlEmIKCUdldEludml0ZRIpLkNQcm9tb3Rp",
+            "b25FdmVudEludml0ZXNfR2V0SW52aXRlX1JlcXVlc3QaKi5DUHJvbW90aW9u",
+            "RXZlbnRJbnZpdGVzX0dldEludml0ZV9SZXNwb25zZRJ6ChFSZXNlbmRFbWFp",
+            "bEludml0ZRIxLkNQcm9tb3Rpb25FdmVudEludml0ZXNfUmVzZW5kRW1haWxJ",
+            "bnZpdGVfUmVxdWVzdBoyLkNQcm9tb3Rpb25FdmVudEludml0ZXNfUmVzZW5k",
+            "RW1haWxJbnZpdGVfUmVzcG9uc2USYgoJU2V0SW52aXRlEikuQ1Byb21vdGlv",
+            "bkV2ZW50SW52aXRlc19TZXRJbnZpdGVfUmVxdWVzdBoqLkNQcm9tb3Rpb25F",
+            "dmVudEludml0ZXNfU2V0SW52aXRlX1Jlc3BvbnNlQiCqAh1PcGVuU3RlYW13",
+            "b3Jrcy5Qcm90b2J1Zi5XZWJVSQ=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.WebUI.CommonBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation.Parser, new[]{ "Inviteid", "Appid", "InviteAccount", "Rtinvitetime", "Rtexpiretime", "Type", "AcceptAccount", "Rtaccepttime", "Rtdatechosen", "DiscountEventid", "Packageid", "Bundleid", "PrimaryPartnerid", "Deadlines", "NotifyPartner", "AdditionalEmail", "PromotionId", "Cancelled", "Rtime32CancelTime" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvitation.Parser, new[]{ "Inviteid", "Appid", "InviteAccount", "Rtinvitetime", "Rtexpiretime", "Type", "AcceptAccount", "Rtaccepttime", "Rtdatechosen", "DiscountEventid", "Packageid", "Bundleid", "PrimaryPartnerid", "Deadlines", "NotifyPartner", "AdditionalEmail", "PromotionId", "Cancelled", "Rtime32CancelTime", "RequireSalePage", "RequireSalePageType" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInviteReceive), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInviteReceive.Parser, new[]{ "Accountid", "Partnerid", "EmailAddress" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Request.Parser, new[]{ "Inviteid", "Rtdatechosen", "DiscountDays", "DiscountInfo", "SkipDiscountEvent" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response.Parser, null, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_AcceptInvite_Response.Parser, new[]{ "Gid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Request), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Request.Parser, new[]{ "Inviteid" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_CancelInvite_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_GetAllActiveInvites_Response), global::OpenSteamworks.Protobuf.WebUI.CPromotionEventInvites_GetAllActiveInvites_Response.Parser, new[]{ "Invites" }, null, null, null, null),
@@ -169,6 +171,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       promotionId_ = other.promotionId_;
       cancelled_ = other.cancelled_;
       rtime32CancelTime_ = other.rtime32CancelTime_;
+      requireSalePage_ = other.requireSalePage_;
+      requireSalePageType_ = other.requireSalePageType_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -659,6 +663,60 @@ namespace OpenSteamworks.Protobuf.WebUI {
       _hasBits0 &= ~32768;
     }
 
+    /// <summary>Field number for the "require_sale_page" field.</summary>
+    public const int RequireSalePageFieldNumber = 20;
+    private readonly static bool RequireSalePageDefaultValue = false;
+
+    private bool requireSalePage_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool RequireSalePage {
+      get { if ((_hasBits0 & 65536) != 0) { return requireSalePage_; } else { return RequireSalePageDefaultValue; } }
+      set {
+        _hasBits0 |= 65536;
+        requireSalePage_ = value;
+      }
+    }
+    /// <summary>Gets whether the "require_sale_page" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasRequireSalePage {
+      get { return (_hasBits0 & 65536) != 0; }
+    }
+    /// <summary>Clears the value of the "require_sale_page" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearRequireSalePage() {
+      _hasBits0 &= ~65536;
+    }
+
+    /// <summary>Field number for the "require_sale_page_type" field.</summary>
+    public const int RequireSalePageTypeFieldNumber = 21;
+    private readonly static int RequireSalePageTypeDefaultValue = 0;
+
+    private int requireSalePageType_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int RequireSalePageType {
+      get { if ((_hasBits0 & 131072) != 0) { return requireSalePageType_; } else { return RequireSalePageTypeDefaultValue; } }
+      set {
+        _hasBits0 |= 131072;
+        requireSalePageType_ = value;
+      }
+    }
+    /// <summary>Gets whether the "require_sale_page_type" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasRequireSalePageType {
+      get { return (_hasBits0 & 131072) != 0; }
+    }
+    /// <summary>Clears the value of the "require_sale_page_type" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearRequireSalePageType() {
+      _hasBits0 &= ~131072;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -693,6 +751,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (PromotionId != other.PromotionId) return false;
       if (Cancelled != other.Cancelled) return false;
       if (Rtime32CancelTime != other.Rtime32CancelTime) return false;
+      if (RequireSalePage != other.RequireSalePage) return false;
+      if (RequireSalePageType != other.RequireSalePageType) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -719,6 +779,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (HasPromotionId) hash ^= PromotionId.GetHashCode();
       if (HasCancelled) hash ^= Cancelled.GetHashCode();
       if (HasRtime32CancelTime) hash ^= Rtime32CancelTime.GetHashCode();
+      if (HasRequireSalePage) hash ^= RequireSalePage.GetHashCode();
+      if (HasRequireSalePageType) hash ^= RequireSalePageType.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -810,6 +872,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(152, 1);
         output.WriteUInt32(Rtime32CancelTime);
       }
+      if (HasRequireSalePage) {
+        output.WriteRawTag(160, 1);
+        output.WriteBool(RequireSalePage);
+      }
+      if (HasRequireSalePageType) {
+        output.WriteRawTag(168, 1);
+        output.WriteInt32(RequireSalePageType);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -893,6 +963,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
         output.WriteRawTag(152, 1);
         output.WriteUInt32(Rtime32CancelTime);
       }
+      if (HasRequireSalePage) {
+        output.WriteRawTag(160, 1);
+        output.WriteBool(RequireSalePage);
+      }
+      if (HasRequireSalePageType) {
+        output.WriteRawTag(168, 1);
+        output.WriteInt32(RequireSalePageType);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -957,6 +1035,12 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (HasRtime32CancelTime) {
         size += 2 + pb::CodedOutputStream.ComputeUInt32Size(Rtime32CancelTime);
+      }
+      if (HasRequireSalePage) {
+        size += 2 + 1;
+      }
+      if (HasRequireSalePageType) {
+        size += 2 + pb::CodedOutputStream.ComputeInt32Size(RequireSalePageType);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -1027,6 +1111,12 @@ namespace OpenSteamworks.Protobuf.WebUI {
       }
       if (other.HasRtime32CancelTime) {
         Rtime32CancelTime = other.Rtime32CancelTime;
+      }
+      if (other.HasRequireSalePage) {
+        RequireSalePage = other.RequireSalePage;
+      }
+      if (other.HasRequireSalePageType) {
+        RequireSalePageType = other.RequireSalePageType;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1122,6 +1212,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
             Rtime32CancelTime = input.ReadUInt32();
             break;
           }
+          case 160: {
+            RequireSalePage = input.ReadBool();
+            break;
+          }
+          case 168: {
+            RequireSalePageType = input.ReadInt32();
+            break;
+          }
         }
       }
     #endif
@@ -1214,6 +1312,14 @@ namespace OpenSteamworks.Protobuf.WebUI {
           }
           case 152: {
             Rtime32CancelTime = input.ReadUInt32();
+            break;
+          }
+          case 160: {
+            RequireSalePage = input.ReadBool();
+            break;
+          }
+          case 168: {
+            RequireSalePageType = input.ReadInt32();
             break;
           }
         }
@@ -1955,6 +2061,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
   {
     private static readonly pb::MessageParser<CPromotionEventInvites_AcceptInvite_Response> _parser = new pb::MessageParser<CPromotionEventInvites_AcceptInvite_Response>(() => new CPromotionEventInvites_AcceptInvite_Response());
     private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pb::MessageParser<CPromotionEventInvites_AcceptInvite_Response> Parser { get { return _parser; } }
@@ -1982,6 +2089,8 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CPromotionEventInvites_AcceptInvite_Response(CPromotionEventInvites_AcceptInvite_Response other) : this() {
+      _hasBits0 = other._hasBits0;
+      gid_ = other.gid_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1989,6 +2098,33 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CPromotionEventInvites_AcceptInvite_Response Clone() {
       return new CPromotionEventInvites_AcceptInvite_Response(this);
+    }
+
+    /// <summary>Field number for the "gid" field.</summary>
+    public const int GidFieldNumber = 1;
+    private readonly static ulong GidDefaultValue = 0UL;
+
+    private ulong gid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Gid {
+      get { if ((_hasBits0 & 1) != 0) { return gid_; } else { return GidDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        gid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGid {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "gid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGid() {
+      _hasBits0 &= ~1;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2006,6 +2142,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
       if (ReferenceEquals(other, this)) {
         return true;
       }
+      if (Gid != other.Gid) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -2013,6 +2150,7 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
+      if (HasGid) hash ^= Gid.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -2031,6 +2169,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
+      if (HasGid) {
+        output.WriteRawTag(9);
+        output.WriteFixed64(Gid);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -2041,6 +2183,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasGid) {
+        output.WriteRawTag(9);
+        output.WriteFixed64(Gid);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -2051,6 +2197,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
+      if (HasGid) {
+        size += 1 + 8;
+      }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -2062,6 +2211,9 @@ namespace OpenSteamworks.Protobuf.WebUI {
     public void MergeFrom(CPromotionEventInvites_AcceptInvite_Response other) {
       if (other == null) {
         return;
+      }
+      if (other.HasGid) {
+        Gid = other.Gid;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -2078,6 +2230,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
+          case 9: {
+            Gid = input.ReadFixed64();
+            break;
+          }
         }
       }
     #endif
@@ -2093,6 +2249,10 @@ namespace OpenSteamworks.Protobuf.WebUI {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
+          case 9: {
+            Gid = input.ReadFixed64();
+            break;
+          }
         }
       }
     }

@@ -27,123 +27,139 @@ namespace OpenSteamworks.Protobuf {
             "Ci1zdGVhbW1lc3NhZ2VzX2NsaWVudG1ldHJpY3Muc3RlYW1jbGllbnQucHJv",
             "dG8aIGdvb2dsZS9wcm90b2J1Zi9kZXNjcmlwdG9yLnByb3RvGhhzdGVhbW1l",
             "c3NhZ2VzX2Jhc2UucHJvdG8aLHN0ZWFtbWVzc2FnZXNfdW5pZmllZF9iYXNl",
-            "LnN0ZWFtY2xpZW50LnByb3RvGhNjbGllbnRtZXRyaWNzLnByb3RvIlwKI0ND",
-            "bGllbnRNZXRyaWNzX0FwcEludGVyZmFjZUNyZWF0aW9uEhMKC3Jhd192ZXJz",
-            "aW9uGAEgASgJEiAKGHJlcXVlc3RlZF9pbnRlcmZhY2VfdHlwZRgCIAEoCSJq",
-            "CidDQ2xpZW50TWV0cmljc19BcHBJbnRlcmZhY2VNZXRob2RDb3VudHMSFgoO",
-            "aW50ZXJmYWNlX25hbWUYASABKAkSEwoLbWV0aG9kX25hbWUYAiABKAkSEgoK",
-            "Y2FsbF9jb3VudBgDIAEoDSLkAQotQ0NsaWVudE1ldHJpY3NfQXBwSW50ZXJm",
-            "YWNlU3RhdHNfTm90aWZpY2F0aW9uEg8KB2dhbWVfaWQYASABKAQSQAoSaW50",
-            "ZXJmYWNlc19jcmVhdGVkGAIgAygLMiQuQ0NsaWVudE1ldHJpY3NfQXBwSW50",
-            "ZXJmYWNlQ3JlYXRpb24SQAoObWV0aG9kc19jYWxsZWQYAyADKAsyKC5DQ2xp",
-            "ZW50TWV0cmljc19BcHBJbnRlcmZhY2VNZXRob2RDb3VudHMSHgoWc2Vzc2lv",
-            "bl9sZW5ndGhfc2Vjb25kcxgEIAEoDSJdCiZDQ2xpZW50TWV0cmljc19JUHY2",
-            "Q29ubmVjdGl2aXR5X1Jlc3VsdBIXCg9wcm90b2NvbF90ZXN0ZWQYASABKA0S",
-            "GgoSY29ubmVjdGl2aXR5X3N0YXRlGAIgASgNIpgBCixDQ2xpZW50TWV0cmlj",
-            "c19JUHY2Q29ubmVjdGl2aXR5X05vdGlmaWNhdGlvbhIPCgdjZWxsX2lkGAEg",
-            "ASgNEjgKB3Jlc3VsdHMYAiADKAsyJy5DQ2xpZW50TWV0cmljc19JUHY2Q29u",
-            "bmVjdGl2aXR5X1Jlc3VsdBIdChVwcml2YXRlX2lwX2lzX3JmYzY1OTgYAyAB",
-            "KAgi+QEKK0NDbGllbnRNZXRyaWNzX1N0ZWFtUGlwZVdvcmtTdGF0c19PcGVy",
-            "YXRpb24SRwoEdHlwZRgBIAEoDjIYLkVTdGVhbVBpcGVPcGVyYXRpb25UeXBl",
-            "Oh9FU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9JbnZhbGlkEg8KB251bV9vcHMY",
-            "AiABKA0SEQoJbnVtX2J5dGVzGAMgASgEEhQKDGJ1c3lfdGltZV9tcxgEIAEo",
-            "BBIUCgxpZGxlX3RpbWVfbXMYBSABKAQSFwoPc3VtX3J1bl90aW1lX21zGAYg",
-            "ASgEEhgKEHN1bV93YWl0X3RpbWVfbXMYByABKAQi8QEKLkNDbGllbnRNZXRy",
-            "aWNzX1N0ZWFtUGlwZVdvcmtTdGF0c19Ob3RpZmljYXRpb24SDQoFYXBwaWQY",
-            "ASABKA0SDwoHZGVwb3RpZBgCIAEoDRJGCgd3b3J0eXBlGAMgASgOMhMuRVN0",
-            "ZWFtUGlwZVdvcmtUeXBlOiBFU3RlYW1QaXBlQ2xpZW50V29ya1R5cGVfSW52",
-            "YWxpZBJACgpvcGVyYXRpb25zGAQgAygLMiwuQ0NsaWVudE1ldHJpY3NfU3Rl",
-            "YW1QaXBlV29ya1N0YXRzX09wZXJhdGlvbhIVCg1oYXJkd2FyZV90eXBlGAUg",
-            "ASgNIsADCixDQ2xpZW50TWV0cmljc19SZXBvcnRSZWFjdFVzYWdlX05vdGlm",
-            "aWNhdGlvbhIPCgdwcm9kdWN0GAEgASgJEg8KB3ZlcnNpb24YAiABKAkSRwoG",
-            "cm91dGVzGAMgAygLMjcuQ0NsaWVudE1ldHJpY3NfUmVwb3J0UmVhY3RVc2Fn",
-            "ZV9Ob3RpZmljYXRpb24uUm91dGVEYXRhEk8KCmNvbXBvbmVudHMYBCADKAsy",
-            "Oy5DQ2xpZW50TWV0cmljc19SZXBvcnRSZWFjdFVzYWdlX05vdGlmaWNhdGlv",
-            "bi5Db21wb25lbnREYXRhEkkKB2FjdGlvbnMYBSADKAsyOC5DQ2xpZW50TWV0",
-            "cmljc19SZXBvcnRSZWFjdFVzYWdlX05vdGlmaWNhdGlvbi5BY3Rpb25EYXRh",
-            "GikKCVJvdXRlRGF0YRINCgVyb3V0ZRgBIAEoCRINCgVjb3VudBgCIAEoDRox",
-            "Cg1Db21wb25lbnREYXRhEhEKCWNvbXBvbmVudBgBIAEoCRINCgVjb3VudBgC",
-            "IAEoDRorCgpBY3Rpb25EYXRhEg4KBmFjdGlvbhgBIAEoCRINCgVjb3VudBgC",
-            "IAEoDSLUAQotQ0NsaWVudE1ldHJpY3NfUmVwb3J0Q2xpZW50RXJyb3JfTm90",
-            "aWZpY2F0aW9uEg8KB3Byb2R1Y3QYASABKAkSDwoHdmVyc2lvbhgCIAEoCRJE",
-            "CgZlcnJvcnMYAyADKAsyNC5DQ2xpZW50TWV0cmljc19SZXBvcnRDbGllbnRF",
-            "cnJvcl9Ob3RpZmljYXRpb24uRXJyb3IaOwoFRXJyb3ISEgoKaWRlbnRpZmll",
-            "chgBIAEoCRIPCgdtZXNzYWdlGAIgASgJEg0KBWNvdW50GAMgASgNImcKK0ND",
-            "bGllbnRNZXRyaWNzX0NsaWVudEJvb3RzdHJhcF9Ob3RpZmljYXRpb24SOAoH",
-            "c3VtbWFyeRgBIAEoCzInLkNDbGllbnRNZXRyaWNzX0NsaWVudEJvb3RzdHJh",
-            "cF9TdW1tYXJ5IpEDCilDQ2xpZW50TWV0cmljc19Eb3dubG9hZFJhdGVzX05v",
-            "dGlmaWNhdGlvbhIPCgdjZWxsX2lkGAEgASgNEkMKBXN0YXRzGAIgAygLMjQu",
-            "Q0NsaWVudE1ldHJpY3NfRG93bmxvYWRSYXRlc19Ob3RpZmljYXRpb24uU3Rh",
-            "dHNJbmZvEhcKD3Rocm90dGxpbmdfa2JwcxgDIAEoDRr0AQoJU3RhdHNJbmZv",
-            "EhMKC3NvdXJjZV90eXBlGAEgASgNEhEKCXNvdXJjZV9pZBgCIAEoDRINCgVi",
-            "eXRlcxgDIAEoBBIRCglob3N0X25hbWUYBCABKAkSFAoMbWljcm9zZWNvbmRz",
-            "GAUgASgEEhEKCXVzZWRfaXB2NhgGIAEoCBIPCgdwcm94aWVkGAcgASgIEhIK",
-            "CnVzZWRfaHR0cDIYCCABKAgSEgoKY2FjaGVfaGl0cxgJIAEoDRIUCgxjYWNo",
-            "ZV9taXNzZXMYCiABKA0SEQoJaGl0X2J5dGVzGAsgASgEEhIKCm1pc3NfYnl0",
-            "ZXMYDCABKAQingIKLUNDbGllbnRNZXRyaWNzX0NvbnRlbnRWYWxpZGF0aW9u",
-            "X05vdGlmaWNhdGlvbhIZChF2YWxpZGF0aW9uX3Jlc3VsdBgBIAEoBRIOCgZh",
-            "cHBfaWQYAiABKA0SFAoMc3RhZ2VkX2ZpbGVzGAMgASgIEhYKDnVzZXJfaW5p",
-            "dGlhdGVkGAQgASgIEhEKCWVhcmx5X291dBgFIAEoCBIWCg5jaHVua3Nfc2Nh",
-            "bm5lZBgGIAEoDRIWCg5jaHVua3NfY29ycnVwdBgHIAEoDRIVCg1ieXRlc19z",
-            "Y2FubmVkGAggASgEEhkKEWNodW5ieXRlc19jb3JydXB0GAkgASgEEh8KF3Rv",
-            "dGFsX2ZpbGVfc2l6ZV9jb3JydXB0GAogASgEIuAECi1DQ2xpZW50TWV0cmlj",
-            "c19DbG91ZEFwcFN5bmNTdGF0c19Ob3RpZmljYXRpb24SDgoGYXBwX2lkGAEg",
-            "ASgNEhUKDXBsYXRmb3JtX3R5cGUYAiABKA0SDwoHcHJlbG9hZBgDIAEoCBIb",
-            "ChNibG9ja2luZ19hcHBfbGF1bmNoGAQgASgIEhYKDmZpbGVzX3VwbG9hZGVk",
-            "GAUgASgNEhgKEGZpbGVzX2Rvd25sb2FkZWQYBiABKA0SFQoNZmlsZXNfZGVs",
-            "ZXRlZBgHIAEoDRIWCg5ieXRlc191cGxvYWRlZBgIIAEoBBIYChBieXRlc19k",
-            "b3dubG9hZGVkGAkgASgEEhYKDm1pY3Jvc2VjX3RvdGFsGAogASgEEhwKFG1p",
-            "Y3Jvc2VjX2luaXRfY2FjaGVzGAsgASgEEh8KF21pY3Jvc2VjX3ZhbGlkYXRl",
-            "X3N0YXRlGAwgASgEEhoKEm1pY3Jvc2VjX2FjX2xhdW5jaBgNIAEoBBIjChtt",
-            "aWNyb3NlY19hY19wcmVwX3VzZXJfZmlsZXMYDiABKAQSGAoQbWljcm9zZWNf",
-            "YWNfZXhpdBgPIAEoBBIgChhtaWNyb3NlY19idWlsZF9zeW5jX2xpc3QYECAB",
-            "KAQSHQoVbWljcm9zZWNfZGVsZXRlX2ZpbGVzGBEgASgEEh8KF21pY3Jvc2Vj",
-            "X2Rvd25sb2FkX2ZpbGVzGBIgASgEEh0KFW1pY3Jvc2VjX3VwbG9hZF9maWxl",
-            "cxgTIAEoBBIVCg1oYXJkd2FyZV90eXBlGBQgASgNEhUKDWZpbGVzX21hbmFn",
-            "ZWQYFSABKA0iigEKOkNDbGllbnRNZXRyaWNzX0NvbnRlbnREb3dubG9hZFJl",
-            "c3BvbnNlX0NvdW50c19Ob3RpZmljYXRpb24SDwoHY2VsbF9pZBgBIAEoDRI7",
-            "CgRkYXRhGAIgASgLMi0uQ0NsaWVudE1ldHJpY3NfQ29udGVudERvd25sb2Fk",
-            "UmVzcG9uc2VfSG9zdHMi1wIKLENDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVu",
-            "dEFyZ3NfTm90aWZpY2F0aW9uEhMKC2NsaWVudF9hcmdzGAEgAygJEiMKG2dw",
-            "dV93ZWJ2aWV3X3JlZ2tleV9kaXNhYmxlZBgCIAEoCBIbChNzdXBwcmVzc19n",
-            "cHVfY2hyb21lGAMgASgIEh0KFWJyb3dzZXJfbm90X3N1cHBvcnRlZBgEIAEo",
-            "CBImCh5od19hY2NlbF92aWRlb19yZWdrZXlfZGlzYWJsZWQYBSABKAgSGQoR",
-            "bWluaV9tb2RlX2VuYWJsZWQYBiABKAgSGwoTZnBzX2NvdW50ZXJfZW5hYmxl",
-            "ZBgHIAEoCBIqCiJsaWJyYXJ5X2xvd19iYW5kd2lkdGhfbW9kZV9lbmFibGVk",
-            "GAggASgIEiUKHWxpYnJhcnlfbG93X3BlcmZfbW9kZV9lbmFibGVkGAkgASgI",
-            "Km0KEkVTdGVhbVBpcGVXb3JrVHlwZRIkCiBFU3RlYW1QaXBlQ2xpZW50V29y",
-            "a1R5cGVfSW52YWxpZBAAEjEKLUVTdGVhbVBpcGVDbGllbnRXb3JrVHlwZV9T",
-            "dGFnZUZyb21DaHVua1N0b3JlcxABKrMBChdFU3RlYW1QaXBlT3BlcmF0aW9u",
-            "VHlwZRIjCh9FU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9JbnZhbGlkEAASJgoi",
-            "RVN0ZWFtUGlwZU9wZXJhdGlvblR5cGVfRGVjcnlwdENQVRABEiQKIEVTdGVh",
-            "bVBpcGVPcGVyYXRpb25UeXBlX0Rpc2tSZWFkEAISJQohRVN0ZWFtUGlwZU9w",
-            "ZXJhdGlvblR5cGVfRGlza1dyaXRlEAMy4wcKDUNsaWVudE1ldHJpY3MSXAod",
-            "Q2xpZW50QXBwSW50ZXJmYWNlU3RhdHNSZXBvcnQSLi5DQ2xpZW50TWV0cmlj",
-            "c19BcHBJbnRlcmZhY2VTdGF0c19Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNl",
-            "EloKHENsaWVudElQdjZDb25uZWN0aXZpdHlSZXBvcnQSLS5DQ2xpZW50TWV0",
-            "cmljc19JUHY2Q29ubmVjdGl2aXR5X05vdGlmaWNhdGlvbhoLLk5vUmVzcG9u",
-            "c2USWAoYU3RlYW1QaXBlV29ya1N0YXRzUmVwb3J0Ei8uQ0NsaWVudE1ldHJp",
-            "Y3NfU3RlYW1QaXBlV29ya1N0YXRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9u",
-            "c2USTgoQUmVwb3J0UmVhY3RVc2FnZRItLkNDbGllbnRNZXRyaWNzX1JlcG9y",
-            "dFJlYWN0VXNhZ2VfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJQChFSZXBv",
-            "cnRDbGllbnRFcnJvchIuLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVudEVy",
-            "cm9yX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USUgoVQ2xpZW50Qm9vdHN0",
-            "cmFwUmVwb3J0EiwuQ0NsaWVudE1ldHJpY3NfQ2xpZW50Qm9vdHN0cmFwX05v",
-            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USVAoZQ2xpZW50RG93bmxvYWRSYXRl",
-            "c1JlcG9ydBIqLkNDbGllbnRNZXRyaWNzX0Rvd25sb2FkUmF0ZXNfTm90aWZp",
-            "Y2F0aW9uGgsuTm9SZXNwb25zZRJcCh1DbGllbnRDb250ZW50VmFsaWRhdGlv",
-            "blJlcG9ydBIuLkNDbGllbnRNZXRyaWNzX0NvbnRlbnRWYWxpZGF0aW9uX05v",
-            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USVgoXQ2xpZW50Q2xvdWRBcHBTeW5j",
-            "U3RhdHMSLi5DQ2xpZW50TWV0cmljc19DbG91ZEFwcFN5bmNTdGF0c19Ob3Rp",
-            "ZmljYXRpb24aCy5Ob1Jlc3BvbnNlEmwKIENsaWVudERvd25sb2FkUmVzcG9u",
-            "c2VDb2RlQ291bnRzEjsuQ0NsaWVudE1ldHJpY3NfQ29udGVudERvd25sb2Fk",
-            "UmVzcG9uc2VfQ291bnRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoQ",
-            "UmVwb3J0Q2xpZW50QXJncxItLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVu",
-            "dEFyZ3NfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZUIdgAEBqgIXT3BlblN0",
-            "ZWFtd29ya3MuUHJvdG9idWY="));
+            "LnN0ZWFtY2xpZW50LnByb3RvGhNjbGllbnRtZXRyaWNzLnByb3RvGgtlbnVt",
+            "cy5wcm90byJcCiNDQ2xpZW50TWV0cmljc19BcHBJbnRlcmZhY2VDcmVhdGlv",
+            "bhITCgtyYXdfdmVyc2lvbhgBIAEoCRIgChhyZXF1ZXN0ZWRfaW50ZXJmYWNl",
+            "X3R5cGUYAiABKAkiagonQ0NsaWVudE1ldHJpY3NfQXBwSW50ZXJmYWNlTWV0",
+            "aG9kQ291bnRzEhYKDmludGVyZmFjZV9uYW1lGAEgASgJEhMKC21ldGhvZF9u",
+            "YW1lGAIgASgJEhIKCmNhbGxfY291bnQYAyABKA0i5AEKLUNDbGllbnRNZXRy",
+            "aWNzX0FwcEludGVyZmFjZVN0YXRzX05vdGlmaWNhdGlvbhIPCgdnYW1lX2lk",
+            "GAEgASgEEkAKEmludGVyZmFjZXNfY3JlYXRlZBgCIAMoCzIkLkNDbGllbnRN",
+            "ZXRyaWNzX0FwcEludGVyZmFjZUNyZWF0aW9uEkAKDm1ldGhvZHNfY2FsbGVk",
+            "GAMgAygLMiguQ0NsaWVudE1ldHJpY3NfQXBwSW50ZXJmYWNlTWV0aG9kQ291",
+            "bnRzEh4KFnNlc3Npb25fbGVuZ3RoX3NlY29uZHMYBCABKA0iXQomQ0NsaWVu",
+            "dE1ldHJpY3NfSVB2NkNvbm5lY3Rpdml0eV9SZXN1bHQSFwoPcHJvdG9jb2xf",
+            "dGVzdGVkGAEgASgNEhoKEmNvbm5lY3Rpdml0eV9zdGF0ZRgCIAEoDSKYAQos",
+            "Q0NsaWVudE1ldHJpY3NfSVB2NkNvbm5lY3Rpdml0eV9Ob3RpZmljYXRpb24S",
+            "DwoHY2VsbF9pZBgBIAEoDRI4CgdyZXN1bHRzGAIgAygLMicuQ0NsaWVudE1l",
+            "dHJpY3NfSVB2NkNvbm5lY3Rpdml0eV9SZXN1bHQSHQoVcHJpdmF0ZV9pcF9p",
+            "c19yZmM2NTk4GAMgASgIIvkBCitDQ2xpZW50TWV0cmljc19TdGVhbVBpcGVX",
+            "b3JrU3RhdHNfT3BlcmF0aW9uEkcKBHR5cGUYASABKA4yGC5FU3RlYW1QaXBl",
+            "T3BlcmF0aW9uVHlwZTofRVN0ZWFtUGlwZU9wZXJhdGlvblR5cGVfSW52YWxp",
+            "ZBIPCgdudW1fb3BzGAIgASgNEhEKCW51bV9ieXRlcxgDIAEoBBIUCgxidXN5",
+            "X3RpbWVfbXMYBCABKAQSFAoMaWRsZV90aW1lX21zGAUgASgEEhcKD3N1bV9y",
+            "dW5fdGltZV9tcxgGIAEoBBIYChBzdW1fd2FpdF90aW1lX21zGAcgASgEIvEB",
+            "Ci5DQ2xpZW50TWV0cmljc19TdGVhbVBpcGVXb3JrU3RhdHNfTm90aWZpY2F0",
+            "aW9uEg0KBWFwcGlkGAEgASgNEg8KB2RlcG90aWQYAiABKA0SRgoHd29ydHlw",
+            "ZRgDIAEoDjITLkVTdGVhbVBpcGVXb3JrVHlwZTogRVN0ZWFtUGlwZUNsaWVu",
+            "dFdvcmtUeXBlX0ludmFsaWQSQAoKb3BlcmF0aW9ucxgEIAMoCzIsLkNDbGll",
+            "bnRNZXRyaWNzX1N0ZWFtUGlwZVdvcmtTdGF0c19PcGVyYXRpb24SFQoNaGFy",
+            "ZHdhcmVfdHlwZRgFIAEoDSLAAwosQ0NsaWVudE1ldHJpY3NfUmVwb3J0UmVh",
+            "Y3RVc2FnZV9Ob3RpZmljYXRpb24SDwoHcHJvZHVjdBgBIAEoCRIPCgd2ZXJz",
+            "aW9uGAIgASgJEkcKBnJvdXRlcxgDIAMoCzI3LkNDbGllbnRNZXRyaWNzX1Jl",
+            "cG9ydFJlYWN0VXNhZ2VfTm90aWZpY2F0aW9uLlJvdXRlRGF0YRJPCgpjb21w",
+            "b25lbnRzGAQgAygLMjsuQ0NsaWVudE1ldHJpY3NfUmVwb3J0UmVhY3RVc2Fn",
+            "ZV9Ob3RpZmljYXRpb24uQ29tcG9uZW50RGF0YRJJCgdhY3Rpb25zGAUgAygL",
+            "MjguQ0NsaWVudE1ldHJpY3NfUmVwb3J0UmVhY3RVc2FnZV9Ob3RpZmljYXRp",
+            "b24uQWN0aW9uRGF0YRopCglSb3V0ZURhdGESDQoFcm91dGUYASABKAkSDQoF",
+            "Y291bnQYAiABKA0aMQoNQ29tcG9uZW50RGF0YRIRCgljb21wb25lbnQYASAB",
+            "KAkSDQoFY291bnQYAiABKA0aKwoKQWN0aW9uRGF0YRIOCgZhY3Rpb24YASAB",
+            "KAkSDQoFY291bnQYAiABKA0i1AEKLUNDbGllbnRNZXRyaWNzX1JlcG9ydENs",
+            "aWVudEVycm9yX05vdGlmaWNhdGlvbhIPCgdwcm9kdWN0GAEgASgJEg8KB3Zl",
+            "cnNpb24YAiABKAkSRAoGZXJyb3JzGAMgAygLMjQuQ0NsaWVudE1ldHJpY3Nf",
+            "UmVwb3J0Q2xpZW50RXJyb3JfTm90aWZpY2F0aW9uLkVycm9yGjsKBUVycm9y",
+            "EhIKCmlkZW50aWZpZXIYASABKAkSDwoHbWVzc2FnZRgCIAEoCRINCgVjb3Vu",
+            "dBgDIAEoDSJnCitDQ2xpZW50TWV0cmljc19DbGllbnRCb290c3RyYXBfTm90",
+            "aWZpY2F0aW9uEjgKB3N1bW1hcnkYASABKAsyJy5DQ2xpZW50TWV0cmljc19D",
+            "bGllbnRCb290c3RyYXBfU3VtbWFyeSKRAwopQ0NsaWVudE1ldHJpY3NfRG93",
+            "bmxvYWRSYXRlc19Ob3RpZmljYXRpb24SDwoHY2VsbF9pZBgBIAEoDRJDCgVz",
+            "dGF0cxgCIAMoCzI0LkNDbGllbnRNZXRyaWNzX0Rvd25sb2FkUmF0ZXNfTm90",
+            "aWZpY2F0aW9uLlN0YXRzSW5mbxIXCg90aHJvdHRsaW5nX2ticHMYAyABKA0a",
+            "9AEKCVN0YXRzSW5mbxITCgtzb3VyY2VfdHlwZRgBIAEoDRIRCglzb3VyY2Vf",
+            "aWQYAiABKA0SDQoFYnl0ZXMYAyABKAQSEQoJaG9zdF9uYW1lGAQgASgJEhQK",
+            "DG1pY3Jvc2Vjb25kcxgFIAEoBBIRCgl1c2VkX2lwdjYYBiABKAgSDwoHcHJv",
+            "eGllZBgHIAEoCBISCgp1c2VkX2h0dHAyGAggASgIEhIKCmNhY2hlX2hpdHMY",
+            "CSABKA0SFAoMY2FjaGVfbWlzc2VzGAogASgNEhEKCWhpdF9ieXRlcxgLIAEo",
+            "BBISCgptaXNzX2J5dGVzGAwgASgEIp4CCi1DQ2xpZW50TWV0cmljc19Db250",
+            "ZW50VmFsaWRhdGlvbl9Ob3RpZmljYXRpb24SGQoRdmFsaWRhdGlvbl9yZXN1",
+            "bHQYASABKAUSDgoGYXBwX2lkGAIgASgNEhQKDHN0YWdlZF9maWxlcxgDIAEo",
+            "CBIWCg51c2VyX2luaXRpYXRlZBgEIAEoCBIRCgllYXJseV9vdXQYBSABKAgS",
+            "FgoOY2h1bmtzX3NjYW5uZWQYBiABKA0SFgoOY2h1bmtzX2NvcnJ1cHQYByAB",
+            "KA0SFQoNYnl0ZXNfc2Nhbm5lZBgIIAEoBBIZChFjaHVuYnl0ZXNfY29ycnVw",
+            "dBgJIAEoBBIfChd0b3RhbF9maWxlX3NpemVfY29ycnVwdBgKIAEoBCLgBAot",
+            "Q0NsaWVudE1ldHJpY3NfQ2xvdWRBcHBTeW5jU3RhdHNfTm90aWZpY2F0aW9u",
+            "Eg4KBmFwcF9pZBgBIAEoDRIVCg1wbGF0Zm9ybV90eXBlGAIgASgNEg8KB3By",
+            "ZWxvYWQYAyABKAgSGwoTYmxvY2tpbmdfYXBwX2xhdW5jaBgEIAEoCBIWCg5m",
+            "aWxlc191cGxvYWRlZBgFIAEoDRIYChBmaWxlc19kb3dubG9hZGVkGAYgASgN",
+            "EhUKDWZpbGVzX2RlbGV0ZWQYByABKA0SFgoOYnl0ZXNfdXBsb2FkZWQYCCAB",
+            "KAQSGAoQYnl0ZXNfZG93bmxvYWRlZBgJIAEoBBIWCg5taWNyb3NlY190b3Rh",
+            "bBgKIAEoBBIcChRtaWNyb3NlY19pbml0X2NhY2hlcxgLIAEoBBIfChdtaWNy",
+            "b3NlY192YWxpZGF0ZV9zdGF0ZRgMIAEoBBIaChJtaWNyb3NlY19hY19sYXVu",
+            "Y2gYDSABKAQSIwobbWljcm9zZWNfYWNfcHJlcF91c2VyX2ZpbGVzGA4gASgE",
+            "EhgKEG1pY3Jvc2VjX2FjX2V4aXQYDyABKAQSIAoYbWljcm9zZWNfYnVpbGRf",
+            "c3luY19saXN0GBAgASgEEh0KFW1pY3Jvc2VjX2RlbGV0ZV9maWxlcxgRIAEo",
+            "BBIfChdtaWNyb3NlY19kb3dubG9hZF9maWxlcxgSIAEoBBIdChVtaWNyb3Nl",
+            "Y191cGxvYWRfZmlsZXMYEyABKAQSFQoNaGFyZHdhcmVfdHlwZRgUIAEoDRIV",
+            "Cg1maWxlc19tYW5hZ2VkGBUgASgNIooBCjpDQ2xpZW50TWV0cmljc19Db250",
+            "ZW50RG93bmxvYWRSZXNwb25zZV9Db3VudHNfTm90aWZpY2F0aW9uEg8KB2Nl",
+            "bGxfaWQYASABKA0SOwoEZGF0YRgCIAEoCzItLkNDbGllbnRNZXRyaWNzX0Nv",
+            "bnRlbnREb3dubG9hZFJlc3BvbnNlX0hvc3RzIugCCixDQ2xpZW50TWV0cmlj",
+            "c19SZXBvcnRDbGllbnRBcmdzX05vdGlmaWNhdGlvbhITCgtjbGllbnRfYXJn",
+            "cxgBIAMoCRIjChtncHVfd2Vidmlld19yZWdrZXlfZGlzYWJsZWQYAiABKAgS",
+            "GwoTc3VwcHJlc3NfZ3B1X2Nocm9tZRgDIAEoCBIdChVicm93c2VyX25vdF9z",
+            "dXBwb3J0ZWQYBCABKAgSJgoeaHdfYWNjZWxfdmlkZW9fcmVna2V5X2Rpc2Fi",
+            "bGVkGAUgASgIEhkKEW1pbmlfbW9kZV9lbmFibGVkGAYgASgIEhsKE2Zwc19j",
+            "b3VudGVyX2VuYWJsZWQYByABKAgSKgoibGlicmFyeV9sb3dfYmFuZHdpZHRo",
+            "X21vZGVfZW5hYmxlZBgIIAEoCBIlCh1saWJyYXJ5X2xvd19wZXJmX21vZGVf",
+            "ZW5hYmxlZBgJIAEoCBIPCgdncl9tb2RlGAogASgFIqsBCiVDQ2xpZW50TWV0",
+            "cmljc19DbGlwU2hhcmVfTm90aWZpY2F0aW9uEhIKB2VyZXN1bHQYASABKA06",
+            "ATISPgoMc2hhcmVfbWV0aG9kGAIgASgOMhEuRUNsaXBTaGFyZU1ldGhvZDoV",
+            "RUNsaXBTaGFyZU1ldGhvZF9DaGF0Eg8KB3NlY29uZHMYAyABKAISDQoFYnl0",
+            "ZXMYBCABKAQSDgoGZ2FtZWlkGAUgASgGIqcBCixDQ2xpZW50TWV0cmljc19F",
+            "bmRHYW1lUmVjb3JkaW5nX05vdGlmaWNhdGlvbhJHCg5yZWNvcmRpbmdfdHlw",
+            "ZRgBIAEoDjITLkVHYW1lUmVjb3JkaW5nVHlwZToaRUdhbWVSZWNvcmRpbmdU",
+            "eXBlX1Vua25vd24SDwoHc2Vjb25kcxgCIAEoAhINCgVieXRlcxgDIAEoBBIO",
+            "CgZnYW1laWQYBCABKAYqbQoSRVN0ZWFtUGlwZVdvcmtUeXBlEiQKIEVTdGVh",
+            "bVBpcGVDbGllbnRXb3JrVHlwZV9JbnZhbGlkEAASMQotRVN0ZWFtUGlwZUNs",
+            "aWVudFdvcmtUeXBlX1N0YWdlRnJvbUNodW5rU3RvcmVzEAEqswEKF0VTdGVh",
+            "bVBpcGVPcGVyYXRpb25UeXBlEiMKH0VTdGVhbVBpcGVPcGVyYXRpb25UeXBl",
+            "X0ludmFsaWQQABImCiJFU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9EZWNyeXB0",
+            "Q1BVEAESJAogRVN0ZWFtUGlwZU9wZXJhdGlvblR5cGVfRGlza1JlYWQQAhIl",
+            "CiFFU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9EaXNrV3JpdGUQAyrKAQoQRUNs",
+            "aXBTaGFyZU1ldGhvZBIZChVFQ2xpcFNoYXJlTWV0aG9kX0NoYXQQARIeChpF",
+            "Q2xpcFNoYXJlTWV0aG9kX0NsaXBib2FyZBACEhkKFUVDbGlwU2hhcmVNZXRo",
+            "b2RfRmlsZRADEh0KGUVDbGlwU2hhcmVNZXRob2RfU2VuZENsaXAQBBIgChxF",
+            "Q2xpcFNoYXJlTWV0aG9kX1NhdmVUb01lZGlhEAUSHwobRUNsaXBTaGFyZU1l",
+            "dGhvZF9DcmVhdGVMaW5rEAYygQkKDUNsaWVudE1ldHJpY3MSXAodQ2xpZW50",
+            "QXBwSW50ZXJmYWNlU3RhdHNSZXBvcnQSLi5DQ2xpZW50TWV0cmljc19BcHBJ",
+            "bnRlcmZhY2VTdGF0c19Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlEloKHENs",
+            "aWVudElQdjZDb25uZWN0aXZpdHlSZXBvcnQSLS5DQ2xpZW50TWV0cmljc19J",
+            "UHY2Q29ubmVjdGl2aXR5X05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USWAoY",
+            "U3RlYW1QaXBlV29ya1N0YXRzUmVwb3J0Ei8uQ0NsaWVudE1ldHJpY3NfU3Rl",
+            "YW1QaXBlV29ya1N0YXRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoQ",
+            "UmVwb3J0UmVhY3RVc2FnZRItLkNDbGllbnRNZXRyaWNzX1JlcG9ydFJlYWN0",
+            "VXNhZ2VfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJQChFSZXBvcnRDbGll",
+            "bnRFcnJvchIuLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVudEVycm9yX05v",
+            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USUgoVQ2xpZW50Qm9vdHN0cmFwUmVw",
+            "b3J0EiwuQ0NsaWVudE1ldHJpY3NfQ2xpZW50Qm9vdHN0cmFwX05vdGlmaWNh",
+            "dGlvbhoLLk5vUmVzcG9uc2USVAoZQ2xpZW50RG93bmxvYWRSYXRlc1JlcG9y",
+            "dBIqLkNDbGllbnRNZXRyaWNzX0Rvd25sb2FkUmF0ZXNfTm90aWZpY2F0aW9u",
+            "GgsuTm9SZXNwb25zZRJcCh1DbGllbnRDb250ZW50VmFsaWRhdGlvblJlcG9y",
+            "dBIuLkNDbGllbnRNZXRyaWNzX0NvbnRlbnRWYWxpZGF0aW9uX05vdGlmaWNh",
+            "dGlvbhoLLk5vUmVzcG9uc2USVgoXQ2xpZW50Q2xvdWRBcHBTeW5jU3RhdHMS",
+            "Li5DQ2xpZW50TWV0cmljc19DbG91ZEFwcFN5bmNTdGF0c19Ob3RpZmljYXRp",
+            "b24aCy5Ob1Jlc3BvbnNlEmwKIENsaWVudERvd25sb2FkUmVzcG9uc2VDb2Rl",
+            "Q291bnRzEjsuQ0NsaWVudE1ldHJpY3NfQ29udGVudERvd25sb2FkUmVzcG9u",
+            "c2VfQ291bnRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoQUmVwb3J0",
+            "Q2xpZW50QXJncxItLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVudEFyZ3Nf",
+            "Tm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJGCg9SZXBvcnRDbGlwU2hhcmUS",
+            "Ji5DQ2xpZW50TWV0cmljc19DbGlwU2hhcmVfTm90aWZpY2F0aW9uGgsuTm9S",
+            "ZXNwb25zZRJUChZSZXBvcnRFbmRHYW1lUmVjb3JkaW5nEi0uQ0NsaWVudE1l",
+            "dHJpY3NfRW5kR2FtZVJlY29yZGluZ19Ob3RpZmljYXRpb24aCy5Ob1Jlc3Bv",
+            "bnNlQh2AAQGqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesUnifiedBaseSteamclientReflection.Descriptor, global::OpenSteamworks.Protobuf.ClientmetricsReflection.Descriptor, },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.ESteamPipeWorkType), typeof(global::OpenSteamworks.Protobuf.ESteamPipeOperationType), }, null, new pbr::GeneratedClrTypeInfo[] {
+          new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesUnifiedBaseSteamclientReflection.Descriptor, global::OpenSteamworks.Protobuf.ClientmetricsReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, },
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.ESteamPipeWorkType), typeof(global::OpenSteamworks.Protobuf.ESteamPipeOperationType), typeof(global::OpenSteamworks.Protobuf.EClipShareMethod), }, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceCreation), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceCreation.Parser, new[]{ "RawVersion", "RequestedInterfaceType" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceMethodCounts), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceMethodCounts.Parser, new[]{ "InterfaceName", "MethodName", "CallCount" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceStats_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceStats_Notification.Parser, new[]{ "GameId", "InterfacesCreated", "MethodsCalled", "SessionLengthSeconds" }, null, null, null, null),
@@ -160,7 +176,9 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ContentValidation_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ContentValidation_Notification.Parser, new[]{ "ValidationResult", "AppId", "StagedFiles", "UserInitiated", "EarlyOut", "ChunksScanned", "ChunksCorrupt", "BytesScanned", "ChunbytesCorrupt", "TotalFileSizeCorrupt" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_CloudAppSyncStats_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_CloudAppSyncStats_Notification.Parser, new[]{ "AppId", "PlatformType", "Preload", "BlockingAppLaunch", "FilesUploaded", "FilesDownloaded", "FilesDeleted", "BytesUploaded", "BytesDownloaded", "MicrosecTotal", "MicrosecInitCaches", "MicrosecValidateState", "MicrosecAcLaunch", "MicrosecAcPrepUserFiles", "MicrosecAcExit", "MicrosecBuildSyncList", "MicrosecDeleteFiles", "MicrosecDownloadFiles", "MicrosecUploadFiles", "HardwareType", "FilesManaged" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ContentDownloadResponse_Counts_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ContentDownloadResponse_Counts_Notification.Parser, new[]{ "CellId", "Data" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification.Parser, new[]{ "ClientArgs", "GpuWebviewRegkeyDisabled", "SuppressGpuChrome", "BrowserNotSupported", "HwAccelVideoRegkeyDisabled", "MiniModeEnabled", "FpsCounterEnabled", "LibraryLowBandwidthModeEnabled", "LibraryLowPerfModeEnabled" }, null, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification.Parser, new[]{ "ClientArgs", "GpuWebviewRegkeyDisabled", "SuppressGpuChrome", "BrowserNotSupported", "HwAccelVideoRegkeyDisabled", "MiniModeEnabled", "FpsCounterEnabled", "LibraryLowBandwidthModeEnabled", "LibraryLowPerfModeEnabled", "GrMode" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ClipShare_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ClipShare_Notification.Parser, new[]{ "Eresult", "ShareMethod", "Seconds", "Bytes", "Gameid" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_EndGameRecording_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_EndGameRecording_Notification.Parser, new[]{ "RecordingType", "Seconds", "Bytes", "Gameid" }, null, null, null, null)
           }));
     }
     #endregion
@@ -177,6 +195,15 @@ namespace OpenSteamworks.Protobuf {
     [pbr::OriginalName("ESteamPipeOperationType_DecryptCPU")] DecryptCpu = 1,
     [pbr::OriginalName("ESteamPipeOperationType_DiskRead")] DiskRead = 2,
     [pbr::OriginalName("ESteamPipeOperationType_DiskWrite")] DiskWrite = 3,
+  }
+
+  public enum EClipShareMethod {
+    [pbr::OriginalName("EClipShareMethod_Chat")] Chat = 1,
+    [pbr::OriginalName("EClipShareMethod_Clipboard")] Clipboard = 2,
+    [pbr::OriginalName("EClipShareMethod_File")] File = 3,
+    [pbr::OriginalName("EClipShareMethod_SendClip")] SendClip = 4,
+    [pbr::OriginalName("EClipShareMethod_SaveToMedia")] SaveToMedia = 5,
+    [pbr::OriginalName("EClipShareMethod_CreateLink")] CreateLink = 6,
   }
 
   #endregion
@@ -7713,6 +7740,7 @@ namespace OpenSteamworks.Protobuf {
       fpsCounterEnabled_ = other.fpsCounterEnabled_;
       libraryLowBandwidthModeEnabled_ = other.libraryLowBandwidthModeEnabled_;
       libraryLowPerfModeEnabled_ = other.libraryLowPerfModeEnabled_;
+      grMode_ = other.grMode_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -7949,6 +7977,33 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~128;
     }
 
+    /// <summary>Field number for the "gr_mode" field.</summary>
+    public const int GrModeFieldNumber = 10;
+    private readonly static int GrModeDefaultValue = 0;
+
+    private int grMode_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int GrMode {
+      get { if ((_hasBits0 & 256) != 0) { return grMode_; } else { return GrModeDefaultValue; } }
+      set {
+        _hasBits0 |= 256;
+        grMode_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gr_mode" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGrMode {
+      get { return (_hasBits0 & 256) != 0; }
+    }
+    /// <summary>Clears the value of the "gr_mode" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGrMode() {
+      _hasBits0 &= ~256;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -7973,6 +8028,7 @@ namespace OpenSteamworks.Protobuf {
       if (FpsCounterEnabled != other.FpsCounterEnabled) return false;
       if (LibraryLowBandwidthModeEnabled != other.LibraryLowBandwidthModeEnabled) return false;
       if (LibraryLowPerfModeEnabled != other.LibraryLowPerfModeEnabled) return false;
+      if (GrMode != other.GrMode) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -7989,6 +8045,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasFpsCounterEnabled) hash ^= FpsCounterEnabled.GetHashCode();
       if (HasLibraryLowBandwidthModeEnabled) hash ^= LibraryLowBandwidthModeEnabled.GetHashCode();
       if (HasLibraryLowPerfModeEnabled) hash ^= LibraryLowPerfModeEnabled.GetHashCode();
+      if (HasGrMode) hash ^= GrMode.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -8040,6 +8097,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(72);
         output.WriteBool(LibraryLowPerfModeEnabled);
       }
+      if (HasGrMode) {
+        output.WriteRawTag(80);
+        output.WriteInt32(GrMode);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -8083,6 +8144,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(72);
         output.WriteBool(LibraryLowPerfModeEnabled);
       }
+      if (HasGrMode) {
+        output.WriteRawTag(80);
+        output.WriteInt32(GrMode);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -8117,6 +8182,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasLibraryLowPerfModeEnabled) {
         size += 1 + 1;
+      }
+      if (HasGrMode) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(GrMode);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -8154,6 +8222,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasLibraryLowPerfModeEnabled) {
         LibraryLowPerfModeEnabled = other.LibraryLowPerfModeEnabled;
+      }
+      if (other.HasGrMode) {
+        GrMode = other.GrMode;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -8206,6 +8277,10 @@ namespace OpenSteamworks.Protobuf {
             LibraryLowPerfModeEnabled = input.ReadBool();
             break;
           }
+          case 80: {
+            GrMode = input.ReadInt32();
+            break;
+          }
         }
       }
     #endif
@@ -8255,6 +8330,788 @@ namespace OpenSteamworks.Protobuf {
           }
           case 72: {
             LibraryLowPerfModeEnabled = input.ReadBool();
+            break;
+          }
+          case 80: {
+            GrMode = input.ReadInt32();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CClientMetrics_ClipShare_Notification : pb::IMessage<CClientMetrics_ClipShare_Notification>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CClientMetrics_ClipShare_Notification> _parser = new pb::MessageParser<CClientMetrics_ClipShare_Notification>(() => new CClientMetrics_ClipShare_Notification());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CClientMetrics_ClipShare_Notification> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientmetricsSteamclientReflection.Descriptor.MessageTypes[15]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipShare_Notification() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipShare_Notification(CClientMetrics_ClipShare_Notification other) : this() {
+      _hasBits0 = other._hasBits0;
+      eresult_ = other.eresult_;
+      shareMethod_ = other.shareMethod_;
+      seconds_ = other.seconds_;
+      bytes_ = other.bytes_;
+      gameid_ = other.gameid_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipShare_Notification Clone() {
+      return new CClientMetrics_ClipShare_Notification(this);
+    }
+
+    /// <summary>Field number for the "eresult" field.</summary>
+    public const int EresultFieldNumber = 1;
+    private readonly static uint EresultDefaultValue = 2;
+
+    private uint eresult_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Eresult {
+      get { if ((_hasBits0 & 1) != 0) { return eresult_; } else { return EresultDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        eresult_ = value;
+      }
+    }
+    /// <summary>Gets whether the "eresult" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasEresult {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "eresult" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearEresult() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "share_method" field.</summary>
+    public const int ShareMethodFieldNumber = 2;
+    private readonly static global::OpenSteamworks.Protobuf.EClipShareMethod ShareMethodDefaultValue = global::OpenSteamworks.Protobuf.EClipShareMethod.Chat;
+
+    private global::OpenSteamworks.Protobuf.EClipShareMethod shareMethod_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.EClipShareMethod ShareMethod {
+      get { if ((_hasBits0 & 2) != 0) { return shareMethod_; } else { return ShareMethodDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        shareMethod_ = value;
+      }
+    }
+    /// <summary>Gets whether the "share_method" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasShareMethod {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "share_method" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearShareMethod() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "seconds" field.</summary>
+    public const int SecondsFieldNumber = 3;
+    private readonly static float SecondsDefaultValue = 0F;
+
+    private float seconds_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Seconds {
+      get { if ((_hasBits0 & 4) != 0) { return seconds_; } else { return SecondsDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        seconds_ = value;
+      }
+    }
+    /// <summary>Gets whether the "seconds" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSeconds {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "seconds" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSeconds() {
+      _hasBits0 &= ~4;
+    }
+
+    /// <summary>Field number for the "bytes" field.</summary>
+    public const int BytesFieldNumber = 4;
+    private readonly static ulong BytesDefaultValue = 0UL;
+
+    private ulong bytes_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Bytes {
+      get { if ((_hasBits0 & 8) != 0) { return bytes_; } else { return BytesDefaultValue; } }
+      set {
+        _hasBits0 |= 8;
+        bytes_ = value;
+      }
+    }
+    /// <summary>Gets whether the "bytes" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasBytes {
+      get { return (_hasBits0 & 8) != 0; }
+    }
+    /// <summary>Clears the value of the "bytes" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearBytes() {
+      _hasBits0 &= ~8;
+    }
+
+    /// <summary>Field number for the "gameid" field.</summary>
+    public const int GameidFieldNumber = 5;
+    private readonly static ulong GameidDefaultValue = 0UL;
+
+    private ulong gameid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Gameid {
+      get { if ((_hasBits0 & 16) != 0) { return gameid_; } else { return GameidDefaultValue; } }
+      set {
+        _hasBits0 |= 16;
+        gameid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gameid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGameid {
+      get { return (_hasBits0 & 16) != 0; }
+    }
+    /// <summary>Clears the value of the "gameid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGameid() {
+      _hasBits0 &= ~16;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CClientMetrics_ClipShare_Notification);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CClientMetrics_ClipShare_Notification other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Eresult != other.Eresult) return false;
+      if (ShareMethod != other.ShareMethod) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Seconds, other.Seconds)) return false;
+      if (Bytes != other.Bytes) return false;
+      if (Gameid != other.Gameid) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasEresult) hash ^= Eresult.GetHashCode();
+      if (HasShareMethod) hash ^= ShareMethod.GetHashCode();
+      if (HasSeconds) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Seconds);
+      if (HasBytes) hash ^= Bytes.GetHashCode();
+      if (HasGameid) hash ^= Gameid.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasEresult) {
+        output.WriteRawTag(8);
+        output.WriteUInt32(Eresult);
+      }
+      if (HasShareMethod) {
+        output.WriteRawTag(16);
+        output.WriteEnum((int) ShareMethod);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(29);
+        output.WriteFloat(Seconds);
+      }
+      if (HasBytes) {
+        output.WriteRawTag(32);
+        output.WriteUInt64(Bytes);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(41);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasEresult) {
+        output.WriteRawTag(8);
+        output.WriteUInt32(Eresult);
+      }
+      if (HasShareMethod) {
+        output.WriteRawTag(16);
+        output.WriteEnum((int) ShareMethod);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(29);
+        output.WriteFloat(Seconds);
+      }
+      if (HasBytes) {
+        output.WriteRawTag(32);
+        output.WriteUInt64(Bytes);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(41);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasEresult) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Eresult);
+      }
+      if (HasShareMethod) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) ShareMethod);
+      }
+      if (HasSeconds) {
+        size += 1 + 4;
+      }
+      if (HasBytes) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(Bytes);
+      }
+      if (HasGameid) {
+        size += 1 + 8;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CClientMetrics_ClipShare_Notification other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasEresult) {
+        Eresult = other.Eresult;
+      }
+      if (other.HasShareMethod) {
+        ShareMethod = other.ShareMethod;
+      }
+      if (other.HasSeconds) {
+        Seconds = other.Seconds;
+      }
+      if (other.HasBytes) {
+        Bytes = other.Bytes;
+      }
+      if (other.HasGameid) {
+        Gameid = other.Gameid;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Eresult = input.ReadUInt32();
+            break;
+          }
+          case 16: {
+            ShareMethod = (global::OpenSteamworks.Protobuf.EClipShareMethod) input.ReadEnum();
+            break;
+          }
+          case 29: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 32: {
+            Bytes = input.ReadUInt64();
+            break;
+          }
+          case 41: {
+            Gameid = input.ReadFixed64();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Eresult = input.ReadUInt32();
+            break;
+          }
+          case 16: {
+            ShareMethod = (global::OpenSteamworks.Protobuf.EClipShareMethod) input.ReadEnum();
+            break;
+          }
+          case 29: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 32: {
+            Bytes = input.ReadUInt64();
+            break;
+          }
+          case 41: {
+            Gameid = input.ReadFixed64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CClientMetrics_EndGameRecording_Notification : pb::IMessage<CClientMetrics_EndGameRecording_Notification>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CClientMetrics_EndGameRecording_Notification> _parser = new pb::MessageParser<CClientMetrics_EndGameRecording_Notification>(() => new CClientMetrics_EndGameRecording_Notification());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CClientMetrics_EndGameRecording_Notification> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientmetricsSteamclientReflection.Descriptor.MessageTypes[16]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_EndGameRecording_Notification() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_EndGameRecording_Notification(CClientMetrics_EndGameRecording_Notification other) : this() {
+      _hasBits0 = other._hasBits0;
+      recordingType_ = other.recordingType_;
+      seconds_ = other.seconds_;
+      bytes_ = other.bytes_;
+      gameid_ = other.gameid_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_EndGameRecording_Notification Clone() {
+      return new CClientMetrics_EndGameRecording_Notification(this);
+    }
+
+    /// <summary>Field number for the "recording_type" field.</summary>
+    public const int RecordingTypeFieldNumber = 1;
+    private readonly static global::OpenSteamworks.Protobuf.EGameRecordingType RecordingTypeDefaultValue = global::OpenSteamworks.Protobuf.EGameRecordingType.Unknown;
+
+    private global::OpenSteamworks.Protobuf.EGameRecordingType recordingType_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.EGameRecordingType RecordingType {
+      get { if ((_hasBits0 & 1) != 0) { return recordingType_; } else { return RecordingTypeDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        recordingType_ = value;
+      }
+    }
+    /// <summary>Gets whether the "recording_type" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasRecordingType {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "recording_type" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearRecordingType() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "seconds" field.</summary>
+    public const int SecondsFieldNumber = 2;
+    private readonly static float SecondsDefaultValue = 0F;
+
+    private float seconds_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Seconds {
+      get { if ((_hasBits0 & 2) != 0) { return seconds_; } else { return SecondsDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        seconds_ = value;
+      }
+    }
+    /// <summary>Gets whether the "seconds" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSeconds {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "seconds" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSeconds() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "bytes" field.</summary>
+    public const int BytesFieldNumber = 3;
+    private readonly static ulong BytesDefaultValue = 0UL;
+
+    private ulong bytes_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Bytes {
+      get { if ((_hasBits0 & 4) != 0) { return bytes_; } else { return BytesDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        bytes_ = value;
+      }
+    }
+    /// <summary>Gets whether the "bytes" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasBytes {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "bytes" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearBytes() {
+      _hasBits0 &= ~4;
+    }
+
+    /// <summary>Field number for the "gameid" field.</summary>
+    public const int GameidFieldNumber = 4;
+    private readonly static ulong GameidDefaultValue = 0UL;
+
+    private ulong gameid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Gameid {
+      get { if ((_hasBits0 & 8) != 0) { return gameid_; } else { return GameidDefaultValue; } }
+      set {
+        _hasBits0 |= 8;
+        gameid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gameid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGameid {
+      get { return (_hasBits0 & 8) != 0; }
+    }
+    /// <summary>Clears the value of the "gameid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGameid() {
+      _hasBits0 &= ~8;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CClientMetrics_EndGameRecording_Notification);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CClientMetrics_EndGameRecording_Notification other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (RecordingType != other.RecordingType) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Seconds, other.Seconds)) return false;
+      if (Bytes != other.Bytes) return false;
+      if (Gameid != other.Gameid) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasRecordingType) hash ^= RecordingType.GetHashCode();
+      if (HasSeconds) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Seconds);
+      if (HasBytes) hash ^= Bytes.GetHashCode();
+      if (HasGameid) hash ^= Gameid.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasRecordingType) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) RecordingType);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(21);
+        output.WriteFloat(Seconds);
+      }
+      if (HasBytes) {
+        output.WriteRawTag(24);
+        output.WriteUInt64(Bytes);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(33);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasRecordingType) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) RecordingType);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(21);
+        output.WriteFloat(Seconds);
+      }
+      if (HasBytes) {
+        output.WriteRawTag(24);
+        output.WriteUInt64(Bytes);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(33);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasRecordingType) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) RecordingType);
+      }
+      if (HasSeconds) {
+        size += 1 + 4;
+      }
+      if (HasBytes) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(Bytes);
+      }
+      if (HasGameid) {
+        size += 1 + 8;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CClientMetrics_EndGameRecording_Notification other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasRecordingType) {
+        RecordingType = other.RecordingType;
+      }
+      if (other.HasSeconds) {
+        Seconds = other.Seconds;
+      }
+      if (other.HasBytes) {
+        Bytes = other.Bytes;
+      }
+      if (other.HasGameid) {
+        Gameid = other.Gameid;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            RecordingType = (global::OpenSteamworks.Protobuf.EGameRecordingType) input.ReadEnum();
+            break;
+          }
+          case 21: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 24: {
+            Bytes = input.ReadUInt64();
+            break;
+          }
+          case 33: {
+            Gameid = input.ReadFixed64();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            RecordingType = (global::OpenSteamworks.Protobuf.EGameRecordingType) input.ReadEnum();
+            break;
+          }
+          case 21: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 24: {
+            Bytes = input.ReadUInt64();
+            break;
+          }
+          case 33: {
+            Gameid = input.ReadFixed64();
             break;
           }
         }
