@@ -115,51 +115,69 @@ namespace OpenSteamworks.Protobuf {
             "cmljc19DbGlwU2hhcmVfTm90aWZpY2F0aW9uEhIKB2VyZXN1bHQYASABKA06",
             "ATISPgoMc2hhcmVfbWV0aG9kGAIgASgOMhEuRUNsaXBTaGFyZU1ldGhvZDoV",
             "RUNsaXBTaGFyZU1ldGhvZF9DaGF0Eg8KB3NlY29uZHMYAyABKAISDQoFYnl0",
-            "ZXMYBCABKAQSDgoGZ2FtZWlkGAUgASgGIqcBCixDQ2xpZW50TWV0cmljc19F",
-            "bmRHYW1lUmVjb3JkaW5nX05vdGlmaWNhdGlvbhJHCg5yZWNvcmRpbmdfdHlw",
-            "ZRgBIAEoDjITLkVHYW1lUmVjb3JkaW5nVHlwZToaRUdhbWVSZWNvcmRpbmdU",
-            "eXBlX1Vua25vd24SDwoHc2Vjb25kcxgCIAEoAhINCgVieXRlcxgDIAEoBBIO",
-            "CgZnYW1laWQYBCABKAYqbQoSRVN0ZWFtUGlwZVdvcmtUeXBlEiQKIEVTdGVh",
-            "bVBpcGVDbGllbnRXb3JrVHlwZV9JbnZhbGlkEAASMQotRVN0ZWFtUGlwZUNs",
-            "aWVudFdvcmtUeXBlX1N0YWdlRnJvbUNodW5rU3RvcmVzEAEqswEKF0VTdGVh",
-            "bVBpcGVPcGVyYXRpb25UeXBlEiMKH0VTdGVhbVBpcGVPcGVyYXRpb25UeXBl",
-            "X0ludmFsaWQQABImCiJFU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9EZWNyeXB0",
-            "Q1BVEAESJAogRVN0ZWFtUGlwZU9wZXJhdGlvblR5cGVfRGlza1JlYWQQAhIl",
-            "CiFFU3RlYW1QaXBlT3BlcmF0aW9uVHlwZV9EaXNrV3JpdGUQAyrKAQoQRUNs",
-            "aXBTaGFyZU1ldGhvZBIZChVFQ2xpcFNoYXJlTWV0aG9kX0NoYXQQARIeChpF",
-            "Q2xpcFNoYXJlTWV0aG9kX0NsaXBib2FyZBACEhkKFUVDbGlwU2hhcmVNZXRo",
-            "b2RfRmlsZRADEh0KGUVDbGlwU2hhcmVNZXRob2RfU2VuZENsaXAQBBIgChxF",
-            "Q2xpcFNoYXJlTWV0aG9kX1NhdmVUb01lZGlhEAUSHwobRUNsaXBTaGFyZU1l",
-            "dGhvZF9DcmVhdGVMaW5rEAYygQkKDUNsaWVudE1ldHJpY3MSXAodQ2xpZW50",
-            "QXBwSW50ZXJmYWNlU3RhdHNSZXBvcnQSLi5DQ2xpZW50TWV0cmljc19BcHBJ",
-            "bnRlcmZhY2VTdGF0c19Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlEloKHENs",
-            "aWVudElQdjZDb25uZWN0aXZpdHlSZXBvcnQSLS5DQ2xpZW50TWV0cmljc19J",
-            "UHY2Q29ubmVjdGl2aXR5X05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USWAoY",
-            "U3RlYW1QaXBlV29ya1N0YXRzUmVwb3J0Ei8uQ0NsaWVudE1ldHJpY3NfU3Rl",
-            "YW1QaXBlV29ya1N0YXRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoQ",
-            "UmVwb3J0UmVhY3RVc2FnZRItLkNDbGllbnRNZXRyaWNzX1JlcG9ydFJlYWN0",
-            "VXNhZ2VfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJQChFSZXBvcnRDbGll",
-            "bnRFcnJvchIuLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVudEVycm9yX05v",
-            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USUgoVQ2xpZW50Qm9vdHN0cmFwUmVw",
-            "b3J0EiwuQ0NsaWVudE1ldHJpY3NfQ2xpZW50Qm9vdHN0cmFwX05vdGlmaWNh",
-            "dGlvbhoLLk5vUmVzcG9uc2USVAoZQ2xpZW50RG93bmxvYWRSYXRlc1JlcG9y",
-            "dBIqLkNDbGllbnRNZXRyaWNzX0Rvd25sb2FkUmF0ZXNfTm90aWZpY2F0aW9u",
-            "GgsuTm9SZXNwb25zZRJcCh1DbGllbnRDb250ZW50VmFsaWRhdGlvblJlcG9y",
-            "dBIuLkNDbGllbnRNZXRyaWNzX0NvbnRlbnRWYWxpZGF0aW9uX05vdGlmaWNh",
-            "dGlvbhoLLk5vUmVzcG9uc2USVgoXQ2xpZW50Q2xvdWRBcHBTeW5jU3RhdHMS",
-            "Li5DQ2xpZW50TWV0cmljc19DbG91ZEFwcFN5bmNTdGF0c19Ob3RpZmljYXRp",
-            "b24aCy5Ob1Jlc3BvbnNlEmwKIENsaWVudERvd25sb2FkUmVzcG9uc2VDb2Rl",
-            "Q291bnRzEjsuQ0NsaWVudE1ldHJpY3NfQ29udGVudERvd25sb2FkUmVzcG9u",
-            "c2VfQ291bnRzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USTgoQUmVwb3J0",
-            "Q2xpZW50QXJncxItLkNDbGllbnRNZXRyaWNzX1JlcG9ydENsaWVudEFyZ3Nf",
-            "Tm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJGCg9SZXBvcnRDbGlwU2hhcmUS",
-            "Ji5DQ2xpZW50TWV0cmljc19DbGlwU2hhcmVfTm90aWZpY2F0aW9uGgsuTm9S",
-            "ZXNwb25zZRJUChZSZXBvcnRFbmRHYW1lUmVjb3JkaW5nEi0uQ0NsaWVudE1l",
-            "dHJpY3NfRW5kR2FtZVJlY29yZGluZ19Ob3RpZmljYXRpb24aCy5Ob1Jlc3Bv",
-            "bnNlQh2AAQGqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
+            "ZXMYBCABKAQSDgoGZ2FtZWlkGAUgASgGIv0DCiVDQ2xpZW50TWV0cmljc19D",
+            "bGlwUmFuZ2VfTm90aWZpY2F0aW9uElMKFW9yaWdpbmFsX3JhbmdlX21ldGhv",
+            "ZBgBIAEoDjIRLkVDbGlwUmFuZ2VNZXRob2Q6IUVDbGlwUmFuZ2VNZXRob2Rf",
+            "Q3JlYXRlQ2xpcEJ1dHRvbhJHCgVzdGFydBgCIAEoCzI4LkNDbGllbnRNZXRy",
+            "aWNzX0NsaXBSYW5nZV9Ob3RpZmljYXRpb24uUmVsYXRpdmVSYW5nZUVkZ2US",
+            "RQoDZW5kGAMgASgLMjguQ0NsaWVudE1ldHJpY3NfQ2xpcFJhbmdlX05vdGlm",
+            "aWNhdGlvbi5SZWxhdGl2ZVJhbmdlRWRnZRIPCgdzZWNvbmRzGAQgASgCEg4K",
+            "BmdhbWVpZBgFIAEoBhrNAQoRUmVsYXRpdmVSYW5nZUVkZ2USUwoVb3JpZ2lu",
+            "YWxfcmFuZ2VfbWV0aG9kGAEgASgOMhEuRUNsaXBSYW5nZU1ldGhvZDohRUNs",
+            "aXBSYW5nZU1ldGhvZF9DcmVhdGVDbGlwQnV0dG9uElEKE2xhdGVzdF9yYW5n",
+            "ZV9tZXRob2QYAiABKA4yES5FQ2xpcFJhbmdlTWV0aG9kOiFFQ2xpcFJhbmdl",
+            "TWV0aG9kX0NyZWF0ZUNsaXBCdXR0b24SEAoIZGVsdGFfbXMYAyABKAUipwEK",
+            "LENDbGllbnRNZXRyaWNzX0VuZEdhbWVSZWNvcmRpbmdfTm90aWZpY2F0aW9u",
+            "EkcKDnJlY29yZGluZ190eXBlGAEgASgOMhMuRUdhbWVSZWNvcmRpbmdUeXBl",
+            "OhpFR2FtZVJlY29yZGluZ1R5cGVfVW5rbm93bhIPCgdzZWNvbmRzGAIgASgC",
+            "Eg0KBWJ5dGVzGAMgASgEEg4KBmdhbWVpZBgEIAEoBiptChJFU3RlYW1QaXBl",
+            "V29ya1R5cGUSJAogRVN0ZWFtUGlwZUNsaWVudFdvcmtUeXBlX0ludmFsaWQQ",
+            "ABIxCi1FU3RlYW1QaXBlQ2xpZW50V29ya1R5cGVfU3RhZ2VGcm9tQ2h1bmtT",
+            "dG9yZXMQASqzAQoXRVN0ZWFtUGlwZU9wZXJhdGlvblR5cGUSIwofRVN0ZWFt",
+            "UGlwZU9wZXJhdGlvblR5cGVfSW52YWxpZBAAEiYKIkVTdGVhbVBpcGVPcGVy",
+            "YXRpb25UeXBlX0RlY3J5cHRDUFUQARIkCiBFU3RlYW1QaXBlT3BlcmF0aW9u",
+            "VHlwZV9EaXNrUmVhZBACEiUKIUVTdGVhbVBpcGVPcGVyYXRpb25UeXBlX0Rp",
+            "c2tXcml0ZRADKsoBChBFQ2xpcFNoYXJlTWV0aG9kEhkKFUVDbGlwU2hhcmVN",
+            "ZXRob2RfQ2hhdBABEh4KGkVDbGlwU2hhcmVNZXRob2RfQ2xpcGJvYXJkEAIS",
+            "GQoVRUNsaXBTaGFyZU1ldGhvZF9GaWxlEAMSHQoZRUNsaXBTaGFyZU1ldGhv",
+            "ZF9TZW5kQ2xpcBAEEiAKHEVDbGlwU2hhcmVNZXRob2RfU2F2ZVRvTWVkaWEQ",
+            "BRIfChtFQ2xpcFNoYXJlTWV0aG9kX0NyZWF0ZUxpbmsQBirdAQoQRUNsaXBS",
+            "YW5nZU1ldGhvZBIlCiFFQ2xpcFJhbmdlTWV0aG9kX0NyZWF0ZUNsaXBCdXR0",
+            "b24QARIeChpFQ2xpcFJhbmdlTWV0aG9kX0hpZ2hsaWdodBACEiQKIEVDbGlw",
+            "UmFuZ2VNZXRob2RfQmVnaW5FbmRCdXR0b25zEAMSIAocRUNsaXBSYW5nZU1l",
+            "dGhvZF9Db250ZXh0TWVudRAEEhkKFUVDbGlwUmFuZ2VNZXRob2RfRHJhZxAF",
+            "Eh8KG0VDbGlwUmFuZ2VNZXRob2RfRW50aXJlQ2xpcBAGMskJCg1DbGllbnRN",
+            "ZXRyaWNzElwKHUNsaWVudEFwcEludGVyZmFjZVN0YXRzUmVwb3J0Ei4uQ0Ns",
+            "aWVudE1ldHJpY3NfQXBwSW50ZXJmYWNlU3RhdHNfTm90aWZpY2F0aW9uGgsu",
+            "Tm9SZXNwb25zZRJaChxDbGllbnRJUHY2Q29ubmVjdGl2aXR5UmVwb3J0Ei0u",
+            "Q0NsaWVudE1ldHJpY3NfSVB2NkNvbm5lY3Rpdml0eV9Ob3RpZmljYXRpb24a",
+            "Cy5Ob1Jlc3BvbnNlElgKGFN0ZWFtUGlwZVdvcmtTdGF0c1JlcG9ydBIvLkND",
+            "bGllbnRNZXRyaWNzX1N0ZWFtUGlwZVdvcmtTdGF0c19Ob3RpZmljYXRpb24a",
+            "Cy5Ob1Jlc3BvbnNlEk4KEFJlcG9ydFJlYWN0VXNhZ2USLS5DQ2xpZW50TWV0",
+            "cmljc19SZXBvcnRSZWFjdFVzYWdlX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9u",
+            "c2USUAoRUmVwb3J0Q2xpZW50RXJyb3ISLi5DQ2xpZW50TWV0cmljc19SZXBv",
+            "cnRDbGllbnRFcnJvcl9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlElIKFUNs",
+            "aWVudEJvb3RzdHJhcFJlcG9ydBIsLkNDbGllbnRNZXRyaWNzX0NsaWVudEJv",
+            "b3RzdHJhcF9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlElQKGUNsaWVudERv",
+            "d25sb2FkUmF0ZXNSZXBvcnQSKi5DQ2xpZW50TWV0cmljc19Eb3dubG9hZFJh",
+            "dGVzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USXAodQ2xpZW50Q29udGVu",
+            "dFZhbGlkYXRpb25SZXBvcnQSLi5DQ2xpZW50TWV0cmljc19Db250ZW50VmFs",
+            "aWRhdGlvbl9Ob3RpZmljYXRpb24aCy5Ob1Jlc3BvbnNlElYKF0NsaWVudENs",
+            "b3VkQXBwU3luY1N0YXRzEi4uQ0NsaWVudE1ldHJpY3NfQ2xvdWRBcHBTeW5j",
+            "U3RhdHNfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25zZRJsCiBDbGllbnREb3du",
+            "bG9hZFJlc3BvbnNlQ29kZUNvdW50cxI7LkNDbGllbnRNZXRyaWNzX0NvbnRl",
+            "bnREb3dubG9hZFJlc3BvbnNlX0NvdW50c19Ob3RpZmljYXRpb24aCy5Ob1Jl",
+            "c3BvbnNlEk4KEFJlcG9ydENsaWVudEFyZ3MSLS5DQ2xpZW50TWV0cmljc19S",
+            "ZXBvcnRDbGllbnRBcmdzX05vdGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USRgoP",
+            "UmVwb3J0Q2xpcFNoYXJlEiYuQ0NsaWVudE1ldHJpY3NfQ2xpcFNoYXJlX05v",
+            "dGlmaWNhdGlvbhoLLk5vUmVzcG9uc2USRgoPUmVwb3J0Q2xpcFJhbmdlEiYu",
+            "Q0NsaWVudE1ldHJpY3NfQ2xpcFJhbmdlX05vdGlmaWNhdGlvbhoLLk5vUmVz",
+            "cG9uc2USVAoWUmVwb3J0RW5kR2FtZVJlY29yZGluZxItLkNDbGllbnRNZXRy",
+            "aWNzX0VuZEdhbWVSZWNvcmRpbmdfTm90aWZpY2F0aW9uGgsuTm9SZXNwb25z",
+            "ZUIdgAEBqgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesUnifiedBaseSteamclientReflection.Descriptor, global::OpenSteamworks.Protobuf.ClientmetricsReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.ESteamPipeWorkType), typeof(global::OpenSteamworks.Protobuf.ESteamPipeOperationType), typeof(global::OpenSteamworks.Protobuf.EClipShareMethod), }, null, new pbr::GeneratedClrTypeInfo[] {
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.ESteamPipeWorkType), typeof(global::OpenSteamworks.Protobuf.ESteamPipeOperationType), typeof(global::OpenSteamworks.Protobuf.EClipShareMethod), typeof(global::OpenSteamworks.Protobuf.EClipRangeMethod), }, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceCreation), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceCreation.Parser, new[]{ "RawVersion", "RequestedInterfaceType" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceMethodCounts), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceMethodCounts.Parser, new[]{ "InterfaceName", "MethodName", "CallCount" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceStats_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_AppInterfaceStats_Notification.Parser, new[]{ "GameId", "InterfacesCreated", "MethodsCalled", "SessionLengthSeconds" }, null, null, null, null),
@@ -178,6 +196,7 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ContentDownloadResponse_Counts_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ContentDownloadResponse_Counts_Notification.Parser, new[]{ "CellId", "Data" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ReportClientArgs_Notification.Parser, new[]{ "ClientArgs", "GpuWebviewRegkeyDisabled", "SuppressGpuChrome", "BrowserNotSupported", "HwAccelVideoRegkeyDisabled", "MiniModeEnabled", "FpsCounterEnabled", "LibraryLowBandwidthModeEnabled", "LibraryLowPerfModeEnabled", "GrMode" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ClipShare_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ClipShare_Notification.Parser, new[]{ "Eresult", "ShareMethod", "Seconds", "Bytes", "Gameid" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Parser, new[]{ "OriginalRangeMethod", "Start", "End", "Seconds", "Gameid" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge), global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge.Parser, new[]{ "OriginalRangeMethod", "LatestRangeMethod", "DeltaMs" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CClientMetrics_EndGameRecording_Notification), global::OpenSteamworks.Protobuf.CClientMetrics_EndGameRecording_Notification.Parser, new[]{ "RecordingType", "Seconds", "Bytes", "Gameid" }, null, null, null, null)
           }));
     }
@@ -204,6 +223,15 @@ namespace OpenSteamworks.Protobuf {
     [pbr::OriginalName("EClipShareMethod_SendClip")] SendClip = 4,
     [pbr::OriginalName("EClipShareMethod_SaveToMedia")] SaveToMedia = 5,
     [pbr::OriginalName("EClipShareMethod_CreateLink")] CreateLink = 6,
+  }
+
+  public enum EClipRangeMethod {
+    [pbr::OriginalName("EClipRangeMethod_CreateClipButton")] CreateClipButton = 1,
+    [pbr::OriginalName("EClipRangeMethod_Highlight")] Highlight = 2,
+    [pbr::OriginalName("EClipRangeMethod_BeginEndButtons")] BeginEndButtons = 3,
+    [pbr::OriginalName("EClipRangeMethod_ContextMenu")] ContextMenu = 4,
+    [pbr::OriginalName("EClipRangeMethod_Drag")] Drag = 5,
+    [pbr::OriginalName("EClipRangeMethod_EntireClip")] EntireClip = 6,
   }
 
   #endregion
@@ -8759,6 +8787,728 @@ namespace OpenSteamworks.Protobuf {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CClientMetrics_ClipRange_Notification : pb::IMessage<CClientMetrics_ClipRange_Notification>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CClientMetrics_ClipRange_Notification> _parser = new pb::MessageParser<CClientMetrics_ClipRange_Notification>(() => new CClientMetrics_ClipRange_Notification());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CClientMetrics_ClipRange_Notification> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientmetricsSteamclientReflection.Descriptor.MessageTypes[16]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipRange_Notification() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipRange_Notification(CClientMetrics_ClipRange_Notification other) : this() {
+      _hasBits0 = other._hasBits0;
+      originalRangeMethod_ = other.originalRangeMethod_;
+      start_ = other.start_ != null ? other.start_.Clone() : null;
+      end_ = other.end_ != null ? other.end_.Clone() : null;
+      seconds_ = other.seconds_;
+      gameid_ = other.gameid_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CClientMetrics_ClipRange_Notification Clone() {
+      return new CClientMetrics_ClipRange_Notification(this);
+    }
+
+    /// <summary>Field number for the "original_range_method" field.</summary>
+    public const int OriginalRangeMethodFieldNumber = 1;
+    private readonly static global::OpenSteamworks.Protobuf.EClipRangeMethod OriginalRangeMethodDefaultValue = global::OpenSteamworks.Protobuf.EClipRangeMethod.CreateClipButton;
+
+    private global::OpenSteamworks.Protobuf.EClipRangeMethod originalRangeMethod_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.EClipRangeMethod OriginalRangeMethod {
+      get { if ((_hasBits0 & 1) != 0) { return originalRangeMethod_; } else { return OriginalRangeMethodDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        originalRangeMethod_ = value;
+      }
+    }
+    /// <summary>Gets whether the "original_range_method" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasOriginalRangeMethod {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "original_range_method" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearOriginalRangeMethod() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "start" field.</summary>
+    public const int StartFieldNumber = 2;
+    private global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge start_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge Start {
+      get { return start_; }
+      set {
+        start_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "end" field.</summary>
+    public const int EndFieldNumber = 3;
+    private global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge end_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge End {
+      get { return end_; }
+      set {
+        end_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "seconds" field.</summary>
+    public const int SecondsFieldNumber = 4;
+    private readonly static float SecondsDefaultValue = 0F;
+
+    private float seconds_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public float Seconds {
+      get { if ((_hasBits0 & 2) != 0) { return seconds_; } else { return SecondsDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        seconds_ = value;
+      }
+    }
+    /// <summary>Gets whether the "seconds" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasSeconds {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "seconds" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearSeconds() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "gameid" field.</summary>
+    public const int GameidFieldNumber = 5;
+    private readonly static ulong GameidDefaultValue = 0UL;
+
+    private ulong gameid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong Gameid {
+      get { if ((_hasBits0 & 4) != 0) { return gameid_; } else { return GameidDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        gameid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "gameid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasGameid {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "gameid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearGameid() {
+      _hasBits0 &= ~4;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CClientMetrics_ClipRange_Notification);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CClientMetrics_ClipRange_Notification other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (OriginalRangeMethod != other.OriginalRangeMethod) return false;
+      if (!object.Equals(Start, other.Start)) return false;
+      if (!object.Equals(End, other.End)) return false;
+      if (!pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.Equals(Seconds, other.Seconds)) return false;
+      if (Gameid != other.Gameid) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasOriginalRangeMethod) hash ^= OriginalRangeMethod.GetHashCode();
+      if (start_ != null) hash ^= Start.GetHashCode();
+      if (end_ != null) hash ^= End.GetHashCode();
+      if (HasSeconds) hash ^= pbc::ProtobufEqualityComparers.BitwiseSingleEqualityComparer.GetHashCode(Seconds);
+      if (HasGameid) hash ^= Gameid.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasOriginalRangeMethod) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) OriginalRangeMethod);
+      }
+      if (start_ != null) {
+        output.WriteRawTag(18);
+        output.WriteMessage(Start);
+      }
+      if (end_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(End);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(37);
+        output.WriteFloat(Seconds);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(41);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasOriginalRangeMethod) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) OriginalRangeMethod);
+      }
+      if (start_ != null) {
+        output.WriteRawTag(18);
+        output.WriteMessage(Start);
+      }
+      if (end_ != null) {
+        output.WriteRawTag(26);
+        output.WriteMessage(End);
+      }
+      if (HasSeconds) {
+        output.WriteRawTag(37);
+        output.WriteFloat(Seconds);
+      }
+      if (HasGameid) {
+        output.WriteRawTag(41);
+        output.WriteFixed64(Gameid);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasOriginalRangeMethod) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) OriginalRangeMethod);
+      }
+      if (start_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Start);
+      }
+      if (end_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(End);
+      }
+      if (HasSeconds) {
+        size += 1 + 4;
+      }
+      if (HasGameid) {
+        size += 1 + 8;
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CClientMetrics_ClipRange_Notification other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasOriginalRangeMethod) {
+        OriginalRangeMethod = other.OriginalRangeMethod;
+      }
+      if (other.start_ != null) {
+        if (start_ == null) {
+          Start = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+        }
+        Start.MergeFrom(other.Start);
+      }
+      if (other.end_ != null) {
+        if (end_ == null) {
+          End = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+        }
+        End.MergeFrom(other.End);
+      }
+      if (other.HasSeconds) {
+        Seconds = other.Seconds;
+      }
+      if (other.HasGameid) {
+        Gameid = other.Gameid;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            OriginalRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+            break;
+          }
+          case 18: {
+            if (start_ == null) {
+              Start = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+            }
+            input.ReadMessage(Start);
+            break;
+          }
+          case 26: {
+            if (end_ == null) {
+              End = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+            }
+            input.ReadMessage(End);
+            break;
+          }
+          case 37: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 41: {
+            Gameid = input.ReadFixed64();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            OriginalRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+            break;
+          }
+          case 18: {
+            if (start_ == null) {
+              Start = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+            }
+            input.ReadMessage(Start);
+            break;
+          }
+          case 26: {
+            if (end_ == null) {
+              End = new global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Types.RelativeRangeEdge();
+            }
+            input.ReadMessage(End);
+            break;
+          }
+          case 37: {
+            Seconds = input.ReadFloat();
+            break;
+          }
+          case 41: {
+            Gameid = input.ReadFixed64();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+    #region Nested types
+    /// <summary>Container for nested types declared in the CClientMetrics_ClipRange_Notification message type.</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static partial class Types {
+      [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+      public sealed partial class RelativeRangeEdge : pb::IMessage<RelativeRangeEdge>
+      #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+          , pb::IBufferMessage
+      #endif
+      {
+        private static readonly pb::MessageParser<RelativeRangeEdge> _parser = new pb::MessageParser<RelativeRangeEdge>(() => new RelativeRangeEdge());
+        private pb::UnknownFieldSet _unknownFields;
+        private int _hasBits0;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public static pb::MessageParser<RelativeRangeEdge> Parser { get { return _parser; } }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public static pbr::MessageDescriptor Descriptor {
+          get { return global::OpenSteamworks.Protobuf.CClientMetrics_ClipRange_Notification.Descriptor.NestedTypes[0]; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        pbr::MessageDescriptor pb::IMessage.Descriptor {
+          get { return Descriptor; }
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public RelativeRangeEdge() {
+          OnConstruction();
+        }
+
+        partial void OnConstruction();
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public RelativeRangeEdge(RelativeRangeEdge other) : this() {
+          _hasBits0 = other._hasBits0;
+          originalRangeMethod_ = other.originalRangeMethod_;
+          latestRangeMethod_ = other.latestRangeMethod_;
+          deltaMs_ = other.deltaMs_;
+          _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public RelativeRangeEdge Clone() {
+          return new RelativeRangeEdge(this);
+        }
+
+        /// <summary>Field number for the "original_range_method" field.</summary>
+        public const int OriginalRangeMethodFieldNumber = 1;
+        private readonly static global::OpenSteamworks.Protobuf.EClipRangeMethod OriginalRangeMethodDefaultValue = global::OpenSteamworks.Protobuf.EClipRangeMethod.CreateClipButton;
+
+        private global::OpenSteamworks.Protobuf.EClipRangeMethod originalRangeMethod_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public global::OpenSteamworks.Protobuf.EClipRangeMethod OriginalRangeMethod {
+          get { if ((_hasBits0 & 1) != 0) { return originalRangeMethod_; } else { return OriginalRangeMethodDefaultValue; } }
+          set {
+            _hasBits0 |= 1;
+            originalRangeMethod_ = value;
+          }
+        }
+        /// <summary>Gets whether the "original_range_method" field is set</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public bool HasOriginalRangeMethod {
+          get { return (_hasBits0 & 1) != 0; }
+        }
+        /// <summary>Clears the value of the "original_range_method" field</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void ClearOriginalRangeMethod() {
+          _hasBits0 &= ~1;
+        }
+
+        /// <summary>Field number for the "latest_range_method" field.</summary>
+        public const int LatestRangeMethodFieldNumber = 2;
+        private readonly static global::OpenSteamworks.Protobuf.EClipRangeMethod LatestRangeMethodDefaultValue = global::OpenSteamworks.Protobuf.EClipRangeMethod.CreateClipButton;
+
+        private global::OpenSteamworks.Protobuf.EClipRangeMethod latestRangeMethod_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public global::OpenSteamworks.Protobuf.EClipRangeMethod LatestRangeMethod {
+          get { if ((_hasBits0 & 2) != 0) { return latestRangeMethod_; } else { return LatestRangeMethodDefaultValue; } }
+          set {
+            _hasBits0 |= 2;
+            latestRangeMethod_ = value;
+          }
+        }
+        /// <summary>Gets whether the "latest_range_method" field is set</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public bool HasLatestRangeMethod {
+          get { return (_hasBits0 & 2) != 0; }
+        }
+        /// <summary>Clears the value of the "latest_range_method" field</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void ClearLatestRangeMethod() {
+          _hasBits0 &= ~2;
+        }
+
+        /// <summary>Field number for the "delta_ms" field.</summary>
+        public const int DeltaMsFieldNumber = 3;
+        private readonly static int DeltaMsDefaultValue = 0;
+
+        private int deltaMs_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public int DeltaMs {
+          get { if ((_hasBits0 & 4) != 0) { return deltaMs_; } else { return DeltaMsDefaultValue; } }
+          set {
+            _hasBits0 |= 4;
+            deltaMs_ = value;
+          }
+        }
+        /// <summary>Gets whether the "delta_ms" field is set</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public bool HasDeltaMs {
+          get { return (_hasBits0 & 4) != 0; }
+        }
+        /// <summary>Clears the value of the "delta_ms" field</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void ClearDeltaMs() {
+          _hasBits0 &= ~4;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public override bool Equals(object other) {
+          return Equals(other as RelativeRangeEdge);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public bool Equals(RelativeRangeEdge other) {
+          if (ReferenceEquals(other, null)) {
+            return false;
+          }
+          if (ReferenceEquals(other, this)) {
+            return true;
+          }
+          if (OriginalRangeMethod != other.OriginalRangeMethod) return false;
+          if (LatestRangeMethod != other.LatestRangeMethod) return false;
+          if (DeltaMs != other.DeltaMs) return false;
+          return Equals(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public override int GetHashCode() {
+          int hash = 1;
+          if (HasOriginalRangeMethod) hash ^= OriginalRangeMethod.GetHashCode();
+          if (HasLatestRangeMethod) hash ^= LatestRangeMethod.GetHashCode();
+          if (HasDeltaMs) hash ^= DeltaMs.GetHashCode();
+          if (_unknownFields != null) {
+            hash ^= _unknownFields.GetHashCode();
+          }
+          return hash;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public override string ToString() {
+          return pb::JsonFormatter.ToDiagnosticString(this);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void WriteTo(pb::CodedOutputStream output) {
+        #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+          output.WriteRawMessage(this);
+        #else
+          if (HasOriginalRangeMethod) {
+            output.WriteRawTag(8);
+            output.WriteEnum((int) OriginalRangeMethod);
+          }
+          if (HasLatestRangeMethod) {
+            output.WriteRawTag(16);
+            output.WriteEnum((int) LatestRangeMethod);
+          }
+          if (HasDeltaMs) {
+            output.WriteRawTag(24);
+            output.WriteInt32(DeltaMs);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(output);
+          }
+        #endif
+        }
+
+        #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+          if (HasOriginalRangeMethod) {
+            output.WriteRawTag(8);
+            output.WriteEnum((int) OriginalRangeMethod);
+          }
+          if (HasLatestRangeMethod) {
+            output.WriteRawTag(16);
+            output.WriteEnum((int) LatestRangeMethod);
+          }
+          if (HasDeltaMs) {
+            output.WriteRawTag(24);
+            output.WriteInt32(DeltaMs);
+          }
+          if (_unknownFields != null) {
+            _unknownFields.WriteTo(ref output);
+          }
+        }
+        #endif
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public int CalculateSize() {
+          int size = 0;
+          if (HasOriginalRangeMethod) {
+            size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) OriginalRangeMethod);
+          }
+          if (HasLatestRangeMethod) {
+            size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) LatestRangeMethod);
+          }
+          if (HasDeltaMs) {
+            size += 1 + pb::CodedOutputStream.ComputeInt32Size(DeltaMs);
+          }
+          if (_unknownFields != null) {
+            size += _unknownFields.CalculateSize();
+          }
+          return size;
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void MergeFrom(RelativeRangeEdge other) {
+          if (other == null) {
+            return;
+          }
+          if (other.HasOriginalRangeMethod) {
+            OriginalRangeMethod = other.OriginalRangeMethod;
+          }
+          if (other.HasLatestRangeMethod) {
+            LatestRangeMethod = other.LatestRangeMethod;
+          }
+          if (other.HasDeltaMs) {
+            DeltaMs = other.DeltaMs;
+          }
+          _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+        }
+
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void MergeFrom(pb::CodedInputStream input) {
+        #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+          input.ReadRawMessage(this);
+        #else
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+                break;
+              case 8: {
+                OriginalRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+                break;
+              }
+              case 16: {
+                LatestRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+                break;
+              }
+              case 24: {
+                DeltaMs = input.ReadInt32();
+                break;
+              }
+            }
+          }
+        #endif
+        }
+
+        #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+          uint tag;
+          while ((tag = input.ReadTag()) != 0) {
+            switch(tag) {
+              default:
+                _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+                break;
+              case 8: {
+                OriginalRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+                break;
+              }
+              case 16: {
+                LatestRangeMethod = (global::OpenSteamworks.Protobuf.EClipRangeMethod) input.ReadEnum();
+                break;
+              }
+              case 24: {
+                DeltaMs = input.ReadInt32();
+                break;
+              }
+            }
+          }
+        }
+        #endif
+
+      }
+
+    }
+    #endregion
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
   public sealed partial class CClientMetrics_EndGameRecording_Notification : pb::IMessage<CClientMetrics_EndGameRecording_Notification>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
@@ -8774,7 +9524,7 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::OpenSteamworks.Protobuf.SteammessagesClientmetricsSteamclientReflection.Descriptor.MessageTypes[16]; }
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientmetricsSteamclientReflection.Descriptor.MessageTypes[17]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

@@ -81,7 +81,12 @@ namespace OpenSteamworks.Protobuf {
             "LkFwcFRva2VuEhkKEWFwcF9kZW5pZWRfdG9rZW5zGAQgAygNGjcKDFBhY2th",
             "Z2VUb2tlbhIRCglwYWNrYWdlaWQYASABKA0SFAoMYWNjZXNzX3Rva2VuGAIg",
             "ASgEGi8KCEFwcFRva2VuEg0KBWFwcGlkGAEgASgNEhQKDGFjY2Vzc190b2tl",
-            "bhgCIAEoBEIfSAGAAQCqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
+            "bhgCIAEoBCJxCiBDTXNnQ2xpZW50UElDU1ByaXZhdGVCZXRhUmVxdWVzdBIN",
+            "CgVhcHBpZBgBIAEoDRIUCgxhY2Nlc3NfdG9rZW4YAiABKAQSEQoJYmV0YV9u",
+            "YW1lGAMgASgJEhUKDXBhc3N3b3JkX2hhc2gYBCABKAwiTgohQ01zZ0NsaWVu",
+            "dFBJQ1NQcml2YXRlQmV0YVJlc3BvbnNlEhIKB2VyZXN1bHQYASABKAU6ATIS",
+            "FQoNZGVwb3Rfc2VjdGlvbhgCIAEoDEIfSAGAAQCqAhdPcGVuU3RlYW13b3Jr",
+            "cy5Qcm90b2J1Zg=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -97,7 +102,9 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSProductInfoResponse.Types.PackageInfo), global::OpenSteamworks.Protobuf.CMsgClientPICSProductInfoResponse.Types.PackageInfo.Parser, new[]{ "Packageid", "ChangeNumber", "MissingToken", "Sha", "Buffer", "Size" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenRequest), global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenRequest.Parser, new[]{ "Packageids", "Appids" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse), global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Parser, new[]{ "PackageAccessTokens", "PackageDeniedTokens", "AppAccessTokens", "AppDeniedTokens" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.PackageToken), global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.PackageToken.Parser, new[]{ "Packageid", "AccessToken" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.AppToken), global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.AppToken.Parser, new[]{ "Appid", "AccessToken" }, null, null, null, null)})
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.AppToken), global::OpenSteamworks.Protobuf.CMsgClientPICSAccessTokenResponse.Types.AppToken.Parser, new[]{ "Appid", "AccessToken" }, null, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSPrivateBetaRequest), global::OpenSteamworks.Protobuf.CMsgClientPICSPrivateBetaRequest.Parser, new[]{ "Appid", "AccessToken", "BetaName", "PasswordHash" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientPICSPrivateBetaResponse), global::OpenSteamworks.Protobuf.CMsgClientPICSPrivateBetaResponse.Parser, new[]{ "Eresult", "DepotSection" }, null, null, null, null)
           }));
     }
     #endregion
@@ -6188,6 +6195,625 @@ namespace OpenSteamworks.Protobuf {
 
     }
     #endregion
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CMsgClientPICSPrivateBetaRequest : pb::IMessage<CMsgClientPICSPrivateBetaRequest>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CMsgClientPICSPrivateBetaRequest> _parser = new pb::MessageParser<CMsgClientPICSPrivateBetaRequest>(() => new CMsgClientPICSPrivateBetaRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CMsgClientPICSPrivateBetaRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientserverAppinfoReflection.Descriptor.MessageTypes[9]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaRequest(CMsgClientPICSPrivateBetaRequest other) : this() {
+      _hasBits0 = other._hasBits0;
+      appid_ = other.appid_;
+      accessToken_ = other.accessToken_;
+      betaName_ = other.betaName_;
+      passwordHash_ = other.passwordHash_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaRequest Clone() {
+      return new CMsgClientPICSPrivateBetaRequest(this);
+    }
+
+    /// <summary>Field number for the "appid" field.</summary>
+    public const int AppidFieldNumber = 1;
+    private readonly static uint AppidDefaultValue = 0;
+
+    private uint appid_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint Appid {
+      get { if ((_hasBits0 & 1) != 0) { return appid_; } else { return AppidDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        appid_ = value;
+      }
+    }
+    /// <summary>Gets whether the "appid" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasAppid {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "appid" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearAppid() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "access_token" field.</summary>
+    public const int AccessTokenFieldNumber = 2;
+    private readonly static ulong AccessTokenDefaultValue = 0UL;
+
+    private ulong accessToken_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ulong AccessToken {
+      get { if ((_hasBits0 & 2) != 0) { return accessToken_; } else { return AccessTokenDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        accessToken_ = value;
+      }
+    }
+    /// <summary>Gets whether the "access_token" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasAccessToken {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "access_token" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearAccessToken() {
+      _hasBits0 &= ~2;
+    }
+
+    /// <summary>Field number for the "beta_name" field.</summary>
+    public const int BetaNameFieldNumber = 3;
+    private readonly static string BetaNameDefaultValue = "";
+
+    private string betaName_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string BetaName {
+      get { return betaName_ ?? BetaNameDefaultValue; }
+      set {
+        betaName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "beta_name" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasBetaName {
+      get { return betaName_ != null; }
+    }
+    /// <summary>Clears the value of the "beta_name" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearBetaName() {
+      betaName_ = null;
+    }
+
+    /// <summary>Field number for the "password_hash" field.</summary>
+    public const int PasswordHashFieldNumber = 4;
+    private readonly static pb::ByteString PasswordHashDefaultValue = pb::ByteString.Empty;
+
+    private pb::ByteString passwordHash_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString PasswordHash {
+      get { return passwordHash_ ?? PasswordHashDefaultValue; }
+      set {
+        passwordHash_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "password_hash" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasPasswordHash {
+      get { return passwordHash_ != null; }
+    }
+    /// <summary>Clears the value of the "password_hash" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearPasswordHash() {
+      passwordHash_ = null;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CMsgClientPICSPrivateBetaRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CMsgClientPICSPrivateBetaRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Appid != other.Appid) return false;
+      if (AccessToken != other.AccessToken) return false;
+      if (BetaName != other.BetaName) return false;
+      if (PasswordHash != other.PasswordHash) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasAppid) hash ^= Appid.GetHashCode();
+      if (HasAccessToken) hash ^= AccessToken.GetHashCode();
+      if (HasBetaName) hash ^= BetaName.GetHashCode();
+      if (HasPasswordHash) hash ^= PasswordHash.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasAppid) {
+        output.WriteRawTag(8);
+        output.WriteUInt32(Appid);
+      }
+      if (HasAccessToken) {
+        output.WriteRawTag(16);
+        output.WriteUInt64(AccessToken);
+      }
+      if (HasBetaName) {
+        output.WriteRawTag(26);
+        output.WriteString(BetaName);
+      }
+      if (HasPasswordHash) {
+        output.WriteRawTag(34);
+        output.WriteBytes(PasswordHash);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasAppid) {
+        output.WriteRawTag(8);
+        output.WriteUInt32(Appid);
+      }
+      if (HasAccessToken) {
+        output.WriteRawTag(16);
+        output.WriteUInt64(AccessToken);
+      }
+      if (HasBetaName) {
+        output.WriteRawTag(26);
+        output.WriteString(BetaName);
+      }
+      if (HasPasswordHash) {
+        output.WriteRawTag(34);
+        output.WriteBytes(PasswordHash);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasAppid) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Appid);
+      }
+      if (HasAccessToken) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt64Size(AccessToken);
+      }
+      if (HasBetaName) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(BetaName);
+      }
+      if (HasPasswordHash) {
+        size += 1 + pb::CodedOutputStream.ComputeBytesSize(PasswordHash);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CMsgClientPICSPrivateBetaRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasAppid) {
+        Appid = other.Appid;
+      }
+      if (other.HasAccessToken) {
+        AccessToken = other.AccessToken;
+      }
+      if (other.HasBetaName) {
+        BetaName = other.BetaName;
+      }
+      if (other.HasPasswordHash) {
+        PasswordHash = other.PasswordHash;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Appid = input.ReadUInt32();
+            break;
+          }
+          case 16: {
+            AccessToken = input.ReadUInt64();
+            break;
+          }
+          case 26: {
+            BetaName = input.ReadString();
+            break;
+          }
+          case 34: {
+            PasswordHash = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Appid = input.ReadUInt32();
+            break;
+          }
+          case 16: {
+            AccessToken = input.ReadUInt64();
+            break;
+          }
+          case 26: {
+            BetaName = input.ReadString();
+            break;
+          }
+          case 34: {
+            PasswordHash = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+  }
+
+  [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
+  public sealed partial class CMsgClientPICSPrivateBetaResponse : pb::IMessage<CMsgClientPICSPrivateBetaResponse>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<CMsgClientPICSPrivateBetaResponse> _parser = new pb::MessageParser<CMsgClientPICSPrivateBetaResponse>(() => new CMsgClientPICSPrivateBetaResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<CMsgClientPICSPrivateBetaResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::OpenSteamworks.Protobuf.SteammessagesClientserverAppinfoReflection.Descriptor.MessageTypes[10]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaResponse(CMsgClientPICSPrivateBetaResponse other) : this() {
+      _hasBits0 = other._hasBits0;
+      eresult_ = other.eresult_;
+      depotSection_ = other.depotSection_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public CMsgClientPICSPrivateBetaResponse Clone() {
+      return new CMsgClientPICSPrivateBetaResponse(this);
+    }
+
+    /// <summary>Field number for the "eresult" field.</summary>
+    public const int EresultFieldNumber = 1;
+    private readonly static int EresultDefaultValue = 2;
+
+    private int eresult_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int Eresult {
+      get { if ((_hasBits0 & 1) != 0) { return eresult_; } else { return EresultDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        eresult_ = value;
+      }
+    }
+    /// <summary>Gets whether the "eresult" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasEresult {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "eresult" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearEresult() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "depot_section" field.</summary>
+    public const int DepotSectionFieldNumber = 2;
+    private readonly static pb::ByteString DepotSectionDefaultValue = pb::ByteString.Empty;
+
+    private pb::ByteString depotSection_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public pb::ByteString DepotSection {
+      get { return depotSection_ ?? DepotSectionDefaultValue; }
+      set {
+        depotSection_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "depot_section" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasDepotSection {
+      get { return depotSection_ != null; }
+    }
+    /// <summary>Clears the value of the "depot_section" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearDepotSection() {
+      depotSection_ = null;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as CMsgClientPICSPrivateBetaResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CMsgClientPICSPrivateBetaResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Eresult != other.Eresult) return false;
+      if (DepotSection != other.DepotSection) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (HasEresult) hash ^= Eresult.GetHashCode();
+      if (HasDepotSection) hash ^= DepotSection.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (HasEresult) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Eresult);
+      }
+      if (HasDepotSection) {
+        output.WriteRawTag(18);
+        output.WriteBytes(DepotSection);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasEresult) {
+        output.WriteRawTag(8);
+        output.WriteInt32(Eresult);
+      }
+      if (HasDepotSection) {
+        output.WriteRawTag(18);
+        output.WriteBytes(DepotSection);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (HasEresult) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(Eresult);
+      }
+      if (HasDepotSection) {
+        size += 1 + pb::CodedOutputStream.ComputeBytesSize(DepotSection);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(CMsgClientPICSPrivateBetaResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.HasEresult) {
+        Eresult = other.Eresult;
+      }
+      if (other.HasDepotSection) {
+        DepotSection = other.DepotSection;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Eresult = input.ReadInt32();
+            break;
+          }
+          case 18: {
+            DepotSection = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Eresult = input.ReadInt32();
+            break;
+          }
+          case 18: {
+            DepotSection = input.ReadBytes();
+            break;
+          }
+        }
+      }
+    }
+    #endif
 
   }
 

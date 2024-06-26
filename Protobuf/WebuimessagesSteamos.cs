@@ -53,42 +53,43 @@ namespace OpenSteamworks.Protobuf {
             "Z2VyX09wdE91dE9mU2lkZWxvYWRlZENsaWVudF9SZXNwb25zZSIuCixDU3Rl",
             "YW1PU01hbmFnZXJfQXBwbHlNYW5kYXRvcnlVcGRhdGVfUmVxdWVzdCIvCi1D",
             "U3RlYW1PU01hbmFnZXJfQXBwbHlNYW5kYXRvcnlVcGRhdGVfUmVzcG9uc2Ui",
-            "JgokQ1N0ZWFtT1NNYW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXF1ZXN0IicKJUNT",
-            "dGVhbU9TTWFuYWdlcl9GYWN0b3J5UmVzZXRfUmVzcG9uc2UibQoRQ1N0ZWFt",
-            "T1NTTFNQbHVnaW4SLgoFZXR5cGUYASABKA4yCy5FU0xTSGVscGVyOhJFU0xT",
-            "SGVscGVyX0ludmFsaWQSFAoMaXNfYXZhaWxhYmxlGAIgASgIEhIKCmlzX2Vu",
-            "YWJsZWQYAyABKAgiYQoQQ1N0ZWFtT1NTTFNTdGF0ZRIUCgxpc19hdmFpbGFi",
-            "bGUYASABKAgSEgoKaXNfZW5hYmxlZBgCIAEoCBIjCgdwbHVnaW5zGAMgAygL",
-            "MhIuQ1N0ZWFtT1NTTFNQbHVnaW4iHgocQ1N0ZWFtT1NTTFNfR2V0U3RhdGVf",
-            "UmVxdWVzdCJBCh1DU3RlYW1PU1NMU19HZXRTdGF0ZV9SZXNwb25zZRIgCgVz",
-            "dGF0ZRgBIAEoCzIRLkNTdGVhbU9TU0xTU3RhdGUiJwolQ1N0ZWFtT1NTTFNf",
-            "U3RhdGVDaGFuZ2VkX05vdGlmaWNhdGlvbiIxCh5DU3RlYW1PU1NMU19TZXRF",
-            "bmFibGVkX1JlcXVlc3QSDwoHZW5hYmxlZBgBIAEoCCIhCh9DU3RlYW1PU1NM",
-            "U19TZXRFbmFibGVkX1Jlc3BvbnNlImcKJENTdGVhbU9TU0xTX1NldFBsdWdp",
-            "bkVuYWJsZWRfUmVxdWVzdBIuCgVldHlwZRgBIAEoDjILLkVTTFNIZWxwZXI6",
-            "EkVTTFNIZWxwZXJfSW52YWxpZBIPCgdlbmFibGVkGAIgASgIIicKJUNTdGVh",
-            "bU9TU0xTX1NldFBsdWdpbkVuYWJsZWRfUmVzcG9uc2UylwQKDlN0ZWFtT1NN",
-            "YW5hZ2VyElEKCEdldFN0YXRlEiEuQ1N0ZWFtT1NNYW5hZ2VyX0dldFN0YXRl",
-            "X1JlcXVlc3QaIi5DU3RlYW1PU01hbmFnZXJfR2V0U3RhdGVfUmVzcG9uc2US",
-            "UgoSTm90aWZ5U3RhdGVDaGFuZ2VkEiouQ1N0ZWFtT1NNYW5hZ2VyX1N0YXRl",
-            "Q2hhbmdlZF9Ob3RpZmljYXRpb24aEC5XZWJVSU5vUmVzcG9uc2USgQEKGE9w",
-            "dE91dE9mU2lkZWxvYWRlZENsaWVudBIxLkNTdGVhbU9TTWFuYWdlcl9PcHRP",
-            "dXRPZlNpZGVsb2FkZWRDbGllbnRfUmVxdWVzdBoyLkNTdGVhbU9TTWFuYWdl",
-            "cl9PcHRPdXRPZlNpZGVsb2FkZWRDbGllbnRfUmVzcG9uc2USdQoUQXBwbHlN",
-            "YW5kYXRvcnlVcGRhdGUSLS5DU3RlYW1PU01hbmFnZXJfQXBwbHlNYW5kYXRv",
-            "cnlVcGRhdGVfUmVxdWVzdBouLkNTdGVhbU9TTWFuYWdlcl9BcHBseU1hbmRh",
-            "dG9yeVVwZGF0ZV9SZXNwb25zZRJdCgxGYWN0b3J5UmVzZXQSJS5DU3RlYW1P",
-            "U01hbmFnZXJfRmFjdG9yeVJlc2V0X1JlcXVlc3QaJi5DU3RlYW1PU01hbmFn",
-            "ZXJfRmFjdG9yeVJlc2V0X1Jlc3BvbnNlGgSAlyIBMuECCgpTdGVhbU9TU0xT",
-            "EkkKCEdldFN0YXRlEh0uQ1N0ZWFtT1NTTFNfR2V0U3RhdGVfUmVxdWVzdBoe",
-            "LkNTdGVhbU9TU0xTX0dldFN0YXRlX1Jlc3BvbnNlEk4KEk5vdGlmeVN0YXRl",
-            "Q2hhbmdlZBImLkNTdGVhbU9TU0xTX1N0YXRlQ2hhbmdlZF9Ob3RpZmljYXRp",
-            "b24aEC5XZWJVSU5vUmVzcG9uc2USTwoKU2V0RW5hYmxlZBIfLkNTdGVhbU9T",
-            "U0xTX1NldEVuYWJsZWRfUmVxdWVzdBogLkNTdGVhbU9TU0xTX1NldEVuYWJs",
-            "ZWRfUmVzcG9uc2USYQoQU2V0UGx1Z2luRW5hYmxlZBIlLkNTdGVhbU9TU0xT",
-            "X1NldFBsdWdpbkVuYWJsZWRfUmVxdWVzdBomLkNTdGVhbU9TU0xTX1NldFBs",
-            "dWdpbkVuYWJsZWRfUmVzcG9uc2UaBICXIgFCH0gBgAEBqgIXT3BlblN0ZWFt",
-            "d29ya3MuUHJvdG9idWY="));
+            "UQokQ1N0ZWFtT1NNYW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXF1ZXN0EhAKCHJl",
+            "c2V0X29zGAEgASgIEhcKD3Jlc2V0X3VzZXJfZGF0YRgCIAEoCCInCiVDU3Rl",
+            "YW1PU01hbmFnZXJfRmFjdG9yeVJlc2V0X1Jlc3BvbnNlIm0KEUNTdGVhbU9T",
+            "U0xTUGx1Z2luEi4KBWV0eXBlGAEgASgOMgsuRVNMU0hlbHBlcjoSRVNMU0hl",
+            "bHBlcl9JbnZhbGlkEhQKDGlzX2F2YWlsYWJsZRgCIAEoCBISCgppc19lbmFi",
+            "bGVkGAMgASgIImEKEENTdGVhbU9TU0xTU3RhdGUSFAoMaXNfYXZhaWxhYmxl",
+            "GAEgASgIEhIKCmlzX2VuYWJsZWQYAiABKAgSIwoHcGx1Z2lucxgDIAMoCzIS",
+            "LkNTdGVhbU9TU0xTUGx1Z2luIh4KHENTdGVhbU9TU0xTX0dldFN0YXRlX1Jl",
+            "cXVlc3QiQQodQ1N0ZWFtT1NTTFNfR2V0U3RhdGVfUmVzcG9uc2USIAoFc3Rh",
+            "dGUYASABKAsyES5DU3RlYW1PU1NMU1N0YXRlIicKJUNTdGVhbU9TU0xTX1N0",
+            "YXRlQ2hhbmdlZF9Ob3RpZmljYXRpb24iMQoeQ1N0ZWFtT1NTTFNfU2V0RW5h",
+            "YmxlZF9SZXF1ZXN0Eg8KB2VuYWJsZWQYASABKAgiIQofQ1N0ZWFtT1NTTFNf",
+            "U2V0RW5hYmxlZF9SZXNwb25zZSJnCiRDU3RlYW1PU1NMU19TZXRQbHVnaW5F",
+            "bmFibGVkX1JlcXVlc3QSLgoFZXR5cGUYASABKA4yCy5FU0xTSGVscGVyOhJF",
+            "U0xTSGVscGVyX0ludmFsaWQSDwoHZW5hYmxlZBgCIAEoCCInCiVDU3RlYW1P",
+            "U1NMU19TZXRQbHVnaW5FbmFibGVkX1Jlc3BvbnNlMpcECg5TdGVhbU9TTWFu",
+            "YWdlchJRCghHZXRTdGF0ZRIhLkNTdGVhbU9TTWFuYWdlcl9HZXRTdGF0ZV9S",
+            "ZXF1ZXN0GiIuQ1N0ZWFtT1NNYW5hZ2VyX0dldFN0YXRlX1Jlc3BvbnNlElIK",
+            "Ek5vdGlmeVN0YXRlQ2hhbmdlZBIqLkNTdGVhbU9TTWFuYWdlcl9TdGF0ZUNo",
+            "YW5nZWRfTm90aWZpY2F0aW9uGhAuV2ViVUlOb1Jlc3BvbnNlEoEBChhPcHRP",
+            "dXRPZlNpZGVsb2FkZWRDbGllbnQSMS5DU3RlYW1PU01hbmFnZXJfT3B0T3V0",
+            "T2ZTaWRlbG9hZGVkQ2xpZW50X1JlcXVlc3QaMi5DU3RlYW1PU01hbmFnZXJf",
+            "T3B0T3V0T2ZTaWRlbG9hZGVkQ2xpZW50X1Jlc3BvbnNlEnUKFEFwcGx5TWFu",
+            "ZGF0b3J5VXBkYXRlEi0uQ1N0ZWFtT1NNYW5hZ2VyX0FwcGx5TWFuZGF0b3J5",
+            "VXBkYXRlX1JlcXVlc3QaLi5DU3RlYW1PU01hbmFnZXJfQXBwbHlNYW5kYXRv",
+            "cnlVcGRhdGVfUmVzcG9uc2USXQoMRmFjdG9yeVJlc2V0EiUuQ1N0ZWFtT1NN",
+            "YW5hZ2VyX0ZhY3RvcnlSZXNldF9SZXF1ZXN0GiYuQ1N0ZWFtT1NNYW5hZ2Vy",
+            "X0ZhY3RvcnlSZXNldF9SZXNwb25zZRoEgJciATLhAgoKU3RlYW1PU1NMUxJJ",
+            "CghHZXRTdGF0ZRIdLkNTdGVhbU9TU0xTX0dldFN0YXRlX1JlcXVlc3QaHi5D",
+            "U3RlYW1PU1NMU19HZXRTdGF0ZV9SZXNwb25zZRJOChJOb3RpZnlTdGF0ZUNo",
+            "YW5nZWQSJi5DU3RlYW1PU1NMU19TdGF0ZUNoYW5nZWRfTm90aWZpY2F0aW9u",
+            "GhAuV2ViVUlOb1Jlc3BvbnNlEk8KClNldEVuYWJsZWQSHy5DU3RlYW1PU1NM",
+            "U19TZXRFbmFibGVkX1JlcXVlc3QaIC5DU3RlYW1PU1NMU19TZXRFbmFibGVk",
+            "X1Jlc3BvbnNlEmEKEFNldFBsdWdpbkVuYWJsZWQSJS5DU3RlYW1PU1NMU19T",
+            "ZXRQbHVnaW5FbmFibGVkX1JlcXVlc3QaJi5DU3RlYW1PU1NMU19TZXRQbHVn",
+            "aW5FbmFibGVkX1Jlc3BvbnNlGgSAlyIBQh9IAYABAaoCF09wZW5TdGVhbXdv",
+            "cmtzLlByb3RvYnVm"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.EnumsReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, global::OpenSteamworks.Protobuf.WebuimessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -103,7 +104,7 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_OptOutOfSideloadedClient_Response), global::OpenSteamworks.Protobuf.CSteamOSManager_OptOutOfSideloadedClient_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_ApplyMandatoryUpdate_Request), global::OpenSteamworks.Protobuf.CSteamOSManager_ApplyMandatoryUpdate_Request.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_ApplyMandatoryUpdate_Response), global::OpenSteamworks.Protobuf.CSteamOSManager_ApplyMandatoryUpdate_Response.Parser, null, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Request), global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Request.Parser, null, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Request), global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Request.Parser, new[]{ "ResetOs", "ResetUserData" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Response), global::OpenSteamworks.Protobuf.CSteamOSManager_FactoryReset_Response.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSSLSPlugin), global::OpenSteamworks.Protobuf.CSteamOSSLSPlugin.Parser, new[]{ "Etype", "IsAvailable", "IsEnabled" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CSteamOSSLSState), global::OpenSteamworks.Protobuf.CSteamOSSLSState.Parser, new[]{ "IsAvailable", "IsEnabled", "Plugins" }, null, null, null, null),
@@ -2846,6 +2847,7 @@ namespace OpenSteamworks.Protobuf {
   {
     private static readonly pb::MessageParser<CSteamOSManager_FactoryReset_Request> _parser = new pb::MessageParser<CSteamOSManager_FactoryReset_Request>(() => new CSteamOSManager_FactoryReset_Request());
     private pb::UnknownFieldSet _unknownFields;
+    private int _hasBits0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pb::MessageParser<CSteamOSManager_FactoryReset_Request> Parser { get { return _parser; } }
@@ -2873,6 +2875,9 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CSteamOSManager_FactoryReset_Request(CSteamOSManager_FactoryReset_Request other) : this() {
+      _hasBits0 = other._hasBits0;
+      resetOs_ = other.resetOs_;
+      resetUserData_ = other.resetUserData_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -2880,6 +2885,60 @@ namespace OpenSteamworks.Protobuf {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public CSteamOSManager_FactoryReset_Request Clone() {
       return new CSteamOSManager_FactoryReset_Request(this);
+    }
+
+    /// <summary>Field number for the "reset_os" field.</summary>
+    public const int ResetOsFieldNumber = 1;
+    private readonly static bool ResetOsDefaultValue = false;
+
+    private bool resetOs_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool ResetOs {
+      get { if ((_hasBits0 & 1) != 0) { return resetOs_; } else { return ResetOsDefaultValue; } }
+      set {
+        _hasBits0 |= 1;
+        resetOs_ = value;
+      }
+    }
+    /// <summary>Gets whether the "reset_os" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasResetOs {
+      get { return (_hasBits0 & 1) != 0; }
+    }
+    /// <summary>Clears the value of the "reset_os" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearResetOs() {
+      _hasBits0 &= ~1;
+    }
+
+    /// <summary>Field number for the "reset_user_data" field.</summary>
+    public const int ResetUserDataFieldNumber = 2;
+    private readonly static bool ResetUserDataDefaultValue = false;
+
+    private bool resetUserData_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool ResetUserData {
+      get { if ((_hasBits0 & 2) != 0) { return resetUserData_; } else { return ResetUserDataDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        resetUserData_ = value;
+      }
+    }
+    /// <summary>Gets whether the "reset_user_data" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasResetUserData {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "reset_user_data" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearResetUserData() {
+      _hasBits0 &= ~2;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -2897,6 +2956,8 @@ namespace OpenSteamworks.Protobuf {
       if (ReferenceEquals(other, this)) {
         return true;
       }
+      if (ResetOs != other.ResetOs) return false;
+      if (ResetUserData != other.ResetUserData) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -2904,6 +2965,8 @@ namespace OpenSteamworks.Protobuf {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
+      if (HasResetOs) hash ^= ResetOs.GetHashCode();
+      if (HasResetUserData) hash ^= ResetUserData.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -2922,6 +2985,14 @@ namespace OpenSteamworks.Protobuf {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
+      if (HasResetOs) {
+        output.WriteRawTag(8);
+        output.WriteBool(ResetOs);
+      }
+      if (HasResetUserData) {
+        output.WriteRawTag(16);
+        output.WriteBool(ResetUserData);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -2932,6 +3003,14 @@ namespace OpenSteamworks.Protobuf {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (HasResetOs) {
+        output.WriteRawTag(8);
+        output.WriteBool(ResetOs);
+      }
+      if (HasResetUserData) {
+        output.WriteRawTag(16);
+        output.WriteBool(ResetUserData);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -2942,6 +3021,12 @@ namespace OpenSteamworks.Protobuf {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
+      if (HasResetOs) {
+        size += 1 + 1;
+      }
+      if (HasResetUserData) {
+        size += 1 + 1;
+      }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -2953,6 +3038,12 @@ namespace OpenSteamworks.Protobuf {
     public void MergeFrom(CSteamOSManager_FactoryReset_Request other) {
       if (other == null) {
         return;
+      }
+      if (other.HasResetOs) {
+        ResetOs = other.ResetOs;
+      }
+      if (other.HasResetUserData) {
+        ResetUserData = other.ResetUserData;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -2969,6 +3060,14 @@ namespace OpenSteamworks.Protobuf {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
+          case 8: {
+            ResetOs = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ResetUserData = input.ReadBool();
+            break;
+          }
         }
       }
     #endif
@@ -2984,6 +3083,14 @@ namespace OpenSteamworks.Protobuf {
           default:
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
+          case 8: {
+            ResetOs = input.ReadBool();
+            break;
+          }
+          case 16: {
+            ResetUserData = input.ReadBool();
+            break;
+          }
         }
       }
     }

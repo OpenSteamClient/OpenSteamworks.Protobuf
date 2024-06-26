@@ -339,26 +339,27 @@ namespace OpenSteamworks.Protobuf {
             "FgoOYnJvd3Nlcl9oYW5kbGUYASABKA0SCQoBeBgCIAEoDRIJCgF5GAMgASgN",
             "IjgKDUNNc2dEaXNhYmxlRjUSFgoOYnJvd3Nlcl9oYW5kbGUYASABKA0SDwoH",
             "ZGlzYWJsZRgCIAEoCCI4ChFDTXNnU3RhcnREb3dubG9hZBIWCg5icm93c2Vy",
-            "X2hhbmRsZRgBIAEoDRILCgN1cmwYAiABKAkiKgoQQ01zZ1NldFRvcFdpbmRv",
-            "dxIWCg5icm93c2VyX2hhbmRsZRgBIAEoDSJ6CilDTXNnQnJvd3NlclZpZXdQ",
-            "b3N0TWVzc2FnZVRvUGFyZW50UmVxdWVzdBIWCg5icm93c2VyX2hhbmRsZRgB",
-            "IAEoDRIPCgdtZXNzYWdlGAIgASgJEgwKBGFyZ3MYAyABKAkSFgoOcmVxdWVz",
-            "dGluZ191cmwYBCABKAkiOQoSQ01zZ0Jsb2NrZWRSZXF1ZXN0EhYKDmJyb3dz",
-            "ZXJfaGFuZGxlGAEgASgNEgsKA3VybBgCIAEoCSJCChdDTXNnQnJvd3NlckZv",
-            "Y3VzQ2hhbmdlZBIWCg5icm93c2VyX2hhbmRsZRgBIAEoDRIPCgdmb2N1c2Vk",
-            "GAIgASgIIkAKGENNc2dTZXRQcm90b2NvbEJsb2NrTGlzdBIWCg5icm93c2Vy",
-            "X2hhbmRsZRgBIAEoDRIMCgRsaXN0GAIgASgJIkoKHkNNc2dTZXRGb3JjZURl",
-            "dmljZVNjYWxlRmFjdG9ycxIRCglkcGlfc2NhbGUYASABKAESFQoNYnJvd3Nl",
-            "cl9zY2FsZRgCIAEoASIgCg1DTXNnU2V0VUlNb2RlEg8KB3VpX21vZGUYASAB",
-            "KAUiLwoUQ01zZ1NldFN0ZWFtQmV0YU5hbWUSFwoPc3RlYW1fYmV0YV9uYW1l",
-            "GAEgASgJIioKEENNc2dQb3B1cENyZWF0ZWQSFgoOYnJvd3Nlcl9oYW5kbGUY",
-            "ASABKA0iRgobQ01zZ1NldFZSS2V5Ym9hcmRWaXNpYmlsaXR5EhYKDmJyb3dz",
-            "ZXJfaGFuZGxlGAEgASgNEg8KB3Zpc2libGUYAiABKAgiFgoUQ01zZ1Jlc3Rh",
-            "cnRKU0NvbnRleHQqpQEKFUVKU1JlZ2lzdGVyTWV0aG9kVHlwZRIhCh1FSlNS",
-            "ZWdpc3Rlck1ldGhvZFR5cGVfSW52YWxpZBAAEiIKHkVKU1JlZ2lzdGVyTWV0",
-            "aG9kVHlwZV9GdW5jdGlvbhABEiIKHkVKU1JlZ2lzdGVyTWV0aG9kVHlwZV9D",
-            "YWxsYmFjaxACEiEKHUVKU1JlZ2lzdGVyTWV0aG9kVHlwZV9Qcm9taXNlEANC",
-            "H0gBgAEAqgIXT3BlblN0ZWFtd29ya3MuUHJvdG9idWY="));
+            "X2hhbmRsZRgBIAEoDRILCgN1cmwYAiABKAkiTAoaQ01zZ1NldFdpbmRvd1N0",
+            "YWNraW5nT3JkZXISFgoOYnJvd3Nlcl9oYW5kbGUYASABKA0SFgoOZXN0YWNr",
+            "aW5nb3JkZXIYAiABKA0iegopQ01zZ0Jyb3dzZXJWaWV3UG9zdE1lc3NhZ2VU",
+            "b1BhcmVudFJlcXVlc3QSFgoOYnJvd3Nlcl9oYW5kbGUYASABKA0SDwoHbWVz",
+            "c2FnZRgCIAEoCRIMCgRhcmdzGAMgASgJEhYKDnJlcXVlc3RpbmdfdXJsGAQg",
+            "ASgJIjkKEkNNc2dCbG9ja2VkUmVxdWVzdBIWCg5icm93c2VyX2hhbmRsZRgB",
+            "IAEoDRILCgN1cmwYAiABKAkiQgoXQ01zZ0Jyb3dzZXJGb2N1c0NoYW5nZWQS",
+            "FgoOYnJvd3Nlcl9oYW5kbGUYASABKA0SDwoHZm9jdXNlZBgCIAEoCCJAChhD",
+            "TXNnU2V0UHJvdG9jb2xCbG9ja0xpc3QSFgoOYnJvd3Nlcl9oYW5kbGUYASAB",
+            "KA0SDAoEbGlzdBgCIAEoCSJKCh5DTXNnU2V0Rm9yY2VEZXZpY2VTY2FsZUZh",
+            "Y3RvcnMSEQoJZHBpX3NjYWxlGAEgASgBEhUKDWJyb3dzZXJfc2NhbGUYAiAB",
+            "KAEiIAoNQ01zZ1NldFVJTW9kZRIPCgd1aV9tb2RlGAEgASgFIi8KFENNc2dT",
+            "ZXRTdGVhbUJldGFOYW1lEhcKD3N0ZWFtX2JldGFfbmFtZRgBIAEoCSIqChBD",
+            "TXNnUG9wdXBDcmVhdGVkEhYKDmJyb3dzZXJfaGFuZGxlGAEgASgNIkYKG0NN",
+            "c2dTZXRWUktleWJvYXJkVmlzaWJpbGl0eRIWCg5icm93c2VyX2hhbmRsZRgB",
+            "IAEoDRIPCgd2aXNpYmxlGAIgASgIIhYKFENNc2dSZXN0YXJ0SlNDb250ZXh0",
+            "KqUBChVFSlNSZWdpc3Rlck1ldGhvZFR5cGUSIQodRUpTUmVnaXN0ZXJNZXRo",
+            "b2RUeXBlX0ludmFsaWQQABIiCh5FSlNSZWdpc3Rlck1ldGhvZFR5cGVfRnVu",
+            "Y3Rpb24QARIiCh5FSlNSZWdpc3Rlck1ldGhvZFR5cGVfQ2FsbGJhY2sQAhIh",
+            "Ch1FSlNSZWdpc3Rlck1ldGhvZFR5cGVfUHJvbWlzZRADQh9IAYABAKoCF09w",
+            "ZW5TdGVhbXdvcmtzLlByb3RvYnVm"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EJSRegisterMethodType), }, null, new pbr::GeneratedClrTypeInfo[] {
@@ -517,7 +518,7 @@ namespace OpenSteamworks.Protobuf {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgInspectElement), global::OpenSteamworks.Protobuf.CMsgInspectElement.Parser, new[]{ "BrowserHandle", "X", "Y" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgDisableF5), global::OpenSteamworks.Protobuf.CMsgDisableF5.Parser, new[]{ "BrowserHandle", "Disable" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgStartDownload), global::OpenSteamworks.Protobuf.CMsgStartDownload.Parser, new[]{ "BrowserHandle", "Url" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetTopWindow), global::OpenSteamworks.Protobuf.CMsgSetTopWindow.Parser, new[]{ "BrowserHandle" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgSetWindowStackingOrder), global::OpenSteamworks.Protobuf.CMsgSetWindowStackingOrder.Parser, new[]{ "BrowserHandle", "Estackingorder" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgBrowserViewPostMessageToParentRequest), global::OpenSteamworks.Protobuf.CMsgBrowserViewPostMessageToParentRequest.Parser, new[]{ "BrowserHandle", "Message", "Args", "RequestingUrl" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgBlockedRequest), global::OpenSteamworks.Protobuf.CMsgBlockedRequest.Parser, new[]{ "BrowserHandle", "Url" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgBrowserFocusChanged), global::OpenSteamworks.Protobuf.CMsgBrowserFocusChanged.Parser, new[]{ "BrowserHandle", "Focused" }, null, null, null, null),
@@ -50950,17 +50951,17 @@ namespace OpenSteamworks.Protobuf {
   }
 
   [global::System.Diagnostics.DebuggerDisplayAttribute("{ToString(),nq}")]
-  public sealed partial class CMsgSetTopWindow : pb::IMessage<CMsgSetTopWindow>
+  public sealed partial class CMsgSetWindowStackingOrder : pb::IMessage<CMsgSetWindowStackingOrder>
   #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       , pb::IBufferMessage
   #endif
   {
-    private static readonly pb::MessageParser<CMsgSetTopWindow> _parser = new pb::MessageParser<CMsgSetTopWindow>(() => new CMsgSetTopWindow());
+    private static readonly pb::MessageParser<CMsgSetWindowStackingOrder> _parser = new pb::MessageParser<CMsgSetWindowStackingOrder>(() => new CMsgSetWindowStackingOrder());
     private pb::UnknownFieldSet _unknownFields;
     private int _hasBits0;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public static pb::MessageParser<CMsgSetTopWindow> Parser { get { return _parser; } }
+    public static pb::MessageParser<CMsgSetWindowStackingOrder> Parser { get { return _parser; } }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -50976,7 +50977,7 @@ namespace OpenSteamworks.Protobuf {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public CMsgSetTopWindow() {
+    public CMsgSetWindowStackingOrder() {
       OnConstruction();
     }
 
@@ -50984,16 +50985,17 @@ namespace OpenSteamworks.Protobuf {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public CMsgSetTopWindow(CMsgSetTopWindow other) : this() {
+    public CMsgSetWindowStackingOrder(CMsgSetWindowStackingOrder other) : this() {
       _hasBits0 = other._hasBits0;
       browserHandle_ = other.browserHandle_;
+      estackingorder_ = other.estackingorder_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public CMsgSetTopWindow Clone() {
-      return new CMsgSetTopWindow(this);
+    public CMsgSetWindowStackingOrder Clone() {
+      return new CMsgSetWindowStackingOrder(this);
     }
 
     /// <summary>Field number for the "browser_handle" field.</summary>
@@ -51023,15 +51025,42 @@ namespace OpenSteamworks.Protobuf {
       _hasBits0 &= ~1;
     }
 
+    /// <summary>Field number for the "estackingorder" field.</summary>
+    public const int EstackingorderFieldNumber = 2;
+    private readonly static uint EstackingorderDefaultValue = 0;
+
+    private uint estackingorder_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public override bool Equals(object other) {
-      return Equals(other as CMsgSetTopWindow);
+    public uint Estackingorder {
+      get { if ((_hasBits0 & 2) != 0) { return estackingorder_; } else { return EstackingorderDefaultValue; } }
+      set {
+        _hasBits0 |= 2;
+        estackingorder_ = value;
+      }
+    }
+    /// <summary>Gets whether the "estackingorder" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasEstackingorder {
+      get { return (_hasBits0 & 2) != 0; }
+    }
+    /// <summary>Clears the value of the "estackingorder" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearEstackingorder() {
+      _hasBits0 &= ~2;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public bool Equals(CMsgSetTopWindow other) {
+    public override bool Equals(object other) {
+      return Equals(other as CMsgSetWindowStackingOrder);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(CMsgSetWindowStackingOrder other) {
       if (ReferenceEquals(other, null)) {
         return false;
       }
@@ -51039,6 +51068,7 @@ namespace OpenSteamworks.Protobuf {
         return true;
       }
       if (BrowserHandle != other.BrowserHandle) return false;
+      if (Estackingorder != other.Estackingorder) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -51047,6 +51077,7 @@ namespace OpenSteamworks.Protobuf {
     public override int GetHashCode() {
       int hash = 1;
       if (HasBrowserHandle) hash ^= BrowserHandle.GetHashCode();
+      if (HasEstackingorder) hash ^= Estackingorder.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -51069,6 +51100,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(8);
         output.WriteUInt32(BrowserHandle);
       }
+      if (HasEstackingorder) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(Estackingorder);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -51083,6 +51118,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(8);
         output.WriteUInt32(BrowserHandle);
       }
+      if (HasEstackingorder) {
+        output.WriteRawTag(16);
+        output.WriteUInt32(Estackingorder);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -51096,6 +51135,9 @@ namespace OpenSteamworks.Protobuf {
       if (HasBrowserHandle) {
         size += 1 + pb::CodedOutputStream.ComputeUInt32Size(BrowserHandle);
       }
+      if (HasEstackingorder) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(Estackingorder);
+      }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -51104,12 +51146,15 @@ namespace OpenSteamworks.Protobuf {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public void MergeFrom(CMsgSetTopWindow other) {
+    public void MergeFrom(CMsgSetWindowStackingOrder other) {
       if (other == null) {
         return;
       }
       if (other.HasBrowserHandle) {
         BrowserHandle = other.BrowserHandle;
+      }
+      if (other.HasEstackingorder) {
+        Estackingorder = other.Estackingorder;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -51130,6 +51175,10 @@ namespace OpenSteamworks.Protobuf {
             BrowserHandle = input.ReadUInt32();
             break;
           }
+          case 16: {
+            Estackingorder = input.ReadUInt32();
+            break;
+          }
         }
       }
     #endif
@@ -51147,6 +51196,10 @@ namespace OpenSteamworks.Protobuf {
             break;
           case 8: {
             BrowserHandle = input.ReadUInt32();
+            break;
+          }
+          case 16: {
+            Estackingorder = input.ReadUInt32();
             break;
           }
         }

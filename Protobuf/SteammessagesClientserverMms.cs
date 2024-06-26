@@ -29,116 +29,120 @@ namespace OpenSteamworks.Protobuf {
             "c2UucHJvdG8imAEKJ0NNc2dDbGllbnRNTVNTZXRSYXRlbGltaXRQb2xpY3lP",
             "bkNsaWVudBIOCgZhcHBfaWQYASABKA0SGgoSZW5hYmxlX3JhdGVfbGltaXRz",
             "GAIgASgIEhsKE3NlY29uZHNfcGVyX21lc3NhZ2UYAyABKAUSJAocbWlsbGlz",
-            "ZWNvbmRzX3Blcl9kYXRhX3VwZGF0ZRgEIAEoBSLoAQoYQ01zZ0NsaWVudE1N",
+            "ZWNvbmRzX3Blcl9kYXRhX3VwZGF0ZRgEIAEoBSKFAgoYQ01zZ0NsaWVudE1N",
             "U0NyZWF0ZUxvYmJ5Eg4KBmFwcF9pZBgBIAEoDRITCgttYXhfbWVtYmVycxgC",
             "IAEoBRISCgpsb2JieV90eXBlGAMgASgFEhMKC2xvYmJ5X2ZsYWdzGAQgASgF",
             "Eg8KB2NlbGxfaWQYBSABKA0SHAoUZGVwcmVjYXRlZF9wdWJsaWNfaXAYBiAB",
             "KA0SEAoIbWV0YWRhdGEYByABKAwSGgoScGVyc29uYV9uYW1lX293bmVyGAgg",
-            "ASgJEiEKCXB1YmxpY19pcBgJIAEoCzIOLkNNc2dJUEFkZHJlc3MiXgogQ01z",
-            "Z0NsaWVudE1NU0NyZWF0ZUxvYmJ5UmVzcG9uc2USDgoGYXBwX2lkGAEgASgN",
-            "EhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhIKB2VyZXN1bHQYAyABKAU6ATIi",
-            "VgoWQ01zZ0NsaWVudE1NU0pvaW5Mb2JieRIOCgZhcHBfaWQYASABKA0SFgoO",
-            "c3RlYW1faWRfbG9iYnkYAiABKAYSFAoMcGVyc29uYV9uYW1lGAMgASgJIs8C",
-            "Ch5DTXNnQ2xpZW50TU1TSm9pbkxvYmJ5UmVzcG9uc2USDgoGYXBwX2lkGAEg",
-            "ASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEiAKGGNoYXRfcm9vbV9lbnRl",
-            "cl9yZXNwb25zZRgDIAEoBRITCgttYXhfbWVtYmVycxgEIAEoBRISCgpsb2Ji",
-            "eV90eXBlGAUgASgFEhMKC2xvYmJ5X2ZsYWdzGAYgASgFEhYKDnN0ZWFtX2lk",
-            "X293bmVyGAcgASgGEhAKCG1ldGFkYXRhGAggASgMEjcKB21lbWJlcnMYCSAD",
-            "KAsyJi5DTXNnQ2xpZW50TU1TSm9pbkxvYmJ5UmVzcG9uc2UuTWVtYmVyGkIK",
-            "Bk1lbWJlchIQCghzdGVhbV9pZBgBIAEoBhIUCgxwZXJzb25hX25hbWUYAiAB",
-            "KAkSEAoIbWV0YWRhdGEYAyABKAwiQQoXQ01zZ0NsaWVudE1NU0xlYXZlTG9i",
-            "YnkSDgoGYXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGIl0K",
-            "H0NNc2dDbGllbnRNTVNMZWF2ZUxvYmJ5UmVzcG9uc2USDgoGYXBwX2lkGAEg",
-            "ASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhIKB2VyZXN1bHQYAyABKAU6",
-            "ATIioAIKGUNNc2dDbGllbnRNTVNHZXRMb2JieUxpc3QSDgoGYXBwX2lkGAEg",
-            "ASgNEh0KFW51bV9sb2JiaWVzX3JlcXVlc3RlZBgDIAEoBRIPCgdjZWxsX2lk",
-            "GAQgASgNEhwKFGRlcHJlY2F0ZWRfcHVibGljX2lwGAUgASgNEjIKB2ZpbHRl",
-            "cnMYBiADKAsyIS5DTXNnQ2xpZW50TU1TR2V0TG9iYnlMaXN0LkZpbHRlchIh",
-            "CglwdWJsaWNfaXAYByABKAsyDi5DTXNnSVBBZGRyZXNzGk4KBkZpbHRlchIL",
-            "CgNrZXkYASABKAkSDQoFdmFsdWUYAiABKAkSEwoLY29tcGFyaXNpb24YAyAB",
-            "KAUSEwoLZmlsdGVyX3R5cGUYBCABKAUipQIKIUNNc2dDbGllbnRNTVNHZXRM",
-            "b2JieUxpc3RSZXNwb25zZRIOCgZhcHBfaWQYASABKA0SEgoHZXJlc3VsdBgD",
-            "IAEoBToBMhI5Cgdsb2JiaWVzGAQgAygLMiguQ01zZ0NsaWVudE1NU0dldExv",
-            "YmJ5TGlzdFJlc3BvbnNlLkxvYmJ5GqABCgVMb2JieRIQCghzdGVhbV9pZBgB",
-            "IAEoBhITCgttYXhfbWVtYmVycxgCIAEoBRISCgpsb2JieV90eXBlGAMgASgF",
-            "EhMKC2xvYmJ5X2ZsYWdzGAQgASgFEhAKCG1ldGFkYXRhGAUgASgMEhMKC251",
-            "bV9tZW1iZXJzGAYgASgFEhAKCGRpc3RhbmNlGAcgASgCEg4KBndlaWdodBgI",
-            "IAEoAyKsAQoZQ01zZ0NsaWVudE1NU1NldExvYmJ5RGF0YRIOCgZhcHBfaWQY",
-            "ASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSFwoPc3RlYW1faWRfbWVt",
-            "YmVyGAMgASgGEhMKC21heF9tZW1iZXJzGAQgASgFEhIKCmxvYmJ5X3R5cGUY",
-            "BSABKAUSEwoLbG9iYnlfZmxhZ3MYBiABKAUSEAoIbWV0YWRhdGEYByABKAwi",
-            "XwohQ01zZ0NsaWVudE1NU1NldExvYmJ5RGF0YVJlc3BvbnNlEg4KBmFwcF9p",
-            "ZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEoBhISCgdlcmVzdWx0GAMg",
-            "ASgFOgEyIkMKGUNNc2dDbGllbnRNTVNHZXRMb2JieURhdGESDgoGYXBwX2lk",
-            "GAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGIu0CChZDTXNnQ2xpZW50",
-            "TU1TTG9iYnlEYXRhEg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2Ji",
-            "eRgCIAEoBhITCgtudW1fbWVtYmVycxgDIAEoBRITCgttYXhfbWVtYmVycxgE",
-            "IAEoBRISCgpsb2JieV90eXBlGAUgASgFEhMKC2xvYmJ5X2ZsYWdzGAYgASgF",
-            "EhYKDnN0ZWFtX2lkX293bmVyGAcgASgGEhAKCG1ldGFkYXRhGAggASgMEi8K",
-            "B21lbWJlcnMYCSADKAsyHi5DTXNnQ2xpZW50TU1TTG9iYnlEYXRhLk1lbWJl",
-            "chIUCgxsb2JieV9jZWxsaWQYCiABKA0SIwobb3duZXJfc2hvdWxkX2FjY2Vw",
-            "dF9jaGFuZ2VzGAsgASgIGkIKBk1lbWJlchIQCghzdGVhbV9pZBgBIAEoBhIU",
-            "CgxwZXJzb25hX25hbWUYAiABKAkSEAoIbWV0YWRhdGEYAyABKAwidwodQ01z",
-            "Z0NsaWVudE1NU1NlbmRMb2JieUNoYXRNc2cSDgoGYXBwX2lkGAEgASgNEhYK",
-            "DnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhcKD3N0ZWFtX2lkX3RhcmdldBgDIAEo",
-            "BhIVCg1sb2JieV9tZXNzYWdlGAQgASgMInMKGUNNc2dDbGllbnRNTVNMb2Ji",
-            "eUNoYXRNc2cSDgoGYXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIg",
-            "ASgGEhcKD3N0ZWFtX2lkX3NlbmRlchgDIAEoBhIVCg1sb2JieV9tZXNzYWdl",
-            "GAQgASgMImAKGkNNc2dDbGllbnRNTVNTZXRMb2JieU93bmVyEg4KBmFwcF9p",
-            "ZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEoBhIaChJzdGVhbV9pZF9u",
-            "ZXdfb3duZXIYAyABKAYiYAoiQ01zZ0NsaWVudE1NU1NldExvYmJ5T3duZXJS",
-            "ZXNwb25zZRIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiAB",
-            "KAYSEgoHZXJlc3VsdBgDIAEoBToBMiJeChtDTXNnQ2xpZW50TU1TU2V0TG9i",
-            "YnlMaW5rZWQSDgoGYXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIg",
-            "ASgGEhcKD3N0ZWFtX2lkX2xvYmJ5MhgDIAEoBiLMAQofQ01zZ0NsaWVudE1N",
-            "U1NldExvYmJ5R2FtZVNlcnZlchIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1f",
-            "aWRfbG9iYnkYAiABKAYSIQoZZGVwcmVjYXRlZF9nYW1lX3NlcnZlcl9pcBgD",
-            "IAEoDRIYChBnYW1lX3NlcnZlcl9wb3J0GAQgASgNEhwKFGdhbWVfc2VydmVy",
-            "X3N0ZWFtX2lkGAUgASgGEiYKDmdhbWVfc2VydmVyX2lwGAYgASgLMg4uQ01z",
-            "Z0lQQWRkcmVzcyLMAQofQ01zZ0NsaWVudE1NU0xvYmJ5R2FtZVNlcnZlclNl",
-            "dBIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSIQoZ",
-            "ZGVwcmVjYXRlZF9nYW1lX3NlcnZlcl9pcBgDIAEoDRIYChBnYW1lX3NlcnZl",
-            "cl9wb3J0GAQgASgNEhwKFGdhbWVfc2VydmVyX3N0ZWFtX2lkGAUgASgGEiYK",
-            "DmdhbWVfc2VydmVyX2lwGAYgASgLMg4uQ01zZ0lQQWRkcmVzcyJzChxDTXNn",
-            "Q2xpZW50TU1TVXNlckpvaW5lZExvYmJ5Eg4KBmFwcF9pZBgBIAEoDRIWCg5z",
-            "dGVhbV9pZF9sb2JieRgCIAEoBhIVCg1zdGVhbV9pZF91c2VyGAMgASgGEhQK",
-            "DHBlcnNvbmFfbmFtZRgEIAEoCSJxChpDTXNnQ2xpZW50TU1TVXNlckxlZnRM",
-            "b2JieRIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYS",
-            "FQoNc3RlYW1faWRfdXNlchgDIAEoBhIUCgxwZXJzb25hX25hbWUYBCABKAki",
-            "YwoaQ01zZ0NsaWVudE1NU0ludml0ZVRvTG9iYnkSDgoGYXBwX2lkGAEgASgN",
-            "EhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEh0KFXN0ZWFtX2lkX3VzZXJfaW52",
-            "aXRlZBgDIAEoBiJ4ChtDTXNnQ2xpZW50TU1TR2V0TG9iYnlTdGF0dXMSDgoG",
-            "YXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhgKEGNsYWlt",
-            "X21lbWJlcnNoaXAYAyABKAgSFwoPY2xhaW1fb3duZXJzaGlwGAQgASgIIo0B",
-            "CiNDTXNnQ2xpZW50TU1TR2V0TG9iYnlTdGF0dXNSZXNwb25zZRIOCgZhcHBf",
-            "aWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSPgoMbG9iYnlfc3Rh",
-            "dHVzGAMgASgOMhAuRU1NU0xvYmJ5U3RhdHVzOhZFTU1TTG9iYnlTdGF0dXNJ",
-            "bnZhbGlkKogBCg9FTU1TTG9iYnlTdGF0dXMSGgoWRU1NU0xvYmJ5U3RhdHVz",
-            "SW52YWxpZBAAEhkKFUVNTVNMb2JieVN0YXR1c0V4aXN0cxABEh8KG0VNTVNM",
-            "b2JieVN0YXR1c0RvZXNOb3RFeGlzdBACEh0KGUVNTVNMb2JieVN0YXR1c05v",
-            "dEFNZW1iZXIQA0IfSAGAAQCqAhdPcGVuU3RlYW13b3Jrcy5Qcm90b2J1Zg=="));
+            "ASgJEiEKCXB1YmxpY19pcBgJIAEoCzIOLkNNc2dJUEFkZHJlc3MSGwoTbmV0",
+            "d29ycGluZ19sb2NhdGlvbhgKIAEoCSJeCiBDTXNnQ2xpZW50TU1TQ3JlYXRl",
+            "TG9iYnlSZXNwb25zZRIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9i",
+            "YnkYAiABKAYSEgoHZXJlc3VsdBgDIAEoBToBMiKEAQoWQ01zZ0NsaWVudE1N",
+            "U0pvaW5Mb2JieRIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkY",
+            "AiABKAYSFAoMcGVyc29uYV9uYW1lGAMgASgJEhsKE25ldHdvcnBpbmdfbG9j",
+            "YXRpb24YBCABKAkSDwoHY2VsbF9pZBgFIAEoDSLPAgoeQ01zZ0NsaWVudE1N",
+            "U0pvaW5Mb2JieVJlc3BvbnNlEg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9p",
+            "ZF9sb2JieRgCIAEoBhIgChhjaGF0X3Jvb21fZW50ZXJfcmVzcG9uc2UYAyAB",
+            "KAUSEwoLbWF4X21lbWJlcnMYBCABKAUSEgoKbG9iYnlfdHlwZRgFIAEoBRIT",
+            "Cgtsb2JieV9mbGFncxgGIAEoBRIWCg5zdGVhbV9pZF9vd25lchgHIAEoBhIQ",
+            "CghtZXRhZGF0YRgIIAEoDBI3CgdtZW1iZXJzGAkgAygLMiYuQ01zZ0NsaWVu",
+            "dE1NU0pvaW5Mb2JieVJlc3BvbnNlLk1lbWJlchpCCgZNZW1iZXISEAoIc3Rl",
+            "YW1faWQYASABKAYSFAoMcGVyc29uYV9uYW1lGAIgASgJEhAKCG1ldGFkYXRh",
+            "GAMgASgMIkEKF0NNc2dDbGllbnRNTVNMZWF2ZUxvYmJ5Eg4KBmFwcF9pZBgB",
+            "IAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEoBiJdCh9DTXNnQ2xpZW50TU1T",
+            "TGVhdmVMb2JieVJlc3BvbnNlEg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9p",
+            "ZF9sb2JieRgCIAEoBhISCgdlcmVzdWx0GAMgASgFOgEyIr0CChlDTXNnQ2xp",
+            "ZW50TU1TR2V0TG9iYnlMaXN0Eg4KBmFwcF9pZBgBIAEoDRIdChVudW1fbG9i",
+            "Ymllc19yZXF1ZXN0ZWQYAyABKAUSDwoHY2VsbF9pZBgEIAEoDRIcChRkZXBy",
+            "ZWNhdGVkX3B1YmxpY19pcBgFIAEoDRIyCgdmaWx0ZXJzGAYgAygLMiEuQ01z",
+            "Z0NsaWVudE1NU0dldExvYmJ5TGlzdC5GaWx0ZXISIQoJcHVibGljX2lwGAcg",
+            "ASgLMg4uQ01zZ0lQQWRkcmVzcxIbChNuZXR3b3JwaW5nX2xvY2F0aW9uGAgg",
+            "ASgJGk4KBkZpbHRlchILCgNrZXkYASABKAkSDQoFdmFsdWUYAiABKAkSEwoL",
+            "Y29tcGFyaXNpb24YAyABKAUSEwoLZmlsdGVyX3R5cGUYBCABKAUipQIKIUNN",
+            "c2dDbGllbnRNTVNHZXRMb2JieUxpc3RSZXNwb25zZRIOCgZhcHBfaWQYASAB",
+            "KA0SEgoHZXJlc3VsdBgDIAEoBToBMhI5Cgdsb2JiaWVzGAQgAygLMiguQ01z",
+            "Z0NsaWVudE1NU0dldExvYmJ5TGlzdFJlc3BvbnNlLkxvYmJ5GqABCgVMb2Ji",
+            "eRIQCghzdGVhbV9pZBgBIAEoBhITCgttYXhfbWVtYmVycxgCIAEoBRISCgps",
+            "b2JieV90eXBlGAMgASgFEhMKC2xvYmJ5X2ZsYWdzGAQgASgFEhAKCG1ldGFk",
+            "YXRhGAUgASgMEhMKC251bV9tZW1iZXJzGAYgASgFEhAKCGRpc3RhbmNlGAcg",
+            "ASgCEg4KBndlaWdodBgIIAEoAyLJAQoZQ01zZ0NsaWVudE1NU1NldExvYmJ5",
+            "RGF0YRIOCgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYS",
+            "FwoPc3RlYW1faWRfbWVtYmVyGAMgASgGEhMKC21heF9tZW1iZXJzGAQgASgF",
+            "EhIKCmxvYmJ5X3R5cGUYBSABKAUSEwoLbG9iYnlfZmxhZ3MYBiABKAUSEAoI",
+            "bWV0YWRhdGEYByABKAwSGwoTbmV0d29ycGluZ19sb2NhdGlvbhgIIAEoCSJf",
+            "CiFDTXNnQ2xpZW50TU1TU2V0TG9iYnlEYXRhUmVzcG9uc2USDgoGYXBwX2lk",
+            "GAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhIKB2VyZXN1bHQYAyAB",
+            "KAU6ATIiQwoZQ01zZ0NsaWVudE1NU0dldExvYmJ5RGF0YRIOCgZhcHBfaWQY",
+            "ASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYigAMKFkNNc2dDbGllbnRN",
+            "TVNMb2JieURhdGESDgoGYXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5",
+            "GAIgASgGEhMKC251bV9tZW1iZXJzGAMgASgFEhMKC21heF9tZW1iZXJzGAQg",
+            "ASgFEhIKCmxvYmJ5X3R5cGUYBSABKAUSEwoLbG9iYnlfZmxhZ3MYBiABKAUS",
+            "FgoOc3RlYW1faWRfb3duZXIYByABKAYSEAoIbWV0YWRhdGEYCCABKAwSLwoH",
+            "bWVtYmVycxgJIAMoCzIeLkNNc2dDbGllbnRNTVNMb2JieURhdGEuTWVtYmVy",
+            "EhQKDGxvYmJ5X2NlbGxpZBgKIAEoDRIjChtvd25lcl9zaG91bGRfYWNjZXB0",
+            "X2NoYW5nZXMYCyABKAgaVQoGTWVtYmVyEhAKCHN0ZWFtX2lkGAEgASgGEhQK",
+            "DHBlcnNvbmFfbmFtZRgCIAEoCRIQCghtZXRhZGF0YRgDIAEoDBIRCglwaW5n",
+            "X2RhdGEYBCABKAkidwodQ01zZ0NsaWVudE1NU1NlbmRMb2JieUNoYXRNc2cS",
+            "DgoGYXBwX2lkGAEgASgNEhYKDnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhcKD3N0",
+            "ZWFtX2lkX3RhcmdldBgDIAEoBhIVCg1sb2JieV9tZXNzYWdlGAQgASgMInMK",
+            "GUNNc2dDbGllbnRNTVNMb2JieUNoYXRNc2cSDgoGYXBwX2lkGAEgASgNEhYK",
+            "DnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhcKD3N0ZWFtX2lkX3NlbmRlchgDIAEo",
+            "BhIVCg1sb2JieV9tZXNzYWdlGAQgASgMImAKGkNNc2dDbGllbnRNTVNTZXRM",
+            "b2JieU93bmVyEg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgC",
+            "IAEoBhIaChJzdGVhbV9pZF9uZXdfb3duZXIYAyABKAYiYAoiQ01zZ0NsaWVu",
+            "dE1NU1NldExvYmJ5T3duZXJSZXNwb25zZRIOCgZhcHBfaWQYASABKA0SFgoO",
+            "c3RlYW1faWRfbG9iYnkYAiABKAYSEgoHZXJlc3VsdBgDIAEoBToBMiJeChtD",
+            "TXNnQ2xpZW50TU1TU2V0TG9iYnlMaW5rZWQSDgoGYXBwX2lkGAEgASgNEhYK",
+            "DnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhcKD3N0ZWFtX2lkX2xvYmJ5MhgDIAEo",
+            "BiLpAQofQ01zZ0NsaWVudE1NU1NldExvYmJ5R2FtZVNlcnZlchIOCgZhcHBf",
+            "aWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSIQoZZGVwcmVjYXRl",
+            "ZF9nYW1lX3NlcnZlcl9pcBgDIAEoDRIYChBnYW1lX3NlcnZlcl9wb3J0GAQg",
+            "ASgNEhwKFGdhbWVfc2VydmVyX3N0ZWFtX2lkGAUgASgGEiYKDmdhbWVfc2Vy",
+            "dmVyX2lwGAYgASgLMg4uQ01zZ0lQQWRkcmVzcxIbChNuZXR3b3JwaW5nX2xv",
+            "Y2F0aW9uGAcgASgJIswBCh9DTXNnQ2xpZW50TU1TTG9iYnlHYW1lU2VydmVy",
+            "U2V0Eg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEoBhIh",
+            "ChlkZXByZWNhdGVkX2dhbWVfc2VydmVyX2lwGAMgASgNEhgKEGdhbWVfc2Vy",
+            "dmVyX3BvcnQYBCABKA0SHAoUZ2FtZV9zZXJ2ZXJfc3RlYW1faWQYBSABKAYS",
+            "JgoOZ2FtZV9zZXJ2ZXJfaXAYBiABKAsyDi5DTXNnSVBBZGRyZXNzInMKHENN",
+            "c2dDbGllbnRNTVNVc2VySm9pbmVkTG9iYnkSDgoGYXBwX2lkGAEgASgNEhYK",
+            "DnN0ZWFtX2lkX2xvYmJ5GAIgASgGEhUKDXN0ZWFtX2lkX3VzZXIYAyABKAYS",
+            "FAoMcGVyc29uYV9uYW1lGAQgASgJInEKGkNNc2dDbGllbnRNTVNVc2VyTGVm",
+            "dExvYmJ5Eg4KBmFwcF9pZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEo",
+            "BhIVCg1zdGVhbV9pZF91c2VyGAMgASgGEhQKDHBlcnNvbmFfbmFtZRgEIAEo",
+            "CSJjChpDTXNnQ2xpZW50TU1TSW52aXRlVG9Mb2JieRIOCgZhcHBfaWQYASAB",
+            "KA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSHQoVc3RlYW1faWRfdXNlcl9p",
+            "bnZpdGVkGAMgASgGIngKG0NNc2dDbGllbnRNTVNHZXRMb2JieVN0YXR1cxIO",
+            "CgZhcHBfaWQYASABKA0SFgoOc3RlYW1faWRfbG9iYnkYAiABKAYSGAoQY2xh",
+            "aW1fbWVtYmVyc2hpcBgDIAEoCBIXCg9jbGFpbV9vd25lcnNoaXAYBCABKAgi",
+            "jQEKI0NNc2dDbGllbnRNTVNHZXRMb2JieVN0YXR1c1Jlc3BvbnNlEg4KBmFw",
+            "cF9pZBgBIAEoDRIWCg5zdGVhbV9pZF9sb2JieRgCIAEoBhI+Cgxsb2JieV9z",
+            "dGF0dXMYAyABKA4yEC5FTU1TTG9iYnlTdGF0dXM6FkVNTVNMb2JieVN0YXR1",
+            "c0ludmFsaWQqiAEKD0VNTVNMb2JieVN0YXR1cxIaChZFTU1TTG9iYnlTdGF0",
+            "dXNJbnZhbGlkEAASGQoVRU1NU0xvYmJ5U3RhdHVzRXhpc3RzEAESHwobRU1N",
+            "U0xvYmJ5U3RhdHVzRG9lc05vdEV4aXN0EAISHQoZRU1NU0xvYmJ5U3RhdHVz",
+            "Tm90QU1lbWJlchADQh9IAYABAKoCF09wZW5TdGVhbXdvcmtzLlByb3RvYnVm"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::Google.Protobuf.Reflection.DescriptorReflection.Descriptor, global::OpenSteamworks.Protobuf.SteammessagesBaseReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(new[] {typeof(global::OpenSteamworks.Protobuf.EMMSLobbyStatus), }, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetRatelimitPolicyOnClient), global::OpenSteamworks.Protobuf.CMsgClientMMSSetRatelimitPolicyOnClient.Parser, new[]{ "AppId", "EnableRateLimits", "SecondsPerMessage", "MillisecondsPerDataUpdate" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobby.Parser, new[]{ "AppId", "MaxMembers", "LobbyType", "LobbyFlags", "CellId", "DeprecatedPublicIp", "Metadata", "PersonaNameOwner", "PublicIp" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobby.Parser, new[]{ "AppId", "MaxMembers", "LobbyType", "LobbyFlags", "CellId", "DeprecatedPublicIp", "Metadata", "PersonaNameOwner", "PublicIp", "NetworpingLocation" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobbyResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSCreateLobbyResponse.Parser, new[]{ "AppId", "SteamIdLobby", "Eresult" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobby.Parser, new[]{ "AppId", "SteamIdLobby", "PersonaName" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobby.Parser, new[]{ "AppId", "SteamIdLobby", "PersonaName", "NetworpingLocation", "CellId" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobbyResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobbyResponse.Parser, new[]{ "AppId", "SteamIdLobby", "ChatRoomEnterResponse", "MaxMembers", "LobbyType", "LobbyFlags", "SteamIdOwner", "Metadata", "Members" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobbyResponse.Types.Member), global::OpenSteamworks.Protobuf.CMsgClientMMSJoinLobbyResponse.Types.Member.Parser, new[]{ "SteamId", "PersonaName", "Metadata" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLeaveLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSLeaveLobby.Parser, new[]{ "AppId", "SteamIdLobby" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLeaveLobbyResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSLeaveLobbyResponse.Parser, new[]{ "AppId", "SteamIdLobby", "Eresult" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Parser, new[]{ "AppId", "NumLobbiesRequested", "CellId", "DeprecatedPublicIp", "Filters", "PublicIp" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Types.Filter), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Types.Filter.Parser, new[]{ "Key", "Value", "Comparision", "FilterType" }, null, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Parser, new[]{ "AppId", "NumLobbiesRequested", "CellId", "DeprecatedPublicIp", "Filters", "PublicIp", "NetworpingLocation" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Types.Filter), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyList.Types.Filter.Parser, new[]{ "Key", "Value", "Comparision", "FilterType" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyListResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyListResponse.Parser, new[]{ "AppId", "Eresult", "Lobbies" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyListResponse.Types.Lobby), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyListResponse.Types.Lobby.Parser, new[]{ "SteamId", "MaxMembers", "LobbyType", "LobbyFlags", "Metadata", "NumMembers", "Distance", "Weight" }, null, null, null, null)}),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyData), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyData.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdMember", "MaxMembers", "LobbyType", "LobbyFlags", "Metadata" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyData), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyData.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdMember", "MaxMembers", "LobbyType", "LobbyFlags", "Metadata", "NetworpingLocation" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyDataResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyDataResponse.Parser, new[]{ "AppId", "SteamIdLobby", "Eresult" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyData), global::OpenSteamworks.Protobuf.CMsgClientMMSGetLobbyData.Parser, new[]{ "AppId", "SteamIdLobby" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Parser, new[]{ "AppId", "SteamIdLobby", "NumMembers", "MaxMembers", "LobbyType", "LobbyFlags", "SteamIdOwner", "Metadata", "Members", "LobbyCellid", "OwnerShouldAcceptChanges" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Types.Member), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Types.Member.Parser, new[]{ "SteamId", "PersonaName", "Metadata" }, null, null, null, null)}),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Parser, new[]{ "AppId", "SteamIdLobby", "NumMembers", "MaxMembers", "LobbyType", "LobbyFlags", "SteamIdOwner", "Metadata", "Members", "LobbyCellid", "OwnerShouldAcceptChanges" }, null, null, null, new pbr::GeneratedClrTypeInfo[] { new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Types.Member), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyData.Types.Member.Parser, new[]{ "SteamId", "PersonaName", "Metadata", "PingData" }, null, null, null, null)}),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSendLobbyChatMsg), global::OpenSteamworks.Protobuf.CMsgClientMMSSendLobbyChatMsg.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdTarget", "LobbyMessage" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyChatMsg), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyChatMsg.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdSender", "LobbyMessage" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyOwner), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyOwner.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdNewOwner" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyOwnerResponse), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyOwnerResponse.Parser, new[]{ "AppId", "SteamIdLobby", "Eresult" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyLinked), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyLinked.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdLobby2" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyGameServer), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyGameServer.Parser, new[]{ "AppId", "SteamIdLobby", "DeprecatedGameServerIp", "GameServerPort", "GameServerSteamId", "GameServerIp" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyGameServer), global::OpenSteamworks.Protobuf.CMsgClientMMSSetLobbyGameServer.Parser, new[]{ "AppId", "SteamIdLobby", "DeprecatedGameServerIp", "GameServerPort", "GameServerSteamId", "GameServerIp", "NetworpingLocation" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyGameServerSet), global::OpenSteamworks.Protobuf.CMsgClientMMSLobbyGameServerSet.Parser, new[]{ "AppId", "SteamIdLobby", "DeprecatedGameServerIp", "GameServerPort", "GameServerSteamId", "GameServerIp" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSUserJoinedLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSUserJoinedLobby.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdUser", "PersonaName" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::OpenSteamworks.Protobuf.CMsgClientMMSUserLeftLobby), global::OpenSteamworks.Protobuf.CMsgClientMMSUserLeftLobby.Parser, new[]{ "AppId", "SteamIdLobby", "SteamIdUser", "PersonaName" }, null, null, null, null),
@@ -570,6 +574,7 @@ namespace OpenSteamworks.Protobuf {
       metadata_ = other.metadata_;
       personaNameOwner_ = other.personaNameOwner_;
       publicIp_ = other.publicIp_ != null ? other.publicIp_.Clone() : null;
+      networpingLocation_ = other.networpingLocation_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -805,6 +810,32 @@ namespace OpenSteamworks.Protobuf {
       }
     }
 
+    /// <summary>Field number for the "networping_location" field.</summary>
+    public const int NetworpingLocationFieldNumber = 10;
+    private readonly static string NetworpingLocationDefaultValue = "";
+
+    private string networpingLocation_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string NetworpingLocation {
+      get { return networpingLocation_ ?? NetworpingLocationDefaultValue; }
+      set {
+        networpingLocation_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "networping_location" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasNetworpingLocation {
+      get { return networpingLocation_ != null; }
+    }
+    /// <summary>Clears the value of the "networping_location" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearNetworpingLocation() {
+      networpingLocation_ = null;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -829,6 +860,7 @@ namespace OpenSteamworks.Protobuf {
       if (Metadata != other.Metadata) return false;
       if (PersonaNameOwner != other.PersonaNameOwner) return false;
       if (!object.Equals(PublicIp, other.PublicIp)) return false;
+      if (NetworpingLocation != other.NetworpingLocation) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -845,6 +877,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasMetadata) hash ^= Metadata.GetHashCode();
       if (HasPersonaNameOwner) hash ^= PersonaNameOwner.GetHashCode();
       if (publicIp_ != null) hash ^= PublicIp.GetHashCode();
+      if (HasNetworpingLocation) hash ^= NetworpingLocation.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -899,6 +932,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(74);
         output.WriteMessage(PublicIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(82);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -945,6 +982,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(74);
         output.WriteMessage(PublicIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(82);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -981,6 +1022,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (publicIp_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(PublicIp);
+      }
+      if (HasNetworpingLocation) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(NetworpingLocation);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -1023,6 +1067,9 @@ namespace OpenSteamworks.Protobuf {
           PublicIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
         }
         PublicIp.MergeFrom(other.PublicIp);
+      }
+      if (other.HasNetworpingLocation) {
+        NetworpingLocation = other.NetworpingLocation;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1078,6 +1125,10 @@ namespace OpenSteamworks.Protobuf {
             input.ReadMessage(PublicIp);
             break;
           }
+          case 82: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
         }
       }
     #endif
@@ -1130,6 +1181,10 @@ namespace OpenSteamworks.Protobuf {
               PublicIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
             }
             input.ReadMessage(PublicIp);
+            break;
+          }
+          case 82: {
+            NetworpingLocation = input.ReadString();
             break;
           }
         }
@@ -1490,6 +1545,8 @@ namespace OpenSteamworks.Protobuf {
       appId_ = other.appId_;
       steamIdLobby_ = other.steamIdLobby_;
       personaName_ = other.personaName_;
+      networpingLocation_ = other.networpingLocation_;
+      cellId_ = other.cellId_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -1579,6 +1636,59 @@ namespace OpenSteamworks.Protobuf {
       personaName_ = null;
     }
 
+    /// <summary>Field number for the "networping_location" field.</summary>
+    public const int NetworpingLocationFieldNumber = 4;
+    private readonly static string NetworpingLocationDefaultValue = "";
+
+    private string networpingLocation_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string NetworpingLocation {
+      get { return networpingLocation_ ?? NetworpingLocationDefaultValue; }
+      set {
+        networpingLocation_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "networping_location" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasNetworpingLocation {
+      get { return networpingLocation_ != null; }
+    }
+    /// <summary>Clears the value of the "networping_location" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearNetworpingLocation() {
+      networpingLocation_ = null;
+    }
+
+    /// <summary>Field number for the "cell_id" field.</summary>
+    public const int CellIdFieldNumber = 5;
+    private readonly static uint CellIdDefaultValue = 0;
+
+    private uint cellId_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public uint CellId {
+      get { if ((_hasBits0 & 4) != 0) { return cellId_; } else { return CellIdDefaultValue; } }
+      set {
+        _hasBits0 |= 4;
+        cellId_ = value;
+      }
+    }
+    /// <summary>Gets whether the "cell_id" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasCellId {
+      get { return (_hasBits0 & 4) != 0; }
+    }
+    /// <summary>Clears the value of the "cell_id" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearCellId() {
+      _hasBits0 &= ~4;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -1597,6 +1707,8 @@ namespace OpenSteamworks.Protobuf {
       if (AppId != other.AppId) return false;
       if (SteamIdLobby != other.SteamIdLobby) return false;
       if (PersonaName != other.PersonaName) return false;
+      if (NetworpingLocation != other.NetworpingLocation) return false;
+      if (CellId != other.CellId) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -1607,6 +1719,8 @@ namespace OpenSteamworks.Protobuf {
       if (HasAppId) hash ^= AppId.GetHashCode();
       if (HasSteamIdLobby) hash ^= SteamIdLobby.GetHashCode();
       if (HasPersonaName) hash ^= PersonaName.GetHashCode();
+      if (HasNetworpingLocation) hash ^= NetworpingLocation.GetHashCode();
+      if (HasCellId) hash ^= CellId.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -1637,6 +1751,14 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(26);
         output.WriteString(PersonaName);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(34);
+        output.WriteString(NetworpingLocation);
+      }
+      if (HasCellId) {
+        output.WriteRawTag(40);
+        output.WriteUInt32(CellId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -1659,6 +1781,14 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(26);
         output.WriteString(PersonaName);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(34);
+        output.WriteString(NetworpingLocation);
+      }
+      if (HasCellId) {
+        output.WriteRawTag(40);
+        output.WriteUInt32(CellId);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -1677,6 +1807,12 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasPersonaName) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(PersonaName);
+      }
+      if (HasNetworpingLocation) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(NetworpingLocation);
+      }
+      if (HasCellId) {
+        size += 1 + pb::CodedOutputStream.ComputeUInt32Size(CellId);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -1698,6 +1834,12 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasPersonaName) {
         PersonaName = other.PersonaName;
+      }
+      if (other.HasNetworpingLocation) {
+        NetworpingLocation = other.NetworpingLocation;
+      }
+      if (other.HasCellId) {
+        CellId = other.CellId;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -1726,6 +1868,14 @@ namespace OpenSteamworks.Protobuf {
             PersonaName = input.ReadString();
             break;
           }
+          case 34: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
+          case 40: {
+            CellId = input.ReadUInt32();
+            break;
+          }
         }
       }
     #endif
@@ -1751,6 +1901,14 @@ namespace OpenSteamworks.Protobuf {
           }
           case 26: {
             PersonaName = input.ReadString();
+            break;
+          }
+          case 34: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
+          case 40: {
+            CellId = input.ReadUInt32();
             break;
           }
         }
@@ -3286,6 +3444,7 @@ namespace OpenSteamworks.Protobuf {
       deprecatedPublicIp_ = other.deprecatedPublicIp_;
       filters_ = other.filters_.Clone();
       publicIp_ = other.publicIp_ != null ? other.publicIp_.Clone() : null;
+      networpingLocation_ = other.networpingLocation_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3426,6 +3585,32 @@ namespace OpenSteamworks.Protobuf {
       }
     }
 
+    /// <summary>Field number for the "networping_location" field.</summary>
+    public const int NetworpingLocationFieldNumber = 8;
+    private readonly static string NetworpingLocationDefaultValue = "";
+
+    private string networpingLocation_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string NetworpingLocation {
+      get { return networpingLocation_ ?? NetworpingLocationDefaultValue; }
+      set {
+        networpingLocation_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "networping_location" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasNetworpingLocation {
+      get { return networpingLocation_ != null; }
+    }
+    /// <summary>Clears the value of the "networping_location" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearNetworpingLocation() {
+      networpingLocation_ = null;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3447,6 +3632,7 @@ namespace OpenSteamworks.Protobuf {
       if (DeprecatedPublicIp != other.DeprecatedPublicIp) return false;
       if(!filters_.Equals(other.filters_)) return false;
       if (!object.Equals(PublicIp, other.PublicIp)) return false;
+      if (NetworpingLocation != other.NetworpingLocation) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3460,6 +3646,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasDeprecatedPublicIp) hash ^= DeprecatedPublicIp.GetHashCode();
       hash ^= filters_.GetHashCode();
       if (publicIp_ != null) hash ^= PublicIp.GetHashCode();
+      if (HasNetworpingLocation) hash ^= NetworpingLocation.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3499,6 +3686,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(58);
         output.WriteMessage(PublicIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(66);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3530,6 +3721,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(58);
         output.WriteMessage(PublicIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(66);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3555,6 +3750,9 @@ namespace OpenSteamworks.Protobuf {
       size += filters_.CalculateSize(_repeated_filters_codec);
       if (publicIp_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(PublicIp);
+      }
+      if (HasNetworpingLocation) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(NetworpingLocation);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -3586,6 +3784,9 @@ namespace OpenSteamworks.Protobuf {
           PublicIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
         }
         PublicIp.MergeFrom(other.PublicIp);
+      }
+      if (other.HasNetworpingLocation) {
+        NetworpingLocation = other.NetworpingLocation;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -3629,6 +3830,10 @@ namespace OpenSteamworks.Protobuf {
             input.ReadMessage(PublicIp);
             break;
           }
+          case 66: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
         }
       }
     #endif
@@ -3669,6 +3874,10 @@ namespace OpenSteamworks.Protobuf {
               PublicIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
             }
             input.ReadMessage(PublicIp);
+            break;
+          }
+          case 66: {
+            NetworpingLocation = input.ReadString();
             break;
           }
         }
@@ -4954,6 +5163,7 @@ namespace OpenSteamworks.Protobuf {
       lobbyType_ = other.lobbyType_;
       lobbyFlags_ = other.lobbyFlags_;
       metadata_ = other.metadata_;
+      networpingLocation_ = other.networpingLocation_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -5151,6 +5361,32 @@ namespace OpenSteamworks.Protobuf {
       metadata_ = null;
     }
 
+    /// <summary>Field number for the "networping_location" field.</summary>
+    public const int NetworpingLocationFieldNumber = 8;
+    private readonly static string NetworpingLocationDefaultValue = "";
+
+    private string networpingLocation_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string NetworpingLocation {
+      get { return networpingLocation_ ?? NetworpingLocationDefaultValue; }
+      set {
+        networpingLocation_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "networping_location" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasNetworpingLocation {
+      get { return networpingLocation_ != null; }
+    }
+    /// <summary>Clears the value of the "networping_location" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearNetworpingLocation() {
+      networpingLocation_ = null;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -5173,6 +5409,7 @@ namespace OpenSteamworks.Protobuf {
       if (LobbyType != other.LobbyType) return false;
       if (LobbyFlags != other.LobbyFlags) return false;
       if (Metadata != other.Metadata) return false;
+      if (NetworpingLocation != other.NetworpingLocation) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -5187,6 +5424,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasLobbyType) hash ^= LobbyType.GetHashCode();
       if (HasLobbyFlags) hash ^= LobbyFlags.GetHashCode();
       if (HasMetadata) hash ^= Metadata.GetHashCode();
+      if (HasNetworpingLocation) hash ^= NetworpingLocation.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -5233,6 +5471,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(58);
         output.WriteBytes(Metadata);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(66);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -5271,6 +5513,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(58);
         output.WriteBytes(Metadata);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(66);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -5301,6 +5547,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (HasMetadata) {
         size += 1 + pb::CodedOutputStream.ComputeBytesSize(Metadata);
+      }
+      if (HasNetworpingLocation) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(NetworpingLocation);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -5334,6 +5583,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (other.HasMetadata) {
         Metadata = other.Metadata;
+      }
+      if (other.HasNetworpingLocation) {
+        NetworpingLocation = other.NetworpingLocation;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -5378,6 +5630,10 @@ namespace OpenSteamworks.Protobuf {
             Metadata = input.ReadBytes();
             break;
           }
+          case 66: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
         }
       }
     #endif
@@ -5419,6 +5675,10 @@ namespace OpenSteamworks.Protobuf {
           }
           case 58: {
             Metadata = input.ReadBytes();
+            break;
+          }
+          case 66: {
+            NetworpingLocation = input.ReadString();
             break;
           }
         }
@@ -6741,6 +7001,7 @@ namespace OpenSteamworks.Protobuf {
           steamId_ = other.steamId_;
           personaName_ = other.personaName_;
           metadata_ = other.metadata_;
+          pingData_ = other.pingData_;
           _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
         }
 
@@ -6829,6 +7090,32 @@ namespace OpenSteamworks.Protobuf {
           metadata_ = null;
         }
 
+        /// <summary>Field number for the "ping_data" field.</summary>
+        public const int PingDataFieldNumber = 4;
+        private readonly static string PingDataDefaultValue = "";
+
+        private string pingData_;
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public string PingData {
+          get { return pingData_ ?? PingDataDefaultValue; }
+          set {
+            pingData_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+          }
+        }
+        /// <summary>Gets whether the "ping_data" field is set</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public bool HasPingData {
+          get { return pingData_ != null; }
+        }
+        /// <summary>Clears the value of the "ping_data" field</summary>
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+        [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+        public void ClearPingData() {
+          pingData_ = null;
+        }
+
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
         [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
         public override bool Equals(object other) {
@@ -6847,6 +7134,7 @@ namespace OpenSteamworks.Protobuf {
           if (SteamId != other.SteamId) return false;
           if (PersonaName != other.PersonaName) return false;
           if (Metadata != other.Metadata) return false;
+          if (PingData != other.PingData) return false;
           return Equals(_unknownFields, other._unknownFields);
         }
 
@@ -6857,6 +7145,7 @@ namespace OpenSteamworks.Protobuf {
           if (HasSteamId) hash ^= SteamId.GetHashCode();
           if (HasPersonaName) hash ^= PersonaName.GetHashCode();
           if (HasMetadata) hash ^= Metadata.GetHashCode();
+          if (HasPingData) hash ^= PingData.GetHashCode();
           if (_unknownFields != null) {
             hash ^= _unknownFields.GetHashCode();
           }
@@ -6887,6 +7176,10 @@ namespace OpenSteamworks.Protobuf {
             output.WriteRawTag(26);
             output.WriteBytes(Metadata);
           }
+          if (HasPingData) {
+            output.WriteRawTag(34);
+            output.WriteString(PingData);
+          }
           if (_unknownFields != null) {
             _unknownFields.WriteTo(output);
           }
@@ -6909,6 +7202,10 @@ namespace OpenSteamworks.Protobuf {
             output.WriteRawTag(26);
             output.WriteBytes(Metadata);
           }
+          if (HasPingData) {
+            output.WriteRawTag(34);
+            output.WriteString(PingData);
+          }
           if (_unknownFields != null) {
             _unknownFields.WriteTo(ref output);
           }
@@ -6927,6 +7224,9 @@ namespace OpenSteamworks.Protobuf {
           }
           if (HasMetadata) {
             size += 1 + pb::CodedOutputStream.ComputeBytesSize(Metadata);
+          }
+          if (HasPingData) {
+            size += 1 + pb::CodedOutputStream.ComputeStringSize(PingData);
           }
           if (_unknownFields != null) {
             size += _unknownFields.CalculateSize();
@@ -6948,6 +7248,9 @@ namespace OpenSteamworks.Protobuf {
           }
           if (other.HasMetadata) {
             Metadata = other.Metadata;
+          }
+          if (other.HasPingData) {
+            PingData = other.PingData;
           }
           _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
         }
@@ -6976,6 +7279,10 @@ namespace OpenSteamworks.Protobuf {
                 Metadata = input.ReadBytes();
                 break;
               }
+              case 34: {
+                PingData = input.ReadString();
+                break;
+              }
             }
           }
         #endif
@@ -7001,6 +7308,10 @@ namespace OpenSteamworks.Protobuf {
               }
               case 26: {
                 Metadata = input.ReadBytes();
+                break;
+              }
+              case 34: {
+                PingData = input.ReadString();
                 break;
               }
             }
@@ -8715,6 +9026,7 @@ namespace OpenSteamworks.Protobuf {
       gameServerPort_ = other.gameServerPort_;
       gameServerSteamId_ = other.gameServerSteamId_;
       gameServerIp_ = other.gameServerIp_ != null ? other.gameServerIp_.Clone() : null;
+      networpingLocation_ = other.networpingLocation_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -8871,6 +9183,32 @@ namespace OpenSteamworks.Protobuf {
       }
     }
 
+    /// <summary>Field number for the "networping_location" field.</summary>
+    public const int NetworpingLocationFieldNumber = 7;
+    private readonly static string NetworpingLocationDefaultValue = "";
+
+    private string networpingLocation_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string NetworpingLocation {
+      get { return networpingLocation_ ?? NetworpingLocationDefaultValue; }
+      set {
+        networpingLocation_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+    /// <summary>Gets whether the "networping_location" field is set</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool HasNetworpingLocation {
+      get { return networpingLocation_ != null; }
+    }
+    /// <summary>Clears the value of the "networping_location" field</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void ClearNetworpingLocation() {
+      networpingLocation_ = null;
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -8892,6 +9230,7 @@ namespace OpenSteamworks.Protobuf {
       if (GameServerPort != other.GameServerPort) return false;
       if (GameServerSteamId != other.GameServerSteamId) return false;
       if (!object.Equals(GameServerIp, other.GameServerIp)) return false;
+      if (NetworpingLocation != other.NetworpingLocation) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -8905,6 +9244,7 @@ namespace OpenSteamworks.Protobuf {
       if (HasGameServerPort) hash ^= GameServerPort.GetHashCode();
       if (HasGameServerSteamId) hash ^= GameServerSteamId.GetHashCode();
       if (gameServerIp_ != null) hash ^= GameServerIp.GetHashCode();
+      if (HasNetworpingLocation) hash ^= NetworpingLocation.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -8947,6 +9287,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteMessage(GameServerIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(58);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -8981,6 +9325,10 @@ namespace OpenSteamworks.Protobuf {
         output.WriteRawTag(50);
         output.WriteMessage(GameServerIp);
       }
+      if (HasNetworpingLocation) {
+        output.WriteRawTag(58);
+        output.WriteString(NetworpingLocation);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -9008,6 +9356,9 @@ namespace OpenSteamworks.Protobuf {
       }
       if (gameServerIp_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(GameServerIp);
+      }
+      if (HasNetworpingLocation) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(NetworpingLocation);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -9041,6 +9392,9 @@ namespace OpenSteamworks.Protobuf {
           GameServerIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
         }
         GameServerIp.MergeFrom(other.GameServerIp);
+      }
+      if (other.HasNetworpingLocation) {
+        NetworpingLocation = other.NetworpingLocation;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -9084,6 +9438,10 @@ namespace OpenSteamworks.Protobuf {
             input.ReadMessage(GameServerIp);
             break;
           }
+          case 58: {
+            NetworpingLocation = input.ReadString();
+            break;
+          }
         }
       }
     #endif
@@ -9124,6 +9482,10 @@ namespace OpenSteamworks.Protobuf {
               GameServerIp = new global::OpenSteamworks.Protobuf.CMsgIPAddress();
             }
             input.ReadMessage(GameServerIp);
+            break;
+          }
+          case 58: {
+            NetworpingLocation = input.ReadString();
             break;
           }
         }
